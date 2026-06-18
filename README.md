@@ -37,13 +37,15 @@ https://creativecommons.org/licenses/by/4.0/deed.tr
 
 ## Sesli Kitap
 
-`sesli_kitap/` klasöründe romanın sesli kitap haline getirilmesi için gerekli dosyalar var:
+`sesli_kitap/` klasöründe romanın **sesli kitap** haline getirilmesi için hazır paket var.
 
-- Her bölümün temiz metin hali
-- `generate_audiobook.py` → Ücretsiz, yüksek kaliteli Türkçe ses ile MP3 üreten script (edge-tts)
-- Detaylı kullanım talimatı `sesli_kitap/README.md` içinde
+### Windows'ta En Kolay Kullanım:
+1. `sesli_kitap` klasörüne girin.
+2. `run_audiobook.bat` dosyasına **çift tıklayın**.
 
-Kurulum ve kullanım için `sesli_kitap/README.md` dosyasına bak.
+Script otomatik olarak gerekli paketleri kuracak ve her bölüm için MP3 üretecektir.
+
+Detaylı talimatlar için `sesli_kitap/README.md` dosyasına bakın.
 
 Başlangıç: 2026
 Yazar: Emre Ozudogru
