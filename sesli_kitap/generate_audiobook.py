@@ -1,52 +1,62 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
-Pasifik’in Altındaki Mühür - Sesli Kitap Üretici
+Pasifik’in Altındaki Mühür - Sesli Kitap Üretici (Windows Uyumlu)
+
 Yüksek kaliteli Türkçe ses için edge-tts kullanır (ücretsiz, doğal ses).
 
-Kurulum:
-    pip install -r requirements.txt
+Windows'ta çalıştırmak için:
+1. Python kurulu olmalı (https://www.python.org/downloads/)
+2. Bu klasöre girip run_audiobook.bat dosyasına çift tıkla
 
-Kullanım:
+Veya komut satırından:
     python generate_audiobook.py
-
-Önerilen Türkçe sesler:
-- tr-TR-EmelNeural (kadın, çok doğal)
-- tr-TR-AhmetNeural (erkek)
-
-Tüm bölümleri ayrı MP3 olarak üretir ve bir playlist oluşturur.
 """
 
 import asyncio
-import os
-import subprocess
+import sys
 from pathlib import Path
 
 try:
     import edge_tts
 except ImportError:
-    print("edge-tts kurulu değil. 'pip install edge-tts' çalıştırın.")
-    exit(1)
+    print("Hata: edge-tts kurulu değil!")
+    print("Lütfen şu komutu çalıştırın:")
+    print("    pip install edge-tts")
+    input("Devam etmek için Enter'a basın...")
+    sys.exit(1)
 
-# Ayarlar
-VOICE = "tr-TR-EmelNeural"  # İyi bir Türkçe kadın sesi. Değiştirebilirsin.
-RATE = "-10%"               # Biraz yavaş oku (daha rahat dinlenir)
+# ==================== AYARLAR ====================
+# Türkçe sesler (kaliteli olanlar):
+# tr-TR-EmelNeural   → Kadın (tavsiye edilir)
+# tr-TR-AhmetNeural  → Erkek
+VOICE = "tr-TR-EmelNeural"
+
+# Okuma hızı: "-" yavaşlatır, "+" hızlandırır
+RATE = "-12%"
+
+# Ses tonu
 PITCH = "+0Hz"
-OUTPUT_DIR = Path("sesli_kitap/mp3")
-CHAPTER_DIR = Path("sesli_kitap")
-PLAYLIST_FILE = "sesli_kitap/playlist.m3u"
+
+# Çıktı klasörü (bu scriptin bulunduğu klasörün içinde mp3 diye bir klasör oluşturur)
+SCRIPT_DIR = Path(__file__).parent.resolve()
+OUTPUT_DIR = SCRIPT_DIR / "mp3"
+CHAPTER_DIR = SCRIPT_DIR
+PLAYLIST_FILE = SCRIPT_DIR / "playlist.m3u"
+# ================================================
 
 async def generate_audio(text: str, output_path: Path):
-    """Tek bir metni seslendirip MP3 olarak kaydeder."""
+    """Metni seslendirip MP3 olarak kaydeder."""
     communicate = edge_tts.Communicate(text, VOICE, rate=RATE, pitch=PITCH)
     await communicate.save(str(output_path))
     print(f"✓ Oluşturuldu: {output_path.name}")
 
 def clean_text(text: str) -> str:
-    """TTS için metni temizle."""
-    # Başlıkları ve gereksiz markdown kalıntılarını temizle
+    """TTS için metni temizler."""
     lines = []
     for line in text.splitlines():
         line = line.strip()
+        # Başlıkları, ayırıcıları ve boş satırları atla
         if line.startswith("#") or line.startswith("---") or not line:
             continue
         # Fazla boşlukları temizle
@@ -55,43 +65,74 @@ def clean_text(text: str) -> str:
     return "\n".join(lines)
 
 async def main():
+    print("=" * 50)
+    print("Pasifik'in Altındaki Mühür - Sesli Kitap")
+    print("Ses: " + VOICE)
+    print("=" * 50)
+    print()
+
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
+    # Bölüm dosyalarını bul
     chapter_files = sorted(CHAPTER_DIR.glob("bolum_*.txt"))
+
     if not chapter_files:
-        print("Hata: bolum_*.txt dosyaları bulunamadı!")
+        print("HATA: bolum_XX.txt dosyaları bulunamadı!")
+        print("Lütfen bu scripti 'sesli_kitap' klasörünün içinde çalıştırdığınızdan emin olun.")
+        input("Devam etmek için Enter'a basın...")
         return
+
+    print(f"Toplam {len(chapter_files)} bölüm bulundu.\n")
 
     playlist_lines = []
 
     for i, chapter_file in enumerate(chapter_files, 1):
-        text = chapter_file.read_text(encoding="utf-8")
+        print(f"İşleniyor ({i}/{len(chapter_files)}): {chapter_file.name}")
+
+        try:
+            text = chapter_file.read_text(encoding="utf-8")
+        except Exception as e:
+            print(f"  Dosya okunamadı: {e}")
+            continue
+
         clean = clean_text(text)
 
         if not clean.strip():
-            print(f"Atlandı (boş): {chapter_file.name}")
+            print("  Atlandı (boş içerik)")
             continue
 
         output_file = OUTPUT_DIR / f"bolum_{i:02d}.mp3"
 
-        print(f"İşleniyor: {chapter_file.name} → {output_file.name}")
-        await generate_audio(clean, output_file)
+        try:
+            await generate_audio(clean, output_file)
+            playlist_lines.append(f"mp3/{output_file.name}")
+        except Exception as e:
+            print(f"  Hata oluştu: {e}")
+            print("  İnternet bağlantınızı kontrol edin.")
 
-        # Playlist için göreli yol
-        playlist_lines.append(f"mp3/{output_file.name}")
+    # Playlist oluştur
+    if playlist_lines:
+        with open(PLAYLIST_FILE, "w", encoding="utf-8") as f:
+            f.write("#EXTM3U\n")
+            f.write("#EXTINF:-1,Sesli Kitap - Pasifik'in Altındaki Mühür\n")
+            f.write("# Yazar: Emre Ozudogru\n\n")
+            for line in playlist_lines:
+                f.write(line + "\n")
 
-    # M3U playlist oluştur
-    with open(PLAYLIST_FILE, "w", encoding="utf-8") as f:
-        f.write("#EXTM3U\n")
-        f.write("# Sesli Kitap: Pasifik’in Altındaki Mühür\n")
-        f.write("# Yazar: Emre Ozudogru\n\n")
-        for line in playlist_lines:
-            f.write(line + "\n")
+        print("\n" + "=" * 50)
+        print("✓ İşlem tamamlandı!")
+        print(f"  MP3 dosyaları: {OUTPUT_DIR}")
+        print(f"  Playlist dosyası: {PLAYLIST_FILE}")
+        print("\nVLC Media Player ile playlist.m3u dosyasını açabilirsiniz.")
+    else:
+        print("\nHiçbir bölüm işlenemedi.")
 
-    print(f"\n✅ Tamamlandı!")
-    print(f"   MP3 dosyaları: {OUTPUT_DIR}")
-    print(f"   Playlist: {PLAYLIST_FILE}")
-    print(f"\nVLC, Windows Media Player veya telefonunuzda playlist dosyasını açabilirsiniz.")
+    print("\nKapatmak için Enter'a basın...")
+    input()
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    try:
+        asyncio.run(main())
+    except KeyboardInterrupt:
+        print("\nİşlem iptal edildi.")
+        input("Kapatmak için Enter'a basın...")

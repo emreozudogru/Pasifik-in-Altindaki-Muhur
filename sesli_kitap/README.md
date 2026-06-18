@@ -1,68 +1,71 @@
-# Pasifik’in Altındaki Mühür - Sesli Kitap
+# Pasifik’in Altındaki Mühür - Sesli Kitap (Windows)
 
 Bu klasör, romanın **sesli kitap** haline getirilmesi için hazırlanmıştır.
 
-## Dosyalar
+## Windows'ta Kolay Kullanım (Önerilen)
 
-- `bolum_01.txt`, `bolum_02.txt`, ... → Her bölümün temiz metin hali (TTS için optimize edilmiş)
-- `tam_roman.txt` → Tüm romanın tek parça temiz metin hali
-- `generate_audiobook.py` → Otomatik sesli kitap üretici script
-- `requirements.txt` → Gerekli Python paketleri
+### Adım 1: Python Kurulumu (Eğer yoksa)
 
-## Nasıl Kullanılır (En Kolay Yöntem)
+1. Şu adrese gidin: https://www.python.org/downloads/
+2. **"Download Python"** butonuna tıklayın (en son sürüm).
+3. İndirdiğiniz `.exe` dosyasını çalıştırın.
+4. **Önemli:** Kurulum ekranında **"Add Python to PATH"** kutucuğunu işaretleyin.
+5. Install Now'a tıklayın.
 
-### 1. Kurulum (bir kere yapılır)
+### Adım 2: Sesli Kitabı Oluştur
 
-```bash
+1. Bu klasöre (`sesli_kitap`) girin.
+2. `run_audiobook.bat` dosyasına **çift tıklayın**.
+3. Komut penceresi açılacak, gerekli paketleri otomatik kuracak ve MP3'leri üretecek.
+
+İlk çalıştırmada biraz zaman alabilir (internet hızınıza göre 10-20 dakika).
+
+### Oluşan Dosyalar
+
+- `mp3/` klasörü içinde `bolum_01.mp3`, `bolum_02.mp3` ... dosyaları
+- `playlist.m3u` → VLC ile açınca tüm bölümleri sırayla çalar
+
+---
+
+## Manuel Kurulum (İsterseniz)
+
+Komut İstemi'ni açıp şu komutları yazabilirsiniz:
+
+```cmd
 cd sesli_kitap
 pip install -r requirements.txt
-```
-
-### 2. Sesli Kitabı Oluştur
-
-```bash
 python generate_audiobook.py
 ```
 
-Script çalışınca `mp3/` klasörünün içine her bölüm için ayrı MP3 dosyası üretecek ve bir `playlist.m3u` oluşturacak.
+---
 
-### Önerilen Ses (Türkçe)
+## Ayarlar
 
-Script içinde şu an `tr-TR-EmelNeural` kullanılıyor (çok doğal kadın sesi).
-
-Başka ses istersen `generate_audiobook.py` dosyasındaki şu satırı değiştir:
+Ses türünü ve hızını değiştirmek isterseniz `generate_audiobook.py` dosyasını Not Defteri ile açın ve şu satırları düzenleyin:
 
 ```python
-VOICE = "tr-TR-EmelNeural"   # Kadın
-# VOICE = "tr-TR-AhmetNeural"  # Erkek
+VOICE = "tr-TR-EmelNeural"   # Kadın sesi (tavsiye)
+# VOICE = "tr-TR-AhmetNeural"  # Erkek sesi
+
+RATE = "-12%"                # Okuma hızı (daha yavaş için -15% veya -20%)
 ```
 
-Tüm mevcut Türkçe sesleri görmek için:
-```bash
-edge-tts --list-voices | findstr tr-TR
-```
+---
 
 ## Dinleme
 
-- VLC Media Player (ücretsiz, en iyisi)
-- Windows Media Player
-- Telefonlarda VLC veya herhangi bir müzik çalar
+En iyi sonuç için **VLC Media Player** kullanın:
 
-`playlist.m3u` dosyasını açman yeterli. Bölümler otomatik sırayla çalınır.
+1. VLC'yi indirin: https://www.videolan.org/vlc/
+2. `playlist.m3u` dosyasına çift tıklayın.
 
-## İpuçları
-
-- **Daha yavaş okuma** istersen scriptteki `RATE = "-10%"` değerini `-15%` veya `-20%` yapabilirsin.
-- **Tam romanı tek dosya** olarak dinlemek istersen `tam_roman.txt` dosyasını doğrudan edge-tts ile dönüştürebilirsin.
-- Toplam süre yaklaşık 4-6 saat civarı olur (hıza göre değişir).
+---
 
 ## Lisans
 
-Roman: © 2026 Emre Ozudogru  
-Creative Commons Attribution 4.0 International (CC BY 4.0)
+© 2026 Emre Ozudogru  
+Creative Commons Attribution 4.0 (CC BY 4.0)
 
-Ses dosyalarını üretirken lütfen yazar adını (Emre Ozudogru) belirtmeyi unutma.
-
----
+Sesli kitabı başkalarıyla paylaşırken lütfen yazar adını (Emre Ozudogru) belirtin.
 
 İyi dinlemeler!
