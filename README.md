@@ -8,9 +8,11 @@ Edebi tarihi/fantastik roman.
 - Hedef: Kapsamlı genişletme (18k–25k+ kelime), her alanda (karakter, olay örgüsü, tema, dil, yapı) geliştirme
 
 ## Workflow
-- Her anlamlı değişiklik ayrı commit ile kaydediliyor.
+- Her anlamlı değişiklikte **commit + push** yapılıyor.
 - `develop` dalı ana geliştirme dalı.
 - Değişiklikler küçük ve atomik olacak.
+- Remote: https://github.com/emreozudogru/Pasifik-in-Altindaki-Muhur.git
+- `develop` dalı GitHub'a push ediliyor.
 
 ## Klasör Yapısı
 - `Pasifikin Altindaki Muhur.txt` — Orijinal metin (korunuyor)
