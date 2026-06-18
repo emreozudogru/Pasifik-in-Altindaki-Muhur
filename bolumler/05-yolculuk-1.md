@@ -1,90 +1,19 @@
 # 05 — Yolculuk 1
 
-© 2026 Emre Ozudogru
+🌑 **Pasifik’in Altındaki Mühür**
 
-Bu bölüm, Pasifik’in Altındaki Mühür romanının genişletilmiş versiyonuna aittir.  
-Tüm kullanım CC BY 4.0 lisansı altındadır.
+Yolculuk yedi yıl sürdü. Bu yedi yılın tamamı yürüyerek, atla, nehir kayıklarıyla ve deniz gemileriyle geçti. Birçok kişi yolda öldü. Bazıları hastalıktan. Bazıları fırtınadan. Bazıları da onun rüyalarından.
 
----
-
-## V. Deniz Yolculuğu (Bölüm 1)
-
-Yolculuk yedi yıl sürdü.
-
-Bu yedi yılın tamamı yürüyerek, atla, nehir kayıklarıyla ve deniz gemileriyle geçti.
-
-Birçok kişi yolda öldü.
-
-Bazıları hastalıktan.
-
-Bazıları fırtınadan.
-
-Bazıları da onun rüyalarından.
-
-En-Nakar artık konuşmuyordu.
-
-Ama yakındakiler rüya görmeye başlamıştı.
-
-Bir muhafız, her gece annesinin onu çağırdığını gördü. Üçüncü gece zincirleri çözmeye çalışırken yakalandı. Zincirleri kendi eliyle gevşetmişti. Gözleri yaşlıydı. “Annem aç,” demişti. “Onu doyurmam lazım.”
+En-Nakar artık konuşmuyordu. Ama yakındakiler rüya görmeye başlamıştı. Bir muhafız, her gece annesinin onu çağırdığını gördü. Üçüncü gece zincirleri çözmeye çalışırken yakalandı. Zincirleri kendi eliyle gevşetmişti. Gözleri yaşlıydı. “Annem aç,” demişti. “Onu doyurmam lazım.”
 
 Bir rahip, tanrısının En-Nakar’ın içinde hapsedildiğine inandı. Dilini kesip ona sundu. Kan, zincirlerin üzerine damladı. En-Nakar, kanı yalamadı. Sadece baktı. Rahip ertesi sabah kendini bir kayadan attı.
 
 Bir denizci, geminin altındaki suyun aslında gökyüzü olduğunu söyledi ve kendini denize attı. Vücudu bulunamadı. Sadece bir sandalye ve bir halat kaldı. Halatta kendi adının düğümü vardı.
 
-Bu yüzden son gemide sadece sağır muhafızlar görev yaptı.
+Bu yüzden son gemide sadece sağır muhafızlar görev yaptı. İletişim işaretlerle yapılıyordu. Geminin ortasında üç katlı bir sandık vardı. Dış katman sedir ağacıydı. İkinci katman kurşundu. Üçüncü katman cilalanmış siyah taştı. Sandığın içinde zincirlenmiş beden oturuyordu. Yemek verilmiyordu. Su verilmiyordu. Buna rağmen ölmedi.
 
-İletişim işaretlerle yapılıyordu.
+Bazen sandığın içinden tırnak sesi gelirdi. Bazen çocuk ağlaması. Bazen de içeriden, gemideki herkesin kendi sesiyle fısıltılar duyduğu söylenirdi. Ama sağır muhafızlar duymadı. Onlar sadece sandığın kapağındaki mühürlerin titrediğini gördüler. Ve sonunda, sisli bir sabah, doğudaki adalara vardılar.
 
-Geminin ortasında üç katlı bir sandık vardı.
+Yolculuğun ilk yılında, Mühürcüler’den biri daha ayrıldı. Hint matematikçiydi. Sayıları seven, sessiz bir adamdı. Bir gece, En-Nakar’ın rüyasında bir denklem çözdüğünü gördü. Denklem, kendi ölümünü gösteriyordu. Sabah uyandığında, parmaklarını saymaya başladı. Bir, iki, üç… ve parmakları yetmedi. “Ben zaten ölmüşüm,” dedi. Sonra zincirleri tutan ipi kendi boğazına sardı.
 
-Dış katman sedir ağacıydı.
-
-İkinci katman kurşundu.
-
-Üçüncü katman cilalanmış siyah taştı.
-
-Sandığın içinde zincirlenmiş beden oturuyordu.
-
-Yemek verilmiyordu.
-
-Su verilmiyordu.
-
-Buna rağmen ölmedi.
-
-Bazen sandığın içinden tırnak sesi gelirdi.
-
-Bazen çocuk ağlaması.
-
-Bazen de içeriden, gemideki herkesin kendi sesiyle fısıltılar duyduğu söylenirdi.
-
-Ama sağır muhafızlar duymadı.
-
-Onlar sadece sandığın kapağındaki mühürlerin titrediğini gördüler.
-
-Ve sonunda, sisli bir sabah, doğudaki adalara vardılar.
-
----
-
-Yolculuğun ilk yılında, Mühürcüler’den biri daha ayrıldı.
-
-Hint matematikçiydi. Sayıları seven, sessiz bir adamdı. Bir gece, En-Nakar’ın rüyasında bir denklem çözdüğünü gördü. Denklem, kendi ölümünü gösteriyordu. Sabah uyandığında, parmaklarını saymaya başladı. Bir, iki, üç… ve parmakları yetmedi.
-
-“Ben zaten ölmüşüm,” dedi. Sonra zincirleri tutan ipi kendi boğazına sardı.
-
-Eirene, cesedini denize vermeden önce parmaklarını saydı. Yedi parmak. Tam yedi.
-
-O gece ilk kez, Mühürcüler’den biri yüksek sesle ağladı.
-
-Lu Shen, “Ağlama,” dedi. “Ağlarsan o kazanır.”
-
-Eirene cevap verdi. İlk kez, net ve yüksek:
-
-“Ağlamak, onun dışında kalmaktır.”
-
-O andan sonra ağlama serbestti.
-
-Ama fısıltı yasak.
-
----
-
-*(Genişletme: Yolculuğun ilk kısmı yeni sahnelerle genişletildi. Rüya etkileri daha kişisel ve trajik hale getirildi. Eirene’nin “ağlamak onun dışında kalmaktır” cümlesi yeni eklendi. Orijinal metnin özü korunarak karakter kırılmaları derinleştirildi.)*
+Eirene, cesedini denize vermeden önce parmaklarını saydı. Yedi parmak. Tam yedi. O gece ilk kez, Mühürcüler’den biri yüksek sesle ağladı. Lu Shen, “Ağlama,” dedi. “Ağlarsan o kazanır.” Eirene cevap verdi. İlk kez, net ve yüksek: “Ağlamak, onun dışında kalmaktır.” O andan sonra ağlama serbestti. Ama fısıltı yasak.
