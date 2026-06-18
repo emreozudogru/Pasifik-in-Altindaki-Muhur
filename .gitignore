@@ -1,0 +1,17 @@
+# Roman projesi
+mcps/
+.grok/
+sessions/
+temp/
+*.tmp
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated images / temp outputs
+images/
+*.jpg
+*.png
+*.webp
