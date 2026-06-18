@@ -282,18 +282,52 @@ Bu cümle, Ren’in annesi üzerinden teklif ettiği sahnede zirve yapacak.
 
 ## Sonraki Adımlar
 
-- [x] Bölüm 4: Tematik derinleşme (AI, dikkat ekonomisi, bedel) – sunuldu
-- [ ] Bölüm 5: Dil ve üslup kuralları + örnek pasajlar
-- [ ] Tüm tasarım onaylandıktan sonra tam spec’i finalize et
+- [x] Bölüm 4: Tematik derinleşme (AI, dikkat ekonomisi, bedel) – onaylandı
+- [x] Bölüm 5: Dil ve üslup kuralları (aşağıda)
 - [ ] writing-plans skill’ini çağır
 - [ ] bolumler/ klasöründe bölümleri oluştur (her biri ayrı commit + push)
 
 ---
 
+## Bölüm 5: Dil ve Üslup Kuralları
+
+Romanın orijinal sesini korumak ve genişletme sırasında tutarlılığı sağlamak için şu kurallar geçerli:
+
+**Genel Ton**
+- Edebi, mesafeli, uğursuz ve felsefi.
+- Duygusal patlamalardan kaçın. Korku ve ağırlık sessizlik, tekrar ve yavaşlamayla verilsin.
+- Modern kısımlarda cümleler biraz daha kısa ve kesik olabilir (dijital çağın aceleciliğini yansıtmak için), antik kısımlarda daha akıcı ve ritmik.
+
+**Tekrar ve Motif Kullanımı**
+- Ana motifler (parmak izi, obsidyen, “başka çaren yok”, fısıltı, dikkat) bilinçli olarak tekrarlanacak ama her seferinde hafif farklı bağlamda.
+- “İsim kapıdır”, “bedel her nesil sorar” gibi cümleler tam olarak veya varyasyonlarıyla dönecek.
+
+**Betimleme Tarzı**
+- Duyusal detaylara ağırlık (koku, ses, dokunma) özellikle kritik sahnelerde (yolculuk, mühürleme, Morita’nın gecesi, Voss karşılaşmaları).
+- Karakterlerin iç dünyası daha çok dolaylı yoldan (eylem, karar, fiziksel tepki) gösterilecek, uzun iç monologlardan kaçınılacak.
+
+**Diyalog**
+- Voss’un konuşmaları sakin, mantıklı, neredeyse nazik. Korku söylediklerinin mantıklı gelmesinden gelecek.
+- Antik diyaloglar daha törensel ve özlü.
+- Modern diyaloglar doğal ama şiirsel kalacak (orijinalin üslubuna sadık).
+
+**Dil Seviyesi**
+- Yüksek edebi Türkçe.
+- Gereksiz modern jargon yok (sosyal medya terimleri sadece gerektiğinde ve ironik/eleştirel bağlamda).
+- “En-Nakar” ve eski isimler (Kha-Sedjem vb.) gerektiğinde kullanılacak, aşırı tekrarlanmayacak.
+
+**Örnek Yaklaşım (kısa):**
+Orijinalin açılış cümlesi gibi güçlü, kısa ve vurucu açılışlar tercih edilecek. Genişletmelerde de aynı etki hedeflenecek.
+
+---
+
 **Onay Durumu:**
 - Yapı (Bölüm 1): ✅ Onaylandı
-- Karakterler (Bölüm 2): ✅ Onaylandı (tam özgürlük verildi)
+- Karakterler (Bölüm 2): ✅ Onaylandı
 - Sahneler + Bölüm Yapısı (Bölüm 3): ✅ Onaylandı
-- Tematik Derinleşme (Bölüm 4): Onay bekleniyor
+- Tematik Derinleşme (Bölüm 4): ✅ Onaylandı
+- Dil ve Üslup (Bölüm 5): ✅ Tamamlandı
+
+Tasarım büyük ölçüde tamamlandı. 
 
 Bu dosya her tasarım güncellemesinde commit’lenecektir.
