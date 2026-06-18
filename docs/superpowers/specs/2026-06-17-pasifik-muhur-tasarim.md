@@ -84,19 +84,121 @@ En-Nakar kişileri ele geçirmez. Zaten var olan en kötü eğilimlerini “kaç
 
 ---
 
+## Bölüm 3: Önemli Yeni Sahneler ve Dönüm Noktaları (Önerilen)
+
+Kullanıcı tam özgürlük verdiği için romanın önemli ölçüde genişletilmesi ve derinleştirilmesi planlanıyor.
+
+### Antik Kısım (En çok genişletilecek alan)
+
+**1. En-Nakar’ın Yakalanması (Yeni Bölüm)**
+- Mühürcülerin son büyük operasyonu.
+- 4-5 Mühürcü + destekçilerle sessiz bir savaş.
+- Bir üye En-Nakar’ın etkisiyle kendi kardeşini öldürmek zorunda kalır.
+- En-Nakar yakalanırken gülerek “Siz de benim gibisiniz” der.
+
+**2. Yedi Yıllık Yolculuk (3-4 bölüme yayılacak)**
+- Her aşamada bir Mühürcü’nün kırılma noktası.
+- Bir denizci gemiyi terk eder ve kendini denize atar.
+- Bir rahip dilini kesip En-Nakar’a sunar.
+- Eirene grubun ruhsal bütünlüğünü koruyan kişi olarak öne çıkar.
+- Yolculuk sırasında En-Nakar’ın rüyaları üzerinden ilk “bedel” deneyimleri yaşanır.
+
+**3. Hapishanenin İnşası ve Tartışma**
+- Obsidyen odanın inşası sırasında “Yedinci Mühür ne olmalı?” tartışması.
+- Lu Shen “kan”, Eirene “bedel” önerir.
+- Eirene’nin parmak izini bırakması çok daha duygusal ve uzun bir sahne olacak.
+
+**4. Mühürleme Ritüeli (Genişletilmiş)**
+- 3-4 günlük süreç.
+- Her mührün vurulması ayrı bir sahne.
+- Son mühürde herkes avucunu keser ama Eirene sadece parmak izini bırakır.
+- En-Nakar’ın son cümlesi: “Bir gün insan kendi güneşini yere indirecek.”
+
+### Kırılma ve Modern Uyanış
+
+**5. 1945 – Morita Genzo (Önemli ölçüde genişletilecek)**
+- O geceyi neredeyse gerçek zamanlı anlatacağız.
+- En-Nakar’ın Morita’ya annesinin, sonra kendi çocukluğunun sesiyle konuşması.
+- Morita’nın duası ve bıçağı saplaması.
+- Ertesi sabah balıkçılar adaya gittiğinde sadece “Mühür kırıldı. İnsan hazır.” yazısını bulur.
+- Bu sahne kitabın en güçlü korku sahnelerinden biri olacak.
+
+**6. 1946-2010 Arası Somut Enfeksiyon Örnekleri (Yeni)**
+- 1950’ler: Kore Savaşı sırasında bir grup esirin “evlerine dönmek için kimi öldürmeleri gerektiğini” öğrenmesi.
+- 1970’ler: Bir Asya ülkesinde bir tarikatın liderinin “insan temizlenebilir bir fikir” söylemi.
+- 1990’lar: Erken internet forumlarında bir kullanıcının algoritmik olarak “doğru” kararlar vermeye başlaması.
+- Bu sahneler kısa ama vurucu olacak.
+
+### Modern Araştırma ve Çatışma
+
+**7. Arşiv’in Oluşumu (Genişletilecek)**
+- Ren’in 2011’den sonra nasıl bağlantı kurduğu detaylandırılacak.
+- Kerem’in İstanbul’da defteri bulması daha uzun ve gerilimli bir sahne.
+- İlk kez “bir şeyin” olduğunu anladıkları ortak bir an (bir veri setinde aynı imza).
+
+**8. Voss ile Karşılaşmalar (3 sahne)**
+- 1. Konferans (tanıma ve ilk mesaj)
+- 2. Çay evi (derin felsefi konuşma + “Beni araştırırken benim yöntemimi kullanıyorsun”)
+- 3. Final yüzleşme (Ren’in annesi üzerinden teklif + Ren’in reddi)
+
+**9. Kerem’in Kayboluşu ve Son Mesajı**
+- Kaybolduktan sonra bulunan sesli mesaj + yazılı notlar genişletilecek.
+- Kerem’in “Yedinci mühür kan değildi, bedeldi” keşfi daha güçlü işlenecek.
+
+**10. Ren’in Yeni Mühür’ü Dağıtması (Kitabın duygusal zirvesi)**
+- Ren annesiyle son görüşmeyi yapar ve vedalaşır.
+- Basit, sade bir metin hazırlar: “Dikkat – Sekizinci Mühür”.
+- Dağıtım şekli: 
+  - Bazı kütüphanelere anonim bırakma
+  - Seçilmiş insanlara (eski öğrencileri, araştırmacılar) posta ile gönderme
+  - Çok küçük bir grup insana elden verme
+- Kitabın son sahnesi: Bir yabancı (belki bir balıkçı veya genç bir araştırmacı) bu metni okuduktan sonra kritik bir anda durup “Bu gerçekten ben mi istiyorum?” diye düşünür.
+
+### Önerilen Bölüm Yapısı (Ambitious Versiyon – ~22 bölüm)
+
+**Kısım I – Antik Mühür**
+1. Prolog + Dünyanın Ucu
+2. İlk Savaş (En-Nakar’ın doğası)
+3. Mühürcüler’in Toplanması
+4. En-Nakar’ın Yakalanması (yeni)
+5-7. Yolculuk (3 bölüm)
+8-9. Kuroshima ve Hapishanenin İnşası
+10. Yedi Mühür (ritüel + Eirene’nin parmak izi)
+
+**Kısım II – Unutma ve Kırılma**
+11. Yüzyıllar Boyu Unutma (yoğunlaştırılmış)
+12. 1945 – Morita Genzo (genişletilmiş)
+13. 1946-2010 Enfeksiyonları (yeni)
+
+**Kısım III – Keşif ve Dağılan Ağ**
+14. Arakawa ve Ren’in Girişi
+15. Arşiv’in Oluşumu
+16. Dijital Çağ ve Şüphe
+17. Voss ile İlk Karşılaşma
+18. Arşiv’in Parçalanması + Kerem’in Mesajı
+
+**Kısım IV – Karşılaşma, Bedel ve Sekizinci Mühür**
+19. Voss ile Çay Evi ve Teklif
+20. Yalnız Kalan Ren
+21. Son Yüzleşme ve Annenin Bedeli
+22. Sekizinci Mühür’ün Dağıtılması + Kapanış (Eirene’nin sorusu)
+
+---
+
 ## Sonraki Adımlar
 
-- [ ] Bölüm 3: Önemli yeni sahneler ve dönüm noktaları
-- [ ] Bölüm 4: Tematik derinleşme (AI, dikkat ekonomisi, bedel)
-- [ ] Bölüm 5: Dil ve üslup kuralları
+- [x] Bölüm 3: Önemli yeni sahneler ve dönüm noktaları (şu an sunuluyor)
+- [ ] Bölüm 4: Tematik derinleşme + AI/dijital katman
+- [ ] Bölüm 5: Dil ve üslup kuralları + örnek pasajlar
 - [ ] Tüm tasarım onaylandıktan sonra tam spec’i finalize et
 - [ ] writing-plans skill’ini çağır
-- [ ] bolumler/ klasöründe bölümleri oluştur (her biri ayrı commit)
+- [ ] bolumler/ klasöründe bölümleri oluştur (her biri ayrı commit + push)
 
 ---
 
 **Onay Durumu:**
 - Yapı (Bölüm 1): ✅ Onaylandı
-- Karakterler (Bölüm 2): Tamamlanmış haliyle sunuldu — onay bekleniyor
+- Karakterler (Bölüm 2): ✅ Onaylandı (tam özgürlük verildi)
+- Sahneler + Bölüm Yapısı (Bölüm 3): Onay bekleniyor
 
 Bu dosya her tasarım güncellemesinde commit’lenecektir.
