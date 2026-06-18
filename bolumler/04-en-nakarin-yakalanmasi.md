@@ -1,104 +1,19 @@
 # 04 — En-Nakar’ın Yakalanması
 
-© 2026 Emre Ozudogru
+🌑 **Pasifik’in Altındaki Mühür**
 
-Bu bölüm, Pasifik’in Altındaki Mühür romanının genişletilmiş versiyonuna aittir.  
-Tüm kullanım CC BY 4.0 lisansı altındadır.
+O vadideki savaş, hiçbir tarih kitabına geçmedi. Çünkü orada üniforma yoktu. Bayrak yoktu. Zafer şarkısı yoktu. Sadece sessizce öldüler.
 
----
+En-Nakar’ın son bedeni genç bir adam görünümündeydi. Yüzünde yara yoktu. Gözleri siyah değildi; aksine açık renkti. Neredeyse gri. Onu ürkütücü yapan şey gözlerinin rengi değildi. Bakışında insanın kendini açıklanmış hissetmesiydi. Sanki sakladığın her yalanı biliyordu. Sanki daha sen doğmadan önce seni bekliyordu.
 
-## IV. En-Nakar’ın Yakalanması
+Mühürcüler onu bir kervan kılığında yakaladı. Mısırlı astronom, bir kervancı gibi davranıyordu. Pers rahibi, yük hayvanlarını süren adamdı. Eirene, yaralı bir yolcu rolündeydi. Çinli kâtip Lu Shen, pusulayı elinde tutuyordu. Plan basitti: En-Nakar’ı zincirlemek, susturmak ve yola çıkmak. Ama o, zincirleri gördüğünde gülümsedi.
 
-O vadideki savaş, hiçbir tarih kitabına geçmedi.
+“Beni nereye götüreceksiniz?” diye sordu. Kimse cevap vermedi. Gülümsemesi büyüdü. “Dünyanın sonuna mı?” Yine kimse konuşmadı. O zaman En-Nakar başını eğdi. “Dünya sandığınız kadar uzun değil,” dedi. “İnsan ise sandığınızdan daha kısa.” Bu sözleri duyan dört asker aynı gece kendini öldürdü.
 
-Çünkü orada üniforma yoktu. Bayrak yoktu. Zafer şarkısı yoktu.
+Bundan sonra onun yakınında konuşmak yasaklandı. Kulaklara balmumu tıkandı. Muhafızlar üç günde bir değiştirildi. Zincirler demirden değil, bakır ve gümüş karışımından yapıldı. Çünkü demiri paslandırdığı, altını kararttığı, ama gümüşü sevmediği fark edilmişti. Nedenini kimse bilmiyordu.
 
-Sadece sessizce öldüler.
+O gece vadideki son savaş, aslında savaş değildi. En-Nakar, bir an için zincirlerinden kurtuldu. Ve bir Mühürcü’nün kardeşini öldürdü. Mısırlı astronomun kardeşiydi. Genç bir adam, sadece yiyecek getirmek için gelmişti. En-Nakar ona fısıldadı — sadece bir kelime. Kardeş, baltayı kaldırdı. Astronom, kardeşini durdurmak için zinciri kendi koluna sardı. Kan akarken, En-Nakar gülüyordu.
 
-En-Nakar’ın son bedeni genç bir adam görünümündeydi. Yüzünde yara yoktu. Gözleri siyah değildi; aksine açık renkti. Neredeyse gri. Onu ürkütücü yapan şey gözlerinin rengi değildi.
+“Görüyorsun ya,” dedi. “Sen de benim gibisin. Hepiniz öylesiniz.” Astronom, kardeşini öldürmedi. Ama baltayı En-Nakar’ın omzuna sapladı. O an, En-Nakar’ın gülümsemesi değişti. İlk kez, gerçekten acı çekmiş gibi göründü. Ama sadece bir an. Sonra tekrar güldü. “Bu acı da geçici,” dedi. “Sizin acınız kalıcı.”
 
-Bakışında insanın kendini açıklanmış hissetmesiydi.
-
-Sanki sakladığın her yalanı biliyordu.
-
-Sanki daha sen doğmadan önce seni bekliyordu.
-
-Mühürcüler onu bir kervan kılığında yakaladı. Mısırlı astronom, bir kervancı gibi davranıyordu. Pers rahibi, yük hayvanlarını süren adamdı. Eirene, yaralı bir yolcu rolündeydi. Çinli kâtip Lu Shen, pusulayı elinde tutuyordu.
-
-Plan basitti: En-Nakar’ı zincirlemek, susturmak ve yola çıkmak.
-
-Ama o, zincirleri gördüğünde gülümsedi.
-
-“Beni nereye götüreceksiniz?” diye sordu.
-
-Kimse cevap vermedi.
-
-Gülümsemesi büyüdü.
-
-“Dünyanın sonuna mı?”
-
-Yine kimse konuşmadı.
-
-O zaman En-Nakar başını eğdi.
-
-“Dünya sandığınız kadar uzun değil,” dedi. “İnsan ise sandığınızdan daha kısa.”
-
-Bu sözleri duyan dört asker aynı gece kendini öldürdü.
-
-Bundan sonra onun yakınında konuşmak yasaklandı.
-
-Kulaklara balmumu tıkandı.
-
-Muhafızlar üç günde bir değiştirildi.
-
-Zincirler demirden değil, bakır ve gümüş karışımından yapıldı.
-
-Çünkü demiri paslandırdığı, altını kararttığı, ama gümüşü sevmediği fark edilmişti.
-
-Nedenini kimse bilmiyordu.
-
----
-
-O gece vadideki son savaş, aslında savaş değildi.
-
-En-Nakar, bir an için zincirlerinden kurtuldu.
-
-Ve bir Mühürcü’nün kardeşini öldürdü.
-
-Mısırlı astronomun kardeşiydi. Genç bir adam, sadece yiyecek getirmek için gelmişti. En-Nakar ona fısıldadı — sadece bir kelime.
-
-Kardeş, baltayı kaldırdı.
-
-Astronom, kardeşini durdurmak için zinciri kendi koluna sardı. Kan akarken, En-Nakar gülüyordu.
-
-“Görüyorsun ya,” dedi. “Sen de benim gibisin. Hepiniz öylesiniz.”
-
-Astronom, kardeşini öldürmedi. Ama baltayı En-Nakar’ın omzuna sapladı.
-
-O an, En-Nakar’ın gülümsemesi değişti.
-
-İlk kez, gerçekten acı çekmiş gibi göründü.
-
-Ama sadece bir an.
-
-Sonra tekrar güldü.
-
-“Bu acı da geçici,” dedi. “Sizin acınız kalıcı.”
-
----
-
-O gece dört Mühürcü daha öldü.
-
-Ama En-Nakar yakalandı.
-
-Zincirlendi.
-
-Ve yolculuk başladı.
-
-Yedi yıl sürecek olan yolculuk.
-
-Kimse o vadide ne olduğunu yazmadı. Kimse “orada bir şey vardı” demedi. Sadece “kervan kayboldu” dediler.
-
-Ve sessizlik, o andan itibaren Mühürcüler’in tek silahı oldu.
-
-*(Genişletme: Bu bölüm tamamen yeni. Tasarım gereği epik yakalama sahnesi, bir üyenin kardeşini öldürme trajedisi, En-Nakar’ın ilk gerçek acı anı ve “siz de benim gibisiniz” teması işlendi. Orijinal metinde geçen yakalama sahnesi bu bölüme taşındı ve dramatize edildi.)*
+O gece dört Mühürcü daha öldü. Ama En-Nakar yakalandı. Zincirlendi. Ve yolculuk başladı. Yedi yıl sürecek olan yolculuk. Kimse o vadide ne olduğunu yazmadı. Kimse “orada bir şey vardı” demedi. Sadece “kervan kayboldu” dediler. Ve sessizlik, o andan itibaren Mühürcüler’in tek silahı oldu.
