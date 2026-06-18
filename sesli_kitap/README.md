@@ -2,70 +2,78 @@
 
 Bu klasör, romanın **sesli kitap** haline getirilmesi için hazırlanmıştır.
 
-## Windows'ta Kolay Kullanım (Önerilen)
+## Windows'ta En Kolay Kullanım (Tavsiye Edilen)
 
-### Adım 1: Python Kurulumu (Eğer yoksa)
+### Adım 1: Python Kurulumu (İlk defa yapacaksan)
 
-1. Şu adrese gidin: https://www.python.org/downloads/
-2. **"Download Python"** butonuna tıklayın (en son sürüm).
-3. İndirdiğiniz `.exe` dosyasını çalıştırın.
-4. **Önemli:** Kurulum ekranında **"Add Python to PATH"** kutucuğunu işaretleyin.
-5. Install Now'a tıklayın.
+1. https://www.python.org/downloads/ adresine git.
+2. "Download Python" butonuna tıkla.
+3. İndirdiğin `.exe` dosyasını çalıştır.
+4. **Kurulum sırasında mutlaka** "Add Python to PATH" kutusunu işaretle.
+5. "Install Now" de.
 
 ### Adım 2: Sesli Kitabı Oluştur
 
-1. Bu klasöre (`sesli_kitap`) girin.
-2. `run_audiobook.bat` dosyasına **çift tıklayın**.
-3. Komut penceresi açılacak, gerekli paketleri otomatik kuracak ve MP3'leri üretecek.
+1. `sesli_kitap` klasörüne gir.
+2. `run_audiobook.bat` dosyasına **çift tıkla**.
 
-İlk çalıştırmada biraz zaman alabilir (internet hızınıza göre 10-20 dakika).
+Script otomatik olarak:
+- Gerekli kütüphaneleri kurar
+- Her bölümü yüksek kaliteli Türkçe sesle MP3'e çevirir
+- Hata olursa aynı bölümü birkaç kez dener (retry özelliği)
 
-### Oluşan Dosyalar
-
-- `mp3/` klasörü içinde `bolum_01.mp3`, `bolum_02.mp3` ... dosyaları
-- `playlist.m3u` → VLC ile açınca tüm bölümleri sırayla çalar
-
----
-
-## Manuel Kurulum (İsterseniz)
-
-Komut İstemi'ni açıp şu komutları yazabilirsiniz:
-
-```cmd
-cd sesli_kitap
-pip install -r requirements.txt
-python generate_audiobook.py
-```
+İlk çalıştırmada 15-40 dakika sürebilir (internet hızına göre).
 
 ---
 
-## Ayarlar
+## Oluşan Dosyalar
 
-Ses türünü ve hızını değiştirmek isterseniz `generate_audiobook.py` dosyasını Not Defteri ile açın ve şu satırları düzenleyin:
+- `mp3/bolum_01.mp3`, `bolum_02.mp3` ... → Sesli bölümler
+- `playlist.m3u` → VLC ile açınca hepsini sırayla çalar
+
+---
+
+## Sık Karşılaşılan Sorunlar ve Çözümleri
+
+### "Cannot connect to host speech.platform.bing.com" hatası
+Bu Microsoft'un TTS sunucusuna bağlanamama hatasıdır. Script artık otomatik yeniden deniyor. 
+
+Yine de oluyorsa:
+- İnternet bağlantını kontrol et
+- Antivirüs / güvenlik duvarını geçici olarak kapatıp dene
+- Birkaç dakika bekleyip tekrar çalıştır
+
+### Python bulunamadı hatası
+`run_audiobook.bat` sana Python indirme linkini verecektir. Yukarıdaki "Adım 1"i takip et.
+
+---
+
+## Ses Ayarlarını Değiştirmek İstersen
+
+`generate_audiobook.py` dosyasını Not Defteri ile aç ve şu satırları değiştir:
 
 ```python
-VOICE = "tr-TR-EmelNeural"   # Kadın sesi (tavsiye)
+VOICE = "tr-TR-EmelNeural"   # Kadın sesi (tavsiye edilir)
 # VOICE = "tr-TR-AhmetNeural"  # Erkek sesi
 
-RATE = "-12%"                # Okuma hızı (daha yavaş için -15% veya -20%)
+RATE = "-12%"                # Daha yavaş okumak için: -15% veya -20%
 ```
 
 ---
 
-## Dinleme
+## Dinleme Önerisi
 
-En iyi sonuç için **VLC Media Player** kullanın:
-
-1. VLC'yi indirin: https://www.videolan.org/vlc/
-2. `playlist.m3u` dosyasına çift tıklayın.
+**VLC Media Player** kullan (ücretsiz):
+- https://www.videolan.org/vlc/
+- `playlist.m3u` dosyasına çift tıkla.
 
 ---
 
 ## Lisans
 
 © 2026 Emre Ozudogru  
-Creative Commons Attribution 4.0 (CC BY 4.0)
+Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-Sesli kitabı başkalarıyla paylaşırken lütfen yazar adını (Emre Ozudogru) belirtin.
+Sesli kitabı paylaşırken lütfen yazar adını (Emre Ozudogru) belirt.
 
 İyi dinlemeler!

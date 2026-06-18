@@ -1,5 +1,7 @@
 @echo off
-chcp 65001 > nul
+chcp 65001 >nul
+setlocal EnableDelayedExpansion
+
 title Pasifik'in Altindaki Muhur - Sesli Kitap Olusturucu
 
 echo ==================================================
@@ -7,7 +9,7 @@ echo   Pasifik'in Altindaki Muhur - Sesli Kitap
 echo ==================================================
 echo.
 
-:: Python kontrolü
+:: Python kontrolu
 where python >nul 2>nul
 if %errorlevel% neq 0 (
     echo [HATA] Python bulunamadi!
@@ -18,7 +20,7 @@ if %errorlevel% neq 0 (
     echo Kurulum sirasinda "Add Python to PATH" kutucugunu isaretlemeyi unutmayin.
     echo.
     pause
-    exit /b
+    exit /b 1
 )
 
 echo Python bulundu.
@@ -26,15 +28,15 @@ echo.
 
 :: Gerekli paketleri kur
 echo Gerekli kutuphaneler kontrol ediliyor ve kuruluyor...
-python -m pip install --upgrade pip >nul
-python -m pip install -r requirements.txt
+python -m pip install --upgrade pip --quiet
+python -m pip install -r requirements.txt --quiet
 
 if %errorlevel% neq 0 (
     echo.
     echo [HATA] Kutuphaneler kurulamadi!
     echo Lutfen internet baglantinizi kontrol edin.
     pause
-    exit /b
+    exit /b 1
 )
 
 echo.
