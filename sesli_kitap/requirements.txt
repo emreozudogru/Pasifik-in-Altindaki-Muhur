@@ -1,0 +1,2 @@
+edge-tts
+pydub  # optional, for combining if needed
