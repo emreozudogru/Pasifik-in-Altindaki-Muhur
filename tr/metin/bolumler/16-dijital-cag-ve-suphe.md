@@ -18,6 +18,8 @@ Ren bu cümle karşısında uzun süre hareketsiz oturdu.
 
 Çünkü modern dünya tam olarak buydu: işaretlerin sonsuz çoğalması. Semboller. Etiketler. Kullanıcı adları. Profil fotoğrafları. Veri noktaları. Davranış modelleri. İnsan artık sadece insan değildi. Veriye çevrilmiş insandı. Ve En-Nakar iki bin yıl önce tek tek kralların kulağına fısıldıyorken, şimdi milyarlarca insanın korku haritasını çıkarabilecek bir dünyadaydı.
 
+Ren, defterin dijital taramalarında garip bir şey fark etti: parmak izinin yanında her seferinde aynı kurşun lekesi ve kül parçası, piksel piksel tekrar ediyordu. Sanki veri bile bu izi silmiyordu.
+
 ---
 
 2022'de Ren daha ileri gitti.
