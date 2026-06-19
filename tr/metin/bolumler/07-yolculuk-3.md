@@ -46,6 +46,8 @@ Sabah herkes bunu fark etmişti.
 
 Eirene başını iki yana salladı. Bilmiyorum. Ama bunu yaptım. Yeterli.
 
+O gece, sandığın kurşun halkalarından biri daha gevşedi. Fiziksel olarak en güçlü olan Anadolu’lu usta, halkayı kendi gövdesiyle sıkılaştırmak için saatlerce çalıştı. Sabah kalktığında elleri kan içindeydi. Kimse ona teşekkür etmedi. Çünkü teşekkür etmek konuşmak demekti.
+
 ---
 
 Adayı gördüklerinde sis içindeydi.
