@@ -2,7 +2,7 @@
 
 **Tarih:** 2026-06-17  
 **Dal:** main  
-**Kapsam:** C seçeneği — Daha cesur ve dolu roman (hedef 18.000 – 25.000+ kelime)  
+**Kapsam:** C seçeneği — Daha cesur ve dolu roman  
 **Yaklaşım:** Her alanda (karakter, olay örgüsü, tema, dil, yapı) kapsamlı geliştirme
 
 ---

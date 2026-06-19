@@ -9,7 +9,7 @@
 - Orijinal metin (`Pasifikin Altindaki Muhur.txt`) korunacak (baseline).
 - Yeni versiyon `bolumler/` klasöründe 22 ayrı .md dosyası olarak geliştirilecek.
 - Her bölüm ayrı commit + push yapılacak.
-- Hedef uzunluk: 20.000 – 25.000+ kelime.
+- Hedef uzunluk sınırı yok — roman organik uzunlukta gelişir.
 - Tüm genişletmeler tasarım spec’ine sadık kalacak.
 
 ## Bölüm Yapısı (22 Bölüm)
