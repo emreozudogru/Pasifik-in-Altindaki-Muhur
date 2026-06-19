@@ -1,71 +1,83 @@
-# Pasifik'in Altındaki Mühür
+# Pasifik’in Altındaki Mühür
 
-Edebi tarihi/fantastik roman.
+**The Seal Beneath the Pacific**
 
-## Lisans
+Edebi tarihi fantezi romanı / Literary historical fantasy novel
 
-Bu roman **Creative Commons Attribution 4.0 International (CC BY 4.0)** lisansı ile lisanslanmıştır.
-
-- Herkes eseri **kopyalayabilir, dağıtabilir, uyarlayabilir** ve **ticari amaçlarla** kullanabilir.
-- Örnek: e-kitap yapma, basım, yayınlama, çeviri, remix.
-- **Zorunlu koşul:** Yazar adı olarak **Emre Ozudogru** belirtilmelidir.
-
-Önerilen atıf:
-> "Pasifik'in Altındaki Mühür" © 2026 Emre Ozudogru  
-> Licensed under CC BY 4.0  
-> https://creativecommons.org/licenses/by/4.0/
-
-Tam lisans metni: [LICENSE](LICENSE) dosyasında veya  
-https://creativecommons.org/licenses/by/4.0/deed.tr
-
-## Durum
-
-- Ana dal (`main`) üzerinde çalışılmaktadır.
-
-## Workflow
-
-- Her anlamlı değişiklikte **commit + push** yapılıyor.
-- Remote: https://github.com/emreozudogru/Pasifik-in-Altindaki-Muhur.git
-
-## Klasör Yapısı
-
-```
-Roman/
-├── README.md
-├── LICENSE
-├── .gitignore
-├── metin/
-│   ├── orijinal.txt          — Roman metni (orijinal, değiştirilmez)
-│   └── bolumler/             — 22 ayrı bölüm (geliştirilmiş versiyon)
-│       ├── 01-prolog-dunyanin-ucu.md
-│       ├── 02-ilk-savas.md
-│       └── ... (22 bölüm)
-├── sesli_kitap/
-│   ├── README.md             — Sesli kitap kullanım talimatları
-│   ├── metinler/             — Her bölüm için temiz metin (TTS için)
-│   ├── mp3/                  — Üretilen ses dosyaları
-│   ├── generate_audiobook.py — Ses üretim scripti
-│   ├── requirements.txt
-│   └── run_audiobook.bat     — Windows'ta çift tıkla çalıştır
-├── docs/
-│   ├── implementation-plan.md — Geliştirme planı
-│   └── tasarim-spec.md        — Roman tasarım spesifikasyonu
-└── mcps/                      — AI araçları (MCP şemaları)
-```
-
-## Sesli Kitap
-
-`sesli_kitap/` klasöründe romanın **sesli kitap** haline getirilmesi için hazır paket var.
-
-### Windows'ta En Kolay Kullanım:
-1. `sesli_kitap` klasörüne girin.
-2. `run_audiobook.bat` dosyasına **çift tıklayın**.
-
-Script otomatik olarak gerekli paketleri kuracak ve her bölüm için MP3 üretecektir.
-
-Detaylı talimatlar için `sesli_kitap/README.md` dosyasına bakın.
+Yazar: Emre Ozudogru  
+Lisans: CC BY 4.0
 
 ---
 
-Başlangıç: 2026  
-Yazar: Emre Ozudogru
+## İçindekiler / Contents
+
+- [Türkçe](#türkçe)
+- [English](#english)
+
+---
+
+## Türkçe
+
+### Roman
+
+Roman, 217 BCE'den 2026'ya uzanan bir hikâye. Antik çağda En-Nakar adlı varlığın hapsedilmesi, 1945'te mührün atom bombasıyla çatlaması ve 2026'da Sato Ren'in bu varlıkla yüzleşmesi anlatılıyor.
+
+**Dosya yapısı:**
+- `tr/metin/orijinal.txt` — Orijinal metin (değiştirilmez)
+- `tr/metin/bolumler/` — 22 bölüm (geliştirilen versiyon)
+- `tr/sesli_kitap/` — Sesli kitap scriptleri ve metinleri
+
+### Sesli Kitap
+
+Sesli kitap için iki seçenek vardır:
+
+1. **edge-tts** (önerilen): `tr/sesli_kitap/generate_audiobook.py`
+2. **macOS native**: `tr/sesli_kitap/generate_audiobook_mac.sh`
+
+Detaylı kullanım için: [tr/sesli_kitap/README_scripts.md](tr/sesli_kitap/README_scripts.md)
+
+### eBook / EPUB
+
+EPUB oluşturmak için:
+
+```bash
+cd tr/ebook
+pip install ebooklib
+python generate_ebook.py
+```
+
+Çıktı: `pasifik_muhur.epub`
+
+---
+
+## English
+
+### The Novel
+
+The novel spans from 217 BCE to 2026. It tells the story of an entity called En-Nakar imprisoned in ancient times, the cracking of its seal by the atomic bomb in 1945, and Sato Ren's confrontation with it in 2026.
+
+**File structure:**
+- `tr/metin/orijinal.txt` — Original text (never modify)
+- `tr/metin/bolumler/` — 22 chapters (expanded version)
+- `tr/sesli_kitap/` — Audiobook scripts and texts
+
+### Audiobook
+
+There are two options for the audiobook:
+
+1. **edge-tts** (recommended): `tr/sesli_kitap/generate_audiobook.py`
+2. **macOS native**: `tr/sesli_kitap/generate_audiobook_mac.sh`
+
+For detailed usage instructions, see: [tr/sesli_kitap/README_scripts.md](tr/sesli_kitap/README_scripts.md)
+
+---
+
+## Lisans / License
+
+Bu eser [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) lisansı ile lisanslanmıştır.
+
+This work is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+Yazar adı belirtilerek ticari kullanım dahil her türlü kullanım serbesttir.
+
+Attribution to the author is required. Commercial use is permitted.
