@@ -100,7 +100,8 @@ async def process_chapter(chapter_file: Path, index: int, total: int) -> bool:
 async def main():
     print("=" * 55)
     print("  Pasifik'in Altındaki Mühür - Sesli Kitap Üretici")
-    print("  Ses: " + VOICE)
+    print("  edge-tts | Ses: " + VOICE)
+    print("  Platform: Tüm sistemler (Linux / macOS / Windows)")
     print("=" * 55)
     print()
 

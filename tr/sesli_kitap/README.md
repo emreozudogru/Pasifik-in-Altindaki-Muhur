@@ -1,28 +1,65 @@
-# Pasifik’in Altındaki Mühür - Sesli Kitap (Windows)
+# Pasifik’in Altındaki Mühür - Sesli Kitap
 
 Bu klasör, romanın **sesli kitap** haline getirilmesi için hazırlanmıştır.
 
-## Windows'ta En Kolay Kullanım (Tavsiye Edilen)
+## Hangi Scripti Kullanmalısın?
 
-### Adım 1: Python Kurulumu (İlk defa yapacaksan)
+| Platform     | Önerilen Script                        | Notlar                              |
+|--------------|----------------------------------------|-------------------------------------|
+| **Tüm sistemler** | `generate_audiobook.py`            | **En iyi kalite** (edge-tts)        |
+| **macOS**    | `generate_audiobook_mac.sh`            | Native `say` komutu (aiff)          |
+| **Linux**    | `generate_audiobook_linux.sh`          | edge-tts çağırır                    |
+| **Windows**  | `generate_audiobook_windows.ps1`       | edge-tts çağırır                    |
 
-1. https://www.python.org/downloads/ adresine git.
-2. "Download Python" butonuna tıkla.
-3. İndirdiğin `.exe` dosyasını çalıştır.
-4. **Kurulum sırasında mutlaka** "Add Python to PATH" kutusunu işaretle.
-5. "Install Now" de.
+**Tavsiye:** Çoğu kullanıcı için `generate_audiobook.py` (edge-tts) en iyi sonucu verir.
 
-### Adım 2: Sesli Kitabı Oluştur
+---
 
-1. `sesli_kitap` klasörüne gir.
-2. `run_audiobook.bat` dosyasına **çift tıkla**.
+## edge-tts ile (Tüm Platformlar - Önerilen)
 
-Script otomatik olarak:
-- Gerekli kütüphaneleri kurar
-- Her bölümü yüksek kaliteli Türkçe sesle MP3'e çevirir
-- Hata olursa aynı bölümü birkaç kez dener (retry özelliği)
+### Adım 1: Kurulum
 
-İlk çalıştırmada 15-40 dakika sürebilir (internet hızına göre).
+```bash
+pip install edge-tts
+```
+
+### Adım 2: Çalıştır
+
+```bash
+cd tr/sesli_kitap
+python generate_audiobook.py
+```
+
+---
+
+## macOS (Native `say` komutu)
+
+```bash
+cd tr/sesli_kitap
+chmod +x generate_audiobook_mac.sh
+./generate_audiobook_mac.sh
+```
+
+Çıktı: `aiff/` klasöründe `.aiff` dosyaları
+
+---
+
+## Linux
+
+```bash
+cd tr/sesli_kitap
+chmod +x generate_audiobook_linux.sh
+./generate_audiobook_linux.sh
+```
+
+---
+
+## Windows (PowerShell)
+
+```powershell
+cd tr/sesli_kitap
+.\generate_audiobook_windows.ps1
+```
 
 ---
 
