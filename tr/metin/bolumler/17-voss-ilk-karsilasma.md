@@ -18,7 +18,7 @@ Aslında tanımadı.
 
 Bu daha kötüydü.
 
-Adam kalabalığın içinde hiçbir şey gibi duruyordu. Orta yaşlı. Sade takım elbise. Yumuşak yüz. Dikkat çekmeyen saç. Elleri ise dikkat çekiyordu — ağır bir şeyle uzun süre uğraşmış gibi, parmak eklemleri hafif kalınlaşmıştı. Ama etrafındaki insanlar ona doğru hafifçe eğiliyordu. Konuşmasa bile. Sanki odanın ağırlık merkezi oydu.
+Adam kalabalığın içinde hiçbir şey gibi duruyordu. Orta yaşlı. Sade takım elbise. Yumuşak yüz. Dikkat çekmeyen saç. Elleri ise dikkat çekiyordu — ağır bir şeyle uzun süre uğraşmış gibi, parmak eklemleri hafif kalınlaşmıştı. Işık altında metalik bir parlaklık yoktu ama yine de parmaklarında eski bir ağırlık duruyordu. Ama etrafındaki insanlar ona doğru hafifçe eğiliyordu. Konuşmasa bile. Sanki odanın ağırlık merkezi oydu.
 
 ---
 
