@@ -14,6 +14,7 @@ Veya çift tıkla: run_audiobook.bat
 """
 
 import asyncio
+import os
 import re
 import sys
 import time
@@ -68,10 +69,15 @@ async def process_chapter(chapter_file: Path, index: int, total: int) -> bool:
     """Bir bölümü işler (retry ile)."""
     output_file = OUTPUT_DIR / f"bolum_{index:02d}.mp3"
 
-    # Zaten varsa atla
+    # Dosya varsa ve metin daha eski ise atla
     if output_file.exists():
-        print(f"[{index}/{total}] Atlandı (zaten var): {output_file.name}")
-        return True
+        chapter_mtime = chapter_file.stat().st_mtime
+        output_mtime = output_file.stat().st_mtime
+        if chapter_mtime <= output_mtime:
+            print(f"[{index}/{total}] Atlandı (güncel): {output_file.name}")
+            return True
+        else:
+            print(f"[{index}/{total}] Yeniden oluşturuluyor (metin güncellendi): {output_file.name}")
 
     text = chapter_file.read_text(encoding="utf-8")
     clean = clean_text(text)

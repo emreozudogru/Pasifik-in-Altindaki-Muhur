@@ -35,9 +35,16 @@ for i in $(seq -w 1 22); do
         continue
     fi
 
+    # Dosya varsa ve metin daha eski ise atla
     if [ -f "$aiff_file" ]; then
-        echo "[$i/22] Atlandı (zaten var): $aiff_file"
-        continue
+        chapter_mtime=$(stat -f %m "$chapter_file")
+        aiff_mtime=$(stat -f %m "$aiff_file")
+        if [ "$chapter_mtime" -le "$aiff_mtime" ]; then
+            echo "[$i/22] Atlandı (güncel): $aiff_file"
+            continue
+        else
+            echo "[$i/22] Yeniden oluşturuluyor (metin güncellendi): $aiff_file"
+        fi
     fi
 
     echo "[$i/22] İşleniyor: bolum_${i}.txt → $aiff_file"
