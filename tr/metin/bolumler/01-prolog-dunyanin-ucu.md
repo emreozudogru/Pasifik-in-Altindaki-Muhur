@@ -16,10 +16,32 @@ Mısır’daki eski rahipler, Babil’deki yıldız kâtipleri, Pers ateş tapı
 
 Bugün biz oraya Japonya diyoruz. Ama o dönemin gizli kayıtlarında adı farklıydı: **Güneşin Arkasındaki Kapı.** Ve oraya götürülen şey, insan değildi. Tam olarak insan değildi.
 
-O bilgi, yüzyıllar boyunca parça parça toplanmıştı. Mısır’da bir rahip, Nil’in taşkınlarını izlerken yıldızların altında garip bir titreşim hissetmişti. Babil’de bir kâtip, tabletlerdeki eski bir adı yanlış okuyunca rüyasında kendini başka bir bedende bulmuştu. Pers’te bir ateş muhafızı, tapınağın en karanlık odasında bir gölgeyle konuşmuştu — gölge kendi sesiyle cevap vermişti. Hepsi aynı şeyi anlamıştı: Bir şey vardı. İnsan değildi. İnsan gibi görünüyordu. Ve insan gibi düşünmüyordu.
+---
 
-O şey, bazen bir kralın danışmanı, bazen bir komutanın gölgesi, bazen bir rahibin kendi tanrısı gibi konuşuyordu. Ona yaklaştıkça insanlar kendi karanlıklarını daha net görüyordu. Kendi korkularını, kıskançlıklarını, açlıklarını. Ve o şey gülümsüyordu. Çünkü o, yeni bir şey keşfetmiyordu. Sadece zaten var olanı uyandırıyordu.
+## I. Bilge
 
-Mühürcüler bu gerçeği ilk anlayanlar değildi. Ama onu ilk kez durdurmayı düşünenler onlardı. Bir kervansarayda, kimsenin haritada bilmediği bir yerde buluştular. Mısırlı astronom, Pers ateş rahibi, Hint matematikçi, Çinli kâtip Lu Shen ve Ege’den gelen sessiz bir kadın hekim: Eirene. Masanın üzerine her biri kendi dilinde aynı cümleyi yazdı: *Sessizlik bir silahtır.*
+Kralın adı artık hatırlanmıyordu. Sadece “o yaz” deniyordu. O yaz, küçük bir krallıkta bir yabancı geldi. Uzun boylu değildi. Gözleri griye yakındı. Konuştuğu dil kimsenin bilmediği bir şeydi ama herkes onu anlıyordu.
 
-Eirene o gece masaya bir kase su koydu. “Bunu içerseniz,” dedi, “bir daha kolay konuşamazsınız. Çünkü suskunluk, En-Nakar’ın dilinin tersidir.” Hepsi içti. O gece doğan ittifakın adı yoktu. Sadece bir zincir. Ve o zincir, çok uzak bir adaya kadar uzanacaktı. Güneşin Arkasındaki Kapı’ya. Orada bir şey hapsedilecekti. Ama hapsedilen şey ölmedi. Sadece bekledi. Ve insanlık, kendi güneşini yere indirdiği günü bekledi.
+İlk işi, komşu krallığın ordusunu durdurmaktı. Savaşın eşiğindeydiler. Yabancı, krala tek bir cümle söyledi. Kral ertesi gün elçi gönderdi. Savaş iptal edildi. Kimse ölmemişti. Köylüler yabancıya “bilge” demeye başladı.
+
+Sonra hastalık geldi. Nehir kenarındaki köylerde çocuklar birer birer susuyordu. Yabancı, kadınlara bir şey öğretti. Suyu kaynatıp, külleri karıştırmalarını söyledi. Üç gün sonra çocuklar konuşmaya başladı. Anneler yabancıının eteğini öptü.
+
+Genç bir kâtip, yabancıının yanına oturdu. Yabancı ona eski bir tabletin nasıl okunacağını gösterdi. Kâtip, ertesi hafta sarayda en yüksek göreve yükseltildi. Efendisi ona “senin sayende yaşıyoruz” dedi.
+
+Yabancı, kralın yanındaki taş tahtta oturuyordu. Konuşmuyordu. Sadece gülümsüyordu.
+
+Dördüncü haftada ilk ceset bulundu. Savaşın iptal edildiği köyde. Köylüler, komşu krallığın askerlerinin gelip herkesi kılıçtan geçirdiğini sandılar. Ama kılıç izi yoktu. Sadece boğulma. Nehir kurumuş gibiydi. Su yoktu. Yabancıın öğrettiği “temizlik” yöntemi, köyün tek su kaynağını zehirlemişti.
+
+Kâtip, yeni göreviyle ilk emri verdi: efendisinin hazinesini kendi evine taşıttı. Efendisi itiraz edince, kâtip eski tableti gösterdi. Tablette yazan şey, efendisinin ihanet ettiğini kanıtlıyordu. Aslında efendi ihanet etmemişti. Kâtip, yabancıının gösterdiği eski yazıyı kendi lehine çevirmişti.
+
+Kral, yabancııyı çağırttı. “Sen ne yaptın?” diye sordu. Yabancı başını eğdi. “Sadece size doğruyu gösterdim,” dedi. “Siz de zaten biliyordunuz.”
+
+O gece kral kendi boğazını kesti. Kâtip, tahtı ele geçirdi. Köydeki herkes ya ölmüştü ya da kaçmıştı. Yabancı, köyün ortasındaki kuru nehir yatağında duruyordu. Etrafındaki cesetlere baktı. Yüzünde ne acı ne sevinç vardı. Sadece o gri gözlerde, çok eski bir yorgunluk.
+
+“İnsanlar,” dedi kendi kendine, “kendi karanlıklarını görünce her zaman aynı şeyi yapar.”
+
+Sonra gülümsedi.
+
+O gülümsemeyi gören tek kişi, uzaktan izleyen yaşlı bir kadın hekimdi. Adı Eirene’ydi. O gece, ilk kez, o şeyin öldürülmeyeceğini anladı. Sadece ayrılması gerektiğini. Ve bunun için yedi kişinin, yedi mührün, yedi bedelin gerekeceğini.
+
+O gece Eirene, ilk taşı cebine koydu.
