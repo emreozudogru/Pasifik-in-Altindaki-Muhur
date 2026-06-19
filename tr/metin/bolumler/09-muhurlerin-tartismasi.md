@@ -72,6 +72,8 @@ Lu Shen onu okudu. Başını kaldırıp Eirene'ye baktı.
 
 "Kan bir kerelik ödenir," dedi Eirene. "Bedel her nesil sorar." Duraksadı. "Kan yazan, bedeli ödedi sanır. Ama bedel öyle işlemez."
 
+Anadolu’lu usta, kanayan ellerini açtı. “Taş ve kurşun da bedel ister,” dedi. “Biz yedi ayda yedi beden kaybettik. Bu da bir bedel.”
+
 Kimse itiraz etmedi.
 
 Kimse de tam anlamadı.
