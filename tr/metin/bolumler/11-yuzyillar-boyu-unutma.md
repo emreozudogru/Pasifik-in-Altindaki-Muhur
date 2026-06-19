@@ -11,3 +11,5 @@ Her nesilde sadece birkaç kişi gerçeğin küçük bir parçasını öğrendi.
 On üçüncü yüzyılda Moğol fırtınaları Japon kıyılarını dövdüğünde, yaşlı bir keşiş Kuroshima’nın altında hapsedilen “eski düşmanın” denizi kızdırdığını söyledi. Kimse onu dinlemedi. On altıncı yüzyılda tüfekler geldi. On yedinci yüzyılda şogunlar ülkeyi kapattı. On dokuzuncu yüzyılda siyah gemiler Japonya’yı dünyaya açtı. Yirminci yüzyılda imparatorluk yükseldi.
 
 Ve mühür hâlâ oradaydı. Zayıflamıştı. Ama kırılmamıştı. Çünkü En-Nakar’ın söylediği gün henüz gelmemişti. İnsan kendi güneşini yere indirmemişti. Henüz.
+
+Ama o gün yaklaşıyordu. Ve mühür, beklenmedik bir şekilde, ilk kez dışarıdan değil içeriden çatlayacaktı.

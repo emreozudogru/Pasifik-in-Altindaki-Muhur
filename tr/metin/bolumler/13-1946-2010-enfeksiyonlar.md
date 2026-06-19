@@ -15,3 +15,5 @@ En-Nakar bunu anladı. Artık bir kişiyi ele geçirmek yetmezdi. İnsanlığın
 1963’te Dallas’ta görüldüğüne dair zayıf bir not vardı. 1968’de Paris’te öğrenciler arasında dolaştığı söylendi. 1975’te Kamboçya sınırında adı bilinmeyen bir danışmanın, bir yerel milise “insanın temizlenebilir bir fikir olduğunu” anlattığı yazıldı.
 
 Bunların hiçbiri kanıtlanamadı. Çünkü En-Nakar artık antik çağdaki gibi görünmüyordu. Beden değiştirmiyordu belki. Ama kimlik değiştiriyordu. Pasaportlar alıyor, diller öğreniyor, arşivlere giriyor, hastanelerde çalışıyor, yardım kuruluşlarına katılıyor, üniversite derslerine oturuyor, savaş bölgelerinde tercümanlık yapıyor, istihbarat örgütlerinin kenarında dolaşıyordu. İnsanlığı izliyordu. Öğreniyordu. Ve en önemlisi, acele etmiyordu. Çünkü iki bin yıl hapis yatan bir şey için yüz yıl kısa bir sabırdı.
+
+1990'lara gelindiğinde ise artık dijital dünyaya da girmişti. Ve 1999'da, Tokyo'da, bir akademisyen eski bir sandıkla karşılaşacaktı.

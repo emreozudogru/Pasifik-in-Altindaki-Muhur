@@ -6,7 +6,7 @@ Arşiv’de bir Brezilyalı adli bilişim uzmanı, bir Polonyalı dilbilimci, bi
 
 Grubun Türk üyesi Kerem, 2024 yılında İstanbul’daki eski bir sahaf koleksiyonunda garip bir defter buldu. Defteri bulduğu gün Kapalıçarşı’da yağmur yağıyordu. Dükkânın adı **Kör Nokta** idi; sahibi Kerem’e “bu defter seni arıyormuş gibi duruyor” dedi ve fiyat söylemedi. Kerem paranoya sanmıştı. Eve gidip defteri açtığında ilk sayfada, mürekkebi solmuş bir parmak izi vardı. Beş parmak. İnce. Kadın eli. Parmak izinin hemen yanında küçük bir kurşun lekesi ve kül parçası duruyordu.
 
-Defter Osmanlı Türkçesiyle yazılmıştı. Ama içinde daha eski bir metnin kopyası vardı. Metin, 16. yüzyılda Basra’dan gelen bir denizcinin anlattıklarını içeriyordu. Denizci, uzak doğuda “kara taşlı bir ada” gördüğünü ve oradaki keşişlerin “kapının altında konuşan adamdan” bahsettiğini yazmıştı.
+Defter Osmanlı Türkçesiyle yazılmıştı. Ama içinde daha eski bir metnin kopyası vardı. Metin, 16. yüzyılda Basra’dan gelen bir denizcinin anlattıklarını içeriyordu. Denizci, uzak doğuda “kara taşlı bir ada” gördüğünü ve oradaki keşişlerin “kapının altında konuşan adamdan” bahsettiğini yazmıştı. Defterin ilk sayfasında, mürekkebi solmuş bir parmak izi vardı — beş parmak, ince, kadın eli. Ve parmak izinin hemen yanında, küçük bir kurşun lekesi.
 
 Kerem defterin fotoğraflarını gruba gönderdi. Polonyalı dilbilimci Marta, metindeki bir cümleyi çevirdiğinde herkes sustu. Cümle şuydu: “Onu öldürmek isteyen onun işini yapar; onu anlamak isteyen kendi kalbini açar; onu hapsetmek isteyen önce kendini susturur.”
 
