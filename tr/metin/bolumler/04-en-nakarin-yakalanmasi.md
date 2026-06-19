@@ -6,7 +6,7 @@ O vadideki savaş, hiçbir tarih kitabına geçmedi. Çünkü orada üniforma yo
 
 En-Nakar’ın son bedeni genç bir adam görünümündeydi. Yüzünde yara yoktu. Gözleri siyah değildi; aksine açık renkti. Neredeyse gri. Onu ürkütücü yapan şey gözlerinin rengi değildi. Bakışında insanın kendini açıklanmış hissetmesiydi. Sanki sakladığın her yalanı biliyordu. Sanki daha sen doğmadan önce seni bekliyordu.
 
-Mühürcüler onu bir kervan kılığında yakaladı. Mısırlı astronom, bir kervancı gibi davranıyordu. Pers rahibi, yük hayvanlarını süren adamdı. Eirene, yaralı bir yolcu rolündeydi. Çinli kâtip Lu Shen, pusulayı elinde tutuyordu. Plan basitti: En-Nakar’ı zincirlemek, susturmak ve yola çıkmak. Ama o, zincirleri gördüğünde gülümsedi.
+Mühürcüler onu bir kervan kılığında yakaladı. Mısırlı astronom, bir kervancı gibi davranıyordu. Pers rahibi, yük hayvanlarını süren adamdı. Eirene, yaralı bir yolcu rolündeydi. Çinli kâtip Lu Shen, pusulayı elinde tutuyordu. Pusulanın iğnesi titriyordu. Lu Shen not defterine tek bir cümle yazdı: “Yönünü kaybeden pusula, yönünü kaybeden insandan daha dürüsttür.” Sonra sayfayı yırttı ve ateşe attı. Plan basitti: En-Nakar’ı zincirlemek, susturmak ve yola çıkmak. Ama o, zincirleri gördüğünde gülümsedi.
 
 “Beni nereye götüreceksiniz?” diye sordu. Kimse cevap vermedi. Gülümsemesi büyüdü. “Dünyanın sonuna mı?” Yine kimse konuşmadı. O zaman En-Nakar başını eğdi. “Dünya sandığınız kadar uzun değil,” dedi. “İnsan ise sandığınızdan daha kısa.” Bu sözleri duyan dört asker aynı gece kendini öldürdü.
 
