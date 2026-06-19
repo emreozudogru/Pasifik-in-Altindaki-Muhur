@@ -184,6 +184,6 @@ mcps/                     ← AI tool schemas, do not touch
 
 1. **Never modify `tr/metin/orijinal.txt`** — it is the unaltered baseline.
 2. **Never name En-Nakar casually in prose** — every naming is intentional and weight-bearing.
-3. **Commit after every meaningful change** with descriptive messages.
+3. **Every agent (including any sub-agents or spawned agents) must perform a git commit after every meaningful change**, using descriptive commit messages (e.g. `feat: 13 - Enfeksiyon örnekleri era-specific ve non-Voss vessel'larla genişletildi; Voss 2026-only ayrımı netleştirildi`). The main coordinating agent (Grok) will also execute git commits for all coordinated/synthesized changes from sub-agents.
 4. **Do not push to a branch** — work on `main`.
 5. **If you are unsure whether a change preserves tone** — read the surrounding three paragraphs again before applying.
