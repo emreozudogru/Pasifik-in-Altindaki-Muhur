@@ -12,4 +12,4 @@ On üçüncü yüzyılda Moğol fırtınaları Japon kıyılarını dövdüğün
 
 Ve mühür hâlâ oradaydı. Zayıflamıştı. Ama kırılmamıştı. Çünkü En-Nakar’ın söylediği gün henüz gelmemişti. İnsan kendi güneşini yere indirmemişti. Henüz.
 
-Ama o gün yaklaşıyordu. Ve mühür, ilk kez, dışarıdan değil içeriden çatlayacaktı.
+Ama o gün yaklaşıyordu. Ve mühür, beklenmedik bir şekilde, ilk kez dışarıdan değil içeriden çatlayacaktı.
