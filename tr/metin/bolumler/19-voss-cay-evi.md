@@ -8,7 +8,7 @@ Ren, Voss’tan ikinci mesajı nisan ayında aldı. Bu kez mesajda bir adres var
 
 Ren’in eli cebindeki kayıt cihazına gitti. Voss bunu fark etti. “Kaydet,” dedi. “Sesimden korkmuyorum artık. İnsanlar zaten duymak istediklerini duyuyor.” Ren kayıt düğmesine bastı. Kırmızı ışık yandı. Voss bunu görüp hiç tepki vermedi — sanki ışık, onun için yıllar önce sönmüş bir şeydi.
 
-Ren oturdu. “Sen nesin?” Voss çayından bir yudum aldı. “Bu soru hep yanlış soruldu.” “Doğrusunu söyle.” “Ben düşman değilim.” Ren güldü. “Kendini ne sanıyorsun?” “Ben dürüstlük sanıyorum.” “Sen insanları öldürtüyorsun.” “İnsanlar birbirini öldürmek için bana ihtiyaç duymuyor.” “Sen onları itiyorsun.” “Ben sadece kapıyı gösteriyorum.”
+Ren oturdu. “Sen nesin?” Voss çayından bir yudum aldı. Fincanı tutuşu dikkatli ve ağırdı — sanki kurşun bir nesneyi uzun yıllar taşımış ellerin alışkanlığıyla. “Bu soru hep yanlış soruldu.” “Doğrusunu söyle.” “Ben düşman değilim.” Ren güldü. “Kendini ne sanıyorsun?” “Ben dürüstlük sanıyorum.” “Sen insanları öldürtüyorsun.” “İnsanlar birbirini öldürmek için bana ihtiyaç duymuyor.” “Sen onları itiyorsun.” “Ben sadece kapıyı gösteriyorum.”
 
 Ren ona baktı. Voss’un yüzünde kibir yoktu. Bu onu daha korkunç yapıyordu. Çünkü kendini kötü sanmıyordu. Belki de kötülüğün en eski biçimi buydu: Kendini hakikat zannetmek.
 
