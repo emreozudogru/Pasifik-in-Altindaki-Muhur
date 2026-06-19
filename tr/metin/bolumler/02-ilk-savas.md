@@ -14,8 +14,14 @@ O insanları büyülemezdi. Daha kötüsünü yapardı. Onlara, zaten içlerinde
 
 En-Nakar’ın gücü buydu. O, ayna gibiydi. Ama aynaların aksine, insana en karanlık köşesini gösterir ve “Bak, bu sensin,” derdi. Ve insan, o andan itibaren kendi karanlığını inkâr edemezdi. Çünkü artık dışarıdan bir ses onu doğrulamıştı. Tarih kitaplarında bu etkiyi “deli”lik, “ihanet”, “kötü yönetim” diye kaydederler. Kimse o fısıltının varlığını yazmadı. Çünkü yazanlar genellikle fısıltının etkisi altındaydı.
 
-İlk gerçek direniş sessizlikle başladı. Kılıçla, orduyla, tanrı buyruğuyla değil. Sessizlikle. Antik çağların görünmez ittifakı böyle doğdu. İlk buluşma, hiçbir haritada adı geçmeyen bir kervansarayda oldu. Kimse kral adına gelmedi. Kimse tanrı adına yemin etmedi. Sadece taş masanın üzerine, her biri kendi dilinde aynı şeyi yazdı: *Sessizlik bir silahtır.*
+İlk gerçek direniş sessizlikle başladı. Kılıçla, orduyla, tanrı buyruğuyla değil. Sessizlikle.
 
-Eirene o gece masaya bir kase su koydu. “Bunu içerseniz,” dedi ilk kez yüksek sesle, “bir daha kolay konuşamazsınız. Çünkü suskunluk, En-Nakar’ın dilinin tersidir.” Hepsi içti. O andan sonra Mühürcüler’in dili işaretler, bakışlar ve yazıyla oldu. Söz, tehlikeli hale gelmişti.
+Eirene, o kervansaraya vardığında hâlâ köydeki cesetlerin kokusunu taşıyordu. Parmakları cebindeki taşı sıkıyordu. Karşılaştığı ilk kişi, o gri gözlü yabancıının yanından ayrılmış bir kâtipti. Adam titriyordu. “O sadece doğruyu söyledi,” diyordu kendi kendine. “Biz de zaten biliyorduk.”
+
+Eirene ona su uzattı. Adam içmedi. “Konuşursam,” dedi, “daha fazla insan ölecek.” Eirene başını salladı. Suskunluk, o andan itibaren silah haline geldi.
+
+O gece taş masanın başında beş kişi buluştu. Mısırlı astronom, Pers ateş rahibi, Hint matematikçi, Çinli kâtip Lu Shen ve Eirene. Masaya her biri kendi dilinde aynı cümleyi yazdı: *Sessizlik bir silahtır.*
+
+Eirene kaseyi ortaya koydu. “Bunu içerseniz,” dedi, “bir daha kolay konuşamazsınız. Çünkü suskunluk, onun dilinin tersidir.” Hepsi içti. O andan sonra söz tehlikeli hale geldi.
 
 Roma bunu bilmedi. Kartaca bunu bilmedi. Halklar bunu savaş, ticaret ve salgın sanıyordu. Ama imparatorlukların ardında, birbirinden nefret eden devletlerin bile ortak tuttuğu bir sır vardı. **Mühürcüler.** Ve o sır, çok uzaklara, dünyanın ucuna kadar uzanacaktı.
