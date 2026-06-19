@@ -38,7 +38,7 @@ RETRY_DELAY = 5              # Denemeler arası bekleme (saniye)
 # Dosya yolları (script'in bulunduğu klasöre göre)
 SCRIPT_DIR = Path(__file__).parent.resolve()
 OUTPUT_DIR = SCRIPT_DIR / "mp3"
-CHAPTER_DIR = SCRIPT_DIR
+CHAPTER_DIR = SCRIPT_DIR / "metinler"
 PLAYLIST_FILE = SCRIPT_DIR / "playlist.m3u"
 # ================================================
 

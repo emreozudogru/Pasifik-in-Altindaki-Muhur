@@ -1,2 +1,0 @@
-﻿# Pasifik’in Altındaki Mühür - Genişletilmiş Versiyon
-
