@@ -94,6 +94,10 @@ Her biri birbirinin gözüne baktı.
 
 Kimse konuşmadı.
 
+Lu Shen son defterini çıkardı. İçindeki son sayfayı yırttı, ateşe attı. Kül kapının eşiğine savruldu. “İsimler yanar,” dedi. “Sadece iz kalır.”
+
+Anadolu’lu usta, son kurşun halkayı döktü. Elleri titriyordu. Halka soğurken, usta yere oturdu ve bir daha kalkmadı.
+
 Eirene en sona kaldı.
 
 Bıçağı aldı. Avucunu kesti. Ama kanı kapıya sürmedi.
