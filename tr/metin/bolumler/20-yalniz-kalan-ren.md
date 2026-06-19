@@ -13,3 +13,5 @@ Ren bunu ilk başta zayıf buldu. Bir varlığı “dikkat etmemekle” yenmek s
 En-Nakar insan zihninin karanlığıyla çalışıyordu. Korkuyu büyütüyor, öfkeyi yönlendiriyor, arzuyu adlandırıyor, yalanı kimlik yapıyordu. Onun en sevdiği şey dikkat olmalıydı. Çünkü dikkat, modern çağın kanıydı.
 
 Ren karar verdi. Onu ifşa etmeyecekti. Çünkü ifşa etmek onu büyütebilirdi. Onun adını yaymayacaktı. Çünkü isim kapıydı. Bunun yerine eski Mühürcülerin yaptığı şeyi yapacaktı: Az kişiye, doğru bilgiyi, kontrollü biçimde aktaracaktı. Bir karşı ağ kuracaktı. Gösterişli değil. Kahramanca değil. Viral değil. Sessiz.
+
+Kerem’in dosyasındaki kurşun lekesi ve parmak izi taraması hâlâ ekranın köşesinde duruyordu. Ren parmağını ekrana bastırdı — kendi parmak izi, eski izle örtüşmedi. Ama yan yana durdular.
