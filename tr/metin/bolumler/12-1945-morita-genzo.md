@@ -14,7 +14,7 @@ Bekçinin adı Morita Genzo’ydu. Yetmiş yaşındaydı. Görevin gerçek anlam
 
 Morita kaçmadı. Elinde paslı bir tüfek vardı. Dizleri titriyordu. Adanın ortasındaki taş kapıya doğru yürüdü. Kapı tamamen açılmamıştı. Sadece aralanmıştı. İçeriden bir koku geliyordu. Çürüme değil. Yanık et değil. Deniz yosunu değil. Eski kâğıt kokusu. Kuru kan ve toz kokusu.
 
-Morita kapının önünde durdu. Taşların üzerindeki sembollerden birini tanıdı — dedesinin öğrettiği, anlamını bilmediği işaret. Elini uzatıp geri çekti. Obsidyen duvar, Hiroşima’dan gelen ışığı yutmamıştı; ama içeriden, çok uzaktan, bir nabız gibi sıcaklık yükseliyordu. Sanki ada nefes alıyordu. İlk kez.
+Morita kapının önünde durdu. Taşların üzerindeki sembollerden birini tanıdı — dedesinin öğrettiği, anlamını bilmediği işaret. Yanında, çok soluk, beş parmak izi vardı. Parmaklar inceydi. Morita dokunmadı. Obsidyen duvar, Hiroşima’dan gelen ışığı yutmamıştı; ama içeriden, çok uzaktan, bir nabız gibi sıcaklık yükseliyordu. Sanki ada nefes alıyordu. İlk kez.
 
 İçeriden bir ses geldi. Çok yumuşak. Çok tanıdık. Ölmüş karısının sesi. “Genzo,” dedi. “Çok bekledim.” Yaşlı adam gözlerini kapattı. Tüfeği kaldırdı. Kapıya ateş etti. Kurşun sekip taşlara çarptı. Ses sustu.
 
