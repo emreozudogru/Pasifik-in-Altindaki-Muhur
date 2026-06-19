@@ -10,7 +10,7 @@ Bir rahip, tanrısının En-Nakar’ın içinde hapsedildiğine inandı. Dilini 
 
 Bir denizci, geminin altındaki suyun aslında gökyüzü olduğunu söyledi ve kendini denize attı. Vücudu bulunamadı. Sadece bir sandalye ve bir halat kaldı. Halatta kendi adının düğümü vardı.
 
-Bu yüzden son gemide sadece sağır muhafızlar görev yaptı. İletişim işaretlerle yapılıyordu. Geminin ortasında üç katlı bir sandık vardı. Dış katman sedir ağacıydı. İkinci katman kurşundu. Üçüncü katman cilalanmış siyah taştı. Sandığın içinde zincirlenmiş beden oturuyordu. Yemek verilmiyordu. Su verilmiyordu. Buna rağmen ölmedi.
+Bu yüzden son gemide sadece sağır muhafızlar görev yaptı. İletişim işaretlerle yapılıyordu. Geminin ortasında üç katlı bir sandık vardı. Dış katman sedir ağacıydı. İkinci katman kurşundu. Üçüncü katman cilalanmış siyah taştı. Sandığın içinde zincirlenmiş beden oturuyordu. Yemek verilmiyordu. Su verilmiyordu. Buna rağmen ölmedi. Bir muhafız, her gece sandığın kapağındaki kurşun halkaları kontrol ediyordu. Halkalardan biri gevşemişti. O muhafız, halkayı kendi eliyle sıkılaştırdı ve ertesi gün kendi bileğini kesti. Kimse nedenini sormadı.
 
 Bazen sandığın içinden tırnak sesi gelirdi. Bazen çocuk ağlaması. Bazen de içeriden, gemideki herkesin kendi sesiyle fısıltılar duyduğu söylenirdi. Ama sağır muhafızlar duymadı. Onlar sadece sandığın kapağındaki mühürlerin titrediğini gördüler. Ve sonunda, sisli bir sabah, doğudaki adalara vardılar.
 
