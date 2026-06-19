@@ -16,4 +16,6 @@ Bazen sandığın içinden tırnak sesi gelirdi. Bazen çocuk ağlaması. Bazen 
 
 Yolculuğun ilk yılında, Mühürcüler’den biri daha ayrıldı. Hint matematikçiydi. Sayıları seven, sessiz bir adamdı. Bir gece, En-Nakar’ın rüyasında bir denklem çözdüğünü gördü. Denklem, kendi ölümünü gösteriyordu. Sabah uyandığında, parmaklarını saymaya başladı. Bir, iki, üç… ve parmakları yetmedi. “Ben zaten ölmüşüm,” dedi. Sonra zincirleri tutan ipi kendi boğazına sardı.
 
-Eirene, cesedini denize vermeden önce parmaklarını saydı. Yedi parmak. Tam yedi. O gece ilk kez, Mühürcüler’den biri yüksek sesle ağladı. Lu Shen, “Ağlama,” dedi. “Ağlarsan o kazanır.” Eirene cevap verdi. İlk kez, net ve yüksek: “Ağlamak, onun dışında kalmaktır.” O andan sonra ağlama serbestti. Ama fısıltı yasak.
+Eirene, cesedini denize vermeden önce matematikçinin ellerine baktı. Donmuş parmaklara. Onları açtı, saydı. On parmak. Tam sayı. Ama hesabı tutmamıştı.
+
+O gece ilk kez, Mühürcüler’den biri yüksek sesle ağladı. Lu Shen, “Ağlama,” dedi. “Ağlarsan o kazanır.” Eirene cevap verdi. İlk kez, net ve yüksek: “Ağlamak, onun dışında kalmaktır.” O andan sonra ağlama serbestti. Ama fısıltı yasak.

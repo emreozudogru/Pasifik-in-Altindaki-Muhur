@@ -1,9 +1,85 @@
-# 07 — Yolculuk 3
+# 07 — Yolculuk 3: Son Yaklaşım
 
-🌑 **Pasifik’in Altındaki Mühür**
+🌑 **Pasifik'in Altındaki Mühür**
 
-Son yılda, En-Nakar sustu. Ama sessizliği daha korkunçtu. Artık rüyalar gelmiyordu. Tırnak sesleri gelmiyordu. Çocuk ağlaması gelmiyordu. Sadece bir şey vardı: Beklenti.
+Son yılda, En-Nakar sustu.
 
-Mühürcüler, geminin güvertesinde durup denize bakıyorlardı. Her biri, adayı ilk görecek olanın kendisi olmasını umuyordu. Çünkü ada, kurtuluş demekti. Ama aynı zamanda, son durak. Lu Shen, pusulayı elinde tutuyordu. İğne titriyordu. “Kuzey,” dedi. Sonra “Doğu,” dedi. Sonra “Hiçbir yer.”
+Ama sessizliği daha korkunçtu.
 
-Eirene, parmak izini taşa bastırdığı anı hatırladı. Yedi parmak. Bedel her nesil sorar. O gece, son muhafızlardan biri, sağır olmasına rağmen, bir şey duyduğunu söyledi. “Deniz,” dedi. “Deniz konuşuyor.” Ertesi sabah, sisli bir sabah, doğudaki adalara vardılar. Kuroshima. Kara Ada. Ve orada, her şey bitecekti. Veya başlayacaktı.
+Artık rüyalar gelmiyordu. Tırnak sesleri gelmiyordu. Çocuk ağlaması gelmiyordu. Sandığın içinden hiçbir ses çıkmıyordu. Bu, bir huzurun değil, bir hesaplamanın sessizliğiydi.
+
+Mühürcüler bunu biliyordu.
+
+Çünkü En-Nakar'ın fısıldadığı dönemlerde kaybettiklerini sayabiliyorlardı. Sustuğunda ise neyin kaybolduğunu bilemiyorlardı.
+
+Gemi, yedi yıllık yolculuğun son ayında daha yavaş ilerliyordu. Deniz değişmişti. Renkler farklıydı. Ufuk çizgisi, batıda alıştıkları mavi değil, yeşilimsi gri bir şeydi. Kuşlar farklı cinsti. Su farklı kokuyordu.
+
+Eirene bu değişiklikleri kaydediyordu. Söz değil, işaretlerle. Küçük sembolleri şerit kâğıda çiziyordu. Kaydın ne işe yarayacağını bilmiyordu. Ama kaydetmek, gözlemlemek demekti. Ve gözlemlemek, hâlâ burada olmak demekti.
+
+Lu Shen pusulayı elinde tutuyordu.
+
+İğne titriyordu. Kuzeyi kaybedip buluyordu. Ada yaklaştıkça bu titreme arttı.
+
+"Kuzey," dedi bir gün. Sonra "Doğu." Sonra durdu. "Hiçbir yer." Sesi düz çıkmıştı. Korku değil. Tespit.
+
+Mısırlı astronom güneş gözlemi yaparak yollarını doğruluyordu. Ama bu enlemlerde güneş de alışıldık değildi. "Haritalar biter," dedi bir gece. "Ben sona geldim."
+
+"Haritalar değil," dedi Eirene. "Biz sona geliyoruz."
+
+---
+
+Son haftada, muhafızlardan biri uyurken konuşmaya başladı.
+
+Sağırdı.
+
+Ama uyurken konuşuyordu.
+
+Kelimeler net değildi. Ama cümle yapısı belliydi. Biri onu ikna etmeye çalışıyordu. Muhafız uyandığında hiçbir şey hatırlamıyordu. Sadece elleri titriyordu.
+
+Ertesi gece aynı şey oldu.
+
+Üçüncü gece, Eirene muhafızın yanına oturdu. Sabaha kadar uyumadı. Muhafız bu kez konuşmadı.
+
+Sabah herkes bunu fark etmişti.
+
+"Nasıl?" diye sordu Lu Shen, işaretlerle.
+
+Eirene başını iki yana salladı. Bilmiyorum. Ama bunu yaptım. Yeterli.
+
+---
+
+Adayı gördüklerinde sis içindeydi.
+
+Önce koku geldi. Volkanik taşın yanmış, metalik kokusu. Sonra ses — denizin kayalara çarptığı düzensiz ses, alıştıklarından farklıydı. Kıyı, kırık bir dil gibi konuşuyordu.
+
+Sonra sis açıldı.
+
+Ada, beklenenden küçüktü.
+
+Volkanik kayalar. Rüzgârla yamulmuş birkaç ağaç. Koyu, neredeyse siyah bir siluet.
+
+Mühürcüler güverte kenarında durdu.
+
+Kimse konuşmadı.
+
+Sandıktan ses gelmiyordu.
+
+Eirene, parmak izini taşa bastırdığı anı hatırladı — yolculuğun ikinci yılında, fırtınanın ardından. O iz hâlâ oradaydı. Kendi eli. Kendi kanı. Beş parmak, ince. Sanki taşa bir soru sorumuştu.
+
+Şimdi cevap önündeydi.
+
+Kara Ada.
+
+Kuroshima.
+
+"Her şey biter mi burada?" diye sordu Mısırlı.
+
+"Her şey başlar," dedi Eirene.
+
+Kimse buna itiraz etmedi.
+
+Gemi kıyıya yaklaştı.
+
+Sis yeniden kapandı.
+
+Ve aşağıda, sandığın içinde, iki bin yıl sürecek bir bekleme sessizce başladı.

@@ -1,9 +1,117 @@
 # 10 — Yedi Mühür
 
-🌑 **Pasifik’in Altındaki Mühür**
+🌑 **Pasifik'in Altındaki Mühür**
 
-En-Nakar taş odaya indirildiğinde yedi gündür ilk kez gözlerini açtı. Duvara baktı. Sembollere. Sonra Mühürcülere. Ve güldü. Bu kez sesi duyulmadı. Çünkü odanın girişinde gümüş kaplama üç perde vardı. Ama herkes onun güldüğünü gördü. Sonra dudakları kıpırdadı. Lu Shen, dudaklarını okuyabildi. “Bir gün,” diyordu. “İnsan kendi güneşini yere indirecek.” Kimse anlamadı.
+Sabah henüz gelmemişti.
 
-Kapı kapandı. Yedi mühür vuruldu. İlk mühür taş. İkinci mühür gümüş. Üçüncü mühür kurşun. Dördüncü mühür isim. Beşinci mühür sessizlik. Altıncı mühür unutma. Yedinci mühür kan. Lu Shen bunu böyle yazdı. Eirene’nin taşa kazdığı kelime farklıydı — bedel. Ama Lu Shen, bedelin her dilde aynı şekilde okunmayacağını biliyordu. Kan somuttu. Bedel soyuttu. İnsanlar somutu severdi. Bu yüzden kayıt kan oldu.
+Kapı obsidyen odanın girişinde duruyordu. Ağır. Siyah. Işığı yutuyordu. Mühürcüler sırayla yaklaştı.
 
-Son mühürde, Mühürcülerin her biri avucunu kesti ve kanını kapıya sürdü. Lu Shen bunu yazdı. Eirene ise yazmadı. Sadece kapının eşiğine oturdu ve elini taşa bastırdı. Kanı kuruduğunda parmak izi kaldı — diğerlerininkinden daha sığ, daha ince. Sanki beden değil, bir soru bırakmıştı. Böylece hapishane tamamlandı. Ve En-Nakar dünyanın ucuna gömüldü.
+---
+
+**Birinci mühür: Taş.**
+
+Anadolu'lu usta, kıyıdan getirdiği yassı bir kayayı kapının üstüne yerleştirdi. Kazıdı. Kazdığı işaret tek bir soru gibiydi: *Burada ne var?* Ama soru işareti yoktu. Çünkü cevap biliniyordu. Sadece söylenmeyecekti.
+
+Taş, dilin bitmesi demekti.
+
+---
+
+**İkinci mühür: Gümüş.**
+
+Pers rahibi, yolculuk boyunca sakladığı gümüş plakayı çıkardı. Bir tapınaktan alınmıştı — tanrının mührüydü. Şimdi farklı bir şey için kullanılıyordu. Rahip, gümüşü kapının sol köşesine çaktı. El titremedi. Ama dudakları titredi.
+
+Gümüş, kirleneni yansıtırdı.
+
+Bu da bir kapının kendisi değil, aynasıydı.
+
+---
+
+**Üçüncü mühür: Kurşun.**
+
+Arabistanlı tüccar kurşunu kendi eliyle eritip kapının kilit yerine döktü. Soğudu. Katılaştı. Ağırlık, kapının içine geçti.
+
+Kurşun, yükü tutandı.
+
+Ve bu yük, iki bin yıl taşınacaktı.
+
+---
+
+**Dördüncü mühür: İsim.**
+
+Kimse konuşmadı.
+
+Bu mühür, konuşmakla değil, konuşmamakla vuruluyordu. Lu Shen kâğıda En-Nakar'ın bütün adlarını yazdı — Sümerce, Mısırca, Aramice, Sanskritçe. Sonra kâğıdı yaktı. Küller kapının eşiğine döküldü.
+
+İsim yasaklandığında, kül geriye kalan tek işaretti.
+
+---
+
+**Beşinci mühür: Sessizlik.**
+
+Mühürcüler bir dakika boyunca — hiç kimse bilmiyordu kaç dakika olduğunu, çünkü saymıyorlardı — sesini çıkarmadı. Rüzgâr vardı. Deniz vardı. Ve içeriden, taşın derinliğinden, çok yavaş, çok alçak bir şey duyuluyordu.
+
+Nefes gibi.
+
+Ama derin.
+
+Çok derin.
+
+Kimse tepki vermedi. Çünkü tepki vermek, duymak demekti. Duymak, kabul etmek demekti.
+
+Sessizlik kırılmadı.
+
+Mühür tuttu.
+
+---
+
+**Altıncı mühür: Unutma.**
+
+Bu mühür için bir nesne yoktu.
+
+Sadece bir karar vardı.
+
+Mühürcüler sıraya girdi. Her biri kapıya yaklaştı ve içinden bir şey sildi. Mısırlı, adayı haritasından sildi. Pers, tapınak kayıtlarından sildi. Anadolu'lu, taş üzerindeki en kritik işareti gömülü bir levhaya gömdü. Arabistanlı, yolculuğun asıl hedefini ticaret rotası olarak yeniden yazdı.
+
+Ve Eirene, Kos'taki bir dostu olan yaşlı bir papirüs ustasına mektup yazdı. "Bu adı bir daha yazma," dedi. "Eğer yazarsan şifre kullan. Eğer şifre yetmezse unut."
+
+Unutma, tarihin en güçlü silahıydı.
+
+Çünkü insanlar kaybettiklerini arar, bildiklerini kullanır. Hiç bilmedikleri şeyi aramaz.
+
+---
+
+**Yedinci mühür: Kan.**
+
+Lu Shen bıçağını çıkardı.
+
+Avucunu kesti.
+
+Kan, obsidyen kapıya sürüldü. Diğerleri sırayla aynı şeyi yaptı. Mısırlı. Pers. Arabistanlı. Anadolu'lu.
+
+Her biri kanını kapıya koydu.
+
+Her biri birbirinin gözüne baktı.
+
+Kimse konuşmadı.
+
+Eirene en sona kaldı.
+
+Bıçağı aldı. Avucunu kesti. Ama kanı kapıya sürmedi.
+
+Kapının eşiğine çöktü. Elini taşa bastırdı.
+
+Kendi kanını bıçağın ağzıyla değil, parmağıyla çizdi. Yavaş. Tek tek.
+
+Kanı kuruduğunda parmak izi kaldı.
+
+Diğerlerinin bıraktığı geniş, koyu izlerin yanında, o iz ince ve soluktu. Sanki beden değil, bir soru bırakmıştı.
+
+Lu Shen ona baktı.
+
+"Kan değil," dedi Eirene. "Bedel. Ama kan yeterliydi, benim için."
+
+Kapı kapandı.
+
+Yedi mühür vurulmuştu.
+
+Ve yerin altında, obsidyen odada, iki bin yıllık bir bekleme başladı.

@@ -8,6 +8,10 @@ Bir gece, fırtına o kadar şiddetliydi ki, gemi ikiye bölündü. Mühürcüle
 
 Eirene, geminin kırık direğine tutunmuş halde, Lu Shen’e bir işaret yaptı. “Ağla,” dedi işaretlerle. “Ağlamak, sayılardan daha güçlü.” O fırtınadan sonra, gemi onarıldı. Ama Mühürcüler’den biri daha azaldı.
 
-Üçüncü yılda, En-Nakar konuşmaya başladı. Artık fısıltı değil, açıkça. Bir muhafızın kulağına, “Annen seni bekliyor,” dedi. Muhafız, zincirleri gevşetti. Sonra kendi bileklerini kesti. Başka bir gece, Eirene’ye döndü. “Bedel,” dedi. “Senin bedelin ne olacak? Onu ödeyecek misin, yoksa başkasına mı ödeteceksin?”
+Üçüncü yılda, En-Nakar konuşmaya başladı. Artık fısıltı değil, açıkça. Bir muhafızın kulağına, "Annen seni bekliyor," dedi. Muhafız, zincirleri gevşetti. Sonra kendi bileklerini kesti. Başka bir gece, Eirene'ye döndü. "Bedel," dedi. "Senin bedelin ne olacak? Onu ödeyecek misin, yoksa başkasına mı ödeteceksin?"
 
-Eirene cevap vermedi. Ama o gece, parmaklarını saydı. Yedi parmak. Tam yedi. Ve yedinci parmağını, sandığın yanındaki taşa bastırdı. İz kaldı. Yüzyıllar sonra, o iz hâlâ oradaydı.
+Eirene cevap vermedi. O gece uzun süre oturdu. Fırtınanın bıraktığı ağır, tuzlu sessizlikte. Sonra sandığın yanındaki düzgün bir taş yüzeyi buldu. Elini açtı. Beş parmak. İnce, hekim eli. Bastırdı. Bıçağın ağzıyla kendi parmak ucunu çizdi — hafifçe, sadece iz bırakacak kadar. Kanı taşa geçti.
+
+İz kaldı.
+
+O iz, yolculuğun geri kalanında kimse tarafından görülmedi. Ama taş adaya ulaştı. Ve yüzyıllar sonra, başka bir elde, başka bir yüzyılda, biri o izi tanıyacaktı.
