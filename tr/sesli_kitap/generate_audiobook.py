@@ -12,6 +12,7 @@ Veya çift tıkla: run_audiobook.bat
 """
 
 import asyncio
+import re
 import sys
 import time
 from pathlib import Path
@@ -55,6 +56,8 @@ def clean_text(text: str) -> str:
         line = line.strip()
         if line.startswith("#") or line.startswith("---") or not line:
             continue
+        # Emoji ve özel karakterleri temizle
+        line = re.sub(r'[🌑]', '', line)
         line = " ".join(line.split())
         lines.append(line)
     return "\n".join(lines)
