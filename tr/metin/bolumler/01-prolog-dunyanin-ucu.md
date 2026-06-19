@@ -8,7 +8,7 @@
 
 MÖ 217 yılı.
 
-Roma henüz bütün dünyaya hükmetmiyordu. Çin’de Han Hanedanı gücünün zirvesindeydi. Hindistan’da imparatorluklar parçalanıp yeniden birleşiyor, Akdeniz’de Kartaca ile Roma birbirini boğazlıyordu. O zamanlar dünyanın haritaları eksikti. İnsanlar doğuya gittikçe güneşin doğduğu yere, batıya gittikçe ölülerin ülkesine varacaklarına inanırlardı. Denizlerin sonunda uçurumlar, dağların ardında tanrıların sarayları, çöllerin ötesinde cinlerin şehirleri olduğu söylenirdi.
+Roma henüz bütün dünyaya hükmetmiyordu. Çin’de Qin Hanedanı son yıllardaydı. Hindistan’da imparatorluklar parçalanıp yeniden birleşiyor, Akdeniz’de Kartaca ile Roma birbirini boğazlıyordu. O zamanlar dünyanın haritaları eksikti. İnsanlar doğuya gittikçe güneşin doğduğu yere, batıya gittikçe ölülerin ülkesine varacaklarına inanırlardı. Denizlerin sonunda uçurumlar, dağların ardında tanrıların sarayları, çöllerin ötesinde cinlerin şehirleri olduğu söylenirdi.
 
 Ama bazıları daha fazlasını biliyordu.
 
