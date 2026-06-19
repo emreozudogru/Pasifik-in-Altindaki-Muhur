@@ -1,39 +1,26 @@
 #EXTM3U
 # Sesli Kitap: Pasifik'in Altındaki Mühür
 # Yazar: Emre Ozudogru
-# Olusturulma: 2026-06-18 00:01
 
-#EXTINF:-1,bolum_04
+mp3/bolum_01.mp3
+mp3/bolum_02.mp3
+mp3/bolum_03.mp3
 mp3/bolum_04.mp3
-
-#EXTINF:-1,bolum_05
 mp3/bolum_05.mp3
-
-#EXTINF:-1,bolum_06
 mp3/bolum_06.mp3
-
-#EXTINF:-1,bolum_10
+mp3/bolum_07.mp3
+mp3/bolum_08.mp3
+mp3/bolum_09.mp3
 mp3/bolum_10.mp3
-
-#EXTINF:-1,bolum_11
 mp3/bolum_11.mp3
-
-#EXTINF:-1,bolum_15
+mp3/bolum_12.mp3
+mp3/bolum_13.mp3
+mp3/bolum_14.mp3
 mp3/bolum_15.mp3
-
-#EXTINF:-1,bolum_17
+mp3/bolum_16.mp3
 mp3/bolum_17.mp3
-
-#EXTINF:-1,bolum_18
 mp3/bolum_18.mp3
-
-#EXTINF:-1,bolum_19
 mp3/bolum_19.mp3
-
-#EXTINF:-1,bolum_20
 mp3/bolum_20.mp3
-
-#EXTINF:-1,bolum_22
+mp3/bolum_21.mp3
 mp3/bolum_22.mp3
-
-
