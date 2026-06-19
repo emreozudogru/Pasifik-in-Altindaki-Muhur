@@ -6,7 +6,7 @@ En-Nakar özgür kaldığında dünyaya hemen saldırmadı. Çünkü artık dün
 
 En-Nakar bunu anladı. Artık bir kişiyi ele geçirmek yetmezdi. İnsanlığın çalışma biçimini öğrenmesi gerekiyordu. Ve saklandı.
 
-1946’da onu ilk kez bir Amerikan askeri doktoru gördü. Nagasaki yakınlarında, yanık tedavisi gören insanlar arasında yüzünde yara olmayan bir adam vardı. Japonca konuşmuyordu. İngilizce de bilmiyordu. Ama doktorun günlüğüne göre adam, üç gün içinde hemşirelerin adlarını, askerlerin korkularını ve hastanedeki morfin stokunun yerini öğrenmişti. Dördüncü gün kayboldu. Arkasında sadece bir cümle bıraktı: “Acı, insanın ortak dilidir.”
+1946’da onu ilk kez bir Amerikan askeri doktoru gördü. Nagasaki yakınlarında, yanık tedavisi gören insanlar arasında yüzünde yara olmayan bir adam vardı. Japonca konuşmuyordu. İngilizce de bilmiyordu. Ama doktorun günlüğüne göre adam, üç gün içinde hemşirelerin adlarını, askerlerin korkularını ve hastanedeki morfin stokunun yerini öğrenmişti. Dördüncü gün kayboldu. Yatağının altında, paslı bir kurşun parçası ve kül lekesi bulundu. Arkasında sadece bir cümle bıraktı: “Acı, insanın ortak dilidir.”
 
 1951’de Kore Savaşı sırasında bir tercümanın notlarında benzer biri geçti. Taraf değiştiren esirler, cephede kimsenin tanımadığı sakin bir adamın onlara “evlerine dönmek için kimi öldürmeleri gerektiğini” anlattığını söyledi.
 
