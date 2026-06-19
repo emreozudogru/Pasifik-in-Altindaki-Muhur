@@ -18,6 +18,6 @@ Sonunda Çinli kâtip Lu Shen şunu yazdı: “Bedenini öldürmek, gölgesine k
 
 Mühürcüler’in asıl gücü, birbirlerini sevmemelerinden geliyordu. Mısırlı astronom, Pers rahibine tapınağının ateşi için “sadece duman” demişti. Hint matematikçi, Çinli kâtibin sayılarını “çocuk oyuncağı” diye alaya almıştı. Anadolu’lu taş ustası, Arabistanlı tüccara “kan parası ödeyen” demişti. Ama hepsi, aynı hastayı aynı gözbebeğinde görmüştü.
 
-Eirene, toplantılarda en az konuşan kişiydi. Ama en çok dinleyen oydu. Bir keresinde, Mısırlı astronom “onu parçalarsak biter” dediğinde, Eirene sadece başını iki yana sallamıştı. Taşın üzerine tek kelime kazımıştı: **Bedel.**
+Eirene, toplantılarda en az konuşan kişiydi. Ama en çok dinleyen oydu. Parmakları cebindeki taşa değiyordu — o köyde bıraktığı ilk taşın aynısı. Bir keresinde, Mısırlı astronom “onu parçalarsak biter” dediğinde, Eirene sadece başını iki yana sallamıştı. Taşın üzerine tek kelime kazımıştı: **Bedel.**
 
 O kelime, yıllar sonra Kerem’in eline geçecekti. Ve Kerem, o kelimenin ne kadar ağır olduğunu anlayacaktı. Mühürcüler, En-Nakar’ı yok etmeye çalışırken kendi karanlıklarını da gördüler. Bir Mısırlı rahip, En-Nakar’ın parçalandığı gece kendi oğlunu kıskandığını fark etti. Bir Pers muhafızı, yangından sonra tapınağın hazinesini düşündüğünü itiraf etti. Hepsi, o şeyin onları “daha iyi” yapmadığını, sadece daha dürüst yaptığını anladı. Ve dürüst olmak, en tehlikeli şeydi. Çünkü dürüst bir insan, kendi karanlığını inkâr edemezdi.
