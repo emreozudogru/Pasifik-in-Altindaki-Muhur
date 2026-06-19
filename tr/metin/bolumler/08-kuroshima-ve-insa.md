@@ -6,6 +6,8 @@ Japon adalarının güneybatısında, bugün haritalarda adı olmayan küçük b
 
 Mühürcüler burayı seçti. Adanın ortasında eski bir lav tüneli vardı. Tünel yerin altına doğru kıvrılıyor, sonra geniş bir doğal odaya açılıyordu. O odanın duvarları cam gibi parlak siyah obsidyendi. Çinli kâtip burayı görünce diz çöktü. “Toprak burada eski bir yarayı kapatmış,” dedi. Kimse ne demek istediğini sormadı.
 
+Eirene, cebindeki taşı tutuyordu — yedi yıllık yolculukta parmak izi derinleşmişti. Lu Shen, son defterini sıkıca kavramıştı; sayfaların çoğu yanmıştı. Anadolu’lu usta ise ellerindeki yaraları sayıyordu; her halka, her taş için bir yara. Üçü de aynı şeyi düşünüyordu: Burası, son durak olmalıydı.
+
 Hapishane yedi ayda inşa edildi. Taşlar kıyıdan taşındı. Gümüş levhalar duvarlara gömüldü. Kurşun halkalar zemine çakıldı. Obsidyenin üzerine semboller kazındı. Bu semboller tek bir medeniyete ait değildi. Mısır hiyeroglifleri, Arami harfleri, Sanskrit işaretleri, eski Çin karakterleri ve henüz adı olmayan yerel Japon kabile işaretleri aynı duvarda birleşti. Bu yüzden mührün gücü bir dinden gelmiyordu. Bir ortak karardan geliyordu. İnsanın, kendi karanlığını dışarıda bırakma kararından.
 
 En-Nakar taş odaya indirildiğinde yedi gündür ilk kez gözlerini açtı.
