@@ -78,7 +78,7 @@ Kimse itiraz etmedi.
 
 Kimse de tam anlamadı.
 
-Lu Shen kâğıdı katlayıp içine yerleştirdi. Ama *bedel* kelimesini *kan* olarak kaydetti. Çünkü insanların anlayacağı dil, somut olandı. Kan somuttu. Bedel soyuttu. Ve soyutun torunları olmuyordu.
+Lu Shen kâğıdı katlayıp içine yerleştirdi. Ama *bedel* kelimesini *kan* olarak kaydetti. Taş üzerine kazınacak kelime somut olmalıydı — Çin saray kayıtlarında da böyleydi. Soyut kelimeler unutulurdu. Kan somuttu. Bedel soyuttu. Ve soyutun torunları olmuyordu.
 
 Eirene bunu biliyordu.
 
