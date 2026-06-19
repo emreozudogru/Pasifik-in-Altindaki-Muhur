@@ -14,14 +14,13 @@ set -e
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 CHAPTER_DIR="$SCRIPT_DIR/metinler"
 OUTPUT_DIR="$SCRIPT_DIR/aiff"          # mp3 yerine aiff klasörü
-VOICE="Samantha"                       # macOS kadın sesi
-RATE="180"                             # Konuşma hızı
+
 
 mkdir -p "$OUTPUT_DIR"
 
 echo "========================================"
 echo "  Pasifik’in Altındaki Mühür - macOS"
-echo "  Ses: $VOICE | Hız: $RATE"
+
 echo "  Çıktı: .aiff"
 echo "========================================"
 echo
@@ -49,7 +48,7 @@ for i in $(seq -w 1 22); do
 
     echo "[$i/22] İşleniyor: bolum_${i}.txt → $aiff_file"
 
-    say -f "$chapter_file" -o "$aiff_file" -v "$VOICE" -r "$RATE"
+    say -f "$chapter_file" -o "$aiff_file" 
 
     echo "[$i/22] ✓ Oluşturuldu: $aiff_file"
 done
