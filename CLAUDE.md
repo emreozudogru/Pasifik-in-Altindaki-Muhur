@@ -13,33 +13,33 @@
 
 1. **Read the original Turkish draft first** (canonical source):
    ```
-   metin/orijinal.txt
+   tr/metin/orijinal.txt
    ```
 
 2. **Then read all 22 expanded chapters in order:**
    ```
-   metin/bolumler/01-prolog-dunyanin-ucu.md
-   metin/bolumler/02-ilk-savas.md
-   metin/bolumler/03-muhurculerin-toplanmasi.md
-   metin/bolumler/04-en-nakarin-yakalanmasi.md
-   metin/bolumler/05-yolculuk-1.md
-   metin/bolumler/06-yolculuk-2.md
-   metin/bolumler/07-yolculuk-3.md
-   metin/bolumler/08-kuroshima-ve-insa.md
-   metin/bolumler/09-muhurlerin-tartismasi.md
-   metin/bolumler/10-yedi-muhur.md
-   metin/bolumler/11-yuzyillar-boyu-unutma.md
-   metin/bolumler/12-1945-morita-genzo.md
-   metin/bolumler/13-1946-2010-enfeksiyonlar.md
-   metin/bolumler/14-arakawa-ve-ren.md
-   metin/bolumler/15-arsivin-olusumu.md
-   metin/bolumler/16-dijital-cag-ve-suphe.md
-   metin/bolumler/17-voss-ilk-karsilasma.md
-   metin/bolumler/18-arsiv-parcalanmasi.md
-   metin/bolumler/19-voss-cay-evi.md
-   metin/bolumler/20-yalniz-kalan-ren.md
-   metin/bolumler/21-son-yuzlesme.md
-   metin/bolumler/22-sekizinci-muhur-ve-kapanis.md
+   tr/metin/bolumler/01-prolog-dunyanin-ucu.md
+   tr/metin/bolumler/02-ilk-savas.md
+   tr/metin/bolumler/03-muhurculerin-toplanmasi.md
+   tr/metin/bolumler/04-en-nakarin-yakalanmasi.md
+   tr/metin/bolumler/05-yolculuk-1.md
+   tr/metin/bolumler/06-yolculuk-2.md
+   tr/metin/bolumler/07-yolculuk-3.md
+   tr/metin/bolumler/08-kuroshima-ve-insa.md
+   tr/metin/bolumler/09-muhurlerin-tartismasi.md
+   tr/metin/bolumler/10-yedi-muhur.md
+   tr/metin/bolumler/11-yuzyillar-boyu-unutma.md
+   tr/metin/bolumler/12-1945-morita-genzo.md
+   tr/metin/bolumler/13-1946-2010-enfeksiyonlar.md
+   tr/metin/bolumler/14-arakawa-ve-ren.md
+   tr/metin/bolumler/15-arsivin-olusumu.md
+   tr/metin/bolumler/16-dijital-cag-ve-suphe.md
+   tr/metin/bolumler/17-voss-ilk-karsilasma.md
+   tr/metin/bolumler/18-arsiv-parcalanmasi.md
+   tr/metin/bolumler/19-voss-cay-evi.md
+   tr/metin/bolumler/20-yalniz-kalan-ren.md
+   tr/metin/bolumler/21-son-yuzlesme.md
+   tr/metin/bolumler/22-sekizinci-muhur-ve-kapanis.md
    ```
 
 3. **Then read the plan docs relevant to your task:**
@@ -55,7 +55,7 @@ Do not skip this step. Do not summarize and move on. Read and retain.
 **Title (TR):** Pasifik'in Altındaki Mühür  
 **Author:** Emre Ozudogru  
 **Genre:** Literary historical fantasy  
-**Language:** Turkish original  
+**Language:** Turkish original (English translation planned)  
 **Structure:** 22 chapters across 4 parts  
 **License:** CC BY 4.0
 
@@ -127,14 +127,15 @@ The most important motif. Eirene presses her five fingers into stone at the thre
 ## 🏗️ Repository Structure
 
 ```
-metin/
-  orijinal.txt          ← NEVER MODIFY — canonical baseline
-  bolumler/             ← 22 expanded chapters (active development)
-sesli_kitap/
-  metinler/             ← plain text for TTS per chapter
-  mp3/                  ← generated audio
-  generate_audiobook.py ← reads from metinler/, writes to mp3/
-  run_audiobook.bat
+tr/
+  metin/
+    orijinal.txt          ← NEVER MODIFY — canonical baseline
+    bolumler/             ← 22 expanded chapters (active development)
+  sesli_kitap/
+    metinler/             ← plain text for TTS per chapter
+    mp3/                  ← generated audio
+    generate_audiobook.py ← reads from metinler/, writes to mp3/
+    run_audiobook.bat
 
 docs/
   tr-implementation-plan.md
@@ -142,6 +143,8 @@ docs/
 
 mcps/                     ← AI tool schemas, do not touch
 ```
+
+---
 
 ## ✍️ Writing Rules (for any editing/generation task)
 
@@ -179,7 +182,7 @@ mcps/                     ← AI tool schemas, do not touch
 
 ## ⚠️ Critical Rules
 
-1. **Never modify `metin/orijinal.txt`** — it is the unaltered baseline.
+1. **Never modify `tr/metin/orijinal.txt`** — it is the unaltered baseline.
 2. **Never name En-Nakar casually in prose** — every naming is intentional and weight-bearing.
 3. **Commit after every meaningful change** with descriptive messages.
 4. **Do not push to a branch** — work on `main`.
