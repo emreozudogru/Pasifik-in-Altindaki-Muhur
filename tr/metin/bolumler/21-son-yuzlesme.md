@@ -4,7 +4,7 @@
 
 Ren, 2026 yazında ortadan kaybolmadı. Öldürülmedi. Tutuklanmadı. Delirmedi. Bu hikâyelerde genelde kahraman ya ölür ya gerçeği dünyaya açıklar ya da son savaşta düşmanı yener. Ren bunların hiçbirini yapmadı. Çünkü Voss’un uyarısını anlamıştı. Kahramanlık bazen düşmanın istediği şeydi.
 
-Bunun yerine Ren küçük işler yaptı. Eski kayıtları üç parçaya böldü. Her parçayı farklı kişilere verdi. Kimse bütünü bilmedi. Kimse tek başına kapıyı açamadı. Kerem’in “bağışıklık” notlarını sadeleştirdi. Akademik makale gibi değil. Manifesto gibi değil. Komplo teorisi gibi hiç değil. Daha çok zihinsel hijyen kuralları gibi.
+Bunun yerine Ren küçük işler yaptı. Eski kayıtları üç parçaya böldü. Bir parçaya parmak izi sayfası, bir parçaya kurşun lekesi ve kül izleri, bir parçaya da yolculukta kırılan kurşun halkaların notları düştü. Her parçayı farklı kişilere verdi. Kimse bütünü bilmedi. Kimse tek başına kapıyı açamadı. Kerem’in “bağışıklık” notlarını sadeleştirdi. Akademik makale gibi değil. Manifesto gibi değil. Komplo teorisi gibi hiç değil. Daha çok zihinsel hijyen kuralları gibi.
 
 Korku anında bekle. Öfke anında yavaşla. Kalabalık seni taşıyorsa yere bas. Birini tamamen şeytanlaştırıyorsan dur. Bir çözüm fazla kolay görünüyorsa maliyetini ara. Sana “başka çare yok” deniyorsa, özellikle şüphe et.
 
