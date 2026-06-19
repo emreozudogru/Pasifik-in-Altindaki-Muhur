@@ -4,7 +4,7 @@
 
 Ren hemen gruba yazdı. “Onu gördüm.” İlk cevap Kerem’den geldi: “Emin misin?” Ren: “Hayır. Ama o beni gördü.”
 
-Bundan sonra olaylar hızlı gelişti. Brezilyalı adli bilişim uzmanı Ana’nın evi soyuldu. Bilgisayarları alınmadı. Sadece eski not defteri kayboldu. Marta’nın üniversite hesabından sahte e-postalar gönderildi. Kariyeri zarar gördü. Daniel hakkında hasta gizliliği ihlali soruşturması açıldı. Kerem’in bulduğu defterin sahibi sahaf, dükkânında yangın çıktığını söyledi. Yangın küçük çaplıydı ama defterin aslı yok olmuştu — özellikle ilk sayfadaki parmak izi ve kurşun lekesi olan yaprak tamamen yanmıştı.
+Bundan sonra olaylar hızlı gelişti. Brezilyalı adli bilişim uzmanı Ana’nın evi soyuldu. Bilgisayarları alınmadı. Sadece eski not defteri kayboldu. Marta’nın üniversite hesabından sahte e-postalar gönderildi. Kariyeri zarar gördü. Daniel hakkında hasta gizliliği ihlali soruşturması açıldı. Kerem’in bulduğu defterin sahibi sahaf, dükkânında yangın çıktığını söyledi. Yangın küçük çaplıydı ama defterin aslı yok olmuştu — özellikle ilk sayfadaki parmak izi ve kurşun lekesi olan yaprak tamamen yanmıştı. Kül, defterin geri kalanından daha siyahtı.
 
 Ren’in evine biri girmedi. Çünkü buna gerek yoktu. Annesi hastaneye kaldırıldı. Sebep basit bir düşmeydi. Ama Ren mesajı aldı. En-Nakar artık antik çağdaki gibi zincirleri kıran bir mahkûm değildi. Modern dünyanın dilini öğrenmişti. Tehdit etmek için kılıca gerek yoktu.
 

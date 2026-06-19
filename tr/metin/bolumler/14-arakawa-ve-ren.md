@@ -4,7 +4,7 @@
 
 Hikâyenin bugüne ulaşan kısmı, 1999 yılında Tokyo Üniversitesi’nde başladı. Profesör Arakawa Naomi, Japon tarihinin kenarda kalmış ada inançları üzerine çalışan bir akademisyendi. Genç değildi. Ünlü de değildi. Ama takıntılıydı. Özellikle eski balıkçı ailelerinin sakladığı sözlü geleneklerle ilgileniyordu. Modern Japonya’nın unuttuğu küçük korkuların, aslında büyük tarihlerin gölgesi olduğuna inanıyordu.
 
-Bir gün Kagoshima’daki yaşlı bir aileden kendisine eski bir sandık gönderildi. Sandığın içinden rutubetli kâğıtlar, kırık bir pusula, paslanmış bir bıçak ve taş üzerine sürtülmüş kopyalar çıktı. Taş kopyalardan birinin kenarında çok soluk beş parmak izi ve kurşun lekesi vardı. Kâğıtların bir kısmı II. Dünya Savaşı sonrasına aitti. Bir kısmı Edo döneminden. Bir kısmı ise çok daha eskiydi.
+Bir gün Kagoshima’daki yaşlı bir aileden kendisine eski bir sandık gönderildi. Sandığın içinden rutubetli kâğıtlar, kırık bir pusula, paslanmış bir bıçak ve taş üzerine sürtülmüş kopyalar çıktı. Taş kopyalardan birinin kenarında çok soluk beş parmak izi, yanında da küçük bir kurşun lekesi vardı. Kâğıtların bir kısmı II. Dünya Savaşı sonrasına aitti. Bir kısmı Edo döneminden. Bir kısmı ise çok daha eskiydi.
 
 Arakawa ilk başta bunları yerel folklor sandı. Ama taş kopyalardaki işaretler onu rahatsız etti. Çünkü aynı yüzeyde hem eski Çin karakterleri, hem Sanskrit benzeri işaretler, hem de Mısır hiyerogliflerine benzeyen şekiller vardı. Bu imkânsızdı. Ya sahteydi. Ya da tarih yanlıştı.
 
