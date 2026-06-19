@@ -10,7 +10,7 @@ Mühürcüler onu bir kervan kılığında yakaladı. Mısırlı astronom, bir k
 
 “Beni nereye götüreceksiniz?” diye sordu. Kimse cevap vermedi. Gülümsemesi büyüdü. “Dünyanın sonuna mı?” Yine kimse konuşmadı. O zaman En-Nakar başını eğdi. “Dünya sandığınız kadar uzun değil,” dedi. “İnsan ise sandığınızdan daha kısa.” Bu sözleri duyan dört asker aynı gece kendini öldürdü.
 
-Bundan sonra onun yakınında konuşmak yasaklandı. Kulaklara balmumu tıkandı. Muhafızlar üç günde bir değiştirildi. Zincirler demirden değil, bakır ve gümüş karışımından yapıldı. Çünkü demiri paslandırdığı, altını kararttığı, ama gümüşü sevmediği fark edilmişti. Nedenini kimse bilmiyordu.
+Bundan sonra onun yakınında konuşmak yasaklandı. Kulaklara balmumu tıkandı. Muhafızlar üç günde bir değiştirildi. Zincirler demirden değil, bakır ve gümüş karışımından yapıldı. Çünkü demiri paslandırdığı, altını kararttığı, ama gümüşü sevmediği fark edilmişti. Bu, Mısır ve Pers tapınaklarında da bilinen bir uygulamaydı. Nedenini kimse bilmiyordu.
 
 O gece vadideki son savaş, aslında savaş değildi. En-Nakar, bir an için zincirlerinden kurtuldu. Ve bir Mühürcü’nün kardeşini öldürdü. Mısırlı astronomun kardeşiydi. Genç bir adam, sadece yiyecek getirmek için gelmişti. En-Nakar ona fısıldadı — sadece bir kelime. Kardeş, baltayı kaldırdı. Astronom, kardeşini durdurmak için zinciri kendi koluna sardı. Kan akarken, En-Nakar gülüyordu.
 
