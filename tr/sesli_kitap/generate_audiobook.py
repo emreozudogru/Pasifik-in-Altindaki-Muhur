@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Pasifik’in Altındaki Mühür - Sesli Kitap Üretici (Windows Uyumlu + Retry)
+Pasifik’in Altındaki Mühür - Sesli Kitap Üretici (edge-tts)
 
 Yüksek kaliteli Türkçe ses için edge-tts kullanır.
+Metinler: tr/sesli_kitap/metinler/bolum_XX.txt
+Çıktı:   tr/sesli_kitap/mp3/bolum_XX.mp3
 
 Kullanım:
     python generate_audiobook.py
