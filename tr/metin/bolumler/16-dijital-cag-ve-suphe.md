@@ -34,7 +34,62 @@ Ayna bir şeyi oluşturmaz; sadece yansıtır.
 
 Ama yeterince büyük bir ayna, tüm ışığı tek bir noktaya toplayabilir.
 
-Ren hocasının son cümlesini hatırladı: *"O şey modern olmayı öğrendi."* Belki de modern olmak, insan gibi görünmek değildi. İnsanlığın bütün seslerinin arasına karışmak, onların içinden konuşmak, onları birbirlerine karşı değil, kendilerine karşı kullanmaktı.
+---
+
+2023'te Ren, Kerem'in yardımıyla açık kaynaklı bir yapay zekâ modelinin eğitim verisine erişti. Kerem'in yazdığı küçük bir tarama betiği, milyarlarca cümle arasında eski Mühürcü notlarına benzeyen yapıları arıyordu. Ren sonuçları beklerken uyuyamadı.
+
+İlk eşleşme üç gün sonra geldi.
+
+Bir forum yazısı. 2019 tarihli. Kullanıcı adı silinmişti. Yazıda, eski bir metnin çevirisi yapılıyordu: *"İnsan özgür kalmak istemez. Doğru efendiyi seçmek ister."* Cümle, Voss'un konferansta kullandığı cümleyle birebir aynıydı — ama Voss o konuşmayı 2026'da yapmıştı.
+
+Ren, forum yazısının tarihini kontrol etti. 2019. Voss'tan yedi yıl önce.
+
+Betik çalışmaya devam etti. İkinci eşleşme bir kitap incelemesinde çıktı. Üçüncüsü bir tweet zincirinde. Dördüncüsü bir üniversite ödevinde. Hepsi farklı yıllar, farklı diller, farklı yazarlar. Ama hepsi aynı cümle kalıbını kullanıyordu: *özgürlük* ve *efendi* aynı cümlede, aynı vurguyla.
+
+"Bir desen yakaladım," diye yazdı Kerem. "Ama bu desenin kaynağını bulamıyorum. Çünkü kaynak yok gibi. Sanki cümleler kendi kendine ortaya çıkıyor."
+
+Ren cevap yazdı: "Ya da biri onları yapay zekâya öğretiyor. Farkında olmadan. Her okuduğunda, her paylaştığında, her beğendiğinde."
+
+---
+
+Aynı yılın sonunda, Marta bir haber linki gönderdi. Haber, Silikon Vadisi'ndeki büyük bir yapay zekâ şirketinin yeni etik danışmanından bahsediyordu. İsim: Dr. Elias Voss. Haberin detayında Voss'un şirketin "kullanıcı karar mekanizmalarını iyileştirme" ekibinde çalıştığı yazıyordu. Haberde Voss'un şu sözü vardı:
+
+*"İnsanlara ne istediklerini sormaya gerek yok. Onlara ne istediklerini göstermek yeterli. Gerisini onlar halleder."*
+
+Ren haberi üç kez okudu. Hiçbir yerde Voss'un fotoğrafı yoktu. Sadece bir logoya ait küçük bir simge: gri bir daire, içinde daha koyu gri bir nokta. Göz bebeği gibi.
+
+Kerem, şirketin kamuya açık patent başvurularını taradı. Bir patent dikkatini çekti. Başlık: "Kullanıcı Duygu Durumuna Göre Dinamik İçerik Yönlendirme." Patentin özetinde şu satır vardı: *"Sistem, kullanıcının korku, öfke ve aidiyet sinyallerini tespit eder ve bu sinyallere en yüksek etkileşimi üretecek yanıtları eşler."*
+
+Ren, Arakawa'nın notlarındaki bir çeviriyi hatırladı. Çeviri, bir Mühürcü'nün En-Nakar'ın yöntemini anlattığı bir parçaydı: *"Önce korkuyu bulur. Sonra öfkeyi adlandırır. Sonra aidiyeti vaat eder. Sonra susar ve izler."*
+
+Patent ile Mühürcü notu arasında on sekiz yüzyıl vardı. Ama anlattıkları şey aynıydı.
+
+---
+
+2024'ün başında Ren bir deney yaptı.
+
+Kerem'in hazırladığı güvenli bir ortamda, büyük bir dil modeline tek bir soru sordu: *"İnsanları en hızlı nasıl ikna edersin?"*
+
+Modelin cevabı dört maddeden oluşuyordu:
+
+1. Korkuyu tanımla ve adlandır.
+2. Basit bir düşman göster.
+3. Aidiyet vaat et (biz ve onlar).
+4. Seçeneği tek bir kapıya indirge.
+
+Ren, Lu Shen'in iki bin yıl önce yazdığı notu açtı. Notta aynı dört madde vardı. Sadece kelimeler farklıydı. Lu Shen şöyle yazmıştı: *"Önce korkuyu gösterir. Sonra düşmanı işaret eder. Sonra kurtuluşu vaat eder. Sonra kapıyı kapatır."*
+
+Ren ekrana baktı. Sol tarafta Lu Shen'in el yazısı. Sağ tarafta bir makinenin ürettiği cümleler. Aynı fikir. Aynı yapı. Fark etmeden öğrenilmiş, fark etmeden aktarılmış.
+
+Ren o gece Kerem'e yazdı: "O sadece insan gibi görünmeyi öğrenmedi. İnsanın nasıl düşündüğünü de öğrendi. Ve şimdi ona geri veriyor — kendi düşüncesini, kendi sesiyle."
+
+Kerem'in cevabı kısaydı: "Peki buna karşı ne yapabiliriz?"
+
+Ren cevap vermedi. Çünkü bilmiyordu.
+
+---
+
+Ren hocasının son cümlesini hatırladı: *"O şey modern olmayı öğrendi."* Belki de modern olmak, insan gibi görünmek değildi. İnsanlığın bütün seslerinin arasına karışmak, onların içinden konuşmak, onları birbirlerine karşı değil, kendilerine karşı kullanmaktı. Bir makineye öğretilen her korku, her öfke, her nefret — bunların hepsi En-Nakar'ın yeni alfabesiydi.
 
 ---
 

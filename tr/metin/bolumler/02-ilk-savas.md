@@ -16,7 +16,7 @@ En-Nakar’ın gücü buydu. O, ayna gibiydi. Ama aynaların aksine, insana en k
 
 İlk gerçek direniş sessizlikle başladı. Kılıçla, orduyla, tanrı buyruğuyla değil. Sessizlikle.
 
-Eirene, o kervansaraya vardığında hâlâ köydeki cesetlerin kokusunu taşıyordu. Parmakları cebindeki taşı sıkıyordu. Karşılaştığı ilk kişi, o gri gözlü yabancıının yanından ayrılmış bir kâtipti. Adam titriyordu. “O sadece doğruyu söyledi,” diyordu kendi kendine. “Biz de zaten biliyorduk.”
+Eirene, o kervansaraya vardığında hâlâ köydeki cesetlerin kokusunu taşıyordu. Parmakları cebindeki taşı sıkıyordu. Karşılaştığı ilk kişi, o gri gözlü yabancının yanından ayrılmış bir kâtipti. Adam titriyordu. “O sadece doğruyu söyledi,” diyordu kendi kendine. “Biz de zaten biliyorduk.”
 
 Eirene ona su uzattı. Adam içmedi. “Konuşursam,” dedi, “daha fazla insan ölecek.” Eirene başını salladı. Suskunluk, o andan itibaren silah haline geldi.
 
