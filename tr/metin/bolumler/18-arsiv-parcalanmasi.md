@@ -42,6 +42,8 @@ Hasta gizliliği ihlali soruşturması açıldığında Daniel hiçbir şey söy
 
 ---
 
+Arjun — Hintli tarihçi — sesini en son çıkaranlardandı. Ona ulaşan mesaj farklıydı: Delhi'deki evine, Babür döneminden kalma eski bir hançer bırakılmıştı. Hançerin kabzasında küçük bir kurşun parçası vardı. Arjun tehdidi anlamıştı. Gruba vedasız ayrıldı. Ren, Arjun'un silinen son not defterinde tek bir satır buldu: "Sessizlik bir silahtır. Bunu bana tarih öğretti."
+
 Kerem bir süre cevap vermedi. Sonra sadece şunu yazdı: "Ben devam edeceğim."
 
 Arşiv'in parçalanışı böyle sessiz ve düzenli oldu. Kimse ölmedi. Kimse tutuklanmadı. Sadece herkes kendi korkusunun karşısında durdu ve çoğu geri çekildi. En-Nakar'ın modern dünyadaki en büyük gücü buydu: insanı seçim yapmaya zorlamadan seçtirebilmek.

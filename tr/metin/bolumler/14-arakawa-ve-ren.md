@@ -10,4 +10,8 @@ Arakawa ilk başta bunları yerel folklor sandı. Ama taş kopyalardaki işaretl
 
 Arakawa üç yıl boyunca bu metinleri inceledi. Sonra bir sonuç çıkardı: Kuroshima diye bir ada gerçekten vardı. Ama modern haritalarda adı değişmişti. Ada, savaş sonrası Amerikan işgali döneminde askeri yasak bölge olarak kısa süre kullanılmış, sonra resmî kayıtlardan neredeyse tamamen silinmişti. Üzerinde kalıcı yerleşim yoktu.
 
+2005 yılında bir gece Arakawa, parçaları birleştiren şeyi buldu. Sandıktaki taş kopyalardan birindeki sembol, Nagasaki'deki bir kilisenin temel taşında da vardı. Aynı el yazısı. Aynı hata. Kilise 1945'ten sonra inşa edilmişti ve temel taşı denizden çıkarılmıştı. Arakawa bunu kimseye söylemedi. Ama not defterine şunu yazdı: "Bomba bir şeyi kırdı. Sadece şehri değil. Başka bir şeyi. Kilisenin altındaki taş bunu biliyor."
+
+Ertesi hafta bir akademik dergiye makale gönderdi. Makale geri çevrildi. Hakem notunda şu yazıyordu: "Spekülatif ve kanıtsız." Arakawa makaleyi çekmecesine koydu ve kendi başına devam etti.
+
 Arakawa 2003 yılında adaya gitmek için izin istedi. Reddedildi. 2004’te tekrar istedi. Reddedildi. 2006’da özel bir tekneyle gizlice gitmeyi planladı. Gitmeden iki gün önce evinde ölü bulundu. Resmî kayıtlara göre kalp krizi. Ama öğrencisi Sato Ren, hocasının ölümünden önce ona gönderdiği son e-postayı sakladı. E-postada tek cümle vardı: “O şey ölmedi; sadece modern olmayı öğrendi.”

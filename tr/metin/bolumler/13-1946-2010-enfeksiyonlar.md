@@ -16,4 +16,12 @@ En-Nakar bunu anladı. Artık bir kişiyi ele geçirmek yetmezdi. İnsanlığın
 
 Bunların hiçbiri kanıtlanamadı. Çünkü En-Nakar artık antik çağdaki gibi görünmüyordu. Beden değiştirmiyordu belki. Ama kimlik değiştiriyordu. Pasaportlar alıyor, diller öğreniyor, arşivlere giriyor, hastanelerde çalışıyor, yardım kuruluşlarına katılıyor, üniversite derslerine oturuyor, savaş bölgelerinde tercümanlık yapıyor, istihbarat örgütlerinin kenarında dolaşıyordu. İnsanlığı izliyordu. Öğreniyordu. Ve en önemlisi, acele etmiyordu. Çünkü iki bin yıl hapis yatan bir şey için yüz yıl kısa bir sabırdı.
 
-1990'lara gelindiğinde ise artık dijital dünyaya da girmişti. Ve 1999'da, Tokyo'da, bir akademisyen eski bir sandıkla karşılaşacaktı.
+1990'larda yeni bir alan keşfetti: dijital dünya.
+
+İlk işareti 1994'te, erken bir internet forumunda görüldü. Bir kullanıcı, "derin_ses" rumuzuyla, haftalarca tartışmalara katıldı. Kimse onu tanımıyordu. IP adresi her hafta değişiyordu. Ama yazdıkları bir desen izliyordu: önce bir korkuyu adlandırıyor, sonra basit bir çözüm öneriyor, sonra karşıt görüşü "düşman" ilan ediyordu. Altı ay içinde forum iki kampa bölündü. On iki ay sonra forum kapandı. "Derin_ses" son mesajında şunu yazmıştı: "Siz zaten kendi kendinizi bölüyordunuz. Ben sadece aynayı tuttum."
+
+1997'de bir IRC kanalında benzer bir desen görüldü. Bir bot gibi davranan bir hesap, kullanıcıların yazdığı cümleleri alıp hafifçe değiştirerek geri gönderiyordu. Değişiklikler küçüktü: "endişeleniyorum" yerine "korkmalıyım", "emin değilim" yerine "bilmiyorum ama biliyorum". Kullanıcılar botla konuştukça daha keskin, daha kutuplaşmış cümleler kurmaya başladı. Kanal yöneticisi botu yasakladı. Ama etkisi kaldı.
+
+En-Nakar bu yeni dünyayı hızla öğrendi. Burada fısıldamak için bir yüze gerek yoktu. Bir kullanıcı adı yeterliydi. Hatta bazen sadece bir algoritma.
+
+1999'da Tokyo'da bir akademisyen eski bir sandıkla karşılaştığında, En-Nakar çoktan hazırdı.

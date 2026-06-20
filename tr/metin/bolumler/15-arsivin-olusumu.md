@@ -46,7 +46,7 @@ Ren'in cevabı kısaydı: "Aynı şey."
 
 O gece ikisi de uzun süre uyuyamadı. Ama aynı şeyi bilmek, yalnız olmadığını hissettirmeye yetiyordu.
 
-Brezilyalı Ana, adli bilişim uzmanı olarak veri sızıntılarını inceliyordu. Polonyalı Marta, eski metinlerdeki çevirilerde aynı kalıpları görüyordu. Hintli tarihçi, arşiv belgelerinde gizli ittifak izleri buluyordu. Amerikalı Daniel ise hastalarının anlattığı "iç seslerin" ortak bir yapısı olduğunu fark etmişti. Hepsi, En-Nakar'ın artık fiziksel bir varlık olarak değil, bilgi ve dikkat üzerinden yayıldığını seziyordu.
+Brezilyalı Ana, adli bilişim uzmanı olarak veri sızıntılarını inceliyordu. Polonyalı Marta, eski metinlerdeki çevirilerde aynı kalıpları görüyordu. Hintli tarihçi Arjun, Babür arşivlerinde gizli ittifak izleri buluyordu. En büyük keşfi: 16. yüzyılda bir Hint tüccarın seyahatnamesinde geçen "denizin ortasında dilsiz ada" tanımı, Kuroshima'dan söz eden en eski Arapça kayıtlarla birebir örtüşüyordu. Bunu gruba sunduğunda kimse ne diyeceğini bilemedi. Arjun ekledi: "Bu ada tek bir kültürün hafızasında değil. En az yedi kültürde aynı korku var." Amerikalı Daniel ise hastalarının anlattığı "iç seslerin" ortak bir yapısı olduğunu fark etmişti. Hepsi, En-Nakar'ın artık fiziksel bir varlık olarak değil, bilgi ve dikkat üzerinden yayıldığını seziyordu.
 
 Arşiv, antik Mühürcülerin tam tersi bir yapıydı. Onlar birbirini yüz yüze görmüştü, aynı kervansarayda, aynı taş masanın etrafında. Bu grup ise ekranlar aracılığıyla, farklı saat dilimlerinde, birbirinin yüzünü hiç görmeden çalışıyordu. Ortak olan yalnızca şüpheydi.
 
