@@ -8,13 +8,15 @@ Fısıltı her insana kendi dilinde konuşurmuş. Yaşlılara ölülerinin sesiy
 
 Fısıltı hep aynı şeyi söylermiş: “Bunu yapmak zorundasın.” Ama arada, çok nadiren, biri dururmuş. Nefes alırmış. Korkusunun kendisine ait olduğunu kabul eder ama ona boyun eğmezmiş. Öfkesinin gerçek olduğunu kabul eder ama onu tanrı yapmazmış. Arzusunu inkâr etmez ama ona yasa yazdırmazmış. Ve o zaman fısıltı kısılırmış. Tamamen susmaz. Çünkü En-Nakar ölmemiştir. Sadece yenilmiştir.
 
+Ama bu hikâyeyi yanlış anlamamak gerekir. O, dünyadaki bütün kötülüklerin sebebi değildir. Bu, insanın kendini rahatlatmak için uyduracağı bir yalan olurdu. İnsan, En-Nakar olmadan da zalim olabilir; yalan söyleyebilir, komşusunu düşman ilan edebilir, korkuyu siyasete, acıyı ticarete, yalnızlığı ürüne çevirebilir. En-Nakar kötülük yaratmaz. Sadece insanın içindeki en kötü seçeneği gösterir, sonra onu kaçınılmaz gibi hissettirir. Bütün gücü o tek cümlede toplanır: "Başka çaren yok."
+
 Bir zamanlar antik çağların insanları onu dünyanın ucuna hapsetti. Atom ateşi mührü kırdı. Modern dünya ona yeni yollar verdi. Ama insan hâlâ aynı eski seçime sahip: Karanlığını inkâr etmek. Karanlığına teslim olmak. Ya da karanlığını tanıyıp kapının önünde durmak.
 
 Eski kayıtlarda Lu Shen’in son bir notu vardır. Bu notun gerçekliği tartışmalıdır. Bazılarına göre sonradan eklenmiştir. Bazılarına göre bütün hikâyenin anahtarıdır. Not şudur: “Düşman dışarıda olduğu sürece onu zincirle. İçeri girdiğinde onu isimlendirme. Sadece tanı. Çünkü tanınan karanlık küçülür; tapılan karanlık büyür.”
 
 Aynı parşömenin kenarında, başka bir el yazısı vardı. Daha kadınsı. Daha eski. Tek kelime: **Bedel.**
 
-Ren bu cümleyi masasının çekmecesinde sakladı. Kerem’in videosunun yanına. Arakawa’nın son e-postasının çıktısının altına. Ve boş bir kâğıdın üzerine sadece şunu yazdı: **Sekizinci mühür: dikkat.** Sonra ışığı kapattı. Dışarıda Tokyo parlıyordu. Milyonlarca ekran, milyonlarca ses, milyonlarca korku, milyonlarca arzu. Ve bir yerlerde, çok eski bir şey hâlâ dinliyordu. Ama bu kez insanlık da onu dinliyordu. Körü körüne değil. Titreyerek. Şüphe ederek. Yavaşlayarak. Belki de bu yüzden, o gece Pasifik’teki kayalık adanın altında, iki bin yıllık taşların arasında, kırılmış eski kapı ilk kez dışarıya değil içeriye doğru kapandı.
+Ren bu cümleyi masasının çekmecesinde sakladı. Kerem’in şifreli dosyasından çıkardığı notların yanına. Arakawa’nın son e-postasının çıktısının altına. Ve boş bir kâğıdın üzerine sadece şunu yazdı: **Sekizinci mühür: dikkat.** Sonra ışığı kapattı. Dışarıda Tokyo parlıyordu. Milyonlarca ekran, milyonlarca ses, milyonlarca korku, milyonlarca arzu. Ve bir yerlerde, çok eski bir şey hâlâ dinliyordu. Ama bu kez insanlık da onu dinliyordu. Körü körüne değil. Titreyerek. Şüphe ederek. Yavaşlayarak. Belki de bu yüzden, o gece Pasifik’teki kayalık adanın altında, iki bin yıllık taşların arasında, kırılmış eski kapı ilk kez dışarıya değil içeriye doğru kapandı.
 
 ---
 

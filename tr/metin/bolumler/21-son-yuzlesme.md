@@ -18,7 +18,7 @@ Beş kuraldı.
 Öfke, korku veya zafer hissiyle karar verme. On saniye bekle. On saniye, bir dürtüyle eylem arasındaki en eski mühürdür. Antik çağda buna nefes derlerdi. Şimdi aynı şey. Sadece daha hızlı yaşayan bir dünyada daha zor.
 
 **İki: Kaynağı sorgula.**
-Bu bilgi nereden geliyor? Bu duyguyu kim besliyor? Bu düşman bana neden gösteriliyor? Soruların kendisi bir kalkandır. Çünkü cevabı bulamasan bile, soruyu sormak seni fısıltıdan bir adım uzaklaştırır.
+Bu bilgi nereden geliyor? Bu duyguyu kim besliyor? Bu düşman bana neden gösteriliyor? Soruların kendisi bir kalkandır. Çünkü cevabı bulamasan bile, soruyu sormak seni fısıltıdan bir adım uzaklaştırır. Ve bir ses sana "başka çaren yok" diyorsa, en çok o cümleden şüphe et. Çünkü o, fısıltının en eski yalanıdır: tek kapı diye sunulan yerde, görünmeyen bir kapı daha vardır.
 
 **Üç: Böl ve sakla.**
 Hiç kimse bütün gerçeği bilmemeli. Bilgi parçalanmalı, dağıtılmalı, isimsiz kalmalı. Çünkü işaret çoğaldıkça kapı genişler. Az kişi, az bilgi, az dikkat. Bu, modern çağda bir cümleyi paylaşmamak kadar basit ya da bir belgeyi üç parçaya bölüp üç farklı şehirde saklamak kadar karmaşık olabilir.

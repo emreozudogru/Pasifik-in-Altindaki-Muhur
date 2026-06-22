@@ -48,7 +48,9 @@ Ren konuşmadı.
 
 Ren ona baktı. Voss’un yüzünde o eski, tanıdık gülümseme yoktu. Bu kez gerçekten teklif ediyordu. Gerçekten bekliyordu.
 
-"Seçim senin," dedi Voss. "Bedel her nesil sorar. Ya seninki, ya onunki."
+"Seçim senin," dedi Voss. "Bedel her nesil sorar. Ya seninki, ya onunki." Bir an durdu. Sesi hâlâ yumuşaktı. "Başka çaren yok."
+
+Ren bu üç kelimeyi tanıdı. Antik metinlerde okumuştu, Arakawa'nın notlarında altı çizilmişti: onun en eski, en sevdiği yalan. Bir kapıyı tek kapı gibi göstermek. İki seçeneği sunup üçüncüyü saklamak.
 
 Ren cevap vermedi. O gece hastaneden ayrılmadı. Bekleme salonunda oturdu. Sabaha karşı annesi uyandı. Hemşire Ren'i çağırdı. Annesi gözlerini açtı, Ren'i gördü, gülümsedi. "Yorulmuşsun," dedi. Sesi kısıktı. "Git biraz dinlen."
 

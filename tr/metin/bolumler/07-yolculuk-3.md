@@ -66,7 +66,7 @@ Kimse konuşmadı.
 
 Sandıktan ses gelmiyordu.
 
-Eirene, parmak izini taşa bastırdığı anı hatırladı — yolculuğun ikinci yılında, fırtınanın ardından. O iz hâlâ oradaydı. Kendi eli. Kendi kanı. Beş parmak, ince. Sanki taşa bir soru sorumuştu.
+Eirene, parmak izini taşa bastırdığı anı hatırladı — yolculuğun ikinci yılında, fırtınanın ardından. O iz hâlâ oradaydı. Kendi eli. Kendi kanı. Beş parmak, ince. Sanki taşa bir soru sormuştu.
 
 Şimdi cevap önündeydi.
 

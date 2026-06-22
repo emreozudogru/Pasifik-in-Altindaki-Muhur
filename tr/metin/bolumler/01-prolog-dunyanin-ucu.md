@@ -18,7 +18,7 @@ Bugün biz oraya Japonya diyoruz. Ama o dönemin gizli kayıtlarında adı farkl
 
 ---
 
-## I. Bilge
+## II. Bilge
 
 Kralın adı artık hatırlanmıyordu. Sadece “o yaz” deniyordu. O yaz, küçük bir krallıkta bir yabancı geldi. Uzun boylu değildi. Gözleri griye yakındı. Konuştuğu dil kimsenin bilmediği bir şeydi ama herkes onu anlıyordu.
 
@@ -30,7 +30,7 @@ Genç bir kâtip, yabancının yanına oturdu. Yabancı ona eski bir tabletin na
 
 Yabancı, kralın yanındaki taş tahtta oturuyordu. Konuşmuyordu. Sadece gülümsüyordu.
 
-Dördüncü haftada ilk ceset bulundu. Savaşın iptal edildiği köyde. Köylüler, komşu krallığın askerlerinin gelip herkesi kılıçtan geçirdiğini sandılar. Ama kılıç izi yoktu. Sadece boğulma. Nehir kurumuş gibiydi. Su yoktu. Yabancıın öğrettiği “temizlik” yöntemi, köyün tek su kaynağını zehirlemişti.
+Dördüncü haftada ilk ceset bulundu. Savaşın iptal edildiği köyde. Köylüler, komşu krallığın askerlerinin gelip herkesi kılıçtan geçirdiğini sandılar. Ama kılıç izi yoktu. Sadece boğulma. Nehir kurumuş gibiydi. Su yoktu. Yabancının öğrettiği “temizlik” yöntemi, köyün tek su kaynağını zehirlemişti.
 
 Kâtip, yeni göreviyle ilk emri verdi: efendisinin hazinesini kendi evine taşıttı. Efendisi itiraz edince, kâtip eski tableti gösterdi. Tablette yazan şey, efendisinin ihanet ettiğini kanıtlıyordu. Aslında efendi ihanet etmemişti. Kâtip, yabancının gösterdiği eski yazıyı kendi lehine çevirmişti.
 

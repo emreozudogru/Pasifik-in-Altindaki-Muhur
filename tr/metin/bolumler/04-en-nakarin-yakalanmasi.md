@@ -46,11 +46,11 @@ Astronom kardeşini durdurmak için zinciri kendi koluna sardı. Baltayı tuttu.
 
 Astronom kardeşini öldürmedi. Ama baltayı En-Nakar'ın omzuna sapladı. O an, En-Nakar'ın gülümsemesi değişti. İlk kez gerçekten acı çekmiş gibi göründü. Ama sadece bir an. Sonra tekrar güldü.
 
-"Bu acı da geçici," dedi. "Sizin acınız kalıcı. Oğlunu öldürmedin. Ama kardeşini öldürtmek için ne yapman gerekecek? Bunu düşün."
+"Bu acı da geçici," dedi. "Sizin acınız kalıcı. Kardeşini bu gece öldürmedin. Ama onu durdurmak için kendi kanını akıttın. Bedel başladı bile. Bir dahaki sefere daha fazlasını isteyecek. Bunu düşün."
 
 Astronom zincirleri bıraktı. Kardeşi yere düştü. Nefes alıyordu. Ama gözleri hâlâ boştu. Konuşmuyordu.
 
-O gece dört Mühürcü daha öldü. Ama En-Nakar yakalandı. Zincirlendi.
+O gece kervana eşlik eden yardımcılardan birkaçı daha kendi karanlığında kayboldu — kimi kendi eliyle, kimi birbirine. Sessizlik andını içmemişlerdi; fısıltıya açık tek kapı onlardı. Ama yedi Mühürcü'nün hiçbirine dokunulmadı. En-Nakar yakalandı. Zincirlendi.
 
 ---
 

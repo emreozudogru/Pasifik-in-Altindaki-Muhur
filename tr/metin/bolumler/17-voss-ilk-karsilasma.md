@@ -42,7 +42,7 @@ Bu bir akademik konuşma gibi görünüyordu.
 
 Ama değildi.
 
-Bu, eski fısıltının modern versiyonuydu. Kelimesi kelimesine değil. Ama kasası kasasına.
+Bu, eski fısıltının modern versiyonuydu. Kelimesi kelimesine değil. Ama özü özüne aynıydı.
 
 Voss slaytı değiştirdi. Ekranda tek bir cümle belirdi:
 
