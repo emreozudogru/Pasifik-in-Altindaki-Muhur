@@ -50,9 +50,9 @@ Arşiv'in parçalanışı böyle sessiz ve düzenli oldu. Kimse ölmedi. Kimse t
 
 Kerem'in bulduğu defterin sahibi sahaf, dükkânında yangın çıktığını söyledi. Yangın küçük çaplıydı ama defterin aslı yok olmuştu — özellikle ilk sayfadaki parmak izi ve kurşun lekesi olan yaprak tamamen yanmıştı. Kül, defterin geri kalanından daha siyahtı.
 
-Ve en ağır uyarı Ren'e geldi. Annesi — yalnız yaşayan, yetmiş üç yaşında bir kadın — evinde düşüp üç saat yerde yatmıştı. Komşusu kapıyı kırıp bulduğunda annesi bilinci kapalıydı. Hastaneye kaldırıldı. Doktorlar "şanslı" dedi. "Erken bulunmuş."
+Ve en ağır uyarı Ren'e geldi. Annesi — yalnız yaşayan, yetmiş üç yaşında bir kadın — merdivende ayağı kayıp düştü, bileğini incitti. Ciddi bir şey değildi; bir gün hastanede kalıp eve döndü. Doktorlar "yaşına göre şanslı" dedi.
 
-Ren biliyordu. Bu düşme değildi. Mesajdı. En-Nakar artık zincirleri kıran bir mahkûm değildi. Modern dünyanın dilini öğrenmişti. Tehdit etmek için kılıca gerek yoktu.
+Ama Ren bunu bir kaza olarak okumadı. Bu düşme değildi. Mesajdı. En-Nakar artık zincirleri kıran bir mahkûm değildi. Modern dünyanın dilini öğrenmişti. Tehdit etmek için kılıca gerek yoktu.
 
 Banka hesabı. Tıbbi kayıt. Akademik itibar. Dijital kimlik. Aile. Sigorta. Göçmenlik. İş. Hepsi birer zincirdi. Ve modern insan kendi zincirlerini kendisi taşıyordu.
 
