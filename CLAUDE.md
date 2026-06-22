@@ -1,7 +1,11 @@
-# CLAUDE.md — Agent Instructions for "The Seal Beneath the Pacific"
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 > **This file is the first thing any AI agent working on this project must read.**  
 > After reading this file, you must read the entire novel before doing anything else.
+
+> ℹ️ **This is a prose repository, not a software one.** The "code" here exists only to render the novel into audiobook (MP3) and eBook (EPUB) formats. The product is the Turkish text in `tr/metin/bolumler/`.
 
 ---
 
@@ -43,7 +47,7 @@
    ```
 
 3. **Then read the plan docs relevant to your task:**
-   - Turkish development: `docs/tr-implementation-plan.md`
+   - Turkish development: `docs/implementation-plan.md`
    - Turkish design spec: `docs/tasarim-spec.md`
 
 Do not skip this step. Do not summarize and move on. Read and retain.
@@ -130,19 +134,54 @@ The most important motif. Eirene presses her five fingers into stone at the thre
 tr/
   metin/
     orijinal.txt          ← NEVER MODIFY — canonical baseline
-    bolumler/             ← 22 expanded chapters (active development)
+    bolumler/             ← 22 expanded chapters (active development — SOURCE OF TRUTH)
   sesli_kitap/
-    metinler/             ← plain text for TTS per chapter
-    mp3/                  ← generated audio
-    generate_audiobook.py ← reads from metinler/, writes to mp3/
-    run_audiobook.bat
+    metinler/             ← plain text for TTS per chapter (DERIVED from bolumler/)
+    mp3/  aiff/           ← generated audio (gitignored)
+    generate_audiobook.py ← edge-tts: reads metinler/, writes mp3/
+    generate_audiobook_mac.sh ← macOS `say` fallback (writes aiff/)
+    AUDIOBOOK_STATUS.md   ← which chapters have current audio
+  ebook/
+    generate_ebook.py     ← reads bolumler/ directly, writes pasifik_muhur.epub
+    pasifik_muhur.epub    ← DERIVED, git-tracked binary
 
 docs/
-  tr-implementation-plan.md
+  implementation-plan.md
   tasarim-spec.md
 
 mcps/                     ← AI tool schemas, do not touch
+README.md  LICENSE        ← CC BY 4.0
 ```
+
+---
+
+## 🔧 Build Pipeline & Commands
+
+The chapters in `tr/metin/bolumler/*.md` are the **single source of truth**. Two artifacts are *derived* from them and go stale whenever a chapter changes — both must be regenerated after edits, or the audiobook/eBook will reproduce pre-edit text (this has happened before).
+
+```
+tr/metin/bolumler/NN-*.md   ──┬──►  tr/sesli_kitap/metinler/bolum_NN.txt  ──►  mp3/bolum_NN.mp3
+  (source of truth)           │      (TTS plain text, git-tracked)             (gitignored audio)
+                              └──►  tr/ebook/pasifik_muhur.epub  (git-tracked binary)
+```
+
+**Markdown → plain-text transform** (applied identically by both the audiobook and eBook generators): drop lines starting with `#` or `---` or blank lines, strip the `🌑` emoji, collapse internal whitespace. The `**Pasifik'in Altındaki Mühür**` banner line is **kept**. The TTS `.txt` files have **no trailing newline** — match this exactly when regenerating, or every file shows a spurious diff.
+
+```bash
+# eBook (EPUB) — reads ../metin/bolumler directly, outputs pasifik_muhur.epub
+cd tr/ebook && pip install ebooklib && python3 generate_ebook.py
+
+# Audiobook (MP3) — needs edge-tts; reads metinler/, writes mp3/ + AUDIOBOOK_STATUS.md + playlist.m3u
+cd tr/sesli_kitap && pip install -r requirements.txt && python3 generate_audiobook.py
+# macOS native fallback (uses `say`, outputs .aiff): ./generate_audiobook_mac.sh
+
+# Regenerate the TTS .txt sources after editing chapters (there is no script for this step —
+# apply the transform above; only re-write files whose content actually changed).
+```
+
+- **Voice:** `generate_audiobook.py` uses `edge-tts` voice `tr-TR-EmelNeural` (female). Needs network for Azure TTS — **not runnable inside the Airlock sandbox**; flag MP3 regeneration to the user instead.
+- `pip install ebooklib` succeeds through the gateway proxy; the EPUB *can* be rebuilt here.
+- `mp3/` and `aiff/` are gitignored; `metinler/*.txt` and `pasifik_muhur.epub` **are** tracked — commit them when chapters change. `AUDIOBOOK_STATUS.md` tracks which chapters have current audio.
 
 ---
 
