@@ -16,9 +16,11 @@ En-Nakar’ın gücü buydu. O, ayna gibiydi. Ama aynaların aksine, insana en k
 
 İlk gerçek direniş sessizlikle başladı. Kılıçla, orduyla, tanrı buyruğuyla değil. Sessizlikle.
 
-Eirene, o kervansaraya vardığında hâlâ köydeki cesetlerin kokusunu taşıyordu. Parmakları cebindeki taşı sıkıyordu. Karşılaştığı ilk kişi, o gri gözlü yabancının yanından ayrılmış bir kâtipti. Adam titriyordu. “O sadece doğruyu söyledi,” diyordu kendi kendine. “Biz de zaten biliyorduk.”
+Eirene, o kervansaraya vardığında hâlâ köydeki cesetlerin kokusunu taşıyordu. Parmakları cebindeki taşı sıkıyordu. Karşılaştığı ilk kişi, o köyden sağ çıkan kâtipti — tahtı ele geçiren, sonra her şeyini kaybeden adam. Şimdi bir kervansarayda, titreyerek oturuyordu. "O sadece doğruyu söyledi," diyordu kendi kendine. "Biz de zaten biliyorduk."
 
-Eirene ona su uzattı. Adam içmedi. “Konuşursam,” dedi, “daha fazla insan ölecek.” Eirene başını salladı. Suskunluk, o andan itibaren silah haline geldi.
+Eirene adamın gözlerine baktı. Bir an, çok kısa bir an, orada gri bir yorgunluk gördü — köyde gülümseyen yüzdeki aynı yorgunluk. Sonra geçti. Adam yine sadece korkmuş, kırılmış bir insandı. Eirene anladı: o şey bir bedende durmuyordu. İnsandan insana, ağızdan kulağa, sudan zehire geçiyordu. Bir yüzü yoktu. Herkesin yüzü olabilirdi.
+
+Eirene ona su uzattı. Adam içmedi. "Konuşursam," dedi, "daha fazla insan ölecek." Eirene başını salladı. Suskunluk, o andan itibaren silah haline geldi.
 
 O gece taş masanın başında beş kişi buluştu. Mısırlı astronom, Pers ateş rahibi, Hint matematikçi, Çinli kâtip Lu Shen ve Eirene. Masaya her biri kendi dilinde aynı cümleyi yazdı: *Sessizlik bir silahtır.*
 
