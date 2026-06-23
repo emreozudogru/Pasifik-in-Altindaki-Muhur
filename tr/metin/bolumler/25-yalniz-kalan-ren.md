@@ -94,7 +94,15 @@ Ayrılmadan önce, hastane formundaki bir satıra takıldı gözü. Annesinin do
 
 Şimdi Voss'un sorusu kulağında çınlıyordu. *Arakawa'nın sandığı neden Kagoshima'dan çıktı?* Sandığı gönderen aile. Annesinin köyü. Kendi soyadı. Ren bağlantıyı kurdu ve mide bulantısı gibi bir şey hissetti. Hocası onu öğrenci olarak seçmemişti belki. Belki de o, daha doğmadan seçilmişti. İki bin yıl önce, bir taşa basılan bir parmakla.
 
-Bu yüzden mi bırakamıyordu? Bu yüzden mi herkes çekilirken o kalıyordu? Çünkü bu onun araştırması değildi — mirasıydı. Ve mirası reddetmenin tek yolu, onu taşıyan son eli de bırakmaktı. Annesini.
+Ve Ren, bu düşünceye karşı bütün varlığıyla isyan etti.
+
+Çünkü o, bu hayatı istememişti. Bunu hiç istememişti. O, arşivlerde sessizce çalışmak, kimseyle konuşmamak, kimseyi kaybetmemek istemişti. Bir kahraman olmak şöyle dursun, bir *kahraman hikâyesinin içinde* bile olmak istememişti. Eğer bir soy, bir kader, bir taş onu buraya sürüklediyse — o zaman bu adil değildi. Kimse ona sormamıştı. Anneannesi de sormamıştı, annesi de. Zincir, rıza istemeden geçmişti elden ele.
+
+İşte tam burada Ren, kaderin kendisinden daha ağır bir şeyle yüzleşti: kaderin, seçimi ortadan kaldırmadığıyla. Soy onu kapıya getirmiş olabilirdi. Ama kapının önünde durmak ya da arkasını dönüp gitmek — bu hâlâ ona aitti. Morita kaçabilirdi, kaçmadı. Anneannesi o eski ezgiyi unutabilirdi, unutmadı. Hiçbiri zorlanmamıştı; her biri, kaderin getirdiği yükü, kendi elleriyle bir kez daha kaldırmıştı. Kader bir kapıydı; ama o kapıdan geçmek, her seferinde yeni bir karardı.
+
+Ren kalabilirdi. Reddedebilirdi de. Voss tam da bunu umuyordu belki — reddetmesini, bırakmasını, "bu benim hikâyem değil" demesini. Ama Ren reddetmedi. İstemeden, küskün, yorgun — ama reddetmedi. Çünkü bu onun araştırması değildi; mirasıydı. Ve mirası taşımamak da bir seçimdi, taşımak da. O, ikincisini seçti. İstemediği halde seçti. Belki de gerçek bedel buydu: zorla değil, isteyerek; ama isteyerek de değil, sadece — başka türlü yapamayacağını bilerek.
+
+Ve mirası taşımanın bedeli ağırdı. Onu reddetmenin tek yolu, onu taşıyan son eli de bırakmaktı. Annesini.
 
 ---
 

@@ -96,7 +96,13 @@ Kapının aralığından bir el çıktı.
 
 Beyaz. İnsan eli gibi. Ama parmakları fazla sakindi. Tırnaklar temizdi. Hareket yavaştı. Sanki yıllardır bu anı bekliyordu. El, ağır çekimde açan bir çiçek gibi aralıktan dışarı uzandı; acelesi yoktu, çünkü acele etmesi için bir neden yoktu. İki bin yıl beklemişti. Bir an daha bekleyebilirdi.
 
-Morita tüfeği bıraktı. Bir an için ne yaptığını sorgulamadı. Sadece belindeki kısa bıçağı çıkardı. Koştu. Bıçağı elin üzerine sapladı.
+Morita tüfeği bıraktı.
+
+Ve o an, hayatının en uzun anı oldu — gerçekte bir saniyeden kısa, ama içinde koca bir ömür sığan bir an. Çünkü Morita, o aralıkta, iki şey arasında durduğunu hissetti. Biri, içeriden gelen o yumuşak çağrıydı: *gel, dinlen, bırak, kırk yıl yeter.* Teslim olmak kolaydı; teslim olmak, o an, neredeyse şefkat gibiydi. Karısı oradaydı. Çocukluğu oradaydı. Huzur oradaydı. Tek yapması gereken, o ele uzanmaktı.
+
+Diğeri ise bir histi, gerekçesi olmayan, soyu kadar eski bir his: *hayır.* Neden hayır, bilmiyordu. Dedesi ona sebebini hiç söylememişti. Belki sebep yoktu. Belki tek sebep, o ele uzanmamanın, onun kendi seçimi olabilecek son şey olduğunu, kemiklerinin bir yerinde bilmesiydi.
+
+Morita seçti. Büyük bir karar değildi; kahramanca da değildi. Sadece, teslim olmak yerine, belindeki kısa bıçağı çıkardı. Koştu. Bıçağı elin üzerine sapladı. Bu onu kurtarmayacaktı — bunu biliyordu. Ama bir insanın, yutulmadan önce yapabileceği son şey, en azından *kendi eliyle* bir şey yapmaktı. Boyun eğerek değil, direnerek gitmek. Fark buydu. Küçük, anlamsız, ama onundu.
 
 İçeriden acı sesi gelmedi.
 
