@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(timeout 60 git pull --ff-only origin main)",
+      "Bash(env)",
+      "Bash(timeout 40 https_proxy=http://proxy:3128 http_proxy=http://proxy:3128 git fetch origin main)",
+      "Bash(timeout 40 git fetch origin main)",
+      "Bash(echo \"exit: $?\")"
+    ]
+  }
+}
