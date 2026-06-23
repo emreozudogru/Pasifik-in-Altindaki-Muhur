@@ -2,17 +2,9 @@
 
 🌑 **Pasifik'in Altındaki Mühür**
 
-Bu hikâye üç kez anlatılır.
-
-Bir kez taş çağında. Bir kez ateş çağında. Bir kez de senin çağında.
-
-Üçü de aynı hikâyedir. Ama bunu, sonuna gelene kadar kimse fark etmez. Çünkü en eski tuzak, üç ayrı kapı gibi görünen tek bir kapıdır.
-
----
-
 İnsanlık tarihi, kazananların yazdığı bir mezarlıktır. Krallar, imparatorlar, rahipler ve generaller; zaferlerini taşlara kazıdılar, yenilgilerini küllere gömdüler. Bazı olayları büyüttüler, bazılarını unutturdular. Ama bazı şeyler vardı ki, ne yazılabildi ne de tamamen silinebildi. Çünkü bazı düşmanlar öldürülmezdi. Sadece yenilirdi. Ve bazen, yenilen şey ölmediği için tarih devam ederdi.
 
-Bazen de, yenilen şey yenilmeyi kendi istediği için.
+Bazen de, kimin yendiğini söylemek o kadar kolay değildi.
 
 ## I. Dünyanın Ucu
 
@@ -26,7 +18,7 @@ Mısır'daki eski rahipler, Babil'deki yıldız kâtipleri, Pers ateş tapınakl
 
 Bugün biz oraya Japonya diyoruz. Ama o dönemin gizli kayıtlarında adı farklıydı: **Güneşin Arkasındaki Kapı.** Ve oraya götürülen şey, insan değildi. Tam olarak insan değildi.
 
-Onu oraya götürdüklerini sandılar. Oysa o, oraya gitmeyi çoktan seçmişti. Ama bunu anlamak için iki bin yıl ve üç çağ gerekecekti.
+Onu oraya götürmek için yedi yıl, yedi mühür ve sayısız ölü gerekti. Ama onu oraya götürenlerin hiçbiri, asıl soruyu sormadı: Bir şey neden, bu kadar kolay yakalanır?
 
 ---
 
@@ -112,12 +104,6 @@ O gün, dünyanın ucuna doğru ilk adım atıldı.
 
 ---
 
-Sana söyledim: bu hikâye üç kez anlatılır.
+Bir bilge. Bir kılıç. Bir taş.
 
-Bu, birinci anlatıştı. Bir bilge, bir kılıç, bir taş.
-
-Aklında tut. Çünkü ikinci anlatışta kılıç bir bombaya, üçüncüsünde bir ekrana dönüşecek. Ama el hep aynı el olacak.
-
-Kurtaran el. Kapıyı açan el.
-
-Belki de seninki.
+İşte böyle başladı. Kimsenin kazanmadığı, ama herkesin kaybettiği bir savaşla. Ve o günden sonra, her çağda, aynı şey tekrarlanacaktı: kapıyı açan el, hep onu kapatmaya çalışan el olacaktı.
