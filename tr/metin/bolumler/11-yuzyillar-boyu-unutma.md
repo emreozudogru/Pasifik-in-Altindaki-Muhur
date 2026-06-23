@@ -6,6 +6,8 @@ Mühürcülerin son emri basitti: "Bu yer korunacak ama bilinmeyecek." Kuroshima
 
 Her nesilde sadece birkaç kişi gerçeğin küçük bir parçasını öğrendi. Onlara **Kıyı Bekçileri** dendi. Ne krallardı ne rahip. Balıkçı, taşçı, avcı, keşiş. Görevleri adaya kimseyi yaklaştırmamaktı. Bazıları adanın taşlarında beş parmak izi olduğunu, bazıları kapının önünde kül ve kurşun halkalar bulunduğunu fısıldardı. Ama kimse bu izlerin ne anlama geldiğini bilmiyordu. Ama zaman insanın en büyük düşmanıdır.
 
+Bekçilik kandan kana geçti. Baba oğula, anne kıza, dede toruna. Çoğu zaman bir görev gibi değil, bir huy gibi aktarıldı: kıyıya fazla yaklaşan çocuğu geri çağıran bir el, denizin belli bir köşesine dönük bir tedirginlik, sebebi unutulmuş bir dua. Bu ailelerin bazıları yüzyıllar içinde dağıldı, başka ülkelere göçtü, adlarını değiştirdi. Ama içlerinde bir şey kaldı — beslenmeyince küçülen, ama hiç ölmeyen bir uyanıklık. Eirene buna "tanıma" demişti. Onlar artık o kelimeyi bilmiyordu. Yine de taşıyorlardı. Ve bir gün, çok uzakta, bu kandan biri yine bu adanın kapısına gelecekti — ama hangi niyetle geldiğini kendisi bile bilmeden.
+
 İlk yüzyılda görev kutsaldı. İkinci yüzyılda gelenek oldu. Üçüncü yüzyılda söylenceye dönüştü. Beşinci yüzyılda kimse nedenini bilmiyordu.
 
 Altıncı yüzyılda bir Budist keşiş adaya ayak bastı. Üç gün kaldı. Ayrılırken yanındaki çırağına şöyle dedi: "Bu adanın altında bir yara var. Toprak iyileşmeyi beklemiyor. Sadece unutulmayı bekliyor." Çırağı bu sözleri yazdı. Kâğıt yüzyıllar sonra bir tapınak yangınında kül oldu.

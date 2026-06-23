@@ -32,6 +32,8 @@ Kimse anlamadı.
 
 Ama kimse de unutmadı.
 
+Yalnız Eirene, bunu bir kehanet gibi duymadı. Bir kehanette korku vardır; bilinmeyenin korkusu. Oysa En-Nakar'ın sesinde korku yoktu. Sabır vardı. Sanki uzak bir günü işaret etmiyor, bir randevu veriyordu. Sanki o kapı kapanmadan önce, kapanışın nasıl biteceğini çoktan biliyordu. Eirene, hapsettikleri şeyin gülümsemesine baktı ve içinden geçirdi: *Biz bir düşmanı mı gömüyoruz, yoksa bir tohumu mu ekiyoruz?* Sonra bu düşünceyi de gömdü. Söylenecek gün değildi.
+
 Kapı henüz kapanmamıştı.
 
 O gece, son kapanmadan önce, Mühürcüler dışarıda oturdu. Her biri farklı bir yönü seyretti. Mısır'ı. Persya'yı. Hindistan'ı. Çin'i. Ege'yi. Artık hiçbirine dönmeyeceklerdi — en azından büyük çoğunluğu. Bu yolculuk onları kendi evlerinden çok daha uzaklara taşımıştı. Ve şimdi, dünyanın ucunda, obsidyen bir odanın önünde oturuyorlardı.
