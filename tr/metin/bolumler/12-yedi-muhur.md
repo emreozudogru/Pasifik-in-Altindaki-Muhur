@@ -122,7 +122,7 @@ Mısırlı astronom başını eğdi, yıldızlardan medet umar gibi; ama gökyü
 
 Ses büyümedi.
 
-Çünkü kimse ona bir öfke, bir çığlık, bir suçlama uzatmadı. Ses, beslenecek bir şey bulamadı.
+Kimse ona bir öfke, bir çığlık, bir suçlama uzatmadığı için. Ses, beslenecek bir şey bulamadı.
 
 Sessizlik kırılmadı.
 

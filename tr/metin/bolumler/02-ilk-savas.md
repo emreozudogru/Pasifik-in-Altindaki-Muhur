@@ -4,7 +4,7 @@
 
 Onu ilk görenler Sümerli değildi. Sümerliler sadece onun adını kil tabletlere yanlış kazıyan ilk insanlardı. Onlar ona **En-Nakar** demişlerdi. Anlamı tam çevrilemezdi. “Bozan”, “tersine çeviren”, “düzeni kemiren”, “insanın içindeki karanlığı uyandıran” gibi anlamlara gelirdi.
 
-Mısırlılar ona **Kha-Sedjem** dediler. Adı, kabaca, “işiten yüz” demekti — çünkü onunla konuşan, kendi içindeki sesin dışarıdan da duyulduğunu sanırdı. Persler **Druj’un Bedeni** diye andı; yalanın eti, yalanın yürüyen hâli. Hint metinlerinde doğrudan adı geçmedi; sadece “konuşan açlık” diye tarif edildi — doymayan, ama hiç bağırmayan bir açlık. Çin kayıtlarında ise adı yoktu. Sadece bir uyarı vardı: “Ona isim vermeyin. İsim, kapıdır.”
+Mısırlılar ona **Kha-Sedjem** dediler. Adı, kabaca, “işiten yüz” demekti — çünkü onunla konuşan, kendi içindeki sesin dışarıdan da duyulduğunu sanırdı. Persler **Druj’un Bedeni** diye andı; yalanın eti, yalanın yürüyen hâli. Hint metinlerinde doğrudan adı geçmedi; yalnızca “konuşan açlık” diye tarif edildi — doymayan, ama hiç bağırmayan bir açlık. Çin kayıtlarında ise adı yoktu. Sadece bir uyarı vardı: “Ona isim vermeyin. İsim, kapıdır.”
 
 Beş ayrı dil, beş ayrı isim. Ama hepsinin altında aynı şey yatıyordu. Hiçbiri onu tarif etmiyordu aslında. Hepsi, ona bakan halkı tarif ediyordu. Mısırlı işitmekten korkuyordu, o yüzden ona “işiten” dedi. Pers yalandan korkuyordu, o yüzden ona “yalanın bedeni” dedi. Hintli kendi doymak bilmez arzusundan korkuyordu, o yüzden ona “açlık” dedi. İsimler onu değil, korkanı gösteriyordu. Belki de onun gerçek adı buydu: her insanın kendi korkusuna verdiği ad.
 

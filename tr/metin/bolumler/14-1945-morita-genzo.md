@@ -36,7 +36,7 @@ O sabah deniz kıyıya ölü balıklar bırakmıştı. Yüzlerce. Gözleri beyaz
 
 Morita durdu. Bunu daha önce hiç görmemişti.
 
-Rüzgar yoktu ama ağaçlar sallanıyordu. Yapraksız, rüzgarda eğilmiş yaşlı çamlar, esinti olmadan, kendi içlerinden bir titremeyle sallanıyordu. Güneş yoktu ama gölgeler uzamıştı. Gölgeler yanlış yöne düşüyordu — denize doğru değil, adanın ortasına doğru. Sanki ışık değil, karanlık bir kaynaktan yayılıyordu; sanki adanın göbeğinde bir şey, bütün gölgeleri kendine çekiyordu. Morita kendi gölgesine baktı. O da içeri doğru uzanıyordu. Sanki gölgesi, ondan önce davranmış, çoktan kapıya doğru yürümeye başlamıştı.
+Rüzgar yoktu ama ağaçlar sallanıyordu. Yapraksız, rüzgarda eğilmiş yaşlı çamlar, esinti olmadan, kendi içlerinden bir titremeyle sallanıyordu. Güneş yoktu ama gölgeler uzamıştı. Gölgeler yanlış yöne düşüyordu — denize doğru değil, adanın ortasına doğru. Işık değil, karanlık bir kaynaktan yayılıyordu sanki; adanın göbeğinde bir şey, bütün gölgeleri kendine çekiyordu. Morita kendi gölgesine baktı. O da içeri doğru uzanıyordu. Gölgesi, ondan önce davranmış, çoktan kapıya doğru yürümeye başlamıştı.
 
 Taşların arasından sıcak buhar çıkıyordu. İnce, kıvrılan dumanlar, kayaların çatlaklarından, soluk soluğa yükseliyordu. Morita bir taşa dokundu. Sıcaktı. Bütün ada, ayağının altında, tıpkı yaz öğlelerinde ısınan bir hayvan gibi sıcaktı — ama güneş yoktu, ve mevsim yaz değildi. Hava, yanık demir gibi kokuyordu. Ve bir ses vardı — ya da sesin yokluğu vardı. Kuşlar susmuştu. Deniz susmuştu. Köpekler bile, kıyının ötesindeki köyde, çoktan susmuştu. Bütün ada, soluğunu tutmuş bir adam gibi bekliyordu.
 

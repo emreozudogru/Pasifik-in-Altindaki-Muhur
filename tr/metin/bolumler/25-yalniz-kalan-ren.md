@@ -56,7 +56,7 @@ Ren ona baktı. Voss’un yüzünde o eski, tanıdık gülümseme yoktu. Bu kez 
 
 Ren ona baktı. Ve korkunç olan şuydu: Voss yalan söylemiyordu. Gerçekten annesini kurtarabilirdi — bunu biliyordu. Bir telefon, bir imza, ve yetmiş üç yaşındaki bir kadın yaşardı. Bu kadar basit. Bu kadar ucuz. Tek yapması gereken durmaktı. Bırakmaktı. Unutmaktı. Normal bir kızı, normal bir hayatı, hasta annesinin başında bekleyen normal bir evladı oynamaktı.
 
-Ve bir an — Ren bunu sonradan en çok kendine itiraf etmekten korktuğu an olarak hatırlayacaktı — bir an, evet demeyi düşündü. Çünkü makuldü. Çünkü kim annesini bir defter için feda eder? Hangi ahlak bunu haklı çıkarır? Voss ona kötü bir şey teklif etmiyordu. İyi bir şey teklif ediyordu — bir evladın annesini kurtarması. En karanlık seçenek değildi bu; en parlak seçenekti. Tuzak da buydu zaten.
+Ve bir an — Ren bunu sonradan en çok kendine itiraf etmekten korktuğu an olarak hatırlayacaktı — bir an, evet demeyi düşündü. Çünkü makuldü. Kim annesini bir defter için feda ederdi ki? Hangi ahlak bunu haklı çıkarırdı? Voss ona kötü bir şey teklif etmiyordu. İyi bir şey teklif ediyordu — bir evladın annesini kurtarması. En karanlık seçenek değildi bu; en parlak seçenekti. Tuzak da buydu zaten.
 
 "Seçim senin," dedi Voss. "Bedel her nesil sorar. Ya seninki, ya onunki." Bir an durdu. Sesi hâlâ yumuşaktı. "Başka çaren yok."
 
@@ -108,7 +108,7 @@ Ve mirası taşımanın bedeli ağırdı. Onu reddetmenin tek yolu, onu taşıya
 
 O gece, ucuz bir otel odasında, Ren kararını verdi.
 
-Onu ifşa etmeyecekti. Çünkü ifşa etmek onu büyütebilirdi. Onun adını yaymayacaktı. Çünkü isim kapıydı. Ama artık bunlar soyut fikirler değildi. Bedelini ödemişti.
+Onu ifşa etmeyecekti. Çünkü ifşa etmek onu büyütebilirdi. Onun adını da yaymayacaktı; isim kapıydı çünkü. Ama artık bunlar soyut fikirler değildi. Bedelini ödemişti.
 
 Bunun yerine eski Mühürcülerin yaptığı şeyi yapacaktı: Az kişiye, doğru bilgiyi, kontrollü biçimde aktaracaktı. Bir karşı ağ kuracaktı. Gösterişli değil. Kahramanca değil. Viral değil. Sessiz.
 
