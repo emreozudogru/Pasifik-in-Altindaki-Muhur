@@ -8,7 +8,7 @@ Ama önce, son bir kez, Voss'u gördü.
 
 ---
 
-Buluşmayı Ren istemedi. Voss da çağırmadı. Bir akşam, Ren'in kaldığı otel odasının kapısı çalındı ve o oradaydı — sanki hep oradaymış, sanki Ren'in onu beklediğini ondan daha iyi biliyormuş gibi. İçeri girdi, pencerenin önündeki sandalyeye oturdu. Dışarıda şehir, milyonlarca ekranıyla parlıyordu.
+Buluşmayı Ren istemedi. Voss da çağırmadı. Bir akşam, Ren'in kaldığı ucuz otel odasının kapısı çalındı — iki kez, yumuşakça, acelesi olmayan biri gibi — ve o oradaydı. Sanki hep oradaymış, sanki Ren'in onu beklediğini ondan daha iyi biliyormuş gibi. İçeri girdiğinde yanında o tanıdık sessizlik de girdi; odanın klimasının uğultusu, koridordan gelen ayak sesleri, hepsi bir ton alçaldı. Voss pencerenin önündeki sandalyeye oturdu. Dışarıda şehir, milyonlarca ekranıyla parlıyordu; soğuk, mavi-beyaz bir ışık, camda Voss'un siluetini bir gölgeye çeviriyordu.
 
 "Soyunu öğrendin," dedi Voss. Soru değildi.
 

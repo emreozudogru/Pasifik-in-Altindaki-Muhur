@@ -8,7 +8,9 @@ Sonradan, çok sonradan, bunu yazmaya çalışan biri olsaydı, yalnızca mesafe
 
 Kara ile başladı.
 
-Önce dağlar vardı — yakaladıkları vadiden doğuya, güneşin doğduğu yöne. Atlarla, sonra yürüyerek. Sandık, üç katlı bir tabuttu ve onu sırayla taşıdılar: sedir ağacı dıştan, kurşun ortada, cilalı siyah taş içeride. Ağırdı. Ama taşıdıkça hafiflemiyor, ağırlaşıyordu — sanki içindeki şey, her gün biraz daha çok şey biliyordu onlar hakkında.
+Önce dağlar vardı — yakaladıkları vadiden doğuya, güneşin doğduğu yöne. Atlarla, sonra yürüyerek. Yükseklerde hava inceldi, dudaklar çatladı, her nefes göğüste bir bıçak gibi durdu. Geceleri soğuk, battaniyelerin içinden kemiğe işliyordu; sabahları çadır bezleri buz tutuyor, çözülürken çıtırdıyordu. Toprak değişti: önce kırmızı kil, sonra çakıl, sonra ayak tabanını acıtan keskin kaya. Atların nalları aşındı, sonra atlar tükendi, sonra yürümek tek yol oldu.
+
+Sandık, üç katlı bir tabuttu ve onu sırayla taşıdılar: sedir ağacı dıştan, kurşun ortada, cilalı siyah taş içeride. Ağırdı — omuzlarda iz bırakan, dizleri büken bir ağırlık. Sedir, terden ve yağmurdan sonra küflü bir koku almıştı; kurşun, dokununca tuhaf bir soğukluk veriyordu, yaz güneşinin altında bile. Ama asıl tuhaf olan şuydu: taşıdıkça hafiflemiyor, ağırlaşıyordu — sanki içindeki şey, her gün biraz daha çok şey biliyordu onlar hakkında, ve bildikçe ağırlaşıyordu.
 
 Geçtikleri köyler onları hatırlamadı. Çünkü Mühürcüler iz bırakmıyordu: ne isim söylüyor, ne hikâye anlatıyor, ne de yüzlerini gösteriyordu. Bir kervan gibi geldiler, bir kervan gibi gittiler. Geride yalnızca bir tedirginlik kaldı; köylüler, neden o gece çocuklarını içeri çağırdıklarını ertesi gün hatırlamadı.
 
