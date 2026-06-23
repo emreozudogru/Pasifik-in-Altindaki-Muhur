@@ -40,7 +40,7 @@ Yıllarca o kuyudan uzak durdular. Kuyu unutuldu. Üzerinde otlar bitti. Ve tam 
 
 Mühürcüler bunu fark etti.
 
-Hintli matematikçi — o sıralar henüz hayattaydı, henüz yola çıkmamışlardı — kuyunun başına gitti ve uzun süre oturdu. Sonra döndü ve şunu söyledi: "Onu öldürdüğümüzde güçleniyor. Gömdüğümüzde susuyor. Demek ki sır, onu yok etmekte değil. Onu beslememekte." Bir taşa bir denklem çizdi — varlığı bir bilinmeyen, korkuyu bir çarpan olarak gösteren bir denklem. "Ona verilen dikkat," dedi, "onun gıdası. Sıfır dikkat, sıfır güç. Ama insan, korktuğu şeye dikkat vermemeyi en zor öğrenir."
+Hintli matematikçi — o sıralar henüz hayattaydı, henüz yola çıkmamışlardı — kuyunun başına gitti ve uzun süre oturdu. Sonra döndü ve şunu söyledi: "Onu öldürdüğümüzde güçleniyor. Gömdüğümüzde susuyor. Demek ki sır, onu yok etmekte değil. Onu beslememekte." Bir taşa bir denklem çizdi — varlığı bir bilinmeyen, korkuyu bir çarpan olarak gösteren bir denklem. "Ona verilen dikkat," dedi, "onun gıdası. Bir sayıyı hiçle çarparsan, geriye hiç kalır; ne kadar büyük olursa olsun. Dikkat kesilirse, o da hiçe iner. Ama insan, korktuğu şeye sırtını dönmeyi en zor öğrenir."
 
 İşte ilk gerçek fikir orada doğdu. Lu Shen bunu sonradan şöyle yazacaktı: *"Bedenini öldürmek, gölgesine kılıç sallamaktır. Gölge kesilmez. Sadece ışığın yolu değiştirilir."* Ama fikrin tohumu, o kuyunun başında, bir matematikçinin çizdiği denklemde atıldı.
 
