@@ -2,24 +2,60 @@
 
 🌑 **Pasifik'in Altındaki Mühür**
 
-Yolculuk yedi yıl sürdü. Bu yedi yılın tamamı yürüyerek, atla, nehir kayıklarıyla ve deniz gemileriyle geçti. Birçok kişi yolda öldü. Bazıları hastalıktan. Bazıları fırtınadan. Bazıları da onun rüyalarından.
+Yolculuk yedi yıl sürdü.
 
-En-Nakar artık konuşmuyordu. Ama yakındakiler rüya görmeye başlamıştı. Bir muhafız, her gece annesinin onu çağırdığını gördü. Üçüncü gece zincirleri çözmeye çalışırken yakalandı. Zincirleri kendi eliyle gevşetmişti. Gözleri yaşlıydı. "Annem aç," demişti. "Onu doyurmam lazım."
+Sonradan, çok sonradan, bunu yazmaya çalışan biri olsaydı, yalnızca mesafeyi ölçerdi: şu kadar dağ, şu kadar nehir, şu kadar deniz. Ama mesafe, yolculuğun en küçük kısmıydı. Asıl yol, Mühürcülerin içinden geçti. Yedi yılda kat ettikleri en uzun yol, kendi karanlıklarına gidip dönmekti.
 
-Bir rahip, tanrısının En-Nakar'ın içinde hapsedildiğine inandı. Dilini kesip ona sundu. Kan, zincirlerin üzerine damladı. En-Nakar, kanı yalamadı. Sadece baktı. Rahip ertesi sabah kendini bir kayadan attı.
+Kara ile başladı.
 
-Bir denizci, geminin altındaki suyun aslında gökyüzü olduğunu söyledi ve kendini denize attı. Vücudu bulunamadı. Sadece bir sandalye ve bir halat kaldı. Halatta kendi adının düğümü vardı.
+Önce dağlar vardı — yakaladıkları vadiden doğuya, güneşin doğduğu yöne. Atlarla, sonra yürüyerek. Sandık, üç katlı bir tabuttu ve onu sırayla taşıdılar: sedir ağacı dıştan, kurşun ortada, cilalı siyah taş içeride. Ağırdı. Ama taşıdıkça hafiflemiyor, ağırlaşıyordu — sanki içindeki şey, her gün biraz daha çok şey biliyordu onlar hakkında.
 
-Bu yüzden son gemide sadece sağır muhafızlar görev yaptı. İletişim işaretlerle yapılıyordu. Geminin ortasında üç katlı bir sandık vardı. Dış katman sedir ağacıydı. İkinci katman kurşundu. Üçüncü katman cilalanmış siyah taştı. Sandığın içinde zincirlenmiş beden oturuyordu. Yemek verilmiyordu. Su verilmiyordu. Buna rağmen ölmedi. Bir muhafız, her gece sandığın kapağındaki kurşun halkaları kontrol ediyordu. Halkalardan biri gevşemişti. O muhafız, halkayı kendi eliyle sıkılaştırdı ve ertesi gün kendi bileğini kesti. Kimse nedenini sormadı.
+Geçtikleri köyler onları hatırlamadı. Çünkü Mühürcüler iz bırakmıyordu: ne isim söylüyor, ne hikâye anlatıyor, ne de yüzlerini gösteriyordu. Bir kervan gibi geldiler, bir kervan gibi gittiler. Geride yalnızca bir tedirginlik kaldı; köylüler, neden o gece çocuklarını içeri çağırdıklarını ertesi gün hatırlamadı.
 
-Bazen sandığın içinden tırnak sesi gelirdi. Bazen çocuk ağlaması. Bazen de içeriden, gemideki herkesin kendi sesiyle fısıltılar duyduğu söylenirdi. Ama sağır muhafızlar duymadı. Onlar sadece sandığın kapağındaki mühürlerin titrediğini gördüler. Ve sonunda, sisli bir sabah, doğudaki adalara vardılar.
+En-Nakar artık konuşmuyordu.
 
-Yolculuğun ilk yılında, Mühürcüler'den biri daha ayrıldı. Hint matematikçiydi. Sayıları seven, sessiz bir adamdı. Bir gece, En-Nakar'ın rüyasında bir denklem çözdüğünü gördü. Denklem, kendi ölümünü gösteriyordu. Sabah uyandığında, parmaklarını saymaya başladı. Bir, iki, üç… ve parmakları yetmedi. "Ben zaten ölmüşüm," dedi.
+Yakalandığı vadide son sözlerini söylemişti; ondan sonra sustu. Ama susması, yokluğu değildi. Susması, bir tür çalışmaydı. Konuşmak yerine, rüya göndermeye başladı.
 
-Ölmeden önce Lu Shen'e küçük bir kağıt parçası uzattı. Üzerinde tek bir kelime vardı, farklı dillerde farklı okunuyordu. Lu Shen sordu: "Bu ne?" Matematikçi cevap vermedi. Sadece gülümsedi — ilk ve son kez. Sonra zincirleri tutan ipi kendi boğazına sardı.
+İlk rüyayı bir muhafız gördü.
 
-Lu Shen kağıdı katladı, cebine koydu. Yıllar sonra, Kuroshima'da, o kelimeyi masaya koyacaktı.
+Genç bir adamdı, kuzeyden. Her gece annesini gördü — ölmüş annesini, onu adıyla çağıran, "Acıktım, oğlum, beni doyur," diyen. Üçüncü gece, uykusunda kalktı; uyanık değildi ama gözleri açıktı. Sandığın zincirlerine yürüdü ve onları çözmeye başladı. Parmakları kendi başına çalışıyordu. Gözlerinden yaş akıyordu.
 
-Eirene, cesedini denize vermeden önce matematikçinin ellerine baktı. Donmuş parmaklara. Onları açtı, saydı. On parmak. Tam sayı. Ama hesabı tutmamıştı.
+Onu yakaladıklarında direnmedi. Sadece, "Annem aç," dedi. "Onu doyurmam lazım." Kimse onu cezalandırmadı. Çünkü herkes biliyordu: o zinciri açan el, onun eli değildi tam olarak. Ertesi gün muhafızı geri gönderdiler — sağ, ama bir daha asla aynı olmayan biri olarak. Bu da bir bedeldi. İlk bedellerden biri.
 
-O gece ilk kez, Mühürcüler'den biri yüksek sesle ağladı. Lu Shen, "Ağlama," dedi. "Ağlarsan o kazanır." Eirene cevap verdi. İlk kez, net ve yüksek: "Ağlamak, onun dışında kalmaktır." O andan sonra ağlama serbestti. Ama fısıltı yasak.
+Bundan sonra, sandığa yakın nöbet tutanların kulaklarına balmumu tıkandı. Yetmedi. Çünkü En-Nakar'ın sesi kulaktan değil, içeriden geliyordu.
+
+---
+
+Yolculuğun ilk yılı sona ererken, Mühürcüler bir eksildi.
+
+Hintli matematikçiydi giden. Sessiz bir adamdı; sayıları severdi, çünkü sayılar dürüsttü. Bir savaşın kaç can aldığını, bir hasadın kaç kişiyi doyuracağını, bir yolculuğun kaç gün süreceğini sayılarla bilirdi. Sayılar ona hiç yalan söylememişti.
+
+Bir gece, En-Nakar'ın gönderdiği rüyada bir denklem gördü. Temiz, kusursuz bir denklem. Çözümü kendisiydi — kendi ölümünün tarihini, yerini, biçimini veren bir denklem. O kadar zarifti ki, yanlış olamazdı.
+
+Sabah uyandığında parmaklarını saymaya başladı. Bir, iki, üç… Saydıkça yüzü değişti. Tekrar saydı. Sonra bir daha.
+
+"Parmaklarım yetmiyor," dedi.
+
+Eirene yanına gitti. Adamın ellerini tuttu, açtı, kendi önünde saydı: bir, iki, üç, dört, beş — ve öbür el — altı, yedi, sekiz, dokuz, on. "On parmağın var," dedi. "Tam. Eksik yok."
+
+Matematikçi ona baktı. Gözlerinde, sayıların hiç barındırmadığı bir şey vardı: kesinlik. "Hayır," dedi sakince. "Ben zaten ölmüşüm. Denklem öyle diyor. Sen yanlış sayıyorsun."
+
+O gün, ölmeden önce, Lu Shen'e küçük bir kâğıt parçası uzattı. Üzerinde tek bir kelime yazılıydı — kendi dilinde, ama altına başka dillerde de yazmıştı, sanki bu kelimenin her dilde söylenmesi gerektiğini biliyormuş gibi. Lu Shen sordu: "Bu ne?"
+
+Matematikçi cevap vermedi. Sadece gülümsedi — yolculuk boyunca ilk ve son kez. Sonra, o gece, zincirleri tutan iplerden birini kendi boğazına doladı.
+
+Lu Shen kâğıdı katladı, cebine koydu. Ne yazdığını o an anlamadı. Yıllar sonra, dünyanın öbür ucunda, obsidyen bir odanın önünde, o kâğıdı açıp masaya koyacaktı. Kelime şuydu: **isim.** Matematikçi, ölmeden önce, dördüncü mührü bırakmıştı — onlara değil, geleceğe.
+
+Eirene, cesedi denize vermeden önce adamın ellerine son kez baktı. Donmuş, açık parmaklara. İçinden, *Hesabın tuttu mu sonunda?* diye sordu. Cevap yoktu. Sadece on parmak vardı, ve hiçbir denklem onları geri getiremezdi.
+
+O gece, Mühürcülerden biri yüksek sesle ağladı.
+
+Lu Shen, refleksle, "Ağlama," dedi. "Ağlarsan o kazanır."
+
+Eirene karşı çıktı. İlk kez net, yüksek bir sesle konuştu:
+
+"Hayır. Ağlamak, onun dışında kalmaktır. Bizi yiyen gözyaşı değil — gözyaşını yutup öfkeye çevirmek. Ağla. Ama kimseyi suçlama. İşte o zaman dışarıda kalırsın."
+
+O geceden sonra, ağlamak serbest oldu.
+
+Yalnızca fısıltı yasaktı.

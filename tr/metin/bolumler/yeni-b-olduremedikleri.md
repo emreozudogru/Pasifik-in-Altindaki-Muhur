@@ -1,0 +1,67 @@
+# YENİ-B — Öldüremedikleri
+
+🌑 **Pasifik'in Altındaki Mühür**
+
+Kâseyi içtikten sonra dağıldılar.
+
+Bir arada kalmak tehlikeliydi. Beş kişi aynı çatı altında, aynı korkuyla, aynı dilde olmasa bile aynı cümleyle — bu bir hedefti. En-Nakar'ın en sevdiği şey, bir araya toplanmış korkuydu; çünkü toplanan korku, kendi kendini büyütürdü. Bu yüzden ayrıldılar. Her biri kendi diyarına döndü. Ama artık eskisi gibi dönmediler. Artık birer hekim, birer kâtip, birer rahip değildiler. Birer bekçiydiler — neyi beklediklerini henüz tam bilmeden.
+
+Ve ilk yıllar, onu öldürmeye çalışarak geçti.
+
+Çünkü insanın ilk içgüdüsü budur: tehlikeli olanı yok etmek. Mühürcüler de insandı. Bilge, evet; ama önce insan. Sessizliğin bir silah olduğunu masada kabul etmişlerdi, ama kabul etmek ile inanmak arasında uzun bir yol vardır. O yolu, ölüleriyle yürüdüler.
+
+---
+
+İlk denemeyi Mısırlı yaptı.
+
+En-Nakar o sıralar Nil kıyısında bir vergi memurunun bedenindeydi — kayıtları çevirip insanları açlığa süren, ama bunu hep "düzen" adına yapan biri. Mısırlı astronom onu bir gece nehir kıyısında buldu. Yanında üç adam vardı, hepsi güvenilir, hepsi sessizlik andını içmiş. Memuru bağladılar, taşıdılar, parçaladılar. Bedeni Nil'e verdiler; timsahlar gerisini hallederdi.
+
+Üç hafta sonra, aynı bölgede, bir rahip ortaya çıktı. Kimsenin tanımadığı, nereden geldiği bilinmeyen bir rahip. İnsanlara su tanrısının öfkelendiğini, ancak kan dökülürse yatışacağını anlattı. O yıl Nil'de boğulanların sayısı, memurun bütün ömründe açlığa sürdüğünden fazlaydı.
+
+Mısırlı bunu duyduğunda diz çöktü. Anladı ki bedeni öldürmek, yalnızca onu yeni bir bedene taşımıştı — ve yeni beden, eskisinden daha kötüydü. Çünkü her öldürme, ona insanın onu ne kadar ciddiye aldığını gösteriyordu. Korku, ona yol açıyordu.
+
+---
+
+İkinci denemeyi Persli yaptı.
+
+Zagros Dağları'nda, bir ateş tapınağında köşeye sıkıştırdı onu. Bu kez parçalamadı — yaktı. Ateş, Pers rahibinin tanrısıydı; arındırırdı, bitirirdi, geri dönüşü olmazdı. En-Nakar'ın o günkü bedeni alevlerin içinde çığlık attı, sonra kül oldu. Rahip külleri dört rüzgâra savurdu, hiçbir parça bir arada kalmasın diye.
+
+Aylar sonra, aynı tapınakta, genç bir rahip yükseldi. Çok yetenekliydi; ateşi herkesten iyi okuyordu. Bir gün cemaate, kâfirlerin de ateşle arındırılması gerektiğini söyledi. Tapınak, bir mabetten bir mahkemeye döndü. Yakılanların çığlıkları, En-Nakar'ın yandığı geceki çığlıktan daha uzun sürdü.
+
+Pers rahibi, kendi yetiştirdiği bu genç adamın gözlerine baktığında, orada tanıdık bir griyi gördü. Ve sustu. İlk kez gerçekten sustu — öğüt vermeyi, vaaz etmeyi, "arınma" demeyi bıraktı. Çünkü anladı: ateş bile onun diliydi artık.
+
+---
+
+Üçüncü deneme Hindistan'da oldu.
+
+Onu bir kuyuya attılar, üzerine taş yığdılar, ağzını mühürlediler. Hiç öldürmediler — sadece gömdüler. Belki, diye düşündüler, öldürmemek onu beslemez. Belki sessizce toprağa vermek yeterli olur.
+
+Yıllarca o kuyudan uzak durdular. Kuyu unutuldu. Üzerinde otlar bitti. Ve tam da unutulduğu için, kimse onu beslemedi — ne korkuyla, ne öfkeyle, ne de bir başka bedene geçecek bir kapıyla. O yıllarda o bölgede tuhaf bir huzur oldu. Savaşlar durdu. Kardeşler barıştı. Kimse nedenini bilmedi.
+
+Mühürcüler bunu fark etti.
+
+Hintli matematikçi — o sıralar henüz hayattaydı, henüz yola çıkmamışlardı — kuyunun başına gitti ve uzun süre oturdu. Sonra döndü ve şunu söyledi: "Onu öldürdüğümüzde güçleniyor. Gömdüğümüzde susuyor. Demek ki sır, onu yok etmekte değil. Onu beslememekte." Bir taşa bir denklem çizdi — varlığı bir bilinmeyen, korkuyu bir çarpan olarak gösteren bir denklem. "Ona verilen dikkat," dedi, "onun gıdası. Sıfır dikkat, sıfır güç. Ama insan, korktuğu şeye dikkat vermemeyi en zor öğrenir."
+
+İşte ilk gerçek fikir orada doğdu. Lu Shen bunu sonradan şöyle yazacaktı: *"Bedenini öldürmek, gölgesine kılıç sallamaktır. Gölge kesilmez. Sadece ışığın yolu değiştirilir."* Ama fikrin tohumu, o kuyunun başında, bir matematikçinin çizdiği denklemde atıldı.
+
+Onu öldürmeyeceklerdi.
+
+Onu dünyadan ayıracaklardı — ve ayırırken, ona en az dikkati vererek.
+
+---
+
+Ama bir sorun vardı.
+
+Gömmek, küçük bir bölgede işe yaramıştı. Ama En-Nakar artık tek bir kuyuya sığmayacak kadar tanınıyordu. Onu gömmek için önce yakalamak, yakalamak için aramak, aramak içinse ona dikkat vermek gerekiyordu. Her arayış, onu biraz daha besliyordu. Bir paradoksun içindeydiler: onu durdurmak için ona yaklaşmak, ona yaklaşmak için onu büyütmek zorundaydılar.
+
+Eirene, çözümü bulan oldu. Yıllar sonra, o uzun masada, hiç konuşmadan dinledikten sonra:
+
+"Onu bir kez yakalayacağız," dedi. "Bir kez. Sonra dünyanın ucuna götürüp, bir daha asla aranmayacak bir yere gömeceğiz. Onu öldürmeyeceğiz — çünkü öldürmek besler. İfşa etmeyeceğiz — çünkü ifşa besler. Sadece adını silip, yerini unutup, üzerine sessizlik dökeceğiz. Bedel ağır olacak. Ama bedel her zaman ağırdır. Soru şu: bu nesil mi ödeyecek, yoksa her nesle mi bırakacağız?"
+
+Kimse cevap veremedi.
+
+Çünkü cevabın ne olduğunu hepsi biliyordu — ve hiçbiri yüksek sesle söylemeye cesaret edemiyordu. Onu dünyanın ucuna götürmek, gidenlerin çoğunun geri dönmemesi demekti. Yedi yıl, belki daha fazla. Evlerinden, dillerinden, adlarından vazgeçmek.
+
+İlk bedel, daha yola çıkmadan istenmişti.
+
+Ve onu ödemeye karar verdiler.

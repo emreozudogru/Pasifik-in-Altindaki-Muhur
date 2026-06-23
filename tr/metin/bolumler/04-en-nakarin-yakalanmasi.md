@@ -6,21 +6,35 @@ O vadideki savaş, hiçbir tarih kitabına geçmedi. Çünkü orada üniforma yo
 
 En-Nakar'ın son bedeni genç bir adam görünümündeydi. Yüzünde yara yoktu. Gözleri siyah değildi; aksine açık renkti. Neredeyse gri. Onu ürkütücü yapan şey gözlerinin rengi değildi. Bakışında insanın kendini açıklanmış hissetmesiydi. Sanki sakladığın her yalanı biliyordu. Sanki daha sen doğmadan önce seni bekliyordu.
 
-Mühürcüler onu bir kervan kılığında yakaladı. Plan aylarca süren bir takipten sonra olgunlaşmıştı. En-Nakar'ın bir sonraki hedefi küçük bir vadi krallığıydı — krallarını, rahiplerini ve komutanlarını birbirine düşürecek, sonra çekilip izleyecekti. Mühürcüler ondan önce davrandı.
+Onu aylarca kovaladılar.
 
-Mısırlı astronom, bir kervancı gibi davranıyordu. Pers rahibi, yük hayvanlarını süren adamdı. Eirene, yaralı bir yolcu rolündeydi. Yüzü toz içindeydi, eli sargılıydı. Sargının altında küçük bir bıçak vardı.
+Takip bir av değildi. Av, kaçan bir şeyin peşinden gitmektir; oysa En-Nakar kaçmıyordu. Şehirden şehre, saraydan saraya, sakin bir adam gibi yürüyordu. Geçtiği her yerde bir çatlak bırakıyordu — iki kardeş arasında bir söz, bir komutanla kralı arasında bir şüphe, bir rahibin diline yapışan küçük bir korku. Sonra çekiliyor, oturuyor, izliyordu. Yıkımı kendisi yapmıyordu. İnsanlara yaptırıyordu. Mühürcüler onu işte bu izlerden takip etti: cesetlerden değil, fısıltılardan. Bir kasabaya vardıklarında geç kalmış oluyorlardı; geriye yalnızca birbirine düşmüş bir halk, sebebini hatırlamayan bir öfke kalıyordu.
 
-Çinli katip Lu Shen, pusulayı elinde tutuyordu. Pusulanın iğnesi titriyordu. Lu Shen not defterine tek bir cümle yazdı: "Yönünü kaybeden pusula, yönünü kaybeden insandan daha dürüsttür." Sonra sayfayı yırttı ve ateşe attı.
+Aylar boyunca yaklaştılar. Bir adım ileri, yarım adım geri. Onu kovalamak, kendi içlerinden geçmek gibiydi. Geceleri sırayla nöbet tuttular, çünkü uyumaktan korkuyorlardı. Bazı sabahlar biri aralarından eksilirdi; kimi kendi eliyle gitmişti, kimi de bir gece önceki kavgayı hiç hatırlamayan, ama elinde kanlı bir taş tutan biri olarak uyanmıştı. Kendi ölülerini verdiler; rüyalarda kaybettiler birkaçını, kimini de yolda. Birbirlerine güvenmemeyi öğrendiler — ve tuhaf bir biçimde, onları ayakta tutan da buydu. Çünkü En-Nakar, birbirine güvenenleri daha kolay yiyordu.
 
-Plan basitti: En-Nakar'ı zincirlemek, susturmak ve yola çıkmak. Ama o, zincirleri gördüğünde gülümsedi.
+En sonunda öğrendiler: En-Nakar'ın bir sonraki hedefi küçük bir vadi krallığıydı. Kralını, rahiplerini ve komutanlarını birbirine düşürecek, sonra çekilip izleyecekti. Mühürcüler ondan önce davrandı. Onun varacağı yere, ondan önce vardılar. Onu kovalamayı bıraktılar; beklemeye başladılar. Av, avcının önüne kendi gelirse, ortada kim avcıdır?
+
+Onu bir kervan kılığında yakaladılar. Plan, aylarca süren takibin son anında olgunlaşmıştı.
+
+Kervan gerçek bir kervan gibi göründü. Yük hayvanları, denkler, toz, ter. Mısırlı astronom, bir kervancı gibi davranıyordu — develerin yularını tutan, fiyat pazarlığı eden bir adam. Pers rahibi, yük hayvanlarını süren adamdı; ateşten ve duadan uzak, sadece bir sürücü. Eirene, yaralı bir yolcu rolündeydi. Yüzü toz içindeydi, eli sargılıydı. Sargının altında küçük bir bıçak vardı. Konuşmuyordu. Yaralı bir kadının konuşmamasından daha doğal bir şey yoktu.
+
+Çinli katip Lu Shen, pusulayı elinde tutuyordu. Pusulanın iğnesi titriyordu. En-Nakar'a yaklaştıkça daha çok titriyordu — sanki demir bile yönünü unutuyordu onun yanında. Lu Shen not defterine tek bir cümle yazdı: "Yönünü kaybeden pusula, yönünü kaybeden insandan daha dürüsttür." Sonra sayfayı yırttı ve ateşe attı. Geride iz bırakmayacaklardı. Ne isim, ne hikâye, ne yazı.
+
+En-Nakar'a bir yolcu gibi yaklaştılar. Akşam karanlığında, bir köy çeşmesinin yanında oturuyordu; tek başına, sakin. Suyun sesini dinler gibiydi. Bir kervan ona doğru geldi; o ne kaçtı, ne korktu. Başını kaldırdı, kervana baktı, sonra Eirene'nin sargılı eline. Bir an, sargının altındakini biliyormuş gibi göründü. Dudağının kenarı kıpırdadı. Ama yine de kalkmadı. Oturduğu yerde kaldı, sanki bu anı çoktan görmüş, çoktan kabul etmiş gibi.
+
+Kimse bağırmadı. Kılıç çekilmedi. Plan basitti: En-Nakar'ı zincirlemek, susturmak ve yola çıkmak. Mühürcüler nefeslerini tuttu. Aylardır bekledikleri an buydu; bir yanlış hareket, bir tek söz her şeyi bozabilirdi. Sessizce yaklaştılar, halka oldular, kapattılar. Bir kervan develerini suya getirir gibi, doğal, yavaş. Kimse koşmadı. Koşan bir insan korkuyor demektir, korku da onun yemiydi. Sadece yürüdüler, daralan bir halka gibi. Sonra zincirler çıktı.
+
+Ama o, zincirleri gördüğünde gülümsedi.
+
+Bakır ve gümüş karışımından zincirlerdi bunlar; demirden değil. Çünkü demiri paslandırdığı, altını kararttığı, ama gümüşü sevmediği fark edilmişti. Bu, Mısır ve Pers tapınaklarında da bilinen bir uygulamaydı. Nedenini kimse bilmiyordu. Bileklerine vurulurken bir tek o ses çıktı vadide — metalin metale değdiği, boğuk, soğuk ses. Sonra yine sessizlik.
 
 "Beni nereye götüreceksiniz?" diye sordu. Kimse cevap vermedi. Gülümsemesi büyüdü. "Dünyanın sonuna mı?" Yine kimse konuşmadı. O zaman En-Nakar başını eğdi. "Dünya sandığınız kadar uzun değil," dedi. "İnsan ise sandığınızdan daha kısa."
 
 Bu sözleri duyan dört asker aynı gece kendini öldürdü.
 
-Eirene zincirleri vururken bir kenarda durdu. Diğerleri rahatlamıştı; en güçlü düşman yakalanmıştı, plan tutmuştu. Ama Eirene rahatlamadı. Bir hekim, fazla kolay iyileşen yarayı sever ama ona güvenmez; çünkü bazen yara değil, hastalık derine iner. Aylardır onu kovalıyorlardı. Tuzaklar kurmuş, ölülerini vermiş, en sonunda köşeye sıkıştırmışlardı. Oysa şimdi, geriye dönüp bakınca, her şey fazla pürüzsüz görünüyordu. Sanki avladıkları şey, avlanmaya razıymış gibi. Eirene bunu kimseye söylemedi. Söyleyecek kelimesi yoktu daha. Sadece cebindeki taşı sıktı.
+Eirene zincirleri vururken bir kenarda durdu. Diğerleri rahatlamıştı; en güçlü düşman yakalanmıştı, plan tutmuştu. Ama Eirene rahatlamadı. Bir hekim, fazla kolay iyileşen yarayı sever ama ona güvenmez; çünkü bazen yara değil, hastalık derine iner. Aylardır onu kovalıyorlardı. Tuzaklar kurmuş, ölülerini vermiş, en sonunda köşeye sıkıştırmışlardı. Oysa şimdi, geriye dönüp bakınca, her şey fazla pürüzsüz görünüyordu. Sanki avladıkları şey, avlanmaya razıymış gibi. Sanki tuzağa düşen değil, tuzağı seçen oydu. Eirene bunu kimseye söylemedi. Söyleyecek kelimesi yoktu daha. Sadece cebindeki taşı sıktı.
 
-Bundan sonra onun yakınında konuşmak yasaklandı. Kulaklara balmumu tıkandı. Muhafızlar üç günde bir değiştirildi. Zincirler demirden değil, bakır ve gümüş karışımından yapıldı. Çünkü demiri paslandırdığı, altını kararttığı, ama gümüşü sevmediği fark edilmişti. Bu, Mısır ve Pers tapınaklarında da bilinen bir uygulamaydı. Nedenini kimse bilmiyordu.
+Bundan sonra onun yakınında konuşmak yasaklandı. Kulaklara balmumu tıkandı. Muhafızlar üç günde bir değiştirildi. Ama balmumu sesi kesti, fısıltıyı kesmedi. Çünkü En-Nakar'ın sesi her zaman kulaktan girmiyordu.
 
 Ama asıl savaş, o gece başladı.
 
@@ -28,7 +42,7 @@ Ama asıl savaş, o gece başladı.
 
 Gece yarısı. Vadi rüzgarsızdı. Ateşler sönmüştü. En-Nakar zincirliydi, gözleri kapalıydı. Nöbetçiler uyanıktı. Her şey yolundaydı.
 
-Sonra Mısırlı astronomun kardeşi geldi. Genç bir adam, adı kayıtlara geçmedi. Sadece yiyecek getirmek için gelmişti. Kervanın erzağı bitmişti, o da yakındaki bir köyden ekmek ve kuru et almıştı. Karanlıkta kimse onu fark etmedi.
+Sonra Mısırlı astronomun kardeşi geldi. Genç bir adam, adı kayıtlara geçmedi. Sadece yiyecek getirmek için gelmişti. Kervanın erzağı bitmişti, o da yakındaki bir köyden ekmek ve kuru et almıştı. Ağabeyini bulmak, yükü bırakmak, biraz dinlenmek istiyordu — yolculuğun tehlikesinden habersizdi; ona söylenmemişti. Karanlıkta kimse onu fark etmedi.
 
 En-Nakar gözlerini açtı.
 
@@ -36,33 +50,33 @@ Kardeşe baktı.
 
 Sadece bir kelime fısıldadı.
 
-Kardeş durdu. Eli baltaya gitti. Yüzü değişti. Gözlerinde bir tanıdıklık vardı — sanki yıllardır bildiği bir gerçeği ilk kez duymuş gibi.
+Kardeş durdu. Eli baltaya gitti. Yüzü değişti. Gözlerinde bir tanıdıklık vardı — sanki yıllardır bildiği bir gerçeği ilk kez duymuş gibi. Korku değildi bu. Daha kötüsüydü. Bir rahatlamaydı. Sanki içinde uzun zamandır bastırdığı bir şey, nihayet izin bulmuştu.
 
 Baltayı kaldırdı.
 
-Astronom uyandığında kardeşinin üzerine gelirken buldu. Anlamadı. "Dur," dedi. Ama kardeş durmadı. Gözleri boştu. Ağzından aynı kelime çıkıyordu: "Öldürmeliyim. Öldürmeliyim."
+Astronom uyandığında kardeşinin üzerine gelirken buldu. Anlamadı. Bir an, hâlâ rüyada olduğunu sandı. "Dur," dedi. Ama kardeş durmadı. Gözleri boştu. Ağzından aynı kelime çıkıyordu: "Öldürmeliyim. Öldürmeliyim."
 
-Astronom kardeşini durdurmak için zinciri kendi koluna sardı. Baltayı tuttu. Kan aktı. Kardeşi hâlâ durmuyordu. Arkada, zincirlerin arasında, En-Nakar gülüyordu.
+Astronom kardeşini durdurmak için zinciri kendi koluna sardı. Bakır ve gümüş, etine gömüldü. Baltayı tuttu. Avucu yarıldı. Kan aktı, zincirlerin üzerine damladı. Kardeşi hâlâ durmuyordu; kendi kardeşini tanımıyordu artık, yalnızca önündeki engeli görüyordu. Arkada, zincirlerin arasında, En-Nakar gülüyordu.
 
 "Görüyorsun ya," dedi. "Sen de benim gibisin. Hepiniz öylesiniz."
 
-Astronom kardeşini öldürmedi. Ama baltayı En-Nakar'ın omzuna sapladı. O an, En-Nakar'ın gülümsemesi değişti. İlk kez gerçekten acı çekmiş gibi göründü. Ama sadece bir an. Sonra tekrar güldü.
+Astronom kardeşini öldürmedi. Bir an, öldürebileceğini hissetti — kendi kanı gözüne akarken, kardeşinin boş gözlerine bakarken, içinde bir şeyin "daha kolay olur" dediğini duydu. İşte o sesi tanıdı. O ses kendisinin değildi. Baltayı çevirdi ve En-Nakar'ın omzuna sapladı. O an, En-Nakar'ın gülümsemesi değişti. İlk kez gerçekten acı çekmiş gibi göründü. Ama sadece bir an. Sonra tekrar güldü.
 
 "Bu acı da geçici," dedi. "Sizin acınız kalıcı. Kardeşini bu gece öldürmedin. Ama onu durdurmak için kendi kanını akıttın. Bedel başladı bile. Bir dahaki sefere daha fazlasını isteyecek. Bunu düşün."
 
-Astronom zincirleri bıraktı. Kardeşi yere düştü. Nefes alıyordu. Ama gözleri hâlâ boştu. Konuşmuyordu.
+Astronom zincirleri bıraktı. Kardeşi yere düştü. Nefes alıyordu. Ama gözleri hâlâ boştu. Konuşmuyordu. Astronom yanına çöktü, kanlı eliyle kardeşinin yüzüne dokundu, adını söyledi. Onu küçüklüğünden tanıyordu; bu gözlerin ardındaki çocuğu bilirdi. Şimdi orada kimse yoktu. Kardeş yüzüne baktı ama tanımadı. Bir yabancıya bakar gibi baktı. Astronom, kardeşini durdurmuştu ama kurtaramamıştı. İkisi arasındaki fark, o gece onu yaşlandıran şey oldu.
 
 O gece kervana eşlik eden yardımcılardan birkaçı daha kendi karanlığında kayboldu — kimi kendi eliyle, kimi birbirine. Sessizlik andını içmemişlerdi; fısıltıya açık tek kapı onlardı. Ama yedi Mühürcü'nün hiçbirine dokunulmadı. En-Nakar yakalandı. Zincirlendi.
 
 ---
 
-Sabah Eirene, astronomun kardeşinin yanına oturdu. Genç adam hâlâ konuşmuyordu. Eirene elini tuttu. Nabız vardı. Gözler açıktı ama içleri yoktu.
+Sabah Eirene, astronomun kardeşinin yanına oturdu. Genç adam hâlâ konuşmuyordu. Eirene elini tuttu. Nabız vardı. Gözler açıktı ama içleri yoktu. Bir hekim olarak nice ölü görmüştü; ama bu farklıydı. Beden yaşıyordu, içindeki bir şey gitmişti.
 
 Eirene yerdeki tozlu taş levhayı buldu. Cebindeki taşı çıkardı — o köyde aldığı, günlerdir parmakları arasında sıktığı taş. Onu levhanın kenarına koydu. Sonra elini açtı. Beş parmak. Yavaşça, tozlu taşa bastırdı.
 
 İz kaldı.
 
-Bu, Mühürcülerin bıraktığı ilk işaretti. Parmak izi. İnce. Kadın eli. Savaşın olmadığı bir yerden gelmiş gibi.
+Bu, Mühürcülerin bıraktığı ilk işaretti. Parmak izi. İnce. Kadın eli. Savaşın olmadığı bir yerden gelmiş gibi. Bir yemin değildi, bir isim değildi. Bir soruydu sanki — kim ödedi, kim ödeyecek diye soran sessiz bir el.
 
 Lu Shen ona baktı. "Ne yapıyorsun?"
 

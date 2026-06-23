@@ -6,33 +6,73 @@ Sabah henüz gelmemişti.
 
 Kapı obsidyen odanın girişinde duruyordu. Ağır. Siyah. Işığı yutuyordu. Mühürcüler sırayla yaklaştı.
 
+Mühürleme bir günde olmadı. Olamazdı. Çünkü acele, En-Nakar'ın sevdiği bir telaştı; ve telaşla vurulan mühür, geç vurulan mühür gibi tutmazdı. Dört gün sürdü. Dört gün boyunca, her mühür kendi anını bekledi, kendi sessizliğini istedi, kendi bedelini aldı.
+
+Eirene saymadı günleri. Sadece elleri saydı: her sabah, kaç el kalkabiliyor çekice, kaç el kanıyor, kaç el titriyor. Bir hekim için takvim, parmaklarda yazardı.
+
 ---
 
 **Birinci mühür: Taş.**
 
-Anadolu'lu usta, kıyıdan getirdiği yassı bir kayayı kapının üstüne yerleştirdi. Kazıdı. Kazdığı işaret tek bir soru gibiydi: *Burada ne var?* Ama soru işareti yoktu. Çünkü cevap biliniyordu. Sadece söylenmeyecekti.
+İlk gün, taşındı.
+
+Anadolu'lu usta, kıyıdan getirdiği yassı bir kayayı kapının üstüne yerleştirdi. Onu seçerken, denizin bin yılda yonttuğu yüzlerce kara bloğa eliyle dokunmuştu; hangisinin yük taşıyacağını, hangisinin çatlayacağını yalnızca avucu biliyordu. Bu taş çatlamayacaktı. Bu taş susacaktı.
+
+Kazıdı. Çekiç, obsidyenin diline değdiğinde ince, kuru bir ses çıkardı — taşın taşa söylediği son söz. Sonra o da bitti.
+
+Kazdığı işaret tek bir soru gibiydi: *Burada ne var?* Ama soru işareti yoktu. Çünkü cevap biliniyordu. Sadece söylenmeyecekti.
+
+Usta geri çekildi. Avuçlarına baktı. Her sembol bir yara, demişti bir zamanlar; her halka, her taş için bir yara. Bu, son taşıydı.
 
 Taş, dilin bitmesi demekti.
+
+Konuşan dil değil. Yazılan dil de değil. Soruyu cevaba bağlayan dil. O dil burada, bu kayanın altında kesildi.
 
 ---
 
 **İkinci mühür: Gümüş.**
 
-Pers rahibi, yolculuk boyunca sakladığı gümüş plakayı çıkardı. Bir tapınaktan alınmıştı — tanrının mührüydü. Şimdi farklı bir şey için kullanılıyordu. Rahip, gümüşü kapının sol köşesine çaktı. El titremedi. Ama dudakları titredi.
+Pers rahibi, yolculuk boyunca sakladığı gümüş plakayı çıkardı.
+
+Bir tapınaktan alınmıştı — tanrının mührüydü. Yedi yıl boyunca onu kumaşa sarmış, gövdesine yakın taşımıştı; bir kez bile çıkarıp bakmamıştı. Çünkü gümüşe bakan, gümüşün bakanı gösterdiğini bilirdi. Şimdi onu meşalenin ışığına tuttu, ilk ve son kez kendi yüzünü orada gördü — bozulmuş, uzamış, yorgun bir yüz. Yüzünü tanımadı. Belki de hiç tanımamıştı.
+
+Levhayı dumana tuttu. Arındırdı. Sonra kapının sol köşesine çaktı.
+
+El titremedi.
+
+Ama dudakları titredi.
+
+Rahip bir söz söylemek istedi — bir dua, bir yemin, bir ad. Söylemedi. Dudakları kıpırdadı ve durdu. Çünkü artık dua da bir sesti, ve ses, bu eşiğin sevdiği yemekti.
 
 Gümüş, kirleneni yansıtırdı.
 
 Bu da bir kapının kendisi değil, aynasıydı.
 
+İçeriden bakan bir gün dışarı bakmak isterse, önce kendi yüzünü görecekti. Ve hiçbir karanlık, kendi yüzüne uzun süre bakamazdı.
+
 ---
 
 **Üçüncü mühür: Kurşun.**
 
-Arabistanlı tüccar kurşunu kendi eliyle eritip kapının kilit yerine döktü. Soğudu. Katılaştı. Ağırlık, kapının içine geçti.
+İkinci gün, yük indi.
+
+Arabistanlı tüccar kurşunu kendi eliyle eritti. Ömrü boyunca yük taşımıştı; kurşunun ne demek olduğunu hepsinden iyi bilirdi. *Ben deve çöktürdüm,* demişti bir gece. *Çöken devenin yükü hafiflemez. Sadece yere yakınlaşır.*
+
+Kurşun kaynadı. Kıpkırmızı oldu, sonra köz rengi, sonra yine kara. Tüccar onu kapının kilit yerine döktü.
+
+Soğudu.
+
+Katılaştı.
+
+Ağırlık, kapının içine geçti.
+
+Tüccar, her seferinde olduğu gibi, derin bir nefes verdi — sanki bir yükü yere indiriyormuş gibi. Kurşun zincir olmazdı; bunu biliyordu. Ama bastırırdı. Onu öldürmüyorlardı. Yere yakınlaştırıyorlardı.
 
 Kurşun, yükü tutandı.
 
 Ve bu yük, iki bin yıl taşınacaktı.
+
+Kimse onu kaldırmasın diye değil. Kaldırmaya kalkan, ağırlığını hissetsin diye.
 
 ---
 
@@ -40,13 +80,31 @@ Ve bu yük, iki bin yıl taşınacaktı.
 
 Kimse konuşmadı.
 
-Bu mühür, konuşmakla değil, konuşmamakla vuruluyordu. Lu Shen kâğıda En-Nakar'ın bütün adlarını yazdı — Sümerce, Mısırca, Aramice, Sanskritçe. Sonra kâğıdı yaktı. Küller kapının eşiğine döküldü.
+Bu mühür, konuşmakla değil, konuşmamakla vuruluyordu.
+
+Lu Shen kâğıda En-Nakar'ın bütün adlarını yazdı. Sümerce — kil tablete yanlış kazınan ilk ad. Mısırca: işiten yüz. Aramice. Sanskritçe — yazılmayan, sadece tarif edilen ad. Pers dilinde: yalanın bedeni. Kendi dilinde hiçbir şey yazmadı; çünkü kendi halkı ona hiç ad vermemiş, sadece bir uyarı bırakmıştı.
+
+Sıraladı hepsini, alt alta. Beş dil, beş ad, tek bir açlık.
+
+Sonra mumun alevini kâğıdın ucuna değdirdi.
+
+Adlar tutuştu. Önce kenarlardan, sonra ortadan. Mürekkep yandıkça hafif bir çıtırtı oldu; her ad, kendi sesiyle ölüyordu sanki.
+
+Lu Shen kâğıdı bırakmadı. Yanana kadar parmaklarının arasında tuttu, küle dönene kadar. Parmak uçları karardı. Acımadı — ya da acıdıysa belli etmedi.
+
+Külleri kapının eşiğine döktü.
 
 İsim yasaklandığında, kül geriye kalan tek işaretti.
+
+İşaret etme, demişti yıllar önce kâtip. İşaret ettikçe var olur. Şimdi geriye işaret edilecek hiçbir ad kalmamıştı. Sadece kül. Ve kül, hiçbir dilde okunmazdı.
 
 ---
 
 **Beşinci mühür: Sessizlik.**
+
+Üçüncü gün, hiçbir şey yapılmadı.
+
+Yapılmaması, mührün kendisiydi.
 
 Mühürcüler bir dakika boyunca — hiç kimse bilmiyordu kaç dakika olduğunu, çünkü saymıyorlardı — sesini çıkarmadı. Rüzgâr vardı. Deniz vardı. Ve içeriden, taşın derinliğinden, çok yavaş, çok alçak bir şey duyuluyordu.
 
@@ -56,7 +114,15 @@ Ama derin.
 
 Çok derin.
 
+Eirene biliyordu bu sesi. Yolculukta duymuştu, sandığın içinden; her insanın kendi göğsünden geliyormuş gibi gelen ses. Dışarıdan değil, içeriden gelirdi her zaman. Beslenmek isterdi.
+
 Kimse tepki vermedi. Çünkü tepki vermek, duymak demekti. Duymak, kabul etmek demekti.
+
+Mısırlı astronom başını eğdi, yıldızlardan medet umar gibi; ama gökyüzü buradaydı yine, bu enlemlerde bile, ona yabancıydı. Pers rahibi ellerini gümüşe değdirmedi. Arabistanlı tüccar nefesini bile saymadı.
+
+Ses büyümedi.
+
+Çünkü kimse ona bir öfke, bir çığlık, bir suçlama uzatmadı. Ses, beslenecek bir şey bulamadı.
 
 Sessizlik kırılmadı.
 
@@ -70,9 +136,27 @@ Bu mühür için bir nesne yoktu.
 
 Sadece bir karar vardı.
 
-Mühürcüler sıraya girdi. Her biri kapıya yaklaştı ve içinden bir şey sildi. Mısırlı, adayı haritasından sildi. Pers, tapınak kayıtlarından sildi. Anadolu'lu, taş üzerindeki en kritik işareti gömülü bir levhaya gömdü. Arabistanlı, yolculuğun asıl hedefini ticaret rotası olarak yeniden yazdı.
+En zoru buydu. Çünkü insan, kaybettiğini arar; bildiğini kullanır. Ama hiç bilmediğini aramaz. Unutma, bilgisizlik değildi. Unutma, beslememekti.
 
-Ve Eirene, Kos'taki bir dostu olan yaşlı bir papirüs ustasına mektup yazdı. "Bu adı bir daha yazma," dedi. "Eğer yazarsan şifre kullan. Eğer şifre yetmezse unut."
+Mühürcüler sıraya girdi. Her biri kapıya yaklaştı ve içinden bir şey sildi.
+
+Mısırlı, adayı haritasından sildi. Yıldızlarla çizdiği o haritayı yıllarca taşımıştı; şimdi adanın durduğu noktayı, parmağıyla, mürekkep henüz tazeyken bulanıklaştırdı. Bir leke kaldı geriye. Leke yön göstermezdi.
+
+Pers, tapınak kayıtlarından sildi. Hangi ateşin neyi yaktığını, hangi duanın neyi mühürlediğini — hepsini kendi dilinde, kendi elinden çıkardı.
+
+Anadolu'lu usta, taş üzerindeki en kritik işareti gömülü bir levhaya gömdü. O işaret, eşiğin nasıl açılacağını bilenler için bir anahtardı. Usta onu toprağın altına, taşın görmediği bir yere koydu; sonra üstüne bir blok daha yuvarladı. Elleri yine kanadı. Saymadı artık yaralarını.
+
+Arabistanlı, yolculuğun asıl hedefini ticaret rotası olarak yeniden yazdı. Kervan kayboldu, denecekti. Sadece bir kervan, sadece bir yol, sadece bir ada efsanesi.
+
+Ve Eirene, Kos'taki bir dostu olan yaşlı bir papirüs ustasına mektup yazdı.
+
+"Bu adı bir daha yazma," dedi. "Eğer yazarsan şifre kullan. Eğer şifre yetmezse unut."
+
+Sonra ekledi, daha alçak, kendisi için:
+
+"Ve eğer bir gün biri bu izi bulursa — bilsin ki onu bulmak için kendi içine bakmış demektir."
+
+Mektubu mühürledi. İçindeki adı değil, içindeki kararı gönderiyordu.
 
 Unutma, tarihin en güçlü silahıydı.
 
@@ -82,21 +166,39 @@ Unutma, tarihin en güçlü silahıydı.
 
 **Yedinci mühür: Kan.**
 
+Dördüncü gün, sabaha karşı.
+
+Bu mühür, beklenmişti. Yolculuğun en başından beri, taş masada yedi boş satır çizildiğinden beri, herkes bu son satırın bir gün doldurulacağını biliyordu. Ve herkes, onun ne isteyeceğini de biliyordu.
+
 Lu Shen bıçağını çıkardı.
 
 Avucunu kesti.
 
-Kan, obsidyen kapıya sürüldü. Diğerleri sırayla aynı şeyi yaptı. Mısırlı. Pers. Arabistanlı. Anadolu'lu.
+Kan, obsidyen kapıya sürüldü. Sıcaktı; siyah taşın üzerinde bir an parladı, sonra koyulaştı. Diğerleri sırayla aynı şeyi yaptı. Mısırlı. Pers. Arabistanlı. Anadolu'lu.
 
-Her biri kanını kapıya koydu.
+Her biri bıçağı aldı, avucunu kesti, kanını kapıya koydu.
 
 Her biri birbirinin gözüne baktı.
 
 Kimse konuşmadı.
 
-Lu Shen son defterini çıkardı. İçindeki son sayfayı yırttı, ateşe attı. Kül kapının eşiğine savruldu. “İsimler yanar,” dedi. “Sadece iz kalır.”
+Çünkü söylenecek söz, yedi yılda, yedi bedende, sayısız ölüde söylenmişti. Geriye söz kalmamıştı. Sadece kan kalmıştı, ve kan da bir dildi — ama yalnızca bir kerelik konuşan bir dil.
 
-Anadolu’lu usta, son kurşun halkayı döktü. Elleri titriyordu. Halka soğurken, usta yere oturdu ve bir daha kalkmadı.
+Lu Shen son defterini çıkardı. Sayfaların çoğu çoktan yanmıştı; yolculuk boyunca, her ölüde, her sırrı küle çevirmişti. İçindeki son sayfayı yırttı, ateşe attı. Kül kapının eşiğine savruldu, dördüncü mührün külüne karıştı.
+
+"İsimler yanar," dedi. "Sadece iz kalır."
+
+Sonra Anadolu'lu usta öne çıktı.
+
+Son kurşun halkayı döktü. Bu, dört gün boyunca onun bekleyen işiydi — en ağırı, en sonuncusu. Kurşun eridi, döküldü, kilidin son boşluğunu doldurdu. Halka soğurken, ustanın elleri titriyordu. Yedi yıl boyunca herkesten çok yıpranan oydu; sandığın gevşeyen halkalarını kendi gövdesiyle bastırmış, gemide kırılan direklerle boğuşmuş, parmaklarını bloğun altında ezdirmiş, her sabah parmaklarını teker teker zorlayarak açmış, sonra yeniden çekice sarılmıştı.
+
+Şimdi halka soğudu.
+
+Ve usta, halka soğurken, yere oturdu.
+
+Bir daha kalkmadı.
+
+Kimse ona koşmadı. Kimse adını çağırmadı. Çünkü çağırmak bir sesti, ve burada ses yasaktı. Onun bedeli buydu: sessizce indirilen bir yük gibi, sessizce bitti. Eirene yalnızca ona baktı — yüzüne değil, ellerine. Açılmış, durmuş, kanı kurumuş ellere. Bir bedeni neyin tükettiği, yüzünden değil, elinden okunurdu. Bu el, yolu okumuştu.
 
 Eirene en sona kaldı.
 
@@ -110,12 +212,42 @@ Kanı kuruduğunda parmak izi kaldı.
 
 Diğerlerinin bıraktığı geniş, koyu izlerin yanında, o iz ince ve soluktu. Sanki beden değil, bir soru bırakmıştı.
 
+Aynı izi daha önce de bırakmıştı. Bir vadide, astronomun kardeşinin yanında, tozlu bir taşa. Bir fırtınadan sonra, geminin küpeştesinde, kara bir taşa. Şimdi de burada, dünyanın ucunda, eşiğin taşına. Hep aynı el. Hep aynı soru.
+
 Lu Shen ona baktı.
 
 "Kan değil," dedi Eirene. "Bedel. Ama kan yeterliydi, benim için."
 
+Lu Shen cevap vermedi. Anlamadı — ya da anladı ama söyleyemedi. Çünkü o, taşa kazınacak kelimeyi çoktan seçmişti, ve o kelime *kan*dı. Kan somuttu. Bedel soyuttu. Soyutun torunları olmuyordu.
+
+Ama Eirene'nin parmağı, hiçbir kayda geçmeyen bir şeyi taşa bırakmıştı: bedelin, ödetmekle değil, ödemekle vurulan bir mühür olduğunu. En-Nakar ödetmeyi bilirdi. Ödemeyi bilmezdi. İşte mührün gerçek sırrı buradaydı.
+
 Kapı kapandı.
 
+Obsidyen, kendi ağırlığıyla yerine oturdu. Bir kez. Derin. Sonra hiç.
+
 Yedi mühür vurulmuştu.
+
+Taş, dilin bitişiydi.
+
+Gümüş, kirleneni yansıtırdı.
+
+Kurşun, yükü tutardı.
+
+İsim verilmedi; kapı olmadı.
+
+Sessizlik beslemedi.
+
+Unutma sildi.
+
+Ve bedel — ödendi.
+
+Mühürcüler ayağa kalktı. Beş kişi kalmışlardı; biri eşiğin yanında, soğumuş elleriyle oturuyordu, ve onu denize verecek güçleri ancak güneş doğunca toplanacaktı.
+
+Eirene son kez kapıya baktı. İçinden, yıllar önce sorduğu soruyu bir daha geçirmedi — *bir düşmanı mı gömüyoruz, yoksa bir tohumu mu?* O soruyu da gömdü, kül gibi, eşiğe. Çünkü cevap bu nesle ait değildi. Cevap, başka bir nesle, başka bir dilde, başka bir duraklamada verilecekti.
+
+Sabah, kapının önünde, beş gölge durdu. Konuşmadılar. Yalnızca, her biri farklı bir yöne — geri dönmeyecekleri evlerine — baktı.
+
+Sonra döndüler.
 
 Ve yerin altında, obsidyen odada, iki bin yıllık bir bekleme başladı.

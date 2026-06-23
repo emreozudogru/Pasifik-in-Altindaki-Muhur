@@ -12,6 +12,8 @@ Mühürcüler bunu biliyordu.
 
 Çünkü En-Nakar'ın fısıldadığı dönemlerde kaybettiklerini sayabiliyorlardı. Sustuğunda ise neyin kaybolduğunu bilemiyorlardı.
 
+Yola altı kişi çıkmıştı. Şimdi dörttüler. Hintli matematikçi ilk yılda, dilini kesen rahip ikinci yılda, Lu Shen'in çırağı fırtınada — gidenler sayılabiliyordu. Ama bir de sayılamayanlar vardı: geride kalanların içinden, sessizce eksilen şeyler. Mısırlı astronom artık geceleri konuşmuyordu. Arabistanlı tüccar, bir zamanlar her şeyin fiyatını bilen adam, artık hiçbir şeyin değerini hesaplamıyordu. Anadolu'lu ustanın elleri, taşı bırakalı çok olmuştu ama hâlâ bir şey tutuyormuş gibi kıvrıktı. Yolculuk onları taşımamıştı sadece; içlerinden bir şeyler almıştı. Ve En-Nakar'ın sessizliği, tam da bu eksilmeyi fark ettikleri yerde başlıyordu — sanki en büyük zaferi, artık hiçbir şey yapmadan, sadece bekleyerek kazanıyordu.
+
 Gemi, yedi yıllık yolculuğun son ayında daha yavaş ilerliyordu. Deniz değişmişti. Renkler farklıydı. Ufuk çizgisi, batıda alıştıkları mavi değil, yeşilimsi gri bir şeydi. Kuşlar farklı cinsti. Su farklı kokuyordu.
 
 Eirene bu değişiklikleri kaydediyordu. Söz değil, işaretlerle. Küçük sembolleri şerit kâğıda çiziyordu. Kaydın ne işe yarayacağını bilmiyordu. Ama kaydetmek, gözlemlemek demekti. Ve gözlemlemek, hâlâ burada olmak demekti.
@@ -52,7 +54,11 @@ O gece, sandığın kurşun halkalarından biri daha gevşedi. Fiziksel olarak e
 
 Adayı gördüklerinde sis içindeydi.
 
-Önce koku geldi. Volkanik taşın yanmış, metalik kokusu. Sonra ses — denizin kayalara çarptığı düzensiz ses, alıştıklarından farklıydı. Kıyı, kırık bir dil gibi konuşuyordu.
+Günlerdir sis vardı — ama bu sis farklıydı. Hareket ediyordu, ama rüzgâr yoktu. Ters yöne akıyordu: denizden karaya değil, karadan denize, sanki ada nefes verir gibi. Tuz kokusu kesilmişti. Yerine başka bir koku gelmişti, tarifsiz; eski, kuru, mineral bir koku. Mürekkep gibi. Kan gibi. Çok eski bir kâğıt gibi.
+
+Önce koku geldi. Volkanik taşın yanmış, metalik kokusu. Sonra ses — denizin kayalara çarptığı düzensiz ses, alıştıklarından farklıydı. Her kıyı bir ritimle konuşur; dalga gelir, çarpar, çekilir. Ama bu kıyının ritmi yoktu. Dalgalar yanlış zamanlarda geliyor, birbirini kesiyordu. Kıyı, kırık bir dil gibi konuşuyordu — bir şey söylemeye çalışan ama söyleyemeyen birinin tutuk, kopuk sesi gibi.
+
+Pusula çıldırmıştı. Lu Shen iğneye baktı; iğne bir yön göstermiyordu, tüm yönleri birden gösteriyordu — titreyerek, durmadan dönerek. "Burada kuzey yok," dedi. "Burası, yönlerin bittiği yer."
 
 Sonra sis açıldı.
 
