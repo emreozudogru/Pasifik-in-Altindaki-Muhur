@@ -2,6 +2,8 @@
 
 🌑 **Pasifik'in Altındaki Mühür**
 
+Arşiv dağılırken herkesin kendi sessiz çöküşü oldu. Ren bunların çoğunu yalnızca dışarıdan gördü — bir mesajın gelmeyişi, bir hesabın kapanışı. Ama bazılarının hikâyesini sonradan, parça parça öğrendi. Marta'nınki bunların en çok aklında kalanıydı; çünkü Marta, dağılmadan önce ona tek bir uzun mektup yazmıştı. O mektup olmasa, Ren onun içinden geçenleri hiç bilemezdi.
+
 Marta Kowalczyk, kelimelerin nereden geldiğini bilen bir kadındı.
 
 Mesleği buydu. Bir dilbilimci olarak, bir cümlenin kökenini, bir kelimenin yolculuğunu, bir deyimin hangi yüzyılda hangi korkudan doğduğunu sürerdi. Krakow'daki küçük dairesinde, duvarları kitapla kaplı, tek başına yaşıyordu. Sözcükler ona insanlardan daha sadık gelmişti hep. İnsanlar yalan söylerdi; ama bir kelimenin kökeni yalan söyleyemezdi.

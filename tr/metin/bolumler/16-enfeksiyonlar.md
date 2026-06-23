@@ -1,4 +1,4 @@
-# 16 — 1946-2010 Enfeksiyon Örnekleri
+# 16 — Enfeksiyon Örnekleri (1951-2010)
 
 🌑 **Pasifik’in Altındaki Mühür**
 
@@ -6,9 +6,7 @@ En-Nakar özgür kaldığında dünyaya hemen saldırmadı. Çünkü artık dün
 
 En-Nakar bunu anladı. Artık bir kişiyi ele geçirmek yetmezdi. İnsanlığın çalışma biçimini öğrenmesi gerekiyordu. Ve saklandı.
 
-İlk iz, 1946'da, Nagasaki'nin yakınındaki bir sahra hastanesinde belirdi. Bir Amerikan cerrahı, yanıklar arasında yüzünde tek bir iz olmayan bir adam gördü; konuşmayan, ama herkesin kendi içinde sesini duyduğu bir adam. Dört gün sonra adam kayboldu, geride paslı bir kurşun parçası, bir kül lekesi ve tek bir cümle bıraktı: "Acı, insanın ortak dilidir." O cerrahın yaşadıkları, yıllar sonra Ren'in eline geçecek bir günlükte saklıydı — ama o, çok sonra.
-
-Önemli olan şuydu: En-Nakar, savaştan yeni çıkmış, kırılgan ve açık bir dünyaya adım atmıştı. Ve artık bir bedene ihtiyacı yoktu. Bir yüzü vardı: herkesin yüzü.
+Nagasaki'deki sahra hastanesinden — yüzü olmayan adamın dünyaya karıştığı o yerden — sonra, iz çoğaldı. Artık tek bir bedende değil, tek bir yerde de değildi. Savaştan yeni çıkmış, kırılgan ve açık bir dünyaya adım atmıştı; ve bir yüzü vardı: herkesin yüzü. Onu izleyenler, sonraki on yıllar boyunca, aynı imzayı farklı kıtalarda gördü.
 
 1951’de Kore Savaşı sırasında bir tercümanın notlarında benzer biri geçti. Taraf değiştiren esirler, cephede kimsenin tanımadığı sakin bir adamın, “Evine dönmek istiyorsan, şu çavuşu öldür” dediğini anlattı. Adamın sesi yumuşaktı. Hiç bağırmıyordu.
 
