@@ -10,19 +10,36 @@ temp/
 __pycache__/
 *.pyc
 
-# OS
-.DS_Store
-Thumbs.db
-
 # Generated images / temp outputs
 images/
 *.jpg
 *.png
 *.webp
 
-# Üretilen ses dosyaları (TTS çıktısı — repoya eklenmez, yerel olarak üretilir)
-# Not: yol 'tr/' ile başlar; eski 'sesli_kitap/mp3/' kuralı yanlış yoldu, eşleşmiyordu.
-tr/sesli_kitap/mp3/
-tr/sesli_kitap/aiff/
-*.mp3
-*.aiff
+# NOT: Ses dosyaları (mp3/aiff) BİLEREK repoya dahil edilir — ignore EDİLMEZ.
+
+# ─── İşletim sistemi çöp dosyaları (Windows + macOS) ───
+
+# macOS
+.DS_Store
+.DS_Store?
+.AppleDouble
+.LSOverride
+._*                 # AppleDouble kaynak çatalları (._dosyaadı)
+.Spotlight-V100
+.Trashes
+.fseventsd
+.VolumeIcon.icns
+.DocumentRevisions-V100
+.TemporaryItems
+Icon?               # Finder özel klasör ikonu
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk               # kısayollar
+*.stackdump
