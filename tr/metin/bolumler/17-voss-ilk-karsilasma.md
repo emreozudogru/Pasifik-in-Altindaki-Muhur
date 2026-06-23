@@ -6,13 +6,21 @@
 
 Konu yapay zekâ etiği, kolektif davranış ve bilgi güvenliğiydi.
 
-Ren normalde böyle etkinliklere gitmezdi. Ama konuşmacılar listesindeki bir isim dikkatini çekmişti:
+Ren normalde böyle etkinliklere gitmezdi. Kalabalık onu yorardı. Çok fazla yüz, çok fazla ses, çok fazla insanın aynı anda bir şeye inanma çabası. Ama konuşmacılar listesindeki bir isim dikkatini çekmişti:
 
 **Dr. Elias Voss.**
 
-Kurum bağlantısı belirsizdi. Geçmişi fazla düzgündü. CV'sinde boşluk yoktu, ama her şey garip şekilde yüzeyseldi. Oxford, Berlin, Singapur, Washington. Danışmanlıklar, özel laboratuvarlar, kriz analizi ekipleri. Hiç fotoğrafı yoktu.
+Kurum bağlantısı belirsizdi. Geçmişi fazla düzgündü. CV'sinde boşluk yoktu, ama her şey garip şekilde yüzeyseldi. Oxford, Berlin, Singapur, Washington. Danışmanlıklar, özel laboratuvarlar, kriz analizi ekipleri. Tarihler birbirini tutuyordu, başlıklar saygındı, hiçbir kurum onu reddetmemiş gibiydi. Ama Ren ne kadar aradıysa, adamın bir yüzünü bulamadı. Bir tek fotoğraf bile. Akademik bir veri tabanında, bir konferans afişinde, bir gazete köşesinde — hiçbir yerde. İsim her yerdeydi; insan hiçbir yerde.
 
-Ren konferans salonuna girdiğinde onu hemen tanıdı.
+Ren bunu bir gece önce, Arakawa'nın bıraktığı kutuların arasında otururken fark etmişti. Hocasının el yazısı kenar notlarından biri aklına takılmıştı: *İsmi olan ama yüzü olmayanlardan korkun. Onlar kendilerini saklamıyorlar — sizi izlemek için yer açıyorlar.*
+
+O yüzden gelmişti.
+
+---
+
+Salon büyüktü ve yarı karanlıktı. Sahne ışıkları soğuk beyazdı, izleyici koltukları gölgedeydi. Ren arka sıralardan birine, kapıya yakın bir yere oturdu; çıkış her zaman görüş alanında olmalıydı. Etrafında akademisyenler, devlet danışmanları, teknoloji şirketlerinin temsilcileri vardı. Kahve kokusu, fısıltı, dizüstü bilgisayar ekranlarının soluk ışığı. Sıradan bir konferans havası.
+
+Sonra adam içeri girdi ve Ren onu hemen tanıdı.
 
 Aslında tanımadı.
 
@@ -20,29 +28,51 @@ Bu daha kötüydü.
 
 Adam kalabalığın içinde hiçbir şey gibi duruyordu. Orta yaşlı. Sade takım elbise. Yumuşak yüz. Dikkat çekmeyen saç. Elleri ise dikkat çekiyordu — ağır bir şeyle uzun süre uğraşmış gibi, parmak eklemleri hafif kalınlaşmıştı. Işık altında metalik bir parlaklık yoktu ama yine de parmaklarında eski bir ağırlık duruyordu. Ama etrafındaki insanlar ona doğru hafifçe eğiliyordu. Konuşmasa bile. Sanki odanın ağırlık merkezi oydu.
 
+Yanından geçerken kimse onu durdurmadı, kimse adını sormadı. Sanki orada bulunması için kimsenin onay vermesine gerek yoktu. Salondaki gerginlik, henüz hiçbir şey söylenmeden, hafifçe yükseldi. İnsanlar nedenini bilmeden susmaya başladı.
+
 ---
 
 Dr. Voss sahneye çıktı.
+
+Acele etmedi. Mikrofonu ayarladı, salona baktı — tek tek, sırayla, sanki herkesi sayıyormuş gibi — ve gülümsemeden bekledi. Sessizlik kendiliğinden oluştu.
 
 Sunumunun başlığı şuydu: **"İnsan Karar Sistemlerinde Kaosun Yönetilebilirliği."**
 
 Ren'in elleri soğudu.
 
-Voss konuşmaya başladı. Sesi sakin ve akıcıydı.
+Voss konuşmaya başladı. Sesi sakin ve akıcıydı. Yükseltmiyordu, vurgulamıyordu, ikna etmeye çalışmıyordu. Sadece anlatıyordu — bir şeyi yıllar önce çözmüş ve artık sabırla açıklayan biri gibi.
 
 "İnsanlık," dedi, "kendini rasyonel bir tür sanarak en büyük hatasını yapar. İnsan mantıklı değildir. İnsan gerekçe üretir. Karar önce verilir, hikâye sonra yazılır."
 
 Salon dikkatle dinliyordu.
 
+"Bunu bir hakaret olarak söylemiyorum. Bir gözlem olarak söylüyorum. Sizden birine bir tehdit gösterin — beyin bir saniyenin binde biri içinde karar verir. Geri çekilmek mi, saldırmak mı, boyun eğmek mi. Düşünce sonra gelir. Düşünce, kararı haklı çıkarmak için var olan bir avukattır. Müvekkilini hiç sorgulamaz."
+
+Birkaç kişi gülümsedi. Tanıdık bir doğru duymanın rahatlığıyla.
+
 "Bu kötü bir şey değildir. Aksine, yönetilebilir bir şeydir. Korkuyu doğru çerçevelerseniz güvenlik olur. Öfkeyi doğru hedeflerseniz adalet olur. Açgözlülüğü doğru adlandırırsanız büyüme olur. Teslimiyeti doğru paketlerseniz barış olur."
 
 Ren nefesini tuttu.
+
+Voss durakladı, suyundan bir yudum aldı, sonra devam etti — sanki en önemli kısma gelmişti ve acelesi yoktu.
+
+"İnsanların çoğu manipülasyondan korkar. Ama manipülasyon dışarıdan gelen bir şey değildir. İnsan, kendi kendini ikna etmeye o kadar hevesli bir varlıktır ki, yapmanız gereken tek şey ona doğru kelimeyi doğru anda fısıldamaktır. Gerisini kendisi yapar. Size minnettar bile olur. Çünkü artık kendini kötü hissetmek zorunda değildir — bir gerekçesi vardır."
+
+Salonda kimse not almayı bırakmamıştı. Ren etrafına baktı; yüzlerde ne dehşet vardı ne itiraz. Sadece dikkat. Sadece kabul.
+
+"Bir örnek vereyim," dedi Voss, ve sesi hiç değişmedi. "Bir topluluğa bir 'biz' verin, sonra bir 'onlar'. İkisini de siz tanımlayın. 'Biz' korunmalıdır, 'onlar' bir tehdittir. Bunu bir kez kurduğunuzda, o topluluk artık sizin yönlendirmenize ihtiyaç duymaz. Kendi kendini örgütler. Birbirini denetler. En sadık olanlar, en çok korkanlar olur. Ve hepsi, en sonunda, bunu kendi özgür iradeleriyle yaptıklarına inanır. Çünkü insan, bir efendiye boyun eğdiğini değil, doğru tarafı seçtiğini düşünmek ister."
+
+Bir an, salonun bir köşesinden hafif bir kahkaha duyuldu — onaylayan, eğlenen bir ses. Sanki Voss zekice bir espri yapmıştı. Ren'in midesi bulandı. Çünkü espri değildi. Tarifti. Ve dinleyen herkes, farkında olmadan, tarif edilen şeyin içindeydi.
 
 Bu bir akademik konuşma gibi görünüyordu.
 
 Ama değildi.
 
-Bu, eski fısıltının modern versiyonuydu. Kelimesi kelimesine değil. Ama özü özüne aynıydı.
+Bu, eski fısıltının modern versiyonuydu. Kelimesi kelimesine değil. Ama özü özüne aynıydı. Ren bunu kemiklerinde hissetti. Hocasının notlarındaki o cümleyi hatırladı: *o şey ölmedi — sadece modern olmayı öğrendi.* O ana kadar bu cümle Ren için bir metafordu, yorgun bir bilim insanının paranoyası. Şimdi, salonun yarı karanlığında, adamın sakin sesini dinlerken, artık bir metafor değildi. Bir tarifti.
+
+İçinden bir ses, kalk ve git, diyordu. Ama bedeni hareket etmiyordu. Çünkü konuşma mantıklıydı. En korkunç kısmı buydu: söylenen her cümle doğruydu. Ren hiçbirine itiraz edemiyordu. İnsanlar gerçekten önce karar verir. Korku gerçekten çerçevelenebilir. Adam yalan söylemiyordu. Sadece gerçeği, onu izleyen bir avcının soğukkanlılığıyla anlatıyordu.
+
+Ren, hocasının bir kenar notunu daha hatırladı; o notta Arakawa, yüzyıllar boyunca bu sesin nasıl konuştuğunu derlemeye çalışmıştı. *Asla emretmez,* diye yazmıştı hocası. *Asla tehdit etmez. Sadece zaten içinde olduğun şeyi sana gösterir ve "işte busun" der. İtiraz edemezsin, çünkü doğrudur. İşte tuzak budur — yalanla değil, gerçekle avlar.* O zaman Ren bunu fazla şiirsel bulmuştu. Şimdi, sahnedeki adam tam da bunu yaparken, notun her kelimesinin ne kadar tam, ne kadar ölçülü olduğunu anlıyordu. Arakawa bu odada hiç bulunmamıştı. Ama bu konuşmayı, ölmeden çok önce, kelime kelime tarif etmişti.
 
 Voss slaytı değiştirdi. Ekranda tek bir cümle belirdi:
 
@@ -52,29 +82,37 @@ Salondaki bazı kişiler not aldı.
 
 Bazıları başını salladı.
 
+Ve Ren'i asıl ürküten bu oldu — itiraz eden kimse yoktu. Kimse rahatsız olmuş gibi görünmüyordu. Cümle salona bir provokasyon gibi değil, bir teselli gibi düşmüştü. İnsanlar sanki uzun zamandır birinin bunu söylemesini bekliyormuş gibi rahatlamış, hatta minnettardı. Voss bir şeyi onlara öğretmiyordu. Onlara zaten bildikleri, ama itiraf etmekten korktukları bir şeyi söylemenin iznini veriyordu.
+
 Ren kalkıp çıkmak istedi.
 
-Ama Voss o anda ona baktı. Kalabalığın içinden, doğrudan ona. Ve gülümsedi.
+Ama Voss o anda ona baktı. Kalabalığın içinden, doğrudan ona. Yüzlerce insanın arasından, arka sıradaki gölgeli koltukta oturan bir kadını, hiç aramadan bulmuş gibi. Sanki konuşmanın tamamı boyunca yerini biliyordu ve şimdi sadece onaylıyordu. Ve gülümsedi.
 
 Ren o gülümsemeyi daha önce görmemişti. Ama Lu Shen'in iki bin yıl önce yazdığı cümleyi hatırladı:
 
 *"Gülüşünde zafer değil, beklemenin sabrı vardı."*
 
+Bu, bir avcının değil, çok zaman sahibi olan birinin gülümsemesiydi. Acelesi olmayan birinin. Senin er ya da geç yanına geleceğini bilen birinin.
+
 ---
 
 Konuşma bitince Ren dışarı çıktı.
 
-Hava soğuktu. Tokyo'nun gürültüsü her yerden geliyordu. Ren durdu. Nefes aldı.
+Alkışlar arkasında yükselirken çıktı — uzun, içten, neredeyse rahatlamış bir alkış. İnsanlar ayağa kalkıyordu. Ren ise tek bir şey istiyordu: o havadan çıkmak.
+
+Hava soğuktu. Tokyo'nun gürültüsü her yerden geliyordu. Ren durdu. Nefes aldı. Şehrin sıradan vahşiliği — trafik, ışıklar, yabancı yüzler — şimdi bir tuhaf şekilde güven vericiydi. İçeride duyduğu o sakin, mantıklı sesten sonra, gürültü neredeyse bir kalkandı.
 
 Telefonu titredi.
 
-Bilinmeyen numaradan mesaj gelmişti. Japonca değildi. İngilizce de değildi. Ama Ren anladı.
+Bilinmeyen numaradan mesaj gelmişti. Japonca değildi. İngilizce de değildi. Ama Ren anladı. Hangi dilde yazıldığını sonradan bile çıkaramadı; sanki dil, mesajın taşıdığı şeyin yanında önemsizdi.
 
 Mesaj şuydu:
 
 **"Hocan daha dikkatliydi."**
 
 Ren telefonu cebine koydu.
+
+Eli titriyordu, ama yüzü sakindi. Bu bir tehditti, evet. Ama tehditten daha kötü bir şeydi — bir gözlem. Adam, Arakawa'yı biliyordu. Arakawa'nın dikkatli olduğunu biliyordu. Ve dikkatin yetmediğini de biliyordu.
 
 Adımlarını hızlandırdı.
 

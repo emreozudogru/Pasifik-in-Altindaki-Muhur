@@ -1,0 +1,59 @@
+# YENİ-E — Marta'nın Cümleleri
+
+🌑 **Pasifik'in Altındaki Mühür**
+
+Marta Kowalczyk, kelimelerin nereden geldiğini bilen bir kadındı.
+
+Mesleği buydu. Bir dilbilimci olarak, bir cümlenin kökenini, bir kelimenin yolculuğunu, bir deyimin hangi yüzyılda hangi korkudan doğduğunu sürerdi. Krakow'daki küçük dairesinde, duvarları kitapla kaplı, tek başına yaşıyordu. Sözcükler ona insanlardan daha sadık gelmişti hep. İnsanlar yalan söylerdi; ama bir kelimenin kökeni yalan söyleyemezdi.
+
+Arşiv'e bu yüzden katılmıştı. İstanbul defterindeki o cümleyi çevirdiğinde — "Onu öldürmek isteyen onun işini yapar; onu anlamak isteyen kendi kalbini açar; onu hapsetmek isteyen önce kendini susturur" — bir şey hissetmişti. Cümlenin yapısı çok eskiydi, ama mantığı çok tanıdık. Sanki bu cümle, hiç eskimemişti. Sanki dün yazılmıştı. Ya da yarın yazılacaktı.
+
+---
+
+E-postalar bir salı sabahı başladı.
+
+Bölüm başkanı onu çağırdığında, Marta önce bir yanlış anlaşılma olduğunu düşündü. Ekranda kendi adına gönderilmiş mesajlar vardı — göçmenler hakkında, "saf olmayan" diller hakkında, temizlenmesi gereken kültürler hakkında. İğrenç. Irkçı. Marta'nın bütün akademik hayatı boyunca savaştığı her şeyin tam tersi.
+
+"Ben yazmadım," dedi.
+
+Ama IP adresi onundu. Saatler, onun çalışma saatleriydi. Ve en kötüsü — Marta bunu kimseye söyleyemedi — üslup da onundu. Cümleler onun kurduğu gibi kuruluyordu. O sevdiği noktalı virgül. O tikine dönüşmüş "esasen" kelimesi. Bir başkası bunları taklit etmiş olamazdı; bu kadar iyi taklit, taklit değildi. Bu, onu yıllarca okumuş, içselleştirmiş, öğrenmiş birinin elinden çıkmıştı.
+
+Ya da onun kendi elinden.
+
+İşte Marta'yı asıl çökerten düşünce buydu.
+
+---
+
+Geceleri uyuyamadı.
+
+Bir dilbilimci olarak biliyordu: insan, hiç düşünmediğini sandığı şeyleri de düşünür. Zihnin bodrumunda, hiç ışık tutmadığımız raflarda, kabul etmek istemediğimiz cümleler durur. Marta da bir insandı. O da, yorgun bir günün sonunda, metroda iten birine, geç kalan bir öğrenciye, kendi dilini doğru konuşmayan birine karşı, bir an için, bir kıvılcım gibi, o yasak cümlelerden birini düşünmemiş miydi hiç?
+
+Düşünmüştü. Herkes düşünmüştü. Ama herkes onu bodrumda tutardı.
+
+Şimdi biri, o bodrumun kapısını açmış, içerideki en çirkin cümleyi alıp Marta'nın adıyla dünyaya salmıştı. Ve Marta, dehşet içinde, o cümleleri tanıdığını fark etti. Yabancı değillerdi. Kendi karanlığının yankısıydılar — yalnızca, hiç söylemeyeceği, asla eyleme dökmeyeceği, ama orada, derinde, var olan bir yankı.
+
+En-Nakar yeni bir şey uydurmamıştı. Marta bunu sonradan anladı. O hep böyle çalışıyordu: yalan söylemiyordu. Senin en sakladığın doğruyu alıp, herkesin önüne koyuyordu. Ve sen, onu inkâr edemiyordun — çünkü bir parçası gerçekti.
+
+---
+
+Bir gece, gruba yazmadan önce, Marta bir deney yaptı.
+
+Kendi e-postalarını, sahte olanları, bir dilbilimci gözüyle analiz etti. Saatlerce. Ve sonunda, tek bir şey buldu — çok küçük bir şey. Sahte cümlelerde, bir tek hata vardı. Marta'nın asla yapmayacağı bir hata: bir bağlaç yanlış yerde kullanılmıştı. Onun kulağına çarpan, tırmalayan bir yanlışlık.
+
+O an rahatlayabilirdi. *İşte kanıt,* diyebilirdi. *Bunu ben yazmadım, çünkü ben bu hatayı yapmam.*
+
+Ama yapmadı.
+
+Çünkü daha derin bir şey fark etti: o hatayı kimse fark etmezdi. Sadece o fark ederdi. Ve eğer kendini temize çıkarmak için bu hatayı kanıt olarak gösterirse, dünyaya "bakın, ben daha iyi bir ırkçıyım, hatasız yazarım" demiş gibi olacaktı. Tuzak buydu. İçinden nasıl çıkarsa çıksın, o cümlelerin bir parçası olacaktı. Onları çürütmek için bile, onları tekrar etmesi gerekecekti.
+
+İşaret çoğaldıkça kapı genişler. Marta bunu Kerem'in mesajından biliyordu. Şimdi etinde öğreniyordu.
+
+Gruba kısaca yazdı: "Belki biz yanlış okuduk." Sonra bilgisayarını kapattı.
+
+Bu bir teslimiyetti, evet. Ama aynı zamanda — Marta yalnızca kendine itiraf edebildi bunu — bir tür mühürdü de. Beslememeyi seçmişti. Savaşmayı değil, susmayı. Kaçmak gibi görünüyordu. Belki de öyleydi. Ama belki de, o çok eski cümlenin dediği şeydi: *onu hapsetmek isteyen önce kendini susturur.*
+
+Marta akademiyi bıraktı. Bir köye taşındı. Bir daha hiçbir şey yayımlamadı.
+
+Yıllar sonra, adını hiç bilmediği bir araştırmacının dağıttığı küçük bir kâğıt eline geçti. Üzerinde beş kural vardı. İkincisinde şöyle yazıyordu: "Bir ses sana 'bu sensin' diyorsa, dur. Belki haklıdır. Ama haklı olması, ona itaat etmen gerektiği anlamına gelmez."
+
+Marta o kâğıdı sakladı. Ve ilk kez, uzun zamandır ilk kez, rahat bir nefes aldı.
