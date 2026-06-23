@@ -74,6 +74,14 @@ Koridorun ucunda Voss yoktu. Her şeyi ayarlamıştı. Annesi o hafta taburcu ed
 
 ---
 
+Ayrılmadan önce, hastane formundaki bir satıra takıldı gözü. Annesinin doğum yeri: Kagoshima. Bunu hep biliyordu ama hiç düşünmemişti. Annesinin ailesi balıkçıydı; deniz kenarında, adı artık anılmayan bir köyden. Çocukken anneannesi ona deniz hakkında bir şey söylerdi — bir kıyıya asla yaklaşma, demişti, sebebini söylemeden. Ren bunu yaşlı bir kadının batıl korkusu sanmıştı.
+
+Şimdi Voss'un sorusu kulağında çınlıyordu. *Arakawa'nın sandığı neden Kagoshima'dan çıktı?* Sandığı gönderen aile. Annesinin köyü. Kendi soyadı. Ren bağlantıyı kurdu ve mide bulantısı gibi bir şey hissetti. Hocası onu öğrenci olarak seçmemişti belki. Belki de o, daha doğmadan seçilmişti. İki bin yıl önce, bir taşa basılan bir parmakla.
+
+Bu yüzden mi bırakamıyordu? Bu yüzden mi herkes çekilirken o kalıyordu? Çünkü bu onun araştırması değildi — mirasıydı. Ve mirası reddetmenin tek yolu, onu taşıyan son eli de bırakmaktı. Annesini.
+
+---
+
 O gece, ucuz bir otel odasında, Ren kararını verdi.
 
 Onu ifşa etmeyecekti. Çünkü ifşa etmek onu büyütebilirdi. Onun adını yaymayacaktı. Çünkü isim kapıydı. Ama artık bunlar soyut fikirler değildi. Bedelini ödemişti.
@@ -84,6 +92,10 @@ Kerem'in notlarını tekrar açtı. Bir cümle defalarca tekrarlanıyordu: "Bede
 
 Ödenmişti.
 
-Kerem’in dosyasındaki kurşun lekesi ve parmak izi taraması hâlâ ekranın köşesinde duruyordu. Ren parmağını ekrana bastırdı — kendi parmak izi, eski izle örtüşmedi. Ama yan yana durdular.
+Kerem’in dosyasındaki kurşun lekesi ve parmak izi taraması hâlâ ekranın köşesinde duruyordu. Eirene'nin izi. İki bin yıllık soru. Ren parmağını ekrana bastırdı, kendi izinin yanına. İki iz yan yana durdu. Benziyorlardı — aynı incelik, aynı eğim — ama tam örtüşmediler.
 
-İkisi de aynı şeyi söylüyordu: bedel ödendi.
+Kerem'in "karşılaştırma dosyası"nın neden boş olduğunu şimdi anlıyordu. Kerem eşleşmeyi bulmuştu. Ama eşleşme henüz tamamlanmamıştı. Çünkü iki iz, ancak bedel ödendiğinde üst üste otururdu. Eirene bunu iki bin yıl önce bilmişti: parmak izi bir kimlik değil, bir soruydu. *Bedeli ödemeye hazır mısın?*
+
+Ren henüz değildi. Bunu, izlerin arasındaki o ince boşluktan anladı. Henüz tam ödememişti. Annesi hâlâ nefes alıyordu. Demek bedel henüz tamamlanmamıştı.
+
+Bu düşünce onu korkuttu. Çünkü ne anlama geldiğini biliyordu.
