@@ -55,3 +55,5 @@ Arşiv, antik Mühürcülerin tam tersi bir yapıydı. Onlar birbirini yüz yüz
 Ve şüphe, zaman zaman yeterli değildi.
 
 Kerem bir keresinde Ren'e şöyle yazmıştı: "Seni ikna etmeye çalışmıyorum. Sadece aynı şeyi görüp görmediğini anlamak istiyorum." Ren'in cevabı kısaydı: "Görüyorum. Ama görmek, bilmek değil." Bu ayrım, grubun kurulmayan temeliydi. Kimse tam inanmıyordu. Ama kimse de ayrılmıyordu. Çünkü veriler, her geçen yıl biraz daha net bir şekil alıyordu.
+
+Ve şeklin neye benzediğini ilk gören Ren oldu. Yıllar sonra, ekranların çoğaldığı, sesin algoritmaya dönüştüğü bir çağda. O zaman anladı ki, izini sürdükleri şey artık bir adada, bir bedende, bir defterde değildi. Her yerdeydi. Ve onları da içine almıştı.

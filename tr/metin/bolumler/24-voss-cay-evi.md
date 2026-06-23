@@ -2,7 +2,7 @@
 
 🌑 **Pasifik’in Altındaki Mühür**
 
-Ren, Voss’tan ikinci mesajı nisan ayında aldı. Bu kez mesajda bir adres vardı. Tokyo’nun sakin bir semtinde, eski bir çay evi. Ren gitmemesi gerektiğini biliyordu. Ama gitmezse ne olacağını da bilmiyordu.
+İkinci mesaj nisan ayında geldi. İlkinde yalnızca bir cümle vardı; bu kez bir adres. Tokyo’nun sakin bir semtinde, eski bir çay evi. Ren gitmemesi gerektiğini biliyordu. Ama gitmezse ne olacağını da bilmiyordu — ve bilmemek, gitmekten daha çok korkutuyordu onu.
 
 Üç gün boyunca adresi açmadı. Dördüncü gün açtı. Bunu daha sonra hep hatırlayacaktı: gitme kararını vermemişti aslında. Sadece gitmeme kararını verecek gücü bulamamıştı. İkisi aynı şey değildi. Voss da bunu biliyordu; mektubunda “gel” yazmamıştı. Sadece adresi yazmıştı. Bir kapıyı göstermek, onu açtırmaktan farklıydı. Ama sonuç çoğu zaman aynı oluyordu.
 
