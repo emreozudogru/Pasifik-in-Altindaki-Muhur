@@ -6,6 +6,10 @@ temp/
 *.tmp
 *.log
 
+# Python
+__pycache__/
+*.pyc
+
 # OS
 .DS_Store
 Thumbs.db
@@ -15,4 +19,10 @@ images/
 *.jpg
 *.png
 *.webp
-sesli_kitap/mp3/
+
+# Üretilen ses dosyaları (TTS çıktısı — repoya eklenmez, yerel olarak üretilir)
+# Not: yol 'tr/' ile başlar; eski 'sesli_kitap/mp3/' kuralı yanlış yoldu, eşleşmiyordu.
+tr/sesli_kitap/mp3/
+tr/sesli_kitap/aiff/
+*.mp3
+*.aiff

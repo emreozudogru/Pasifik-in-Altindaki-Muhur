@@ -25,32 +25,41 @@ echo "  Çıktı: .aiff"
 echo "========================================"
 echo
 
-for i in $(seq -w 1 22); do
-    chapter_file="$CHAPTER_DIR/bolum_${i}.txt"
-    aiff_file="$OUTPUT_DIR/bolum_${i}.aiff"
+# Bölümler dinamik bulunur (sabit sayı yok — roman büyüdükçe otomatik uyum sağlar)
+chapter_files=("$CHAPTER_DIR"/bolum_*.txt)
+total=${#chapter_files[@]}
 
-    if [ ! -f "$chapter_file" ]; then
-        echo "[$i/22] Atlandı (dosya yok): $chapter_file"
-        continue
-    fi
+if [ "$total" -eq 0 ] || [ ! -f "${chapter_files[0]}" ]; then
+    echo "HATA: $CHAPTER_DIR içinde bolum_*.txt bulunamadı!"
+    exit 1
+fi
+
+echo "Toplam $total bölüm bulundu."
+echo
+
+idx=0
+for chapter_file in "${chapter_files[@]}"; do
+    idx=$((idx + 1))
+    base="$(basename "$chapter_file" .txt)"      # bolum_NN
+    aiff_file="$OUTPUT_DIR/${base}.aiff"
 
     # Dosya varsa ve metin daha eski ise atla
     if [ -f "$aiff_file" ]; then
         chapter_mtime=$(stat -f %m "$chapter_file")
         aiff_mtime=$(stat -f %m "$aiff_file")
         if [ "$chapter_mtime" -le "$aiff_mtime" ]; then
-            echo "[$i/22] Atlandı (güncel): $aiff_file"
+            echo "[$idx/$total] Atlandı (güncel): $aiff_file"
             continue
         else
-            echo "[$i/22] Yeniden oluşturuluyor (metin güncellendi): $aiff_file"
+            echo "[$idx/$total] Yeniden oluşturuluyor (metin güncellendi): $aiff_file"
         fi
     fi
 
-    echo "[$i/22] İşleniyor: bolum_${i}.txt → $aiff_file"
+    echo "[$idx/$total] İşleniyor: ${base}.txt → $aiff_file"
 
-    say -f "$chapter_file" -o "$aiff_file" 
+    say -f "$chapter_file" -o "$aiff_file"
 
-    echo "[$i/22] ✓ Oluşturuldu: $aiff_file"
+    echo "[$idx/$total] ✓ Oluşturuldu: $aiff_file"
 done
 
 echo

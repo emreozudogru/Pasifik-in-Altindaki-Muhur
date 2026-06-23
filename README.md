@@ -24,7 +24,7 @@ Roman, 217 BCE'den 2026'ya uzanan bir hikâye. Antik çağda En-Nakar adlı varl
 
 **Dosya yapısı:**
 - `tr/metin/orijinal.txt` — Orijinal metin (değiştirilmez)
-- `tr/metin/bolumler/` — 22 bölüm (geliştirilen versiyon)
+- `tr/metin/bolumler/` — 27 bölüm (geliştirilen versiyon)
 - `tr/sesli_kitap/` — Sesli kitap scriptleri ve metinleri
 
 ### Sesli Kitap
@@ -58,7 +58,7 @@ The novel spans from 217 BCE to 2026. It tells the story of an entity called En-
 
 **File structure:**
 - `tr/metin/orijinal.txt` — Original text (never modify)
-- `tr/metin/bolumler/` — 22 chapters (expanded version)
+- `tr/metin/bolumler/` — 27 chapters (expanded version)
 - `tr/sesli_kitap/` — Audiobook scripts and texts
 
 ### Audiobook

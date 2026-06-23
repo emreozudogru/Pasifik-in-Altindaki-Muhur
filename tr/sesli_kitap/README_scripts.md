@@ -17,7 +17,7 @@ cd tr/sesli_kitap
 python generate_audiobook.py
 ```
 
-**Çıktı:** `mp3/` klasöründe `bolum_01.mp3` ... `bolum_22.mp3`
+**Çıktı:** `mp3/` klasöründe `bolum_01.mp3` ... `bolum_27.mp3` (bölüm sayısı `metinler/` klasöründen dinamik okunur)
 
 ---
 
@@ -33,7 +33,7 @@ chmod +x generate_audiobook_mac.sh
 ./generate_audiobook_mac.sh
 ```
 
-**Çıktı:** `aiff/` klasöründe `bolum_01.aiff` ... `bolum_22.aiff`
+**Çıktı:** `aiff/` klasöründe `bolum_01.aiff` ... `bolum_27.aiff` (bölüm sayısı `metinler/` klasöründen dinamik okunur)
 
 > Not: Bu script sadece macOS'ta çalışır.
 
