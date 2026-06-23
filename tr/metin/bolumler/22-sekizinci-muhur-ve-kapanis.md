@@ -18,7 +18,7 @@ Aynı parşömenin kenarında, başka bir el yazısı vardı. Daha kadınsı. Da
 
 Bedel, o sonbaharda Ren'i buldu.
 
-Annesi öldü. Kalp, ikinci kez, ve bu kez geri dönmedi. Ren cenazeye gitmedi. Gidemezdi — çünkü En-Nakar onu izliyordu, ve Ren'in sevdiği her yüz, ona karşı kullanılabilecek bir kapıydı. Annesini korumanın tek yolu, ondan tamamen kopmaktı. Böylece koptu. Annesi, kızının neden gelmediğini anlamadan, yalnız öldü. Ren bunu bir otel odasında, bir telefon mesajından öğrendi. Ağlamadı. Çünkü ağlamak da bir sesti, ve o artık sessizliği seçmişti.
+Annesi öldü. Kalp, ikinci kez durdu ve bu kez geri dönmedi. Ren cenazeye gitmedi. Gidemezdi — çünkü En-Nakar onu izliyordu; Ren'in sevdiği her yüz, ona karşı açılabilecek bir kapıydı. Annesini korumanın tek yolu ondan tamamen kopmaktı. Böylece koptu. Annesi, kızının neden gelmediğini hiç anlamadan, yalnız öldü. Ren bunu bir otel odasında, kısa bir telefon mesajından öğrendi. Ağlamadı. Çünkü ağlamak da bir sesti — ve o artık sessizliği seçmişti.
 
 O gece Ren, Kerem'in dosyasındaki iki parmak izini son kez yan yana koydu. Eirene'ninki. Kendininki. Bu kez örtüştüler. Tam tamına. İki bin yıllık soru, nihayet aynı eli buldu. Ama Ren bunu bir zafer gibi hissetmedi. Bir kapanış gibi hissetti. Bedel ödenmişti — ve ödendiğinde, geriye sevinecek kimse kalmamıştı.
 
@@ -36,7 +36,7 @@ Altında modern el yazısıyla şu not vardı: “Parmak izi defterdekiyle aynı
 
 Ren zarfı yakmadı. Fotokopiyi üç parçaya böldü — tıpkı eski kayıtları böldüğü gibi. Bir parçayı bir öğrenciye, bir parçayı bir balıkçı müzesinin arşivine, bir parçayı da kendi çekmecesine koydu. Kimse bütünü görmeyecekti. Çünkü Eirene’nin sorusu bütün olarak sorulduğunda cevap vermiyordu. Sadece her nesil, kendi dilinde, kendi karanlığıyla, kendi duraklamasında cevaplanabiliyordu.
 
-Ren o gün Voss’u düşünmedi. En-Nakar’ı düşünmedi. Masasının üzerinde üç küçük şey duruyordu: parmak izi fotoğrafı, kurşun parçası, ve yolculukta kırılan bir halkanın notu. Ren bunları çekmeceye koyarken, parmaklarını üç nesnenin üzerinde gezdirdi. Bir an, kendi parmak izinin eski izle aynı hizaya geldiğini gördü. Sonra ışığı kapattı. Sadece şunu düşündü: İki bin yıl önce bir kadın hekim, korkunun tedavi edilemeyeceğini — sadece tanınabileceğini — anlamıştı. Ve belki de bu, taştan daha sağlam bir mühürdü.
+Ren o gün Voss’u düşünmedi. En-Nakar’ı düşünmedi. Masasının üzerinde üç küçük şey duruyordu: parmak izi fotoğrafı, kurşun parçası ve yolculukta kırılan bir halkanın notu. Ren bunları çekmeceye koyarken, parmaklarını üç nesnenin üzerinde gezdirdi. Bir an, kendi parmak izinin eski izle aynı hizaya geldiğini gördü. Sonra ışığı kapattı. Sadece şunu düşündü: İki bin yıl önce bir kadın hekim, korkunun tedavi edilemeyeceğini — sadece tanınabileceğini — anlamıştı. Ve belki de bu, taştan daha sağlam bir mühürdü.
 
 Ren burada kayboluyor. Adı hiçbir yere yazılmadı. İsteği buydu.
 

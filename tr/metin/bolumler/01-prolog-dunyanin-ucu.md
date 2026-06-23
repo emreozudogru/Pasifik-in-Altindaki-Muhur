@@ -50,7 +50,7 @@ Dördüncü haftada ilk cesetler bulundu.
 
 Savaşın iptal edildiği köyde. Köylüler komşu ordunun gelip herkesi kılıçtan geçirdiğini sandılar. Ama kılıç izi yoktu. Sadece susuzluk. Nehir kurumuştu. Yabancının öğrettiği "temizlik" yöntemi — kaynatılan su, karıştırılan kül — köyün tek pınarını yavaş bir zehre çevirmişti. Çocukları kurtaran el, köyü öldüren eldi. Aynı el. Aynı öğüt.
 
-Kimse bunu fark etmedi. Çünkü herkes yabancıyı kurtarıcı biliyordu, ve insan, kurtarıcısından şüphe etmeyi en son öğrenir.
+Kimse bunu fark etmedi. Çünkü herkes yabancıyı kurtarıcı biliyordu — ve insan, kurtarıcısından şüphe etmeyi en son öğrenir.
 
 Bir kişi hariç.
 
