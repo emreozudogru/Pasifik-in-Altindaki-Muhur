@@ -6,11 +6,13 @@ En-Nakar özgür kaldığında dünyaya hemen saldırmadı. Çünkü artık dün
 
 En-Nakar bunu anladı. Artık bir kişiyi ele geçirmek yetmezdi. İnsanlığın çalışma biçimini öğrenmesi gerekiyordu. Ve saklandı.
 
-1946’da onu ilk kez bir Amerikan askeri doktoru gördü. Nagasaki yakınlarında, yanık tedavisi gören insanlar arasında yüzünde yara olmayan bir adam vardı. Japonca konuşmuyordu. İngilizce de bilmiyordu. Ama doktorun günlüğüne göre adam, üç gün içinde hemşirelerin adlarını, askerlerin korkularını ve hastanedeki morfin stokunun yerini öğrenmişti. Dördüncü gün kayboldu. Yatağının altında, paslı bir kurşun parçası ve kül lekesi bulundu. Arkasında sadece bir cümle bıraktı: “Acı, insanın ortak dilidir.”
+İlk iz, 1946'da, Nagasaki'nin yakınındaki bir sahra hastanesinde belirdi. Bir Amerikan cerrahı, yanıklar arasında yüzünde tek bir iz olmayan bir adam gördü; konuşmayan, ama herkesin kendi içinde sesini duyduğu bir adam. Dört gün sonra adam kayboldu, geride paslı bir kurşun parçası, bir kül lekesi ve tek bir cümle bıraktı: "Acı, insanın ortak dilidir." O cerrahın yaşadıkları, yıllar sonra Ren'in eline geçecek bir günlükte saklıydı — ama o, çok sonra.
+
+Önemli olan şuydu: En-Nakar, savaştan yeni çıkmış, kırılgan ve açık bir dünyaya adım atmıştı. Ve artık bir bedene ihtiyacı yoktu. Bir yüzü vardı: herkesin yüzü.
 
 1951’de Kore Savaşı sırasında bir tercümanın notlarında benzer biri geçti. Taraf değiştiren esirler, cephede kimsenin tanımadığı sakin bir adamın, “Evine dönmek istiyorsan, şu çavuşu öldür” dediğini anlattı. Adamın sesi yumuşaktı. Hiç bağırmıyordu.
 
-1957’de Moskova’da bir psikiyatri enstitüsünde, kendini “eski bir mahkûm” olarak tanıtan bir hasta kayda geçti. Doktorlar onu şizofren sandı. Hasta, insan davranışlarının korku, statü ve aidiyetle yönetilebileceğini anlattı. Kayıtlar sonra kayboldu.
+1957’de Moskova’da bir psikiyatri enstitüsünde, kendini “eski bir mahkûm” olarak tanıtan bir hasta kayda geçti. Doktorlar onu şizofren sandı. Hasta, insan davranışlarının korku, statü ve aidiyetle yönetilebileceğini anlattı — bir mühendisin köprü çizer gibi soğukkanlılıkla. Onu inceleyen genç doktor, seanslardan birinde tuhaf bir şey not etti: "Hasta, iki bin yıldır hapis yattığını iddia ediyor. Nerede, diye sordum. 'Bir adada,' dedi. 'Ama artık değil. Beni kendi güneşleriyle çıkardılar.' Hezeyan, elbette. Ama bu kadar tutarlı bir hezeyan hiç görmedim. Sanki uyduran değil, hatırlayan biri." Üç hafta sonra genç doktor, kendi hocasını ihbar etti — yıllardır içinde tuttuğu bir kıskançlıkla, ama şimdi bunu "vatani görev" olarak görüyordu. Hoca kayboldu. Hasta da kayboldu. Kayıtlar da. Geriye yalnızca o not kaldı, başka bir dosyanın arasına karışmış olarak.
 
 1963’te Dallas’ta görüldüğüne dair zayıf bir not vardı. 1968’de Paris’te öğrenciler arasında dolaştığı söylendi. 1975’te Kamboçya sınırında adı bilinmeyen bir danışmanın, bir yerel milise “insanın temizlenebilir bir fikir olduğunu” anlattığı yazıldı.
 
