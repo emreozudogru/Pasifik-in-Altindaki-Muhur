@@ -1,4 +1,4 @@
-# 12 — 1945 – Morita Genzo
+# 14 — 1945 – Morita Genzo
 
 🌑 **Pasifik'in Altındaki Mühür**
 

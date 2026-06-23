@@ -1,4 +1,4 @@
-# YENİ-A — Dilini Kesen Rahip
+# 08 — Dilini Kesen Rahip
 
 🌑 **Pasifik'in Altındaki Mühür**
 

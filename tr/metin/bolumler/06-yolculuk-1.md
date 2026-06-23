@@ -1,4 +1,4 @@
-# 05 — Yolculuk 1
+# 06 — Yolculuk 1
 
 🌑 **Pasifik'in Altındaki Mühür**
 

@@ -1,4 +1,4 @@
-# 09 — Mühürlerin Tartışması
+# 11 — Mühürlerin Tartışması
 
 🌑 **Pasifik'in Altındaki Mühür**
 

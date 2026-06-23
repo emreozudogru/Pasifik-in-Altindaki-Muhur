@@ -66,20 +66,23 @@ def create_epub():
     chapters = []
     bolumler_dir = Path('../metin/bolumler')
 
-    for i in range(1, 23):
-        md_files = list(bolumler_dir.glob(f'{i:02d}-*.md'))
-        if not md_files:
-            continue
+    # Tüm NN-*.md bölümlerini sırayla, dinamik olarak oku (bölüm sayısı sabit değil).
+    md_files = sorted(bolumler_dir.glob('[0-9][0-9]-*.md'))
+    for md_path in md_files:
+        # Bölüm numarasını dosya adından al (örn. "14-...")
+        num = int(md_path.name[:2])
 
-        content = md_files[0].read_text(encoding='utf-8')
-        clean = clean_text(content)
+        raw = md_path.read_text(encoding='utf-8')
+        # Başlığı dosyanın ilk satırından çek ("# 14 — Başlık" -> "14 — Başlık")
+        first_line = raw.splitlines()[0].lstrip('#').strip() if raw.strip() else f'Bölüm {num}'
+        clean = clean_text(raw)
 
         chapter = epub.EpubHtml(
-            title=f'Bölüm {i}',
-            file_name=f'bolum_{i:02d}.xhtml',
+            title=first_line,
+            file_name=f'bolum_{num:02d}.xhtml',
             lang='tr'
         )
-        chapter.content = f'<h1>Bölüm {i}</h1><p>{clean.replace(chr(10), "</p><p>")}</p>'
+        chapter.content = f'<h1>{first_line}</h1><p>{clean.replace(chr(10), "</p><p>")}</p>'
 
         book.add_item(chapter)
         chapters.append(chapter)

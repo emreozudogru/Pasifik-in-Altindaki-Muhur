@@ -1,4 +1,4 @@
-# YENİ-C — Yüzü Olmayan Doktor
+# 15 — Yüzü Olmayan Doktor
 
 🌑 **Pasifik'in Altındaki Mühür**
 

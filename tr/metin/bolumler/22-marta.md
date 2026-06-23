@@ -1,4 +1,4 @@
-# YENİ-E — Marta'nın Cümleleri
+# 22 — Marta'nın Cümleleri
 
 🌑 **Pasifik'in Altındaki Mühür**
 

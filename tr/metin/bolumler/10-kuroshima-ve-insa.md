@@ -1,4 +1,4 @@
-# 08 — Kuroshima ve Hapishanenin İnşası
+# 10 — Kuroshima ve Hapishanenin İnşası
 
 🌑 **Pasifik’in Altındaki Mühür**
 

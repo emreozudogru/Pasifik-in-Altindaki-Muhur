@@ -1,4 +1,4 @@
-# 13 — 1946-2010 Enfeksiyon Örnekleri
+# 16 — 1946-2010 Enfeksiyon Örnekleri
 
 🌑 **Pasifik’in Altındaki Mühür**
 

@@ -1,4 +1,4 @@
-# 06 — Yolculuk 2
+# 07 — Yolculuk 2
 
 🌑 **Pasifik'in Altındaki Mühür**
 

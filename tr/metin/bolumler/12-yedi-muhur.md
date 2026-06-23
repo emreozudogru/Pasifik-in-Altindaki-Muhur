@@ -1,4 +1,4 @@
-# 10 — Yedi Mühür
+# 12 — Yedi Mühür
 
 🌑 **Pasifik'in Altındaki Mühür**
 

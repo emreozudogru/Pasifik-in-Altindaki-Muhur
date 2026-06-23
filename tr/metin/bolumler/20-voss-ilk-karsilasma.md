@@ -1,4 +1,4 @@
-# 17 — Voss ile İlk Karşılaşma
+# 20 — Voss ile İlk Karşılaşma
 
 🌑 **Pasifik'in Altındaki Mühür**
 

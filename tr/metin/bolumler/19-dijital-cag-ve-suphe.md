@@ -1,4 +1,4 @@
-# 16 — Dijital Çağ ve Şüphe
+# 19 — Dijital Çağ ve Şüphe
 
 🌑 **Pasifik'in Altındaki Mühür**
 

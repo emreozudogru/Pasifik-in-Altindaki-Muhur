@@ -1,4 +1,4 @@
-# 18 — Arşiv'in Parçalanması
+# 21 — Arşiv'in Parçalanması
 
 🌑 **Pasifik'in Altındaki Mühür**
 
@@ -24,13 +24,7 @@ En büyük korkusu, kızının başına bir şey gelmesiydi. En-Nakar bunu ona g
 
 **Marta** — Polonyalı dilbilimci. Krakow'da bir üniversitede doktorasını yeni vermişti.
 
-Bir sabah bölüm başkanı onu odasına çağırdı. Marta son günlerde üniversite hesabından ırkçı ve ayrımcı e-postalar gönderildiğini öğrendi. E-postaların saatleri ve IP adresleri Marta'nın evine aitti. Üslup bile onundu — kendi cümle yapısı, kendi noktalama alışkanlıkları, hatta sık kullandığı bir iki kelime. Sanki onu yıllarca okumuş biri yazmıştı. Marta itiraz etti. "Ben yazmadım," dedi. Bölüm başkanı inanmak istedi. Ama disiplin süreci başlatıldı.
-
-Bir hafta içinde e-postalar internete sızdı. Marta "faşist" ilan edildi. Makaleleri reddedilmeye başladı. Konferans davetleri iptal edildi. Arkadaşları uzaklaştı. Eski hocası ona "bir süre sessiz kalman iyi olur" dedi. Kimse onu açıkça suçlamadı; sadece herkes, aynı anda, ondan biraz uzaklaştı. Bir oda dolusu insanın aynı yöne çekilmesi gibi.
-
-En kötüsü şuydu: Marta e-postaları kendisinin yazmadığından emindi. Ama içinde, çok derinde, bir ses ona şunu fısıldıyordu: "Ya o cümleler senin zihninde zaten vardı? Ya sadece dışarı çıkmaları için birine ihtiyaç vardı?" Bir dilbilimciydi; kelimelerin nereden geldiğini sorgulamak onun mesleğiydi. Ve şimdi kendi zihnini sorguluyordu. Belki de tuzak buydu: ona yabancı bir suç değil, kendi karanlığının bir yankısı sunulmuştu.
-
-Bu soru onu e-postalardan daha çok korkuttu. Gruba "Belki biz yanlış okuduk," diye yazdığında aslında kendini ikna etmeye çalışıyordu. Çünkü haksız yere suçlanmak, haklı olarak suçlanmaktan daha kolaydı. Çekildi. Ve çekilirken bile, asıl korktuğu şeyin dışarıdaki linç değil, içerideki o fısıltı olduğunu biliyordu.
+Onun düşüşü en sinsisiydi. Bir sabah, üniversite hesabından gönderilmiş ırkçı e-postalarla uyandı — kendi üslubuyla, kendi noktalamasıyla yazılmış, sanki onu yıllarca okumuş biri tarafından. Bir hafta içinde "faşist" ilan edildi, kariyeri çöktü, herkes ondan aynı anda uzaklaştı. Ama Marta'yı asıl çökerten dışarıdaki linç değildi; içeride, derinde, bir sesin "ya o cümleler zaten zihnindeydiyse?" diye fısıldamasıydı. Onun hikâyesi, başlı başına anlatılmayı hak ediyordu — ve anlatılacaktı. Şimdilik yalnızca şu kadarı yeterli: gruba "Belki biz yanlış okuduk," diye yazıp çekildi. Kendini ikna etmeye çalışıyordu. Başaramadı.
 
 ---
 

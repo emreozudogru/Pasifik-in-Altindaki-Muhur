@@ -1,4 +1,4 @@
-# 21 — Son Yüzleşme
+# 26 — Son Yüzleşme
 
 🌑 **Pasifik'in Altındaki Mühür**
 

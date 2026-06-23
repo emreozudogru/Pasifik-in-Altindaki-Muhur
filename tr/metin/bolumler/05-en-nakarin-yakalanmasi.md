@@ -1,4 +1,4 @@
-# 04 — En-Nakar'ın Yakalanması
+# 05 — En-Nakar'ın Yakalanması
 
 🌑 **Pasifik'in Altındaki Mühür**
 

@@ -20,30 +20,35 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
    tr/metin/orijinal.txt
    ```
 
-2. **Then read all 22 expanded chapters in order:**
+2. **Then read all 27 expanded chapters in order:**
    ```
    tr/metin/bolumler/01-prolog-dunyanin-ucu.md
    tr/metin/bolumler/02-ilk-savas.md
    tr/metin/bolumler/03-muhurculerin-toplanmasi.md
-   tr/metin/bolumler/04-en-nakarin-yakalanmasi.md
-   tr/metin/bolumler/05-yolculuk-1.md
-   tr/metin/bolumler/06-yolculuk-2.md
-   tr/metin/bolumler/07-yolculuk-3.md
-   tr/metin/bolumler/08-kuroshima-ve-insa.md
-   tr/metin/bolumler/09-muhurlerin-tartismasi.md
-   tr/metin/bolumler/10-yedi-muhur.md
-   tr/metin/bolumler/11-yuzyillar-boyu-unutma.md
-   tr/metin/bolumler/12-1945-morita-genzo.md
-   tr/metin/bolumler/13-1946-2010-enfeksiyonlar.md
-   tr/metin/bolumler/14-arakawa-ve-ren.md
-   tr/metin/bolumler/15-arsivin-olusumu.md
-   tr/metin/bolumler/16-dijital-cag-ve-suphe.md
-   tr/metin/bolumler/17-voss-ilk-karsilasma.md
-   tr/metin/bolumler/18-arsiv-parcalanmasi.md
-   tr/metin/bolumler/19-voss-cay-evi.md
-   tr/metin/bolumler/20-yalniz-kalan-ren.md
-   tr/metin/bolumler/21-son-yuzlesme.md
-   tr/metin/bolumler/22-sekizinci-muhur-ve-kapanis.md
+   tr/metin/bolumler/04-olduremedikleri.md
+   tr/metin/bolumler/05-en-nakarin-yakalanmasi.md
+   tr/metin/bolumler/06-yolculuk-1.md
+   tr/metin/bolumler/07-yolculuk-2.md
+   tr/metin/bolumler/08-dilini-kesen-rahip.md
+   tr/metin/bolumler/09-yolculuk-3.md
+   tr/metin/bolumler/10-kuroshima-ve-insa.md
+   tr/metin/bolumler/11-muhurlerin-tartismasi.md
+   tr/metin/bolumler/12-yedi-muhur.md
+   tr/metin/bolumler/13-yuzyillar-boyu-unutma.md
+   tr/metin/bolumler/14-1945-morita-genzo.md
+   tr/metin/bolumler/15-yuzu-olmayan-doktor.md
+   tr/metin/bolumler/16-enfeksiyonlar.md
+   tr/metin/bolumler/17-arakawa-ve-ren.md
+   tr/metin/bolumler/18-arsivin-olusumu.md
+   tr/metin/bolumler/19-dijital-cag-ve-suphe.md
+   tr/metin/bolumler/20-voss-ilk-karsilasma.md
+   tr/metin/bolumler/21-arsiv-parcalanmasi.md
+   tr/metin/bolumler/22-marta.md
+   tr/metin/bolumler/23-keremin-son-gunleri.md
+   tr/metin/bolumler/24-voss-cay-evi.md
+   tr/metin/bolumler/25-yalniz-kalan-ren.md
+   tr/metin/bolumler/26-son-yuzlesme.md
+   tr/metin/bolumler/27-sekizinci-muhur-ve-kapanis.md
    ```
 
 3. **Then read the plan docs relevant to your task:**
@@ -60,7 +65,7 @@ Do not skip this step. Do not summarize and move on. Read and retain.
 **Author:** Emre Ozudogru  
 **Genre:** Literary historical fantasy  
 **Language:** Turkish original (English translation planned)  
-**Structure:** 22 chapters across 4 parts  
+**Structure:** 27 chapters across 4 parts  
 **License:** CC BY 4.0
 
 ### The Story in One Paragraph
@@ -121,10 +126,10 @@ Do not skip this step. Do not summarize and move on. Read and retain.
 
 ### Eirene's Fingerprint
 The most important motif. Eirene presses her five fingers into stone at the threshold — not blood, not a name, just a mark. A question. This fingerprint appears in:
-- Ch. 06: left on sandstone during the sea voyage
-- Ch. 10: pressed into the threshold at Kuroshima
-- Ch. 15: Kerem finds it in the Istanbul notebook (five fingers, thin, a woman's hand)
-- Ch. 22: Ren realizes Eirene understood 2,000 years ago that fear cannot be cured — only recognized
+- Ch. 07: left on sandstone during the sea voyage
+- Ch. 12: pressed into the threshold at Kuroshima
+- Ch. 18: Kerem finds it in the Istanbul notebook (five fingers, thin, a woman's hand)
+- Ch. 27: Ren realizes Eirene understood 2,000 years ago that fear cannot be cured — only recognized
 
 ---
 
@@ -134,7 +139,7 @@ The most important motif. Eirene presses her five fingers into stone at the thre
 tr/
   metin/
     orijinal.txt          ← NEVER MODIFY — canonical baseline
-    bolumler/             ← 22 expanded chapters (active development — SOURCE OF TRUTH)
+    bolumler/             ← 27 expanded chapters (active development — SOURCE OF TRUTH)
   sesli_kitap/
     metinler/             ← plain text for TTS per chapter (DERIVED from bolumler/)
     mp3/  aiff/           ← generated audio (gitignored)
@@ -188,9 +193,9 @@ cd tr/sesli_kitap && pip install -r requirements.txt && python3 generate_audiobo
 ## ✍️ Writing Rules (for any editing/generation task)
 
 ### Tone
-- **Ancient sections (Ch. 1–11):** Epic, rhythmic, fragmented. Single-word paragraphs. Short declarative sentences. No irony.
-- **Transition (Ch. 12):** Cinematic and heavy. Both registers.
-- **Modern sections (Ch. 13–22):** Tense, compressed, contemporary. Lists work. Transitions should flow.
+- **Ancient sections (Ch. 1–13):** Epic, rhythmic, fragmented. Single-word paragraphs. Short declarative sentences. No irony.
+- **Transition (Ch. 14):** Cinematic and heavy. Both registers.
+- **Modern sections (Ch. 15–27):** Tense, compressed, contemporary. Lists work. Transitions should flow.
 
 ### What to Preserve
 - En-Nakar is **never** purely evil. It shows truth — the darkest, most accurate truth. Voss must be philosophically credible.
@@ -211,11 +216,12 @@ cd tr/sesli_kitap && pip install -r requirements.txt && python3 generate_audiobo
 | Task | Status |
 |---|---|
 | Original Turkish draft | ✅ Complete |
-| 22 expanded TR chapters | ✅ Complete — all reviewed and deduplicated |
-| Critical revision (Jun 2026) | ✅ Done — Ch. 07/09/10/15/16/17 rewritten |
-| Motif consistency pass | ✅ Done — fingerprint, "yedi parmak" fixed |
-| TR audiobook (partial) | 🔄 In progress |
-| TR final polish | 📋 Planned |
+| 27 expanded TR chapters | ✅ Complete — novella→novel expansion (~26.5k words) |
+| Three-strand restructure (Jun 2026) | ✅ Done — woven timeline, 2 reveals, "dark cost" ending |
+| Novella→novel expansion (Jun 2026) | ✅ Done — 22→27 chapters, scenes opened, 5 new chapters added |
+| Motif consistency pass | ✅ Done — fingerprint, bloodline, "başka çaren yok" restored |
+| TR audiobook (MP3) | 🔄 metinler/ resynced (27); MP3s need regeneration (no TTS in sandbox) |
+| TR final polish | 🔄 In progress |
 
 ---
 

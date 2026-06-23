@@ -1,10 +1,63 @@
-**Pasifik’in Altındaki Mühür**
-Hikâyenin bugüne ulaşan kısmı, 1999 yılında Tokyo Üniversitesi’nde başladı. Profesör Arakawa Naomi, Japon tarihinin kenarda kalmış ada inançları üzerine çalışan bir akademisyendi. Genç değildi. Ünlü de değildi. Ama takıntılıydı. Özellikle eski balıkçı ailelerinin sakladığı sözlü geleneklerle ilgileniyordu. Modern Japonya’nın unuttuğu küçük korkuların, aslında büyük tarihlerin gölgesi olduğuna inanıyordu.
-Bir gün Kagoshima’daki yaşlı bir aileden kendisine eski bir sandık gönderildi. Sandığın içinden rutubetli kâğıtlar, kırık bir pusula, paslanmış bir bıçak ve taş üzerine sürtülmüş kopyalar çıktı. Taş kopyalardan birinin kenarında çok soluk beş parmak izi, yanında da küçük bir kurşun lekesi vardı. Kâğıtların bir kısmı II. Dünya Savaşı sonrasına aitti. Bir kısmı Edo döneminden. Bir kısmı ise çok daha eskiydi.
-Sandığı gönderen aile, neden Arakawa'yı seçtiğini açıklamadı. Mektupta sadece şu vardı: "Bunu saklayacak birine ihtiyacımız var. Biz artık yorulduk." İmza yerine bir soyadı vardı — Kagoshima'nın eski balıkçı ailelerinden biri. Arakawa o soyadını yıllar sonra, çok beklenmedik bir yerde yeniden görecekti: en sessiz, en güvendiği öğrencisinin dosyasında. Ama o gün gelmeden çok önce ölecekti. Ve bağlantıyı kuramadan gidecekti.
-Arakawa ilk başta bunları yerel folklor sandı. Ama taş kopyalardaki işaretler onu rahatsız etti. Çünkü aynı yüzeyde hem eski Çin karakterleri, hem Sanskrit benzeri işaretler, hem de Mısır hiyerogliflerine benzeyen şekiller vardı. Bu imkânsızdı. Ya sahteydi. Ya da tarih yanlıştı.
-Arakawa üç yıl boyunca bu metinleri inceledi. Sonra bir sonuç çıkardı: Kuroshima diye bir ada gerçekten vardı. Ama modern haritalarda adı değişmişti. Ada, savaş sonrası Amerikan işgali döneminde askeri yasak bölge olarak kısa süre kullanılmış, sonra resmî kayıtlardan neredeyse tamamen silinmişti. Üzerinde kalıcı yerleşim yoktu.
-Arakawa 2003 yılında adaya gitmek için izin istedi. Reddedildi. 2004’te tekrar istedi. Yine reddedildi.
-2005 yılında bir gece Arakawa, parçaları birleştiren şeyi buldu. Sandıktaki taş kopyalardan birindeki sembol, Nagasaki'deki bir kilisenin temel taşında da vardı. Aynı el yazısı. Aynı hata. Kilise 1945'ten sonra inşa edilmişti ve temel taşı denizden çıkarılmıştı. Arakawa bunu kimseye söylemedi. Ama not defterine şunu yazdı: "Bomba bir şeyi kırdı. Sadece şehri değil. Başka bir şeyi. Kilisenin altındaki taş bunu biliyor."
-Ertesi hafta bir akademik dergiye makale gönderdi. Makale geri çevrildi. Hakem notunda şu yazıyordu: "Spekülatif ve kanıtsız." Arakawa makaleyi çekmecesine koydu ve kendi başına devam etti.
-2006’da özel bir tekneyle adaya gizlice gitmeyi planladı. Gitmeden iki gün önce evinde ölü bulundu. Resmî kayıtlara göre kalp krizi. Ama öğrencisi Sato Ren, hocasının ölümünden önce ona gönderdiği son e-postayı sakladı. E-postada tek cümle vardı: “O şey ölmedi; sadece modern olmayı öğrendi.”
+**Pasifik'in Altındaki Mühür**
+1945. Dünya yine kendini yakıyordu. İnsanlık artık bronz kılıçlar, at arabaları ve taş duvarlarla savaşmıyordu. Gökyüzünden şehirleri siliyor, denizlerin altında çelik canavarlar gezdiriyor, fabrikalarda ölümü seri üretime bağlıyordu. Japonya açlık, ateş ve korku içindeydi.
+Hiroşima'ya atom bombası atıldığında, birçok kişi bunun sadece bir şehrin yıkımı olduğunu sandı. Ama Kuroshima'da, Hiroşima'dan yüzlerce kilometre uzakta, yerin altında başka bir şey oldu. Patlamanın ışığı adaya ulaşmadı. Ama dünyanın içine yayılan sarsıntı ulaştı. Bu fiziksel bir sarsıntıdan fazlasıydı. İnsanlığın ilk kez güneşi taklit etmesiydi. Maddenin kalbini parçalamış, yıldızların ateşini yere indirmişti.
+Mühürler böyle bir şeye göre yapılmamıştı. Çünkü antik insanlar taşkınları, yangınları, depremleri, istilaları ve imparatorlukların çöküşünü hesaplamıştı. Ama atomu hesaplamamıştı. İnsanın bir gün kendi ateşiyle değil, yıldızların ateşiyle yakacağını kimse öngörmemişti. Yalnızca tek bir cümle vardı, iki bin yıl önce bir mahkûmun dudaklarından dökülen: bir gün insan kendi güneşini yere indirecek. O gün gelmişti. Ve kimse bunun farkında değildi.
+Hiroşima'dan sonra ilk mühür çatladı.
+Nagasaki'den sonra yedinci mühür kanamaya başladı.
+Kuroshima'da o sabah her şey farklı başladı.
+Morita Genzo şafaktan önce uyandı. Hep şafaktan önce uyanırdı; bunun bir nedeni yoktu, sadece bedeni böyle öğrenmişti. Yetmiş yaşındaydı. Dizleri ağrıyordu, elleri nasırlı ve yorgundu. Parmak eklemleri sabahları kilitli kalır, ancak ocağın başında ısındıktan sonra açılırdı. Kırk yıldır bu adanın kıyısında yaşıyordu. Balık tutar, yağmur suyu biriktirir, ayda bir anakaradan erzak alırdı. Tek başınaydı. Konuşacağı kimsesi yoktu; bazen kendi sesini duymak için denize bir şeyler söylerdi, sonra bunun aptalca olduğunu düşünüp susardı. Görevi basitti: adayı izlemek.
+Neyi izlediğini bilmiyordu.
+Dedesi ona sadece dört kural öğretmişti:
+"Adadan ses gelirse cevap verme."
+"Kapı açılırsa bakma."
+"Deniz siyaha dönerse kaçma."
+"Çünkü kaçarsan o da gelir."
+Morita kuralları ezberlemişti. Anlamlarını bilmiyordu. Hiç sormamıştı. Bir çocukken dedesinin sesinde bir şey vardı — kuralları söylerken yumuşayan, sonra sertleşen bir şey — ve o ses, sorulması gereken her soruyu daha sorulmadan susturuyordu. Bir keresinde, çok küçükken, "neden?" diye sormuştu. Dede cevap vermemişti. Sadece elini Morita'nın başına koymuş, uzun uzun denize bakmış, sonra "Bilmemen seni korur," demişti. Morita o günden sonra bir daha sormadı. Dedenin bilmediğini, kendisinin de bilmediğini, yıllar sonra anlayacaktı.
+Morita büyüdü, dede öldü, kurallar kaldı. Onları bir dua gibi taşıdı; sözleri kemikleşmiş, anlamı çoktan buharlaşmış bir dua gibi. Kırk yılın çoğu gecesinde, uyumadan önce, içinden bir kez tekrarlardı. Niçin, bilmiyordu. Belki de tekrar, anlamın yokluğunu dolduruyordu. Belki de adada yalnız bir adamın, geceye karşı söyleyebileceği tek şeydi.
+Bu kuralları dedesi, ona da kendi dedesi öğretmişti. Zincir öyle geriye uzanıyordu ki başı görünmüyordu. Morita ailesi yüzyıllardır bu kıyıdaydı; çok daha öncesinde başka adlar taşımışlar, başka kıyılardan gelmişlerdi. Kimse artık ilk bekçinin kim olduğunu, neyi koruduğunu bilmiyordu. Yalnızca bir huy kalmıştı kanlarında: denizin o köşesine dönük, sebebi unutulmuş bir tedirginlik. Morita bunu bir görev sanıyordu. Oysa bu, iki bin yıl önce bir kadının taşa bastırdığı parmağın hâlâ süren titreşimiydi. Onu buraya bağlayan şey, onu buradan koruyacak şeyle aynı kandı. Ama o gece anlaşılacaktı ki, aynı kan hem kapıyı kapatabilir hem de açabilir.
+O sabah deniz kıyıya ölü balıklar bırakmıştı. Yüzlerce. Gözleri beyazdı. Pulları dökülmüştü. Bazıları daha ölmemişti; kıyıda, kumun üzerinde, ağızları açılıp kapanıyor ama nefes alamıyorlardı. Sanki hepsi birden, aynı anda, denizin altında görülmemesi gereken bir şeyi görmüş ve kaçmaya çalışmıştı.
+Morita durdu. Bunu daha önce hiç görmemişti.
+Rüzgar yoktu ama ağaçlar sallanıyordu. Yapraksız, rüzgarda eğilmiş yaşlı çamlar, esinti olmadan, kendi içlerinden bir titremeyle sallanıyordu. Güneş yoktu ama gölgeler uzamıştı. Gölgeler yanlış yöne düşüyordu — denize doğru değil, adanın ortasına doğru. Sanki ışık değil, karanlık bir kaynaktan yayılıyordu; sanki adanın göbeğinde bir şey, bütün gölgeleri kendine çekiyordu. Morita kendi gölgesine baktı. O da içeri doğru uzanıyordu. Sanki gölgesi, ondan önce davranmış, çoktan kapıya doğru yürümeye başlamıştı.
+Taşların arasından sıcak buhar çıkıyordu. İnce, kıvrılan dumanlar, kayaların çatlaklarından, soluk soluğa yükseliyordu. Morita bir taşa dokundu. Sıcaktı. Bütün ada, ayağının altında, tıpkı yaz öğlelerinde ısınan bir hayvan gibi sıcaktı — ama güneş yoktu, ve mevsim yaz değildi. Hava, yanık demir gibi kokuyordu. Ve bir ses vardı — ya da sesin yokluğu vardı. Kuşlar susmuştu. Deniz susmuştu. Köpekler bile, kıyının ötesindeki köyde, çoktan susmuştu. Bütün ada, soluğunu tutmuş bir adam gibi bekliyordu.
+Morita tüfeğini aldı. Paslıydı. Son temizleyeli aylar olmuştu. Adada kullanacağını hiç düşünmemişti. Elinde ağır ve yabancı duruyordu; bir alet gibi değil, bir özür gibi.
+Adanın ortasına doğru yürüdü. Her adımda bir şey içinde ona "dur" diyordu. Yürümeye devam etti. Lav tünelinin ağzına vardığında nefesini tuttu. Sıcaklık aniden yükselmişti. Obsidyen duvarlar terliyordu; siyah taşın yüzeyinde ince bir nem tabakası vardı, sanki duvarlar canlıydı ve korkudan terliyordu. Tünelin sonundaki kapı — iki bin yıldır kapalı olması gereken kapı — aralanmıştı.
+Morita durdu. Dizleri titriyordu.
+Kapı tamamen açılmamıştı. Sadece aralanmıştı. Ve o aralıktan, çok yavaş, çok düzenli, bir hava akımı geliyordu. İçeri. Dışarı. İçeri. Dışarı. Morita önce bunu çekiş sandı, sıcak havanın soğuğa doğru hareketi. Sonra fark etti ki akımın bir ritmi vardı. Bir aralık içeri çekiyor, bir aralık dışarı veriyordu. Düzenli. Sakin. Bekleyen.
+Ada nefes alıyordu. İlk kez.
+Kapının aralığından bir koku geliyordu. Çürüme değil. Yanık et değil. Deniz yosunu değil. Eski kağıt kokusu. Kuru kan ve toz. Bir de başka bir şey: toprağın çok derininden gelen, ağır, metalik bir sıcaklık. Sanki dünyanın merkezine inen bir kuyu açılmıştı. Koku Morita'nın boğazına yerleşti, dilinin altına oturdu; yutkundu ama gitmedi.
+Kapının taşlarına baktı. Üzerlerinde semboller vardı. Mısır hiyeroglifleri, Sanskrit işaretleri, eski Çin karakterleri. Bir tanesini tanıdı — dedesinin öğrettiği, anlamını bilmediği bir işaret. Çocukken dede bu işareti bir çubukla kumun üzerine çizmiş, sonra hemen silmişti. "Bunu kimseye çizme," demişti. Nedenini söylememişti. Şimdi aynı işaret, iki bin yıllık taşın üzerinde, Morita'ya bakıyordu. İşaretin hemen yanında, çok soluk, beş parmak izi duruyordu. Parmaklar inceydi. Bir kadın eli. Binlerce yıl önce basılmış, hâlâ duruyordu.
+Morita parmak izine dokunmadı. Eli havada kaldı. Bir an, o ince izin sıcak olabileceğini düşündü — sanki taşın altında hâlâ bir nabız varmış gibi. Sonra elini indirdi.
+Kapıdan içeri ses geldi.
+Çok yumuşak. Çok tanıdık.
+"Genzo."
+Karısının sesiydi. Hideko. Beş yıl önce ölmüştü. Son sözü "Üşüyorum" olmuştu. Morita o sözü beş yıldır taşıyordu; geceleri, soğuk çöktüğünde, kendi battaniyesini bir başkasına örtmek isteyen bir el gibi içinde kalkardı. Ona bir battaniye daha veremezdi artık. Veremediği için hiç affetmemişti kendini.
+Şimdi o ses oradaydı. Kapının ardında. Sıcak. Yakın.
+"Çok bekledim," dedi ses. "Gel."
+Morita'nın gözleri yandı. Bir an ileri adım atmak istedi. Bir an, kırk yıllık yalnızlığın bütün ağırlığı, bir tek kelimeye — gel — yaslandı. Sonra dedesinin sesi içinde uyandı: Kapı açılırsa bakma.
+Morita'nın eli tüfeğe gitti. Kaldırdı. Kapıya ateş etti. Ses sustu. Bir an. Sonra bu kez farklı bir ses geldi.
+Kendi sesiydi. Çocukken. İnce, korkusuz, henüz hiçbir şey kaybetmemiş bir çocuğun sesi. "Korkma," dedi içerisi. "Korkmana gerek yok. Ben seni tanıyorum. Sen de beni tanıyorsun."
+Morita geri çekildi. Bu sesi tanımak, karısının sesini tanımaktan daha kötüydü. Çünkü bu ses, içinden geliyormuş gibiydi. Sanki kapı konuşmuyor, sadece onun en eski, en dipteki sesini geri veriyordu.
+Morita'nın aklına dedesinin öğrettiği dua geldi. Sözlerin anlamını bilmiyordu. Sadece ezberlemişti. Dudakları kıpırdadı.
+"Kami yo," diye fısıldadı. "Kura yo. Wasure yo."
+Tanrı. Karanlık. Unutma.
+Bir kere söyledi.
+Ses sustu.
+İki kere söyledi.
+Kapının aralığından rüzgar çıktı. Sıcak. Ağır. Bu kez içeri çekmedi; sadece dışarı verdi. Uzun bir nefes, sabırlı ve doymuş.
+Üçüncüde sesi kırıldı. Duayı bitiremedi. Dudakları kelimeyi aradı ama bulamadı; sanki kelime, tam o anda, ağzından çekilip alınmıştı.
+Kapının aralığından bir el çıktı.
+Beyaz. İnsan eli gibi. Ama parmakları fazla sakindi. Tırnaklar temizdi. Hareket yavaştı. Sanki yıllardır bu anı bekliyordu. El, ağır çekimde açan bir çiçek gibi aralıktan dışarı uzandı; acelesi yoktu, çünkü acele etmesi için bir neden yoktu. İki bin yıl beklemişti. Bir an daha bekleyebilirdi.
+Morita tüfeği bıraktı. Bir an için ne yaptığını sorgulamadı. Sadece belindeki kısa bıçağı çıkardı. Koştu. Bıçağı elin üzerine sapladı.
+İçeriden acı sesi gelmedi.
+Sadece kahkaha.
+Derin. Rahat. Neredeyse sevgi dolu. Bir babanın, hata yapan çocuğuna gülmesi gibi.
+"Teşekkür ederim," dedi içerisi. "Kapıyı açtın."
+Morita bıçağı bırakamadı; eli, sapladığı yerde kilitlenmişti. Sonra bir şey — belki bir el, belki sadece o ağır sıcaklık — onu nazikçe kavradı. İtmedi. Çekmedi. Sadece tuttu. Morita direnmedi. Direnecek bir şey yoktu. Korkutan da bu değildi. Korkutan, içinde bir yerin rahatlamasıydı: kırk yıllık nöbet bitmişti, ve bedeni, bilmeden, bunu bir izin gibi karşılıyordu.
+Morita o gece adadan ayrılmadı. Kıyıya oturdu. Denize baktı. Deniz siyahtı. İçinde yıldızların ters görüntüsü vardı. Gökyüzü bomboştu; yukarıda yıldız yoktu, ama aşağıda, suyun derininde, yıldızlar parlıyordu. Dünya ters dönmüştü, ya da Morita ters dönmüştü. Ayırt edemiyordu.
+Üçüncü kuralı hatırladı. Deniz siyaha dönerse kaçma. Kaçmadı. Ama dördüncü kuralı da hatırladı, ve şimdi, çok geç olarak, onu anladı: Çünkü kaçarsan o da gelir. Demek mesele kaçmamak değildi. Mesele, kalsa da gitse de farkın kalmamasıydı. Kapı çoktan açılmıştı.
+Sabaha kadar orada kaldı. Ne zaman gözlerini kapatsa, beş parmak izi görüyordu. Taşın üzerinde. İnce. Sessiz. Sanki bir şey söylüyordu. Ama ne söylediğini anlayamıyordu. Bir kadının eliydi; çok uzaktan, çok eski bir yerden, ona bir şey sormaya çalışıyordu. Morita o soruyu hiç duymadı. Onu duyacak biri için iki bin yıl daha geçmesi gerekecekti.
+Ertesi sabah civardaki balıkçılar Kuroshima üzerinde siyah duman gördüler. Duman volkandan gelmiyordu. Taştan geliyordu. Sanki ada içeriden yanıyordu. Adaya gittiklerinde Morita'nın cesedini bulamadılar. Sadece eski taş kapının önünde, yere kazınmış bir cümle vardı. Japonca değildi. Çince değildi. Latince değildi. Ama daha sonra bu cümle, dünyanın farklı yerlerinde tekrar tekrar bulunacaktı.
+Anlamı şuydu:
+**"Mühür kırıldı. İnsan hazır."**
+Kapının yanındaki taşta, beş parmak izi hâlâ duruyordu. Ama bu kez, onu görenler oldu. Parmak izinin hemen altında, yeni bir iz daha vardı. Daha derin. Daha acele. Morita'nın parmak izi. Sanki düşerken taşa tutunmuştu. Beş parmak, kayanın içine bastırılmış; tırnaklar taşı tırmalamış, ama taş vermemiş. Son anında bir şeye tutunmak istemişti — kapıya değil, taşa; karanlığa değil, dünyaya.
+İki iz, iki bin yıl arayla, aynı taşa basılmıştı. İlkini, korkunun tedavi edilemeyeceğini bilen bir kadın bırakmıştı — bir soru gibi. İkincisini, o sorunun cevabını hiç duymamış, onun torununun torununun torunu bırakmıştı — bir çığlık gibi. İki el birbirine o kadar benziyordu ki, sonradan onları inceleyen kimse ikisinin aynı soydan olabileceğini düşündü. Kimse bunu kanıtlayamadı. Ama bir gün, çok sonra, biri aynı izi üçüncü kez arayacaktı.

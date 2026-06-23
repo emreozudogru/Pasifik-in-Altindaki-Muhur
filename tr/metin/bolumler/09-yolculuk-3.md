@@ -1,4 +1,4 @@
-# 07 — Yolculuk 3: Son Yaklaşım
+# 09 — Yolculuk 3: Son Yaklaşım
 
 🌑 **Pasifik'in Altındaki Mühür**
 

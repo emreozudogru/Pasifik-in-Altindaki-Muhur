@@ -1,4 +1,4 @@
-# 14 — Arakawa ve Ren
+# 17 — Arakawa ve Ren
 
 🌑 **Pasifik’in Altındaki Mühür**
 
