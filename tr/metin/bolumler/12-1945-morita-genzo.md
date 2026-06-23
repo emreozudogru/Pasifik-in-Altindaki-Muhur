@@ -26,6 +26,8 @@ Dedesi ona sadece dört kural öğretmişti:
 
 Morita kuralları ezberlemişti. Anlamlarını bilmiyordu. Hiç sormamıştı.
 
+Bu kuralları dedesi, ona da kendi dedesi öğretmişti. Zincir öyle geriye uzanıyordu ki başı görünmüyordu. Morita ailesi yüzyıllardır bu kıyıdaydı; çok daha öncesinde başka adlar taşımışlar, başka kıyılardan gelmişlerdi. Kimse artık ilk bekçinin kim olduğunu, neyi koruduğunu bilmiyordu. Yalnızca bir huy kalmıştı kanlarında: denizin o köşesine dönük, sebebi unutulmuş bir tedirginlik. Morita bunu bir görev sanıyordu. Oysa bu, iki bin yıl önce bir kadının taşa bastırdığı parmağın hâlâ süren titreşimiydi. Onu buraya bağlayan şey, onu buradan koruyacak şeyle aynı kandı. Ama o gece anlaşılacaktı ki, aynı kan hem kapıyı kapatabilir hem de açabilir.
+
 O sabah deniz kıyıya ölü balıklar bırakmıştı. Yüzlerce. Gözleri beyazdı. Pulları dökülmüştü. Rüzgar yoktu ama ağaçlar sallanıyordu. Güneş yoktu ama gölgeler uzamıştı. Taşların arasından sıcak buhar çıkıyordu. Hava, yanık demir gibi kokuyordu.
 
 Morita tüfeğini aldı. Paslıydı. Son temizleyeli aylar olmuştu. Adada kullanacağını hiç düşünmemişti.
@@ -95,3 +97,5 @@ Anlamı şuydu:
 **"Mühür kırıldı. İnsan hazır."**
 
 Kapının yanındaki taşta, beş parmak izi hâlâ duruyordu. Ama bu kez, onu görenler oldu. Parmak izinin hemen altında, yeni bir iz daha vardı. Daha derin. Daha acele. Morita'nın parmak izi. Sanki düşerken taşa tutunmuştu.
+
+İki iz, iki bin yıl arayla, aynı taşa basılmıştı. İlkini, korkunun tedavi edilemeyeceğini bilen bir kadın bırakmıştı — bir soru gibi. İkincisini, o sorunun cevabını hiç duymamış, onun torununun torununun torunu bırakmıştı — bir çığlık gibi. İki el birbirine o kadar benziyordu ki, sonradan onları inceleyen kimse ikisinin aynı soydan olabileceğini düşündü. Kimse bunu kanıtlayamadı. Ama bir gün, çok sonra, biri aynı izi üçüncü kez arayacaktı.

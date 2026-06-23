@@ -24,4 +24,6 @@ Bunların hiçbiri kanıtlanamadı. Çünkü En-Nakar artık antik çağdaki gib
 
 En-Nakar bu yeni dünyayı hızla öğrendi. Burada fısıldamak için bir yüze gerek yoktu. Bir kullanıcı adı yeterliydi. Hatta bazen sadece bir algoritma.
 
+Ve burada eski kural daha da acımasız işliyordu. Antik çağda onu öldürmek isteyen, onu beslerdi; çünkü öldürmek için önce onun gibi düşünmek gerekirdi. Modern çağda ise onu *ifşa etmek* onu besliyordu. Her uyarı paylaşımı, her "dikkat edin" başlığı, her öfkeli çürütme — hepsi onun adını biraz daha büyütüyordu. İnsanlar canavarı göstererek canavarı çağırdıklarını bilmiyordu. İşaret çoğaldıkça kapı genişliyordu. Ve hiçbir çağda, kapı bu kadar çok elin altında olmamıştı.
+
 1999'da Tokyo'da bir akademisyen eski bir sandıkla karşılaştığında, En-Nakar çoktan hazırdı.
