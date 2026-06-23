@@ -36,9 +36,13 @@ Sonra gitti. Ren kapıyı kilitledi. Kayıt cihazını kontrol etmedi. Çünkü 
 
 ---
 
-O gece Ren, Voss'un ne dediğini anladı — ama umduğu gibi değil. Voss onu yıldırmak için gerçeği söylemişti. Oysa aynı gerçek, Eirene'nin iki bin yıl önce bıraktığı kapıydı. En-Nakar beslenmekle yaşıyordu. Korkuyla, öfkeyle, dikkatle. Demek onu sonsuza dek yenmenin yolu da buradaydı: beslememek. Hiç. Bir nesil değil — her nesil, her gün, her saniye.
+O gece Ren uyumadı. Pencerenin önünde oturdu, Voss'un az önce oturduğu sandalyede, ve şehri izledi. Milyonlarca ışık. Milyonlarca ekran. Her birinin ardında bir insan, ve her insanın içinde küçük bir karanlık oda — Voss'un dilediği zaman seslenebileceği bir oda.
 
-Bunun bir bedeli vardı. Voss bile söylemişti: yenmeye değmeyecek kadar ağır. Ama Ren artık bedelin ne olduğunu biliyordu. Ve ödemeye karar vermişti — kendi adına değil, başkaları ödemesin diye.
+Ve Voss'un ne dediğini anladı — ama umduğu gibi değil. Voss onu yıldırmak için gerçeği söylemişti. Bir zafer çığlığı gibi: *beni yenemezsin, çünkü ben senim.* Oysa aynı gerçek, ters çevrildiğinde, Eirene'nin iki bin yıl önce bıraktığı kapıydı. Eğer En-Nakar insanın içindeki korkuysa, onu dışarıda bir yerde aramak boştu. O ne bir adada, ne bir bedende, ne Voss'un yüzündeydi. O, her insanın kendi göğsündeydi. Ve tam da bu yüzden, her insan onu kendi içinde yenebilirdi — bir saniyelik bir duraksamayla.
+
+En-Nakar beslenmekle yaşıyordu. Korkuyla, öfkeyle, dikkatle. Demek onu sonsuza dek yenmenin yolu da buradaydı: beslememek. Hiç. Bir kahraman tarafından bir kez değil — milyonlarca sıradan insan tarafından, her gün, her saniye, sessizce.
+
+Bunun bir bedeli vardı. Voss bile söylemişti: yenmeye değmeyecek kadar ağır. Ren bedeli biliyordu artık; annesinin yüzünde, Kerem'in boş sandalyesinde, kendi silinecek adında görmüştü onu. Ama ödemeye karar vermişti — kendi adına değil, ondan sonra gelenler ödemesin diye. Eirene'nin sorusuna nihayet bir cevabı vardı: *Bedeli ben ödeyeceğim.*
 
 ---
 
@@ -67,7 +71,11 @@ En zor kural. En-Nakar'ın en sevdiği şey dikkattir. Onun hakkında konuşmak,
 
 ---
 
-Ren bu beş kuralı En-Nakar'a karşı savaş olarak sunmadı. Çünkü isim kapıydı. Bunları insanın kendini koruması olarak sundu. Küçük kâğıtlara yazdı, fotokopi çekti, bazı kütüphanelere anonim bıraktı, bazı eski öğrencilerine posta ile gönderdi, birkaç kişiye elden verdi. Kimse nereden geldiğini bilmedi. Kimse imza aramadı.
+Ren bu beş kuralı En-Nakar'a karşı savaş olarak sunmadı. Çünkü isim kapıydı. Bunları insanın kendini koruması olarak sundu — bir varlığa karşı değil, kendi aceleciliğine, kendi öfkesine, kendi korkusuna karşı. En-Nakar'ın adı hiçbir yerde geçmiyordu. Hiçbir komplo, hiçbir canavar, hiçbir gizli düşman. Sadece sıradan, neredeyse sıkıcı bir öğüt listesi: yavaşla, sorgula, paylaşma, bedeli kabul et, besleme.
+
+Dağıtımı da gösterişsizdi. Küçük kâğıtlara yazdı, çoğalttı. Bazılarını kütüphanelere, kitap sayfalarının arasına bıraktı — bir gün birinin rastlayacağı yerlere. Bazılarını eski öğrencilerine, güvendiği birkaç isme postaladı, gönderen adresi olmadan. Birkaçını elden verdi, gözlerine bakarak, "bunu paylaşma, sadece uygula" diyerek. Viral olmasını istemedi; tam tersini istedi. Çünkü viral olan şey, dikkatti — ve dikkat, ona yemdi. En iyi mühür, sessizce yayılan, kaynağı unutulan, sahibi olmayan bir fikirdi.
+
+Kimse nereden geldiğini bilmedi. Kimse imza aramadı. Ren'in adı hiçbir kâğıtta yoktu — ve bu, bir kayıp değil, mührün bir parçasıydı.
 
 Belki işe yaradı. Belki yaramadı.
 
