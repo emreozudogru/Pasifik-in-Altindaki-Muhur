@@ -1,23 +1,22 @@
-# Loop Log — Edebi Mükemmelleştirme
+# Loop Log — Sonsuz gece (resume-safe)
 
-Bu dosya `PROMPT-gece-loop-edebi-mukemmellestirme.md` turlarını kaydeder.
-Agent her tur sonunda buraya ekler. En yeni tur en altta.
+Her tur sonuna eklenir. En yeni en altta.  
+State: `docs/LOOP-STATE.md` · Master: `docs/PROMPT-gece-loop-edebi-mukemmellestirme.md`
 
 ---
 
 ## Şablon
 
 ```
-### Tur N — YYYY-MM-DD
+### Tur N — YYYY-MM-DD HH:MM (phase P)
 - Commit:
-- Dokunulan dosyalar:
-- Değişiklikler (max 10):
+- Dosyalar:
+- P0 yapıldı:
 - Kelime delta:
-- Final "yere basma" skoru (1–5):
-- Aksiyon notu:
-- Sonraki P0:
+- Skorlar: final= action= prose= dna=
+- Sonraki:
 ```
 
 ---
 
-*(Henüz tur yok.)*
+*(Henüz tur yok — /loop başlatılmadı.)*

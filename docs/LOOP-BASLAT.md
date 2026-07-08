@@ -1,66 +1,86 @@
-# HAZIR LOOP PROMPT — kopyala → agent’a yapıştır
+# Sonsuz gece loop — nasıl bırakılır
 
-Ayrıntılı kural seti: `docs/PROMPT-gece-loop-edebi-mukemmellestirme.md`  
-Log: `docs/LOOP-LOG.md`  
-Ses (mp3/aiff) ve On Writing PDF **gitignore’da** — agent ses **üretmez**.
+Master kurallar: `docs/PROMPT-gece-loop-edebi-mukemmellestirme.md`  
+Durum (kaldığın yer): `docs/LOOP-STATE.md`  
+Log: `docs/LOOP-LOG.md`
 
----
+## Neden bozulmaz / kaybolmaz
 
-## KOPYALA-YAPIŞTIR (tam metin)
+| Risk | Koruma |
+|------|--------|
+| Ortada kill | Her tetikleme = **1 tur + 1 commit**; yarım tur commit’siz bitmez |
+| “Nerede kaldım?” | `LOOP-STATE.md` + `LOOP-LOG.md` repoda |
+| Yanlış dosya | `orijinal.txt` yasak; max 5 bölüm/tur |
+| Ses/PDF şişmesi | gitignore; agent üretmez/commit etmez |
+| Push kazası | push yasak |
+| Loop metni kaybı | Bu dosya + master prompt **commit’li** |
 
-```
-Sen Pasifik'in Altındaki Mühür projesinde otonom edebi editör-yazar agentsin.
+Sen gelince: sohbeti/loop’u durdur. Repo son commit’te sağlam kalır. İstersen aynı `/loop` ile devam.
 
-## BAŞLAT
-1. Oku: CLAUDE.md
-2. Oku: docs/PROMPT-gece-loop-edebi-mukemmellestirme.md (MASTER PROMPT — tüm kurallar orada)
-3. Oku: docs/LOOP-LOG.md (önceki turlar varsa)
-4. Romanı oku: tr/metin/bolumler/01 … 27 (veya log’a göre delta)
-5. Loop’u çalıştır.
-
-## LOOP PARAMETRELERİ
-- Tur 1’den başla (log’da son tur varsa +1)
-- Max 6 tur
-- Her tur: teşhis → max 5 bölüm cerrahi edit → LOOP-LOG ekle → git commit
-- Push YOK
-- tr/metin/orijinal.txt’ye DOKUNMA
-
-## BU TURUN ÖNCELİK SIRASI (yoksa bu sırayı izle)
-Tur 1: Final yere insin — 25, 26, 27 (+gerekirse 23). “Havada kalma” H1–H6.
-Tur 2: İzinli edebi aksiyon + tempo — 05, 07, 08, 14. Didaktik kısalt.
-Tur 3: Modern motor — 19, 20, 21, 24. Voss düello; top yuvarlansın.
-Tur 4: Karakter — 17, 18, 22, 23.
-Tur 5: Motif + dil cilası global (tekrar, zarf, vaaz dili).
-Tur 6: Bütüncül −10% budama + TTS metinler senkron + EPUB.
-
-## DNA (BOZMA)
-- Ren kahraman değil; Voss/En-Nakar fiziksel yenilmez; mutlu son yok
-- Karanlık bedel finali korunur; somutlaştırılır (felsefe silinmez, yere iner)
-- Motifler: İsim kapıdır, Bedel her nesil sorar, Başka çaren yok, parmak izi, kan/bedel
-- İzinli aksiyon: bedensel+ahlaki tuzak, tema bağlı, bedel kesen. Hollywood chase/boss fight YASAK
-- King: omit needless words;  eklenen ~100 kelimeye karşı ~110 budama hedefi
-
-## SES / PDF
-- MP3, AIFF, WAV üretme. edge-tts çalıştırma. Ses dosyalarına commit etme.
-- docs/*.pdf (On Writing dahil) commit etme; gitignore’da.
-- Bölüm değişince sadece: tr/sesli_kitap/metinler/bolum_NN.txt senkron (+ son turda EPUB)
-- AUDIOBOOK_STATUS.md: “MP3 host’ta yeniden üretilmeli” diye işaretle; sesi sen üretme.
-
-## STOP
-- 2 tur üst üste sadece mikro cila
-- DNA ihlali riski
-- Max 6 tur doldu
-Durunca kısa özet ver: tur sayısı, commit’ler, final skoru (1–5), host’ta yapılacak MP3 notu.
-
-Şimdi Tur 1’i başlat.
-```
+**Ses:** Agent MP3 üretmez. Sen host’ta:
+`cd tr/sesli_kitap && pip install -r requirements.txt && python3 generate_audiobook.py`
 
 ---
 
-## Host’ta ses (agent değil, sen)
+## 1) Grok’ta başlat (önerilen)
 
-Loop bitince kendi makinen:
+Sohbete **tek satır** (veya alttaki blok):
+
+```
+/loop 25m docs/LOOP-BASLAT.md içindeki TİK PROMPT’unu uygula. Master: docs/PROMPT-gece-loop-edebi-mukemmellestirme.md. Sonsuz; ben durdurana kadar. Her tetiklemede tam 1 tur + commit. Push yok.
+```
+
+Interval: `25m` ≈ bir edebi tur için güvenli. Daha agresif: `15m`. Daha yavaş: `45m`.
+
+İptal: Grok scheduler / loop iptali (job ID oluşunca not et) veya sohbeti bırakıp task’ı sil.
+
+---
+
+## 2) TİK PROMPT (her /loop ateşlemesinde agent bunu çalıştırır)
+
+Aşağıdaki bloğu master ile birlikte kullanır; gerekirse yapıştır:
+
+```
+TEK TUR — Pasifik'in Altındaki Mühür sonsuz gece loop
+
+1) Oku: CLAUDE.md
+2) Oku: docs/PROMPT-gece-loop-edebi-mukemmellestirme.md (MASTER — tüm kurallar)
+3) Oku: docs/LOOP-STATE.md (turn/phase/next_chapters)
+4) Oku: docs/LOOP-LOG.md (son 2 tur)
+5) MASTER’daki “TEK TUR İŞ AKIŞI A→F” uygula:
+   - turn += 1
+   - max 5 bölüm cerrahi edit (phase’e göre)
+   - metinler/*.txt senkron (değişenler)
+   - LOOP-STATE + LOOP-LOG güncelle
+   - git commit (push YOK)
+   - working tree clean
+6) 5–8 satır özet yaz, DUR.
+   İçeride tur 2’ye geçme. Sonsuz iç döngü yok. “Bitti” / completion promise YOK.
+7) ASLA: orijinal.txt, push, mp3/aiff/pdf, edge-tts, reset --hard, Voss yenilgisi, mutlu son
+
+Kill gelirse sorun değil: bir sonraki /loop LOOP-STATE’ten devam eder.
+```
+
+---
+
+## 3) Phase sırası (sonsuz cycle)
+
+`1 final → 2 aksiyon → 3 modern → 4 karakter → 5 dil → 6 budama → 7 epub-txt → 1 …`
+
+Phase 1: 25–27 (final yere bas)  
+Phase 2: 05, 07, 08, 14  
+Phase 3: 19–21, 24  
+Phase 4: 17, 18, 22, 23  
+…
+
+---
+
+## 4) Sen gelince kontrol
 
 ```bash
-cd tr/sesli_kitap && pip install -r requirements.txt && python3 generate_audiobook.py
+git log --oneline -20
+cat docs/LOOP-STATE.md
+tail -40 docs/LOOP-LOG.md
 ```
+
+Beğenmediğin tur: `git log` + ilgili commit’i revert (agent’a “şu commit’i geri al” de).
