@@ -16,7 +16,20 @@ images/
 *.png
 *.webp
 
-# NOT: Ses dosyaları (mp3/aiff) BİLEREK repoya dahil edilir — ignore EDİLMEZ.
+# ─── Ses (üretim sandbox'ta yok; host'ta generate edilir) ───
+*.mp3
+*.aiff
+*.aif
+*.wav
+*.m4a
+tr/sesli_kitap/mp3/
+tr/sesli_kitap/aiff/
+tr/metin/orijinal.mp3
+tr/metin/orijinal.aiff
+
+# ─── Büyük referans PDF / yerel kaynaklar ───
+docs/On Writing_ A Memoir of the Craft - Stephen King.pdf
+docs/*.pdf
 
 # ─── İşletim sistemi çöp dosyaları (Windows + macOS) ───
 
@@ -25,14 +38,14 @@ images/
 .DS_Store?
 .AppleDouble
 .LSOverride
-._*                 # AppleDouble kaynak çatalları (._dosyaadı)
+._*
 .Spotlight-V100
 .Trashes
 .fseventsd
 .VolumeIcon.icns
 .DocumentRevisions-V100
 .TemporaryItems
-Icon?               # Finder özel klasör ikonu
+Icon?
 
 # Windows
 Thumbs.db
@@ -41,5 +54,5 @@ ehthumbs.db
 ehthumbs_vista.db
 Desktop.ini
 $RECYCLE.BIN/
-*.lnk               # kısayollar
+*.lnk
 *.stackdump

@@ -16,11 +16,11 @@
 3) Aşağıdaki MASTER PROMPT’u uygular: 1 tur = 1 “gece vardiyası”.
 4) Tur sonunda: commit + kısa DURUM notu (docs/LOOP-LOG.md’ye ekle).
 5) STOP koşulları sağlanmadıysa 2. adıma dön (max N tur; önerilen N=5–8).
-6) Son turda: TTS metin senkron + EPUB yenile (MP3 sandbox’ta yoksa bayrakla).
+6) Son turda: TTS **metin** senkron (`metinler/*.txt`) + EPUB yenile.
+7) **MP3/AIFF üretme.** Ses gitignore’da; host’ta kullanıcı üretir.
 ```
 
-**Önerilen komut (insan):**  
-“`docs/PROMPT-gece-loop-edebi-mukemmellestirme.md` içindeki MASTER PROMPT’u uygula. Tur 1. Max 6 tur. Her tur commit. Push yok.”
+**Hazır başlatma metni:** `docs/LOOP-BASLAT.md` (kopyala-yapıştır).
 
 ---
 
@@ -199,7 +199,8 @@ Bölüm değiştiyse:
 1. Etkilenen `tr/sesli_kitap/metinler/bolum_NN.txt` yenile  
    (transform: `#` / `---` / boş satır at; `🌑` sil; whitespace collapse; banner `**Pasifik'in Altındaki Mühür**` kalsın; **trailing newline yok**)
 2. Son turda: `cd tr/ebook && python3 generate_ebook.py` (ebooklib yoksa kur)
-3. MP3: sandbox’ta TTS yoksa `AUDIOBOOK_STATUS.md`’ye “yeniden üretim gerekli” yaz; uydurma MP3 yok
+3. **MP3/AIFF/WAV üretme, commit etme, edge-tts çalıştırma.** Ses ve `docs/*.pdf` gitignore’da.
+4. `AUDIOBOOK_STATUS.md`: “MP3 host’ta yeniden üretilmeli” diye işaretle; sesi agent üretmez
 
 ### E) Git
 - Anlamlı her tur → **commit** (push yok)
