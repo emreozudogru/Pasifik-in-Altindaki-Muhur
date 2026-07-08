@@ -18,7 +18,9 @@ Aynı parşömenin kenarında, başka bir el yazısı vardı. Daha kadınsı. Da
 
 Bedel, o sonbaharda Ren'i buldu.
 
-Annesi öldü. Kalp, ikinci kez durdu ve bu kez geri dönmedi. Ren cenazeye gitmedi. Gidemezdi — çünkü En-Nakar onu izliyordu; Ren'in sevdiği her yüz, ona karşı açılabilecek bir kapıydı. Annesini korumanın tek yolu ondan tamamen kopmaktı. Böylece koptu. Annesi, kızının neden gelmediğini hiç anlamadan, yalnız öldü. Ren bunu bir otel odasında, kısa bir telefon mesajından öğrendi. Ağlamadı. Çünkü ağlamak da bir sesti — ve o artık sessizliği seçmişti.
+Annesi öldü. Kalp, ikinci kez durdu ve bu kez geri dönmedi. Ren cenazeye gitmedi. Gidemezdi; sevdiği her yüz, açılabilecek bir kapıydı. Annesini korumanın tek yolu ondan tamamen kopmaktı. Böylece koptu. Annesi, kızının neden gelmediğini hiç anlamadan, yalnız öldü. Ren bunu bir otel odasında, kısa bir telefon mesajından öğrendi. Ağlamadı. Ağlamak da sesti; o, sessizliği seçmişti.
+
+Oda loştu. Pencere perdesi, denize bakan otel manzarasını kesiyordu. Ren perdesi aralamadı. Anneannesinin cümlesi, Morita evindeki pano, on beşinci yüzyıl keşişinin örtüsü: aynı hareket, farklı yüzyıl. Bakmamak. Cevap vermemek. Çekmecede Warren'ın kâğıdı duruyordu. *Do not answer.* Hastane koridorunda zaten cevap vermemişti. Şimdi de vermedi. Telefonu kapalı tuttu. Kimseye yazmadı.
 
 O gece Ren, Kerem'in dosyasındaki iki parmak izini son kez yan yana koydu. Eirene'ninki. Kendininki. Bu kez örtüştüler. Tam tamına. İki bin yıllık soru, nihayet aynı eli buldu. Ama Ren bunu bir zafer gibi hissetmedi. Bir kapanış gibi hissetti. Bedel ödenmişti — ve ödendiğinde, geriye sevinecek kimse kalmamıştı.
 

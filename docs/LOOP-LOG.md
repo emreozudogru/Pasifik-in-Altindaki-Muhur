@@ -66,3 +66,10 @@ En yeni tur en altta.
 - open_threads: kesish dancing, warren dancing, irc closed
 - DNA ok; yeni metinde em dash yok (bilincli)
 - Sonraki: warren torun kagit tam bag veya yeni sahne
+
+### Tur 3 — 2026-07-08
+- Plan: warren BAG (18 kagit); 09 yeni sahne muhafiz; 27 perde bag
+- Dosyalar: 09, 18, 27 + TTS
+- words: 28481 -> 28839 (delta 358)
+- open_threads: warren closed; gemi-muhafiz open; kesish dancing
+- em dash yeni metinde yok

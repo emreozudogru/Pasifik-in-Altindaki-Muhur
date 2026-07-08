@@ -1,35 +1,40 @@
 # LOOP-STATE
-turn: 2
+turn: 3
 phase: 6
-phase_turns: 2
-next_chapters: [14, 25, 26]
-last_focus: "Dans/bag: kesish pencere->Morita; warren Cevap verme->Ren hastane; defter altinci satir"
+phase_turns: 3
+next_chapters: [9, 18, 27]
+last_focus: "Bag warren kagit; tohum muhafiz cevap verme; bag pencere/perde"
 final_grounded: 4
-action_balance: 3
+action_balance: 4
 prose_richness: 4
 length_ok: true
-words_before: 28047
-words_after: 28481
-delta: 434
+words_before: 28481
+words_after: 28839
+delta: 358
 target_delta: 400
 chapter_count: 27
 new_chapters: []
 dna_ok: true
-last_commit: "511399e+932dc1a"
+last_commit: pending
 open_threads:
   - id: kesish-pencere-15yy
     planted: "13"
     status: dancing
-    payoff_target: "14 pano pencere (dans); 25 anneanne pencere; ileride tam bag"
-    hook: "pencere ortmek, denize bakmama, yalan ses"
+    payoff_target: "14 pano; 25 anneanne; 27 otel perdesi"
+    hook: "pencere ortmek"
   - id: warren-cevap-verme
     planted: "15"
-    status: dancing
-    payoff_target: "25 hastane Cevap verme; 26 defter Do not answer; torun kagit henuz gelmedi"
-    hook: "Cevap verme / Do not answer"
+    status: closed
+    payoff_target: "18 torun kagit teslim; 25 hastane; 26 defter; 27 cekmece"
+    hook: "Do not answer / Cevap verme"
+  - id: gemi-muhafiz-sus
+    planted: "09"
+    status: open
+    payoff_target: "13-14 pencere/cevap verme zinciri (dans)"
+    hook: "sandik fısıltı, Eirene el, cevap kapidir"
   - id: irc-nefes-sil
     planted: "16"
     status: closed
     payoff_target: "16"
-    hook: "nefes, sil"
-notes: "Tur 2: open threads dans etti. Sonraki: torun kagit bag veya yeni ara cag sahne."
+    hook: "nefes"
+notes: "Warren bag kapandi. Yeni tohum: gemi muhafiz."

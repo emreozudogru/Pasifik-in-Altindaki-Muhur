@@ -86,6 +86,8 @@ Kuroshima.
 
 Kimse buna itiraz etmedi.
 
+O gece, kıyıya varmadan önceki son nöbette, genç bir muhafız sandığın yanına oturdu. Kulaklarındaki balmumu gevşemişti. İçeriden bir ses geldi. Annesinin sesi değildi. Kendi sesiydi, çocukken: "Konuş. Söyle adını. Kurtulursun." Muhafız dudağını araladı. Eirene arkadan elini omzuna koydu. Sıkı, hekim eli. İşaret: hayır. Muhafız sustu. Ağzını kapattı. Eirene balmumunu yeniden bastırdı, yavaşça. "Cevap, kapıdır," demedi yüksek sesle. Sadece baktı. Muhafız anladı. O gece sandık bir kez daha tırnak attı, sonra sustu. Muhafız sabaha kadar konuşmadı. Adaya ayak bastığında bile, o fısıltıyı kimseye anlatmadı. Anlatmak, cevap vermek olurdu. Yıllar sonra, adanın kıyısında, isimsiz bir torun "gece pencereyi açma" diyecekti. Muhafızın sustuğu gece ile o cümle arasında kan bağı yoktu belki. Ama aynı mühür, farklı ağızlardan sızıyordu.
+
 Gemi kıyıya yaklaştı.
 
 Sis yeniden kapandı.
