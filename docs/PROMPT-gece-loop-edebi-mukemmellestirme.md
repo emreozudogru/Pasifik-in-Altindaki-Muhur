@@ -179,11 +179,12 @@ Tur başı bütün-roman düşüncesi phase’i ezer. Yine de boşluk yoksa:
 ```
 
 ## 9. Pusula
-> Uzatmak = **yeni yaşanmışlık** eklemek.  
+> Uzatmak = **yeni sahne ve yaşanmışlık**.  
 > Dolandırmak = kelime hırsızlığı.  
 > Her ek parçanın **kapısı kapansın**.  
-> Antik ile bugün arası **boşluk altındır** — orayı doldur, ama her taş yerinde dursun.
+> Antik ile bugün arası boşluk doldurulabilir; her taş yerinde dursun.  
+> `—` yazma; insan gibi noktalama.
 
 ---
 
-*Yazar revizyonu: anlamlı büyütme, yeni hikâye/bölüm izni, bütün-roman düşüncesi, kapalı vignette, ara çağ, −10% yok, +10% yön.*
+*Yazar: anlamlı büyütme, yeni sahne/hikâye/bölüm, kapalı vignette, ara çağ, +%10 yön, tire/em dash yasak.*
