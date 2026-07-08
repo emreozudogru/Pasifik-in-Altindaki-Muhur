@@ -1,12 +1,12 @@
 # LOOP-STATE
-turn: 0
+turn: 1
 phase: 1
-phase_turns: 0
+phase_turns: 1
 next_chapters: [25, 26, 27]
-last_focus: ""
-final_grounded: 2
-action_balance: 2
-prose_tight: 2
+last_focus: "final H1–H6: somut iz, Ren imgesi, karanlık bedel bedenleşmesi; 26 didaktik −"
+final_grounded: 4
+action_balance: 3
+prose_tight: 4
 dna_ok: true
-last_commit: ""
-notes: "Master King×Pasifik; phase 1 = final yere insin (H1–H6)"
+last_commit: "loop: t1-p1 - final 25–27 yere bas"
+notes: "phase 1 devam (bir tur daha final cila veya phase 2'ye geç adayı); MP3 host"

@@ -1,6 +1,6 @@
 # Sesli Kitap Durumu
 
-**Son guncelleme:** 2026-06-23
+**Son guncelleme:** 2026-07-08 (loop t1: bolum 25–27 metinler senkron; MP3 host'ta yeniden uretilmeli)
 
 ## Roman yapisi degisti: 22 -> 27 bolum
 

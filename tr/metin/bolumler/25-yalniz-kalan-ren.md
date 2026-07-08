@@ -118,10 +118,10 @@ Kerem'in notlarını tekrar açtı. Bir cümle defalarca tekrarlanıyordu: "Bede
 
 Ödenmişti.
 
-Kerem’in dosyasındaki kurşun lekesi ve parmak izi taraması hâlâ ekranın köşesinde duruyordu. Eirene'nin izi. İki bin yıllık soru. Ren parmağını ekrana bastırdı, kendi izinin yanına. İki iz yan yana durdu. Benziyorlardı — aynı incelik, aynı eğim — ama tam örtüşmediler.
+Ekranın köşesinde kurşun lekesi ve parmak izi taraması. Eirene'nin izi. Ren parmağını bastırdı. İki iz yan yana: aynı incelik, aynı eğim — aralarında ince, inatçı bir boşluk. Örtüşmediler.
 
-Kerem'in "karşılaştırma dosyası"nın neden boş olduğunu şimdi anlıyordu. Kerem eşleşmeyi bulmuştu. Ama eşleşme henüz tamamlanmamıştı. Çünkü iki iz, ancak bedel ödendiğinde üst üste otururdu. Eirene bunu iki bin yıl önce bilmişti: parmak izi bir kimlik değil, bir soruydu. *Bedeli ödemeye hazır mısın?*
+Kerem'in boş "karşılaştırma dosyası"nı şimdi anlıyordu. Eşleşmeyi bulmuş, yazmaya cesaret edememişti. İki iz, bedel ödenince otururdu. Parmak izi kimlik değil; soru: *Bedeli ödemeye hazır mısın?*
 
-Ren henüz değildi. Bunu, izlerin arasındaki o ince boşluktan anladı. Henüz tam ödememişti. Annesi hâlâ nefes alıyordu. Demek bedel henüz tamamlanmamıştı.
+Ren, boşluğa baktı. Henüz değildi. Annesi hâlâ nefes alıyordu. Demek mühür, henüz tam vurulmamıştı.
 
-Bu düşünce onu korkuttu. Çünkü ne anlama geldiğini biliyordu.
+Bu bilgi, odadaki soğuk gibi oturdu. Ne anlama geldiğini biliyordu.
