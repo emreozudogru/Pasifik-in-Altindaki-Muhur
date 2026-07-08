@@ -9,4 +9,4 @@ action_balance: 2
 prose_tight: 2
 dna_ok: true
 last_commit: ""
-notes: "henüz tur yok — ilk tetikleme phase 1 (final yere insin)"
+notes: "Master King×Pasifik; phase 1 = final yere insin (H1–H6)"

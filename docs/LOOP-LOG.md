@@ -1,22 +1,10 @@
-# Loop Log — Sonsuz gece (resume-safe)
+# Loop Log
 
-Her tur sonuna eklenir. En yeni en altta.  
-State: `docs/LOOP-STATE.md` · Master: `docs/PROMPT-gece-loop-edebi-mukemmellestirme.md`
+Master: `docs/PROMPT-gece-loop-edebi-mukemmellestirme.md`  
+State: `docs/LOOP-STATE.md`
 
----
-
-## Şablon
-
-```
-### Tur N — YYYY-MM-DD HH:MM (phase P)
-- Commit:
-- Dosyalar:
-- P0 yapıldı:
-- Kelime delta:
-- Skorlar: final= action= prose= dna=
-- Sonraki:
-```
+En yeni tur en altta.
 
 ---
 
-*(Henüz tur yok — /loop başlatılmadı.)*
+*(Tur yok — /loop henüz çalışmadı.)*
