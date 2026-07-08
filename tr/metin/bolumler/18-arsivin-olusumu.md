@@ -32,7 +32,7 @@ Ren zarfı aldı. Teşekkür etti. Kapıyı kapattı. Kâğıdı camın önüne 
 
 Ertesi gün Kerem'e yazmayı düşündü: "Biri bana Nagasaki'den kâğıt getirdi." Yazmadı. Paylaşmak, işaret çoğaltmaktı. İşaret çoğaldıkça kapı genişlerdi; bunu defterde okumuştu. Kâğıdı yalnız taşıdı. Haftalarca cebinde, sonra çekmecede. Hastane koridorunda Voss "başka çaren yok" dediğinde, o cümle *Do not answer* ile çarpıştı. Ren o gün cevap vermedi. Kâğıt, o anda, işe yaramıştı.
 
-O gece, kâğıdı aldığı gece, rüya görmedi. İyi bir gece sayılırdı.
+O gece, kâğıdı aldığı gece, rüya görmedi. Sabaha karşı bir kez uyandı. Camın önünde durdu. Perdeyi aralamadı. Deniz yoktu, sadece sokak lambası. Yine de o tarafa bakmamak, bir alışkanlık gibi geldi. İyi bir gece sayılırdı.
 
 ---
 
