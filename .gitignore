@@ -27,9 +27,11 @@ tr/sesli_kitap/aiff/
 tr/metin/orijinal.mp3
 tr/metin/orijinal.aiff
 
-# ─── Büyük referans PDF / yerel kaynaklar ───
+# ─── Büyük referans PDF / yerel kaynaklar (GİTE YÜKLENMEZ) ───
 docs/On Writing_ A Memoir of the Craft - Stephen King.pdf
 docs/*.pdf
+docs/On-Writing-Stephen-King.LOCAL.md
+docs/*.LOCAL.md
 
 # ─── İşletim sistemi çöp dosyaları (Windows + macOS) ───
 
