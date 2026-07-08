@@ -70,11 +70,13 @@ Karısının sesiydi. Hideko. Beş yıl önce ölmüştü. Son sözü "Üşüyor
 
 Morita'nın gözleri yandı. Bir an ileri adım atmak istedi. Bir an, kırk yıllık yalnızlığın bütün ağırlığı, bir tek kelimeye — gel — yaslandı. Sonra dedesinin sesi içinde uyandı: Kapı açılırsa bakma.
 
-Morita'nın eli tüfeğe gitti. Kaldırdı. Kapıya ateş etti. Ses sustu. Bir an. Sonra bu kez farklı bir ses geldi.
+Morita'nın eli tüfeğe gitti. Namlunun soğuğu avucuna yapıştı. Kaldırdı. Ateş. Geri tepme omza vurdu. Kurşun taşa sekti. Ses sustu.
 
-Kendi sesiydi. Çocukken. İnce, korkusuz, henüz hiçbir şey kaybetmemiş bir çocuğun sesi. "Korkma," dedi içerisi. "Korkmana gerek yok. Ben seni tanıyorum. Sen de beni tanıyorsun."
+Bir an.
 
-Morita geri çekildi. Bu sesi tanımak, karısının sesini tanımaktan daha kötüydü. Çünkü bu ses, içinden geliyormuş gibiydi. Sanki kapı konuşmuyor, sadece onun en eski, en dipteki sesini geri veriyordu.
+Sonra içeriden kendi çocuk sesi: ince, henüz kayıpsız. "Korkma. Ben seni tanıyorum. Sen de beni tanıyorsun."
+
+Morita geri çekildi. Bu, karısının sesinden daha kötüydü — içeriden geliyordu. Kapı konuşmuyordu; en dipteki sesini geri veriyordu.
 
 Morita'nın aklına dedesinin öğrettiği dua geldi. Sözlerin anlamını bilmiyordu. Sadece ezberlemişti. Dudakları kıpırdadı.
 
@@ -102,17 +104,15 @@ Ve o an, hayatının en uzun anı oldu — gerçekte bir saniyeden kısa, ama i�
 
 Diğeri ise bir histi, gerekçesi olmayan, soyu kadar eski bir his: *hayır.* Neden hayır, bilmiyordu. Dedesi ona sebebini hiç söylememişti. Belki sebep yoktu. Belki tek sebep, o ele uzanmamanın, onun kendi seçimi olabilecek son şey olduğunu, kemiklerinin bir yerinde bilmesiydi.
 
-Morita seçti. Büyük bir karar değildi; kahramanca da değildi. Sadece, teslim olmak yerine, belindeki kısa bıçağı çıkardı. Koştu. Bıçağı elin üzerine sapladı. Bu onu kurtarmayacaktı — bunu biliyordu. Ama bir insanın, yutulmadan önce yapabileceği son şey, en azından *kendi eliyle* bir şey yapmaktı. Boyun eğerek değil, direnerek gitmek. Fark buydu. Küçük, anlamsız, ama onundu.
+Morita seçti. Kahramanlık değil. Belinden kısa bıçağı çekti — sap terli, ağız paslı. Koştu. Bıçağı elin üzerine sapladı. Kemik veya tahta gibi bir direnç; sonra yumuşaklık. Bileği sarsıldı. Kurtarmayacaktı. Biliyordu. Ama yutulmadan önce *kendi eli* bir şey yapmıştı. Küçük. Onundu.
 
-İçeriden acı sesi gelmedi.
+İçeriden acı yok.
 
-Sadece kahkaha.
+Kahkaha. Derin, rahat, neredeyse sevgi dolu.
 
-Derin. Rahat. Neredeyse sevgi dolu. Bir babanın, hata yapan çocuğuna gülmesi gibi.
+"Teşekkür ederim. Kapıyı açtın."
 
-"Teşekkür ederim," dedi içerisi. "Kapıyı açtın."
-
-Morita bıçağı bırakamadı; eli, sapladığı yerde kilitlenmişti. Sonra bir şey — belki bir el, belki sadece o ağır sıcaklık — onu nazikçe kavradı. İtmedi. Çekmedi. Sadece tuttu. Morita direnmedi. Direnecek bir şey yoktu. Korkutan da bu değildi. Korkutan, içinde bir yerin rahatlamasıydı: kırk yıllık nöbet bitmişti, ve bedeni, bilmeden, bunu bir izin gibi karşılıyordu.
+Bıçak sapta kilitli kaldı. Sonra ağır bir sıcaklık bileğini kavradı — itmeden, çekmeden. Morita direnmedi. Korkutan kavrayış değildi. Korkutan, bedeninin bir yerinin rahatlamasıydı: kırk yıllık nöbet bitmişti, ve beden bunu izin sanıyordu.
 
 Morita o gece adadan ayrılmadı. Kıyıya oturdu. Denize baktı. Deniz siyahtı. İçinde yıldızların ters görüntüsü vardı. Gökyüzü bomboştu; yukarıda yıldız yoktu, ama aşağıda, suyun derininde, yıldızlar parlıyordu. Dünya ters dönmüştü, ya da Morita ters dönmüştü. Ayırt edemiyordu.
 

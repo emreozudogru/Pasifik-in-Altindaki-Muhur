@@ -15,3 +15,11 @@ En yeni tur en altta.
 - Skorlar: final=4 action=3 prose=4 dna=true
 - Ideal Reader: imge=çekmece tok ses + musluk + gri çocuk; gerilim=anne mesajı somut; felsefe=zafer=tuzak hâlâ
 - Sonraki: phase 1 bir tur daha mikro cila **veya** phase 2 (05/07/08/14 aksiyon)
+
+### Tur 2 — 2026-07-08 (phase 2)
+- Commit: (bu tur)
+- Dosyalar: 05, 07, 08, 14 + metinler bolum_05/07/08/14
+- P0: edebi aksiyon — beden/tempo; monolog −; DNA korundu
+- Kelime delta: ~−10% aksiyon sahneleri
+- Skorlar: final=4 action=4 prose=4 dna=true
+- Sonraki: phase 2 mikro veya phase 3 (19–21, 24)

@@ -50,21 +50,21 @@ Kardeşe baktı.
 
 Sadece bir kelime fısıldadı.
 
-Kardeş durdu. Eli baltaya gitti. Yüzü değişti. Gözlerinde bir tanıdıklık vardı — sanki yıllardır bildiği bir gerçeği ilk kez duymuş gibi. Korku değildi bu. Daha kötüsüydü. Bir rahatlamaydı. Sanki içinde uzun zamandır bastırdığı bir şey, nihayet izin bulmuştu.
+Kardeş durdu. Eli baltaya gitti. Yüzü açıldı — korku değil, rahatlama. Yıllardır bastırılan bir şey, nihayet izin bulmuş gibi.
 
-Baltayı kaldırdı.
+Baltayı kaldırdı. Gece havası metalin soğuğunu taşıdı.
 
-Astronom uyandığında kardeşinin üzerine gelirken buldu. Anlamadı. Bir an, hâlâ rüyada olduğunu sandı. "Dur," dedi. Ama kardeş durmadı. Gözleri boştu. Ağzından aynı kelime çıkıyordu: "Öldürmeliyim. Öldürmeliyim."
+Astronom uyandığında kardeşi üstündeydi. "Dur—" Baltanın ağzı omzuna değecek kadar yakındı. Kardeş durmadı. Gözleri boştu. "Öldürmeliyim. Öldürmeliyim."
 
-Astronom kardeşini durdurmak için zinciri kendi koluna sardı. Bakır ve gümüş, etine gömüldü. Baltayı tuttu. Avucu yarıldı. Kan aktı, zincirlerin üzerine damladı. Kardeşi hâlâ durmuyordu; kendi kardeşini tanımıyordu artık, yalnızca önündeki engeli görüyordu. Arkada, zincirlerin arasında, En-Nakar gülüyordu.
+Astronom zinciri koluna sardı. Bakır-gümüş ete gömüldü; sıcak bir yırtılma. Baltayı tuttu. Avuç yarıldı. Kan zincire damladı, tısladı. Kardeş baskıyı artırdı — tanımıyordu; engel görüyordu. Arkada, zincirlerin arasında, gülüş.
 
-"Görüyorsun ya," dedi. "Sen de benim gibisin. Hepiniz öylesiniz."
+"Görüyorsun ya," dedi içeriden. "Sen de benim gibisin."
 
-Astronom kardeşini öldürmedi. Bir an, öldürebileceğini hissetti — kendi kanı gözüne akarken, kardeşinin boş gözlerine bakarken, içinde bir şeyin "daha kolay olur" dediğini duydu. İşte o sesi tanıdı. O ses kendisinin değildi. Baltayı çevirdi ve En-Nakar'ın omzuna sapladı. O an, En-Nakar'ın gülümsemesi değişti. İlk kez gerçekten acı çekmiş gibi göründü. Ama sadece bir an. Sonra tekrar güldü.
+Astronom bir an baltayı kardeşine çevirebildi — kan gözüne akarken "daha kolay" fısıltısı. O sesi tanıdı: kendisinin değildi. Baltayı ters çevirdi, omza sapladı. Gülüş bir an kırıldı. Acı. Sonra yine gülüş.
 
-"Bu acı da geçici," dedi. "Sizin acınız kalıcı. Kardeşini bu gece öldürmedin. Ama onu durdurmak için kendi kanını akıttın. Bedel başladı bile. Bir dahaki sefere daha fazlasını isteyecek. Bunu düşün."
+"Bu acı geçici. Sizinki kalıcı. Kardeşini öldürmedin; kendi kanını akıttın. Bedel başladı."
 
-Astronom zincirleri bıraktı. Kardeşi yere düştü. Nefes alıyordu. Ama gözleri hâlâ boştu. Konuşmuyordu. Astronom yanına çöktü, kanlı eliyle kardeşinin yüzüne dokundu, adını söyledi. Onu küçüklüğünden tanıyordu; bu gözlerin ardındaki çocuğu bilirdi. Şimdi orada kimse yoktu. Kardeş yüzüne baktı ama tanımadı. Bir yabancıya bakar gibi baktı. Astronom, kardeşini durdurmuştu ama kurtaramamıştı. İkisi arasındaki fark, o gece onu yaşlandıran şey oldu.
+Zincirler gevşedi. Kardeş yere düştü. Nefes var, bakış yok. Astronom kanlı avucuyla yanağına değdi, adını söyledi. Küçüklükteki çocuk orada değildi. Yabancı bakış. Durdurmuştu; kurtaramamıştı.
 
 O gece kervana eşlik eden yardımcılardan birkaçı daha kendi karanlığında kayboldu — kimi kendi eliyle, kimi birbirine. Sessizlik andını içmemişlerdi; fısıltıya açık tek kapı onlardı. Ama yedi Mühürcü'nün hiçbirine dokunulmadı. En-Nakar yakalandı. Zincirlendi.
 

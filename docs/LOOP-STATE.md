@@ -1,12 +1,12 @@
 # LOOP-STATE
-turn: 1
-phase: 1
+turn: 2
+phase: 2
 phase_turns: 1
-next_chapters: [25, 26, 27]
-last_focus: "final H1–H6: somut iz, Ren imgesi, karanlık bedel bedenleşmesi; 26 didaktik −"
+next_chapters: [5, 7, 8, 14]
+last_focus: "phase 2 edebi aksiyon: 05 gece baltası, 07 fırtına, 08 dil, 14 bıçak — beden+tempo, didaktik −"
 final_grounded: 4
-action_balance: 3
+action_balance: 4
 prose_tight: 4
 dna_ok: true
-last_commit: "loop: t1-p1 - final 25–27 yere bas"
-notes: "phase 1 devam (bir tur daha final cila veya phase 2'ye geç adayı); MP3 host"
+last_commit: "loop: t2-p2 - aksiyon 05/07/08/14 sıkı"
+notes: "phase 2 bir tur daha veya phase 3 modern; MP3 host"
