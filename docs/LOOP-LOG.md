@@ -41,3 +41,8 @@ En yeni tur en altta.
 - P0: dil — En-Nakar açıklama, unutma didaktiği, enfeksiyon vaazı, sessizlik mührü sıkı
 - Skor: final=4 action=4 prose=5 dna=true
 - Sonraki: phase 6 budama veya 7 epub-txt
+
+### Düzeltme — 2026-07-08 (büyütme yönü)
+- Yazar: loop kısaltıyordu; MASTER büyütme zorunlu yapıldı
+- Telafi genişletme: 02, 05, 07, 12, 13, 16 (sahne/doku geri + ek)
+- Sonraki loop turlari: net +kelime zorunlu

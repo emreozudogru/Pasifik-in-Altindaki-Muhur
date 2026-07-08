@@ -6,11 +6,11 @@ Onu ilk görenler Sümerli değildi. Sümerliler sadece onun adını kil tabletl
 
 Mısırlılar ona **Kha-Sedjem** dediler. Adı, kabaca, “işiten yüz” demekti — çünkü onunla konuşan, kendi içindeki sesin dışarıdan da duyulduğunu sanırdı. Persler **Druj’un Bedeni** diye andı; yalanın eti, yalanın yürüyen hâli. Hint metinlerinde doğrudan adı geçmedi; yalnızca “konuşan açlık” diye tarif edildi — doymayan, ama hiç bağırmayan bir açlık. Çin kayıtlarında ise adı yoktu. Sadece bir uyarı vardı: “Ona isim vermeyin. İsim, kapıdır.”
 
-Beş dil, beş isim — hepsi bakanı tarif ediyordu, bakılanı değil. İşitme korkusu, yalan korkusu, açlık. Belki gerçek adı: her insanın kendi korkusuna verdiği ad.
+Beş ayrı dil, beş ayrı isim. Ama hepsinin altında aynı şey yatıyordu. Hiçbiri onu tarif etmiyordu aslında. Hepsi, ona bakan halkı tarif ediyordu. Mısırlı işitmekten korkuyordu, o yüzden ona “işiten” dedi. Pers yalandan korkuyordu, o yüzden ona “yalanın bedeni” dedi. Hintli kendi doymak bilmez arzusundan korkuyordu, o yüzden ona “açlık” dedi. İsimler onu değil, korkanı gösteriyordu. Belki de onun gerçek adı buydu: her insanın kendi korkusuna verdiği ad.
 
-Ne olduğu bilinmedi. Eski varlık, tufan kalıntısı, beden değiştiren fikir — iddialar. Görenlerin anlattığı benzerdi.
+Onun gerçekten ne olduğu hiçbir zaman kesin bilinmedi. Bazıları onu çok eski bir varlık sanıyordu. Bazıları, tufandan önce yaşamış ve insanlığın unuttuğu başka bir türün son kalıntısı olduğunu söylüyordu. Bazıları ise onun bir kişi değil, bir fikir olduğunu; beden değiştirerek çağlar boyunca hayatta kaldığını iddia ediyordu. Ama onu görenlerin anlattıkları birbirine benzerdi.
 
-Uzun boylu değildi. Kanat, boynuz yok. Sıradan insan. Yanında kalanların aklı değişirdi. Kral danışman yaparsa kardeşini öldürürdü. Komutan bir gece konuşursa ordusunu çöle sürerdi. Rahip sesini duyarsa tanrısını düşman sanırdı.
+Uzun boylu değildi. Dev gibi de değildi. Kanatları, boynuzları, pençeleri yoktu. İlk bakışta sıradan bir insana benziyordu. Fakat yanında uzun süre kalanların aklı değişirdi. Bir kral onu danışman yaparsa kardeşini öldürürdü. Bir komutan onunla bir gece konuşursa ordusunu çöle sürerdi. Bir rahip onun sesini duyarsa kendi tanrısının düşman olduğuna inanırdı. Bazen bir köylü, bir tek bakıştan sonra, komşusunun kuyusunu zehirlerdi — ve bunu "haklı" bulurdu.
 
 İşte o krallardan biri.
 
@@ -32,11 +32,11 @@ Ağabeyini bir av sırasında öldürttü. Kendi eliyle değil — bir okçunun 
 
 Kral, ölene kadar, bunun doğru karar olduğuna inandı. Tek bir geceyi hariç tutarak — her yıl, ağabeyini öldürdüğü gecede, uykusunda griye yakın gözlerle uyanırdı. Ama sabah olunca yine emin olurdu. Doğru olduğundan emin olmak, en derin tutsaklıktı. Kayıtlara “bilge bir hükümdar” diye geçti. Ağabeyin adı silindi. Yabancının adı zaten hiç yazılmamıştı.
 
-Büyülemezdi. İçlerindekini gösterirdi: korku, kıskançlık, açlık, iktidar. Fısıldardı: “Bunlar sen değilsin sanıyorsun. Ama sensin.”
+O insanları büyülemezdi. Daha kötüsünü yapardı. Onlara, zaten içlerinde var olan şeyi gösterirdi: Korkuyu. Kıskançlığı. Açlığı. Ölümsüzlük arzusunu. İktidar hırsını. Ve sonra fısıldardı: “Bunlar sen değilsin sanıyorsun. Ama sensin.”
 
-Ayna — ama en karanlık köşeyi dışarıdan doğrulayan ayna. Yalan yok; söylenmemesi gereken doğru. Tarih “delilik”, “ihanet” yazar. Fısıltıyı yazmaz.
+En-Nakar’ın gücü buydu. O, ayna gibiydi. Ama aynaların aksine, insana en karanlık köşesini gösterir ve “Bak, bu sensin,” derdi. Ve insan, o andan itibaren kendi karanlığını inkâr edemezdi. Çünkü artık dışarıdan bir ses onu doğrulamıştı. Aynanın gösterdiğini yok sayabilirsin. Ama bir başkası da aynı şeyi gördüğünü söylerse, artık yok sayamazsın. En-Nakar yalan söylemezdi; onun korkunçluğu da buydu. Söyledikleri makuldü. Mantıklıydı. Çoğu zaman doğruydu. Sadece, söylenmemesi gereken doğrulardı. Tarih kitaplarında bu etkiyi “deli”lik, “ihanet”, “kötü yönetim” diye kaydederler. Kimse o fısıltının varlığını yazmadı. Çünkü yazanlar genellikle fısıltının etkisi altındaydı.
 
-İlk direniş sessizlikle başladı.
+İlk gerçek direniş sessizlikle başladı. Kılıçla, orduyla, tanrı buyruğuyla değil. Sessizlikle.
 
 Eirene, o kervansaraya vardığında hâlâ köydeki cesetlerin kokusunu taşıyordu. Parmakları cebindeki taşı sıkıyordu. Karşılaştığı ilk kişi, o köyden sağ çıkan kâtipti — tahtı ele geçiren, sonra her şeyini kaybeden adam. Şimdi bir kervansarayda, titreyerek oturuyordu. "O sadece doğruyu söyledi," diyordu kendi kendine. "Biz de zaten biliyorduk."
 

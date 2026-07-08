@@ -1,12 +1,16 @@
 # LOOP-STATE
-turn: 5
-phase: 5
+turn: 6
+phase: 1
 phase_turns: 1
-next_chapters: [1, 2, 12, 13, 16]
-last_focus: "phase 5 dil: 01/02/12/13/16 vaaz ve tekrar −; epik ritim korundu"
+next_chapters: [25, 26, 27, 8, 10]
+last_focus: "BÜYÜTME düzeltmesi: 02/05/07/12/13/16 açıldı (+~1.2k kelime); MASTER kısaltma yasağı"
 final_grounded: 4
 action_balance: 4
-prose_tight: 5
+prose_richness: 4
+length_ok: true
+words_before: 24309
+words_after: 25548
+delta: 1239
 dna_ok: true
-last_commit: "loop t5-p5"
-notes: "phase 6 budama veya 7 EPUB; MP3 host"
+last_commit: "pending"
+notes: "Sonraki turlar: net +kelime. Hâlâ ~27k hedefin altında — devam et büyüt."

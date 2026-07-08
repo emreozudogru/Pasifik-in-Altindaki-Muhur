@@ -4,19 +4,19 @@
 
 Mühürcülerin son emri basitti: "Bu yer korunacak ama bilinmeyecek." Kuroshima'daki yerel halk adadan uzak tutuldu. Adaya dair hikayeler yayıldı. Orada ölülerin yaşadığı söylendi. Gece denizden insan sesi geldiği söylendi. Adanın taşlarına basanın çocuğunun doğmayacağı söylendi.
 
-Yöntemdi: görünmez kılmak. Duvar dikkat çeker; unutulmuş korku, sorgulanmadan taşınır. Sessizlikten duvar — taştan uzun.
+Mühürcüler bunu bir hata olarak değil, bir yöntem olarak kurmuşlardı. Çünkü bir şeyi korumanın en güvenli yolu, onu görünmez kılmaktır. Bir duvar dikkat çeker. Bir tabela davet eder. Ama anlamı unutulmuş bir korku — kimsenin nedenini bilmediği bir çekinme — nesilden nesile, hiç sorgulanmadan taşınır. Onlar adanın etrafına taştan değil, sessizlikten bir duvar ördüler. Ve sessizlik, taştan daha uzun dayanır.
 
-**Kıyı Bekçileri** — balıkçı, taşçı, avcı, keşiş. Birkaçı parmak izi, kül, kurşun fısıldardı. Anlamı bilmiyordu. Zaman bilineni eritir.
+Her nesilde sadece birkaç kişi gerçeğin küçük bir parçasını öğrendi. Onlara **Kıyı Bekçileri** dendi. Ne krallardı ne rahip. Balıkçı, taşçı, avcı, keşiş. Görevleri adaya kimseyi yaklaştırmamaktı. Bazıları adanın taşlarında beş parmak izi olduğunu, bazıları kapının önünde kül ve kurşun halkalar bulunduğunu fısıldardı. Ama kimse bu izlerin ne anlama geldiğini bilmiyordu. Ama zaman insanın en büyük düşmanıdır.
 
-İlk kuşak biliyordu. İkinci: bir şey var. Üçüncü: bir kural. Dördüncü: neden yok, uygulama var. Anlam → hikâye → hurafe → huy. "Oraya gidilmez" — nedeni unutulmuş, daha katı.
+İlk bekçiler bir şey biliyordu. İkinci kuşak bir şeyin olduğunu biliyordu. Üçüncü kuşak sadece bir kuralın olduğunu biliyordu. Dördüncü kuşak kuralın neden olduğunu unuttu, ama uygulamaya devam etti. Bilgi böyle eriyordu — bir buz parçası gibi, kenarlarından, sessizce, fark edilmeden. Geriye anlam değil, alışkanlık kalıyordu. Gerçeğin yerini önce hikâye, sonra hurafe, en sonunda da sebebi sorulmayan bir huy alıyordu. Bir bekçi torununa "oraya gidilmez" derken, neden gidilmediğini artık kendisi de bilmiyordu. Ama bilmemek, onu daha az ciddi yapmıyordu. Belki de daha çok.
 
-Kurallar bölündü, ninni oldu, yemin oldu. "Ses gelirse cevap verme" → "pencereyi açma" → sebepsiz alışkanlık. Kabuk sertleşti; içi boşaldı.
+Kurallar da değişti. Başta dört taneydiler — net, sert, gerekçeli. Sonra biri unutuldu. Bir başkası iki ayrı kurala bölündü. Bir tanesi bir ninniye karıştı, bir tanesi bir yemin oldu, bir tanesi bir korkuluğun ağzından söylenen tehdide dönüştü. Bir kuşak "ses gelirse cevap verme" dedi. Sonraki kuşak bunu "geceleri pencereyi açma" diye anladı. Üçüncüsü neden pencereyi açmadığını bile bilmeden, çocuklarına aynı şeyi öğretti. Anlam buharlaştıkça, kabuk sertleşiyordu. İçi boşalan bir kuralın dışı, bazen daha da katı olur — çünkü onu ayakta tutan tek şey, artık tekrarın kendisidir.
 
-İhanet değildi. Görev refleks oldu. Düşünülen unutulur; kana işleyen tedirginlik unutulmaz — adı kaybolur.
+Hiçbiri ihanet değildi. Hiçbiri tembellik de. İnsan, taşımaya devam ettiği bir yükün ağırlığını bir süre sonra hissetmez olur. Yük orada durur, omuzlara oturur, vücudun bir parçası olur. Bekçiler de öyleydi. Kuroshima'yı korumuyorlardı artık; korumamayı beceremiyorlardı yalnızca. Görev, bir seçimden bir refleks olmuştu. Ve tam da bu yüzden hiç kırılmadı: çünkü düşünülen bir söz unutulabilir, ama kana işleyen bir tedirginlik unutulmaz. Sadece adı kaybolur.
 
-Kandan kana: el, kıyı tedirginliği, unutulmuş dua. Aileler dağıldı, adlar değişti. İçte bir uyanıklık kaldı. Eirene "tanıma" demişti; kelime gitti, yük kaldı. Bir gün bu kandan biri kapıya gelecekti — niyetini bilmeden.
+Bekçilik kandan kana geçti. Baba oğula, anne kıza, dede toruna. Çoğu zaman bir görev gibi değil, bir huy gibi aktarıldı: kıyıya fazla yaklaşan çocuğu geri çağıran bir el, denizin belli bir köşesine dönük bir tedirginlik, sebebi unutulmuş bir dua. Bu ailelerin bazıları yüzyıllar içinde dağıldı, başka ülkelere göçtü, adlarını değiştirdi. Ama içlerinde bir şey kaldı — beslenmeyince küçülen, ama hiç ölmeyen bir uyanıklık. Eirene buna "tanıma" demişti. Onlar artık o kelimeyi bilmiyordu. Yine de taşıyorlardı. Ve bir gün, çok uzakta, bu kandan biri yine bu adanın kapısına gelecekti — ama hangi niyetle geldiğini kendisi bile bilmeden.
 
-Eirene öngörmüştü: korku tedavi edilmez, tanınır — her nesilde yeniden. Bedel istedi; Lu Shen "kan" yazdı. Kan aktı. "Tanıma" sustu.
+Eirene, taşa parmağını bastırırken bunu öngörmüştü. Korku tedavi edilemezdi; sadece tanınabilirdi. Ve tanımak, nesilden nesile öğretilebilecek bir bilgi değildi — her insanın kendi içinde, her seferinde yeniden bulması gereken bir andı. İşte bu yüzden mührü kana değil, bedele bağlamak istemişti. Çünkü kan miras kalır; bedel kalmaz. Bedel her nesil yeniden sorulur. Ama Lu Shen "kan" yazmıştı, çünkü somut olan kalıcıdır. Ve gerçekten de kalıcı oldu: yüzyıllar boyunca kan aktı, isimden isime, yüzden yüze. Yalnızca "tanıma" kelimesi aktarılamadı. O, ilk kuşakla birlikte susmuştu.
 
 İlk yüzyılda görev kutsaldı. İkinci yüzyılda gelenek oldu. Üçüncü yüzyılda söylenceye dönüştü. Beşinci yüzyılda kimse nedenini bilmiyordu.
 

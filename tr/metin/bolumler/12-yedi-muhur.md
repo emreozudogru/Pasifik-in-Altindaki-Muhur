@@ -114,13 +114,19 @@ Ama derin.
 
 Çok derin.
 
-Eirene biliyordu: sandıktan, göğüsten — içeriden. Beslenmek isterdi.
+Eirene biliyordu bu sesi. Yolculukta duymuştu, sandığın içinden; her insanın kendi göğsünden geliyormuş gibi gelen ses. Dışarıdan değil, içeriden gelirdi her zaman. Beslenmek isterdi. O an, parmakları cebindeki taşa değdi — soğuk, tanıdık — ve ses, sanki taşa da uzandı.
 
-Kimse tepki vermedi. Tepki = duymak = kabul.
+Kimse tepki vermedi. Çünkü tepki vermek, duymak demekti. Duymak, kabul etmek demekti.
 
-Mısırlı başını eğdi. Pers gümüşe değmedi. Tüccar nefesi saymadı.
+Mısırlı astronom başını eğdi, yıldızlardan medet umar gibi; ama gökyüzü buradaydı yine, bu enlemlerde bile, ona yabancıydı. Pers rahibi ellerini gümüşe değdirmedi. Arabistanlı tüccar nefesini bile saymadı. Anadolu'lu usta, kanayan parmaklarını yumdu.
 
-Ses büyümedi. Öfke, çığlık, suçlama yok. Sessizlik kırılmadı. Mühür tuttu.
+Ses büyümedi.
+
+Kimse ona bir öfke, bir çığlık, bir suçlama uzatmadığı için. Ses, beslenecek bir şey bulamadı. Rüzgâr vardı. Deniz vardı. Ve o alçak nefes, bir süre sonra, kendi kendine inceldi.
+
+Sessizlik kırılmadı.
+
+Mühür tuttu.
 
 ---
 
