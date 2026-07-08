@@ -74,6 +74,8 @@ Yine cevap yok. Yalnızca Ren'in nefesi, bir, iki, on.
 
 Voss başını eğdi. "İnat, bazen dindarlıktan beterdir." Gitti. Ayak sesleri koridorda inceldi, bitti.
 
+Ren yerinde kaldı. Elleri titriyordu. Cebinde telefon vardı; annesinin odasına girip "tamam" demek bir saniye sürerdi. Sürmedi. Bekleme salonundaki plastik sandalye soğuktu. Televizyonda sessiz bir haber akıyordu. Ren ekrana bakmadı. Bakmamak da, o gece, bir tür cevap vermemekti.
+
 Ren o gece hastaneden ayrılmadı. Bekleme salonunda oturdu. Sabaha karşı annesi uyandı. Hemşire Ren'i çağırdı. Annesi gözlerini açtı, Ren'i gördü, gülümsedi. "Yorulmuşsun," dedi. Sesi kısıktı. "Git biraz dinlen."
 
 Ren elini tuttu. "Geliyorum," dedi.
