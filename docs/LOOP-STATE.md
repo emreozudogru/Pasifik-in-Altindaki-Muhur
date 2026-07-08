@@ -13,4 +13,4 @@ words_after: 27437
 delta: 0
 dna_ok: true
 last_commit: "restore pending"
-notes: "Kısaltma turlari geri alindi. MASTER buyutme kuralli. Sonraki loop: sadece UZAT."
+notes: "Formül: +%10 uzatma (dokunulan bölümler). −10% kısaltma YOK. Sonraki loop: sadece UZAT."
