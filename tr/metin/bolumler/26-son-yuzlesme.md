@@ -67,7 +67,9 @@ Hiç kimse bütün gerçeği bilmemeli. Bilgi parçalanmalı, dağıtılmalı, i
 Ne kadar ödeyeceğini bilmeden mührü vurma. Bir şeyi bilmenin, bir şeyi görmenin, bir şeyi taşımanın bir bedeli vardır. Antik Mühürcüler bunu kanla ödedi. Modern insan ilişkileriyle, kariyerle, aidiyetle, huzurla öder. Bedeli geç ödemek, mührü geç vurmak demektir. Ve geç vurulan mühür tutmaz.
 
 **Beş: Besleme.**
-En zor kural. En-Nakar'ın en sevdiği şey dikkattir. Onun hakkında konuşmak, onu düşünmek, ona isim vermek, ondan nefret etmek — hepsi birer besindir. Sekizinci mühür, bazen görmezden gelmeyi bilmektir. Karanlığı tanımak ama ona tapmamak. Onu görmek ama ona dönüşmemek.
+En zor kural. En-Nakar'ın en sevdiği şey dikkattir. Onun hakkında konuşmak, onu düşünmek, ona isim vermek, ondan nefret etmek: hepsi birer besindir. Sekizinci mühür, bazen görmezden gelmeyi bilmektir. Karanlığı tanımak ama ona tapmamak. Onu görmek ama ona dönüşmemek.
+
+Beş kuralı yazdıktan sonra Ren bir süre oturdu. Kalemi hâlâ elindeydi. Altıncı bir satır aklına geldi; listeye koymadı. Kendi defterinin iç kapağına, küçük harfle, İngilizce yazdı: *Do not answer.* Sonra Türkçesini: *Cevap verme.* Hastane koridorunda, Voss'un "başka çaren yok"u karşısında ağzını kapatan şey buydu. Daha eskiydi. Ohio'da bir çekmecede saklanmış bir kâğıttan, bir torunun elinden, bir gün kendisine gelecek bir cümleden. Henüz o kâğıdı almamıştı. Yine de cümle, listeden önce gelmişti. Defteri kapattı. Altıncı satır, beş kuralın gölgesi olarak kaldı: dağıtılmayan, isimsiz, kişisel.
 
 ---
 

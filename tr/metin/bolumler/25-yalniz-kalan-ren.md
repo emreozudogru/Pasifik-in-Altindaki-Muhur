@@ -62,9 +62,19 @@ Ve bir an — Ren bunu sonradan en çok kendine itiraf etmekten korktuğu an ola
 
 "Seçim senin," dedi Voss. "Bedel her nesil sorar. Ya seninki, ya onunki." Bir an durdu. Sesi hâlâ yumuşaktı. "Başka çaren yok."
 
-Ren bu üç kelimeyi tanıdı. Antik metinlerde okumuştu, Arakawa'nın notlarında altı çizilmişti: onun en eski, en sevdiği yalan. Bir kapıyı tek kapı gibi göstermek. İki seçeneği sunup üçüncüyü saklamak. Voss "ya seninki, ya onunki" diyordu — iki kapı. Ama her zaman görünmeyen bir üçüncü kapı vardı. Ren onu henüz göremiyordu. Ama olduğunu biliyordu, çünkü Voss onu fazla ısrarla saklıyordu.
+Ren bu üç kelimeyi tanıdı. Antik metinlerde okumuştu, Arakawa'nın notlarında altı çizilmişti: onun en eski, en sevdiği yalan. Bir kapıyı tek kapı gibi göstermek. İki seçeneği sunup üçüncüyü saklamak. Voss "ya seninki, ya onunki" diyordu. İki kapı. Ama her zaman görünmeyen bir üçüncü kapı vardı. Ren onu henüz göremiyordu. Ama olduğunu biliyordu, çünkü Voss onu fazla ısrarla saklıyordu.
 
-Ren cevap vermedi. O gece hastaneden ayrılmadı. Bekleme salonunda oturdu. Sabaha karşı annesi uyandı. Hemşire Ren'i çağırdı. Annesi gözlerini açtı, Ren'i gördü, gülümsedi. "Yorulmuşsun," dedi. Sesi kısıktı. "Git biraz dinlen."
+Ağzı açıldı. Bir cümle hazırdı: "Anlaştık." Makul, temiz, anne kokulu. Sonra, bilmediği bir yerden, başka bir cümle geldi. İngilizce, eski bir kâğıttan, Ohio'da bir çekmecede saklanmış, yıllar sonra bir torunun elinden kendisine uzatılacakmış gibi. Cümle şuydu: Cevap verme.
+
+Ren o kâğıdı henüz görmemişti. Görecekti. Ama cümle, soyun taşıdığı ninniler gibi, önce ses olarak geldi. Voss bekliyordu. Koridorun floresanı vızıldıyordu. Ren cevap vermedi. Dudaklarını kapattı. Voss'un gülümsemesi bir milim inceldi; beklemenin sabrı, ilk kez, sabırsızlığa çarpmış gibiydi.
+
+"Düşün," dedi Voss. "Ben giderim. Sen kalırsın. O yaşar."
+
+Yine cevap yok. Yalnızca Ren'in nefesi, bir, iki, on.
+
+Voss başını eğdi. "İnat, bazen dindarlıktan beterdir." Gitti. Ayak sesleri koridorda inceldi, bitti.
+
+Ren o gece hastaneden ayrılmadı. Bekleme salonunda oturdu. Sabaha karşı annesi uyandı. Hemşire Ren'i çağırdı. Annesi gözlerini açtı, Ren'i gördü, gülümsedi. "Yorulmuşsun," dedi. Sesi kısıktı. "Git biraz dinlen."
 
 Ren elini tuttu. "Geliyorum," dedi.
 
@@ -92,7 +102,7 @@ Koridorun ucunda Voss yoktu. Her şeyi ayarlamıştı. Annesi o hafta taburcu ed
 
 ---
 
-Ayrılmadan önce, hastane formundaki bir satıra takıldı gözü. Annesinin doğum yeri: Kagoshima. Bunu hep biliyordu ama hiç düşünmemişti. Annesinin ailesi balıkçıydı; deniz kenarında, adı artık anılmayan bir köyden. Çocukken anneannesi ona deniz hakkında bir şey söylerdi — bir kıyıya asla yaklaşma, demişti, sebebini söylemeden. Ren bunu yaşlı bir kadının batıl korkusu sanmıştı.
+Ayrılmadan önce, hastane formundaki bir satıra takıldı gözü. Annesinin doğum yeri: Kagoshima. Bunu hep biliyordu ama hiç düşünmemişti. Annesinin ailesi balıkçıydı; deniz kenarında, adı artık anılmayan bir köyden. Çocukken anneannesi ona deniz hakkında bir şey söylerdi. Bir kıyıya asla yaklaşma, demişti, sebebini söylemeden. Bir de: Gece pencereyi o tarafa açma. Ren bunu yaşlı bir kadının batıl korkusu sanmıştı. Şimdi, hastane formundaki Kagoshima satırının yanında, o iki cümle aynı tona oturdu. Pencere. Kıyı. Cevap verme. Aynı zincirin farklı halkaları.
 
 Şimdi Voss'un sorusu kulağında çınlıyordu. *Arakawa'nın sandığı neden Kagoshima'dan çıktı?* Sandığı gönderen aile. Annesinin köyü. Kendi soyadı. Ren bağlantıyı kurdu ve mide bulantısı gibi bir şey hissetti. Hocası onu öğrenci olarak seçmemişti belki. Belki de o, daha doğmadan seçilmişti. İki bin yıl önce, bir taşa basılan bir parmakla.
 

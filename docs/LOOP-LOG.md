@@ -57,3 +57,12 @@ En yeni tur en altta.
 - Plan: 4 kapalı vignette
 - Delta: +610 (hedef ≥400)
 - Süre: ~60s duvar saati (bu ortam, context hazır)
+
+### Tur 2 — 2026-07-08 (phase 6)
+- Butun-roman: open_threads dans oncelikli (13->14, 15->25/26)
+- Plan: Morita pencere+sari kagit; Ren Cevap verme; defter altinci satir
+- Dosyalar: 14, 25, 26 + TTS
+- words: 28047 -> 28443 (delta 396, target 400)
+- open_threads: kesish dancing, warren dancing, irc closed
+- DNA ok; yeni metinde em dash yok (bilincli)
+- Sonraki: warren torun kagit tam bag veya yeni sahne

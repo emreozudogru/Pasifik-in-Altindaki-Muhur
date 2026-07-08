@@ -1,35 +1,35 @@
 # LOOP-STATE
-turn: 1
+turn: 2
 phase: 6
-phase_turns: 1
-next_chapters: [13, 14, 25, 26]
-last_focus: "Hazir: tohum-dans-bag + yeni sahne + tire yasak + %10 uzat"
-final_grounded: 3
+phase_turns: 2
+next_chapters: [14, 25, 26]
+last_focus: "Dans/bag: kesish pencere->Morita; warren Cevap verme->Ren hastane; defter altinci satir"
+final_grounded: 4
 action_balance: 3
 prose_richness: 4
 length_ok: true
 words_before: 28047
-words_after: 28047
-delta: 0
-target_delta: 0
+words_after: 28443
+delta: 396
+target_delta: 400
 chapter_count: 27
 new_chapters: []
 dna_ok: true
-last_commit: "c4c767d"
+last_commit: pending
 open_threads:
   - id: kesish-pencere-15yy
     planted: "13"
-    status: open
-    payoff_target: "14 Morita ve/veya 25-27 Ren"
-    hook: "yalan abis sesi, pencere ortmek, denize bakmama"
+    status: dancing
+    payoff_target: "14 pano pencere (dans); 25 anneanne pencere; ileride tam bag"
+    hook: "pencere ortmek, denize bakmama, yalan ses"
   - id: warren-cevap-verme
     planted: "15"
-    status: open
-    payoff_target: "25-27 Ren kagit / sessizlik"
-    hook: "Cevap verme; sivrisinek yalani; torun kagidi"
+    status: dancing
+    payoff_target: "25 hastane Cevap verme; 26 defter Do not answer; torun kagit henuz gelmedi"
+    hook: "Cevap verme / Do not answer"
   - id: irc-nefes-sil
     planted: "16"
     status: closed
-    payoff_target: "16 tek vurus; motif 26 yavasla"
-    hook: "bot yasak, kendi cumlesini silmeden once nefes"
-notes: "Loop baslatmaya hazir. Onceki kisaltma joblarini iptal et. Interval 5m."
+    payoff_target: "16"
+    hook: "nefes, sil"
+notes: "Tur 2: open threads dans etti. Sonraki: torun kagit bag veya yeni ara cag sahne."
