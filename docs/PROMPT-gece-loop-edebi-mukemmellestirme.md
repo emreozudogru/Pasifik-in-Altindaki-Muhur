@@ -52,27 +52,36 @@ Kısmi dosya okumadan **önce**:
 ## 2. NE TÜR UZATMA İYİ / KÖTÜ
 
 ### ✅ İYİ (tercih sırası)
-1. **Yeni kapalı alt-hikâye** (başı + ortası + sonu; asılı uç yok)  
-2. **Ara dönem** (MÖ 217 sonrası ↔ 1945 ↔ 1999–2026 arası): Kıyı Bekçisi anısı, enfeksiyon vignette, unutma zinciri, gemi/yol kaybı  
-3. **Var olan sahneyi açmak:** beden, duyu, diyalog vuruşu, tereddüt — özet cümleyi yaşanan ana çevir  
-4. **Yeni bölüm dosyası** (gerekirse): numaralandırma + isim; 4 kısım mimarisine oturt; STATE’e kaydet  
-5. **Anı / mektup / defter parçası / rüya** — motif taşıyan, **kapanışlı**  
-6. **Tasarım notu değil metin:** spekülasyonu `docs/`e değil, **romanın içine** sahne olarak yaz (docs’a ancak yeni bölüm haritası gerekirse)
+1. **Yeni sahne** (mevcut bölüm içine: mekân, beden, diyalog, sonuç; tam sahne)  
+2. **Yeni kapalı alt-hikâye** (başı + ortası + sonu; asılı uç yok)  
+3. **Ara dönem** (antik ile 1945 ile modern arası): bekçi anısı, enfeksiyon, unutma, yol kaybı  
+4. **Var olan sahneyi açmak:** beden, duyu, diyalog, tereddüt (özeti yaşanan ana çevir)  
+5. **Yeni bölüm dosyası** (gerekirse): `28-…` vb.; 4 kısım mimarisine oturt; STATE’e kaydet  
+6. **Anı / mektup / defter / rüya:** motifli ve **kapanışlı**  
+7. Metni `docs/`e değil **romana** yaz  
 
 ### ❌ KÖTÜ (yapma)
 - Aynı cümleyi dolandırma, eşanlamlı yağmuru  
 - “Çok önemliydi / aslında / bir bakıma” dolgusu  
-- Açık uçlu mini hikâye (okur “sonra?” diye kalmasın)  
+- Açık uçlu mini hikâye  
 - DNA’ya aykırı: romance, Voss yenilgisi, kahraman Ren, Hollywood chase  
-- Saf didaktik manifesto (ders anlatma; sahnede göster)  
-- Sadece “%10 şişir” diye kelime sayacı avı  
+- Saf didaktik manifesto  
+- Sadece “%10 şişir” kelime avı  
+- **Uzun tire / em dash `—` ve `–`:** AI kokusu; klasik romanda neredeyse yok. **Yeni metinde kullanma.**  
+
+### Noktalama (Türkçe roman sesi)
+- Nokta, virgül, noktalı virgül, soru, tırnak  
+- Ara söz: virgül veya **ayrı cümle** (tire yığını yok)  
+- Diyalog: tırnak; `dedi` sade  
+- **Yeni yazdığın her pasajda `—` / `–` yasak**  
+- Eski metindeki tireleri bu turda zorla silme zorunluluğu yok; dokunduğun dosyada istersen virgül/noktaya çevir (net +kelime bozulmasın)
 
 ### Kapalı hikâyecik kuralı (zorunlu)
-Her yeni anı/vignette/alt-hikâye:
+Her yeni anı/vignette/alt-hikâye/sahne:
 - **Giriş:** kim, nerede, ne arıyor / ne görüyor  
 - **Düğüm:** küçük çatışma veya seçim (iç veya dış)  
-- **Kapanış:** sonuç, bedel, unutuş, iz — **açıkta bırakma**  
-- Ana arka ile **en az bir bağ:** motif, nesne (parmak/kurşun/kül), kural, coğrafya, soy  
+- **Kapanış:** sonuç, bedel, unutuş, iz. **Açıkta bırakma.**  
+- Ana arka ile **en az bir bağ:** motif, nesne (parmak, kurşun, kül), kural, coğrafya, soy
 
 ---
 
