@@ -8,5 +8,5 @@ final_grounded: 4
 action_balance: 4
 prose_tight: 4
 dna_ok: true
-last_commit: "loop: t2-p2 - aksiyon 05/07/08/14 sıkı"
+last_commit: "cba45b0 + e494429 (TTS)"
 notes: "phase 2 bir tur daha veya phase 3 modern; MP3 host"
