@@ -29,3 +29,9 @@ En yeni tur en altta.
 - P0: modern motor — Voss diyalog sıkı, didaktik −, top yuvarlanır
 - Skor: final=4 action=4 prose=4 dna=true
 - Sonraki: phase 4 (17,18,22,23) veya 3 mikro
+
+### Tur 4 — 2026-07-08 (phase 4)
+- Dosyalar: 17, 18, 22, 23 + TTS
+- P0: karakter — tip→insan, iç çatışma; didaktik −
+- Skor: final=4 action=4 prose=4 dna=true
+- Sonraki: phase 5 dil veya 6 budama
