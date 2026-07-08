@@ -35,3 +35,9 @@ En yeni tur en altta.
 - P0: karakter — tip→insan, iç çatışma; didaktik −
 - Skor: final=4 action=4 prose=4 dna=true
 - Sonraki: phase 5 dil veya 6 budama
+
+### Tur 5 — 2026-07-08 (phase 5)
+- Dosyalar: 01, 02, 12, 13, 16 + TTS
+- P0: dil — En-Nakar açıklama, unutma didaktiği, enfeksiyon vaazı, sessizlik mührü sıkı
+- Skor: final=4 action=4 prose=5 dna=true
+- Sonraki: phase 6 budama veya 7 epub-txt

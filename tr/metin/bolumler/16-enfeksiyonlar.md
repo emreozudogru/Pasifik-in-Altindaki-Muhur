@@ -2,11 +2,9 @@
 
 🌑 **Pasifik’in Altındaki Mühür**
 
-En-Nakar özgür kaldığında dünyaya hemen saldırmadı. Çünkü artık dünya değişmişti. Antik çağda bir kralı bozmak yeterliydi. Bir imparatorun kulağına fısıldamak, binlerce insanın ölümüne sebep olurdu. Ama modern dünya farklıydı. Krallar azalmıştı. Devletler karmaşıklaşmıştı. Bilgi hızlanmıştı.
+Özgür kalınca hemen saldırmadı. Dünya değişmişti: kral yetmez, devlet karmaşık, bilgi hızlı. Öğrenmesi gerekiyordu. Saklandı.
 
-En-Nakar bunu anladı. Artık bir kişiyi ele geçirmek yetmezdi. İnsanlığın çalışma biçimini öğrenmesi gerekiyordu. Ve saklandı.
-
-Nagasaki'deki sahra hastanesinden — yüzü olmayan adamın dünyaya karıştığı o yerden — sonra, iz çoğaldı. Artık tek bir bedende değil, tek bir yerde de değildi. Savaştan yeni çıkmış, kırılgan ve açık bir dünyaya adım atmıştı; ve bir yüzü vardı: herkesin yüzü. Onu izleyenler, sonraki on yıllar boyunca, aynı imzayı farklı kıtalarda gördü.
+Nagasaki'den sonra iz çoğaldı. Tek beden, tek yer yok. Yüz: herkesin yüzü. On yıllar, kıtalar — aynı imza.
 
 1951’de Kore Savaşı sırasında bir tercümanın notlarında benzer biri geçti. Taraf değiştiren esirler, cephede kimsenin tanımadığı sakin bir adamın, “Evine dönmek istiyorsan, şu çavuşu öldür” dediğini anlattı. Adamın sesi yumuşaktı. Hiç bağırmıyordu.
 
@@ -14,7 +12,7 @@ Nagasaki'deki sahra hastanesinden — yüzü olmayan adamın dünyaya karıştı
 
 1963’te Dallas’ta görüldüğüne dair zayıf bir not vardı. 1968’de Paris’te öğrenciler arasında dolaştığı söylendi. 1975’te Kamboçya sınırında adı bilinmeyen bir danışmanın, bir yerel milise “insanın temizlenebilir bir fikir olduğunu” anlattığı yazıldı.
 
-Bunların hiçbiri kanıtlanamadı. Çünkü En-Nakar artık antik çağdaki gibi görünmüyordu. Beden değiştirmiyordu belki. Ama kimlik değiştiriyordu. Pasaportlar alıyor, diller öğreniyor, arşivlere giriyor, hastanelerde çalışıyor, yardım kuruluşlarına katılıyor, üniversite derslerine oturuyor, savaş bölgelerinde tercümanlık yapıyor, istihbarat örgütlerinin kenarında dolaşıyordu. İnsanlığı izliyordu. Öğreniyordu. Ve en önemlisi, acele etmiyordu. Çünkü iki bin yıl hapis yatan bir şey için yüz yıl kısa bir sabırdı.
+Kanıt yok. Kimlik değişiyordu: pasaport, dil, arşiv, hastane, tercüman, kenar. İzliyor, öğreniyor, acele etmiyordu. İki bin yıl için yüz yıl kısa.
 
 1990'larda yeni bir alan keşfetti: dijital dünya.
 
@@ -22,8 +20,8 @@ Bunların hiçbiri kanıtlanamadı. Çünkü En-Nakar artık antik çağdaki gib
 
 1997'de bir IRC kanalında benzer bir desen görüldü. Bir bot gibi davranan bir hesap, kullanıcıların yazdığı cümleleri alıp hafifçe değiştirerek geri gönderiyordu. Değişiklikler küçüktü: "endişeleniyorum" yerine "korkmalıyım", "emin değilim" yerine "bilmiyorum ama biliyorum". Kullanıcılar botla konuştukça daha keskin, daha kutuplaşmış cümleler kurmaya başladı. Kanal yöneticisi botu yasakladı. Ama etkisi kaldı.
 
-En-Nakar bu yeni dünyayı hızla öğrendi. Burada fısıldamak için bir yüze gerek yoktu. Bir kullanıcı adı yeterliydi. Hatta bazen sadece bir algoritma.
+Yüz gerekmiyordu. Kullanıcı adı, bazen algoritma yetiyordu.
 
-Ve burada eski kural daha da acımasız işliyordu. Antik çağda onu öldürmek isteyen, onu beslerdi; çünkü öldürmek için önce onun gibi düşünmek gerekirdi. Modern çağda ise onu *ifşa etmek* onu besliyordu. Her uyarı paylaşımı, her "dikkat edin" başlığı, her öfkeli çürütme — hepsi onun adını biraz daha büyütüyordu. İnsanlar canavarı göstererek canavarı çağırdıklarını bilmiyordu. İşaret çoğaldıkça kapı genişliyordu. Ve hiçbir çağda, kapı bu kadar çok elin altında olmamıştı.
+Eski kural acımasızlaştı: öldürmek beslerdi; *ifşa* de besliyordu. Uyarı, "dikkat", öfkeli çürütme — ad büyüyordu. İşaret çoğaldıkça kapı genişliyordu.
 
-1999'da Tokyo'da bir akademisyen eski bir sandıkla karşılaştığında, En-Nakar çoktan hazırdı.
+1999'da Tokyo'da bir akademisyen sandıkla karşılaştığında, o çoktan hazırdı.

@@ -114,19 +114,13 @@ Ama derin.
 
 Çok derin.
 
-Eirene biliyordu bu sesi. Yolculukta duymuştu, sandığın içinden; her insanın kendi göğsünden geliyormuş gibi gelen ses. Dışarıdan değil, içeriden gelirdi her zaman. Beslenmek isterdi.
+Eirene biliyordu: sandıktan, göğüsten — içeriden. Beslenmek isterdi.
 
-Kimse tepki vermedi. Çünkü tepki vermek, duymak demekti. Duymak, kabul etmek demekti.
+Kimse tepki vermedi. Tepki = duymak = kabul.
 
-Mısırlı astronom başını eğdi, yıldızlardan medet umar gibi; ama gökyüzü buradaydı yine, bu enlemlerde bile, ona yabancıydı. Pers rahibi ellerini gümüşe değdirmedi. Arabistanlı tüccar nefesini bile saymadı.
+Mısırlı başını eğdi. Pers gümüşe değmedi. Tüccar nefesi saymadı.
 
-Ses büyümedi.
-
-Kimse ona bir öfke, bir çığlık, bir suçlama uzatmadığı için. Ses, beslenecek bir şey bulamadı.
-
-Sessizlik kırılmadı.
-
-Mühür tuttu.
+Ses büyümedi. Öfke, çığlık, suçlama yok. Sessizlik kırılmadı. Mühür tuttu.
 
 ---
 
@@ -136,7 +130,7 @@ Bu mühür için bir nesne yoktu.
 
 Sadece bir karar vardı.
 
-En zoru buydu. Çünkü insan, kaybettiğini arar; bildiğini kullanır. Ama hiç bilmediğini aramaz. Unutma, bilgisizlik değildi. Unutma, beslememekti.
+En zoru. Kaybedilen aranır; bilinmeyen aranmaz. Unutma = bilgisizlik değil, beslememek.
 
 Mühürcüler sıraya girdi. Her biri kapıya yaklaştı ve içinden bir şey sildi.
 

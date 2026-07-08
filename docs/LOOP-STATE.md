@@ -1,12 +1,12 @@
 # LOOP-STATE
-turn: 4
-phase: 4
+turn: 5
+phase: 5
 phase_turns: 1
-next_chapters: [17, 18, 22, 23]
-last_focus: "phase 4 karakter: Arakawa/Ren, Kerem korku, Marta, Kerem ses — iç çatışma; vaaz −"
+next_chapters: [1, 2, 12, 13, 16]
+last_focus: "phase 5 dil: 01/02/12/13/16 vaaz ve tekrar −; epik ritim korundu"
 final_grounded: 4
 action_balance: 4
-prose_tight: 4
+prose_tight: 5
 dna_ok: true
-last_commit: "loop t4-p4"
-notes: "phase 5 dil veya 4 mikro; MP3 host"
+last_commit: "loop t5-p5"
+notes: "phase 6 budama veya 7 EPUB; MP3 host"

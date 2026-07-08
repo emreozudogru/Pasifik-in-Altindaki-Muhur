@@ -106,4 +106,4 @@ O gün, dünyanın ucuna doğru ilk adım atıldı.
 
 Bir bilge. Bir kılıç. Bir taş.
 
-İşte böyle başladı. Kimsenin kazanmadığı, ama herkesin kaybettiği bir savaşla. Ve o günden sonra, her çağda, aynı şey tekrarlanacaktı: kapıyı açan el, hep onu kapatmaya çalışan el olacaktı.
+Böyle başladı: kimsenin kazanmadığı savaş. Her çağda aynı: kapıyı açan el, çoğu zaman kapatmaya çalışan el.
