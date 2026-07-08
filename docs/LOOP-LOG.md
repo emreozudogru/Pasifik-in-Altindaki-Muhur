@@ -46,3 +46,8 @@ En yeni tur en altta.
 - Yazar: loop kısaltıyordu; MASTER büyütme zorunlu yapıldı
 - Telafi genişletme: 02, 05, 07, 12, 13, 16 (sahne/doku geri + ek)
 - Sonraki loop turlari: net +kelime zorunlu
+
+### Restore — 2026-07-08
+- `git checkout 9da3cea -- tr/metin/bolumler/` + `metinler/`
+- Loop t1–t5 kısaltmaları geri alındı (~24.3k → ~27.4k)
+- MASTER büyütme kuralı korunuyor

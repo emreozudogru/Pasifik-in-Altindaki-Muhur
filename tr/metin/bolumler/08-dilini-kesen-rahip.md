@@ -28,23 +28,23 @@ Rahip, sandığın içindeki sesin, tanrısı olduğuna inandı. Kendi tanrısı
 
 ---
 
-Beşinci gece rahip sunuyu hazırladı.
+Beşinci gece, rahip bir sunu hazırladı.
 
-Sandığın sesi fısıldamıştı: en değerli sunu, en çok korktuğun şeyden vazgeçmektir. Rahip ömür boyu sözden korkmuştu — yetersizliğinden. Öyleyse sunu, sözün kendisiydi.
+Tanrılara en değerli şey sunulurdu — kan, ilk hasat, ilk doğan. Ama rahip, bunların yeterince değerli olmadığını düşündü. Sandığın içindeki ses ona, gerçek bir sununun, insanın en çok korktuğu şeyden vazgeçmesi olduğunu fısıldamıştı. Rahip, bir ömür boyu konuşmaktan, dua etmekten, vaaz vermekten korkmuştu — sözcüklerin yetersizliğinden. Öyleyse en değerli sunu, sözün kendisiydi.
 
-Bıçağı çıkardı. El titremedi. Dilini kesti.
+Dilini kesti.
 
-Kan kurşun halkalara damladı, sıcak, metalik koku. Acı çığlık boğazında boğuldu — dil yoktu. Gözlerinde o korkunç huzur. Kesik parçayı eşiğe bıraktı.
+Kendi bıçağıyla, kendi eliyle, sandığın önünde. Kan, kurşun halkaların üzerine damladı. Acı içinde, ama gözlerinde o korkunç huzurla, kesik dilini sandığın eşiğine bıraktı.
 
-İçeriden hareket yok. Yalama yok. Sunuya gerek yoktu; sunu zaten zaferdi. Bir insan, gönüllü, uyarı yetisini öldürmüştü.
+En-Nakar kanı yalamadı. Hiçbir şey yapmadı. Çünkü sunuya ihtiyacı yoktu — sununun kendisi zaten zaferdi. Bir insan, ona, konuşma yetisini vermişti. Sözü öldürmüştü, gönüllü olarak. Ve söz, En-Nakar'a karşı insanın elindeki tek silahlardan biriydi: anlatmak, uyarmak, "dikkat et" demek.
 
-Eirene kanı bastırdı, yarayı dağladı — etin kokusu, geceye yapıştı. Asıl yara dilde değildi.
+Eirene, rahibi sabaha kadar yaşatmaya çalıştı. Kanı durdurdu, yarayı dağladı. Ama kurtarılabilecek bir yara değildi — çünkü asıl yara dilde değildi.
 
-Şafakta rahip ayağa kalktı. Eirene'ye baktı. Gözleri davet: *Gel. Bu huzur sana da var.*
+Şafakta rahip ayağa kalktı. Eirene'ye baktı. Konuşamıyordu artık; ama gözleriyle bir şey söyledi. Bir özür değildi. Bir veda da değildi. Bir davetti: *Gel. Bu huzur, sana da var.*
 
-Kayalığa yürüdü. Boşluğa bıraktı kendini.
+Sonra döndü, kıyıdaki kayalığa yürüdü, ve kendini boşluğa bıraktı.
 
-Deniz aldı. Ses yok.
+Aşağıda deniz onu aldı. Ses çıkmadı — çünkü çıkaracak dili yoktu.
 
 ---
 
@@ -52,8 +52,10 @@ O gün Eirene, taşına bir çizik daha attı. Ölenleri saymak için değil; ke
 
 Lu Shen yanına geldi. "Onu durduramazdık," dedi. "Kendi geldi. Kendi gitti."
 
-"Biliyorum." Taşı çevirdi. "Beni korkutan şu: o rahip, en mutlu beş gününü burada yaşadı. Ölürken huzurluydu. Biz her gün daha çok korkuyor, daha çok susuyoruz." Durdu. "Ya teslim daha kolaysa?"
+"Biliyorum," dedi Eirene. "Beni korkutan bu değil." Taşı avucunda çevirdi. "Beni korkutan şu: o rahip, hayatının en mutlu beş gününü, bize katıldıktan sonra yaşadı. Ölürken huzurluydu. Biz ise her gün biraz daha korkuyoruz, biraz daha susuyoruz, biraz daha yalnızlaşıyoruz." Durdu. "Ya doğru olan oysa? Ya teslim olmak, gerçekten daha kolaysa?"
 
-Lu Shen cevap veremedi. İki bin yıl sonra aynı soru bir çay evinde, başka bir kadına sorulacaktı — neredeyse aynı kelimelerle.
+Lu Shen cevap veremedi.
 
-Eirene o gece uyumadı. Teslim de olmadı. Mühür belki buydu: cevapsız soruyla, aynı çadırda, boyun eğmeden kalmak.
+Çünkü işte En-Nakar'ın asıl sorusu buydu, ve iki bin yıl sonra bir başka kadına, bir çay evinde, neredeyse aynı kelimelerle sorulacaktı: *Direnmek bu kadar acı verirken, neden direniyorsun? Başka çaren var mı sanıyorsun?*
+
+Eirene o gece uyumadı. Ama teslim de olmadı. Ve belki de mühür, tam olarak buydu: cevabı olmayan soruyla, ona teslim olmadan, aynı çadırda uyuyabilmek.

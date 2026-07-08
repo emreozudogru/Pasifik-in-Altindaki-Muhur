@@ -38,15 +38,17 @@ Kerem o gece hiçbir şey yazmadı.
 
 Ertesi gün de. Ren sonradan, bu iki günlük sessizliğin, Kerem'in tüm yazışmalarındaki en uzun boşluk olduğunu fark edecekti. Kerem susmuştu — çünkü ilk kez, söyleyeceği şeyden korkmuştu.
 
-Ne yazacaktı? *Parmak izi seninki. Soy. Tesadüf değil. Çağrıldın.*
+Ne diyecekti? *Ren, iki bin yıl önce o varlığı mühürleyen kadının parmak izi seninkiyle eşleşiyor. Sen onun soyundansın. Bu hikâye sana tesadüfen gelmedi. Sen buraya çağrıldın.*
 
-Yazsa Ren koşardı — kahramanlık. En hızlı adım, ona doğru adımdı. Kerem kuralı biliyordu.
+Bunu nasıl yazardı? Ve yazsa, Ren ne yapardı? Belki de En-Nakar tam da bunu istiyordu — Ren'in kendi rolünü öğrenmesini, kahraman olmasını, kapıya koşmasını. Çünkü Kerem artık kuralı biliyordu: bu varlığa karşı atılan en hızlı adım, ona doğru atılan adımdı.
 
-Taslak: "Eirene'nin parmak izi — karşılaştırma dosyası." Her şeyi koyacaktı.
+Sonunda bir karar verdi. Bir taslak açtı. Konu satırına yazdı: "Eirene'nin parmak izi — karşılaştırma dosyası." İçine her şeyi koyacaktı: eşleşmeyi, kodu, sonucu.
 
-Parmaklar klavyede durdu. Sildi. Yalnızca konu satırı — boş gövde, asılı başlık. Soru işareti. Ren bulursa kendi kurardı; bulamazsa henüz hazır değildi. Bilgiyi bölmüştü. İçgüdüyle.
+Sonra parmakları klavyenin üstünde durdu.
 
-Küçük mühür payı.
+Ve sildi. Her şeyi. Yalnızca konu satırını bıraktı — boş bir gövdenin üstünde asılı duran bir başlık. Bir uyarı değil; bir soru işareti. Ren bulursa, kendisi bağlantıyı kurardı. Kuramazsa, demek ki henüz hazır değildi. Kerem, bilgiyi vermek yerine, onu bölmüştü — tıpkı eski Mühürcüler gibi, ama bunu öğrenmeden, içgüdüyle.
+
+Belki de bu, onun taşıdığı küçük mühür payıydı.
 
 ---
 

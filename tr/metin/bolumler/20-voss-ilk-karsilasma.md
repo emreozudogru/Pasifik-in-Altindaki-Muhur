@@ -68,11 +68,13 @@ Bu bir akademik konuşma gibi görünüyordu.
 
 Ama değildi.
 
-Eski fısıltının modern hali. Ren kemiklerinde hissetti. Arakawa: *o şey ölmedi — sadece modern olmayı öğrendi.* Metafor değildi artık. Tarif.
+Bu, eski fısıltının modern versiyonuydu. Kelimesi kelimesine değil. Ama özü özüne aynıydı. Ren bunu kemiklerinde hissetti. Hocasının notlarındaki o cümleyi hatırladı: *o şey ölmedi — sadece modern olmayı öğrendi.* O ana kadar bu cümle Ren için bir metafordu, yorgun bir bilim insanının paranoyası. Şimdi, salonun yarı karanlığında, adamın sakin sesini dinlerken, artık bir metafor değildi. Bir tarifti.
 
-Kalk, git, dedi iç ses. Beden durdu. Çünkü her cümle doğruydu. Yalan yoktu; avcı soğukkanlılığıyla parlatılmış gerçek vardı. Arakawa kenar notu: *Asla emretmez. Sadece içindekini gösterir. İtiraz edemezsin — doğrudur.* Şimdi sahnedeki adam notu okuyormuş gibi konuşuyordu.
+İçinden bir ses, kalk ve git, diyordu. Ama bedeni hareket etmiyordu. Çünkü konuşma mantıklıydı. En korkunç kısmı buydu: söylenen her cümle doğruydu. Ren hiçbirine itiraz edemiyordu. İnsanlar gerçekten önce karar verir. Korku gerçekten çerçevelenebilir. Adam yalan söylemiyordu. Sadece gerçeği, onu izleyen bir avcının soğukkanlılığıyla anlatıyordu.
 
-Voss slaytı değiştirdi. Ekranda:
+Ren, hocasının bir kenar notunu daha hatırladı; o notta Arakawa, yüzyıllar boyunca bu sesin nasıl konuştuğunu derlemeye çalışmıştı. *Asla emretmez,* diye yazmıştı hocası. *Asla tehdit etmez. Sadece zaten içinde olduğun şeyi sana gösterir ve "işte busun" der. İtiraz edemezsin, çünkü doğrudur. İşte tuzak budur — yalanla değil, gerçekle avlar.* O zaman Ren bunu fazla şiirsel bulmuştu. Şimdi, sahnedeki adam tam da bunu yaparken, notun her kelimesinin ne kadar tam, ne kadar ölçülü olduğunu anlıyordu. Arakawa bu odada hiç bulunmamıştı. Ama bu konuşmayı, ölmeden çok önce, kelime kelime tarif etmişti.
+
+Voss slaytı değiştirdi. Ekranda tek bir cümle belirdi:
 
 **"İnsan özgür kalmak istemez. Doğru efendiyi seçmek ister."**
 
@@ -80,13 +82,17 @@ Salondaki bazı kişiler not aldı.
 
 Bazıları başını salladı.
 
-İtiraz yoktu. Provokasyon değil, teselli. Voss öğretmiyordu; itiraf izni veriyordu.
+Ve Ren'i asıl ürküten bu oldu — itiraz eden kimse yoktu. Kimse rahatsız olmuş gibi görünmüyordu. Cümle salona bir provokasyon gibi değil, bir teselli gibi düşmüştü. İnsanlar sanki uzun zamandır birinin bunu söylemesini bekliyormuş gibi rahatlamış, hatta minnettardı. Voss bir şeyi onlara öğretmiyordu. Onlara zaten bildikleri, ama itiraf etmekten korktukları bir şeyi söylemenin iznini veriyordu.
 
-Ren kalkmak istedi.
+Ren kalkıp çıkmak istedi.
 
-Voss ona baktı — arka sıra, gölge, aramadan bulmuş gibi. Gülümsedi.
+Ama Voss o anda ona baktı. Kalabalığın içinden, doğrudan ona. Yüzlerce insanın arasından, arka sıradaki gölgeli koltukta oturan bir kadını, hiç aramadan bulmuş gibi. Sanki konuşmanın tamamı boyunca yerini biliyordu ve şimdi sadece onaylıyordu. Ve gülümsedi.
 
-Lu Shen: *"Gülüşünde zafer değil, beklemenin sabrı vardı."*
+Ren o gülümsemeyi daha önce görmemişti. Ama Lu Shen'in iki bin yıl önce yazdığı cümleyi hatırladı:
+
+*"Gülüşünde zafer değil, beklemenin sabrı vardı."*
+
+Bu, bir avcının değil, çok zaman sahibi olan birinin gülümsemesiydi. Acelesi olmayan birinin. Senin er ya da geç yanına geleceğini bilen birinin.
 
 ---
 
@@ -104,6 +110,12 @@ Mesaj şuydu:
 
 **"Hocan daha dikkatliydi."**
 
-Telefon cebinde. El titriyor, yüz sakin. Tehditten kötü: gözlem. Arakawa'yı biliyordu. Dikkat yetmemişti.
+Ren telefonu cebine koydu.
 
-Adımlarını hızlandırdı. Arkasına bakmadı. Bakmak, görülmekti. Görülmüştü.
+Eli titriyordu, ama yüzü sakindi. Bu bir tehditti, evet. Ama tehditten daha kötü bir şeydi — bir gözlem. Adam, Arakawa'yı biliyordu. Arakawa'nın dikkatli olduğunu biliyordu. Ve dikkatin yetmediğini de biliyordu.
+
+Adımlarını hızlandırdı.
+
+Arkasına bakmadı.
+
+Çünkü bakmak, görülmek demekti. Ve artık görülmüştü.

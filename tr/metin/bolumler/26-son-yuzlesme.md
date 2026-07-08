@@ -38,11 +38,11 @@ Sonra gitti. Ren kapıyı kilitledi. Kayıt cihazını kontrol etmedi. Çünkü 
 
 O gece Ren uyumadı. Pencerenin önünde oturdu, Voss'un az önce oturduğu sandalyede, ve şehri izledi. Milyonlarca ışık. Milyonlarca ekran. Her birinin ardında bir insan, ve her insanın içinde küçük bir karanlık oda — Voss'un dilediği zaman seslenebileceği bir oda.
 
-Ve Voss'un ne dediğini anladı — ama umduğu gibi değil. Voss onu yıldırmak için gerçeği söylemişti: *beni yenemezsin, çünkü ben senim.* Oysa aynı cümle, ters çevrildiğinde, Eirene'nin kapısıydı. O şey adada değildi, Voss'un yüzünde de. Her göğüste, her acelede, her "şimdi bas" anındaydı. Yenmek de oradaydı: bir saniyelik duraksamada.
+Ve Voss'un ne dediğini anladı — ama umduğu gibi değil. Voss onu yıldırmak için gerçeği söylemişti. Bir zafer çığlığı gibi: *beni yenemezsin, çünkü ben senim.* Oysa aynı gerçek, ters çevrildiğinde, Eirene'nin iki bin yıl önce bıraktığı kapıydı. Eğer En-Nakar insanın içindeki korkuysa, onu dışarıda bir yerde aramak boştu. O ne bir adada, ne bir bedende, ne Voss'un yüzündeydi. O, her insanın kendi göğsündeydi. Ve tam da bu yüzden, her insan onu kendi içinde yenebilirdi — bir saniyelik bir duraksamayla.
 
-Beslenmekle yaşıyordu. Demek yol buydu: beslememek. Bir kahraman bir kez değil — sıradan insanlar, her gün, sessizce.
+En-Nakar beslenmekle yaşıyordu. Korkuyla, öfkeyle, dikkatle. Demek onu sonsuza dek yenmenin yolu da buradaydı: beslememek. Hiç. Bir kahraman tarafından bir kez değil — milyonlarca sıradan insan tarafından, her gün, her saniye, sessizce.
 
-Bedel ağırdı. Voss da söylemişti. Ren onu annesinin yüzünde, Kerem'in boş sandalyesinde, silinecek kendi adında görmüştü. Yine de ödemeye karar verdi — sonrakiler ödemesin diye. *Bedeli ben ödeyeceğim.*
+Bunun bir bedeli vardı. Voss bile söylemişti: yenmeye değmeyecek kadar ağır. Ren bedeli biliyordu artık; annesinin yüzünde, Kerem'in boş sandalyesinde, kendi silinecek adında görmüştü onu. Ama ödemeye karar vermişti — kendi adına değil, ondan sonra gelenler ödemesin diye. Eirene'nin sorusuna nihayet bir cevabı vardı: *Bedeli ben ödeyeceğim.*
 
 ---
 
@@ -79,8 +79,8 @@ Kimse nereden geldiğini bilmedi. Kimse imza aramadı. Ren'in adı hiçbir kâğ
 
 Belki işe yaradı. Belki yaramadı.
 
-Ama bir kadın, öfkeyle yazdığı mesajı göndermeden önce on saniye bekledi ve sildi. Bir adam, "paylaş" tuşunun üzerinde parmağını tuttu, indirdi. Bir çocuk, annesinin sesindeki paniği duyunca, kendi paniğini bir nefes erteledi. Kimse bunları bir mührün parçası sanmadı. Sadece, o gün, biraz daha az acele ettiler.
+Ama bazı insanlar daha az hızlı öfkelendi. Bazıları paylaşmadan önce okudu. Bazıları korkuyla karar vermedi. Bazıları güçlü bir liderin sesinde kendi çaresizliğini fark etti. Bazıları düşman diye gösterilen kişinin yüzüne ikinci kez baktı.
 
-Görünmeyen bir yerde bir açlık, sofranın geciktiğini hissetti. Azalmamıştı. Ama yemek saati kaymıştı.
+Ve dünyanın görünmeyen bir yerinde, En-Nakar bunu hissetti. Çünkü onun açlığı azalmamıştı. Ama sofrasına oturanlar birkaç saniye gecikmeye başlamıştı.
 
 Bazen birkaç saniye, bir mührün ilk taşıdır.

@@ -10,7 +10,7 @@ Arşiv'de bir Brezilyalı adli bilişim uzmanı, bir Polonyalı dilbilimci, bir 
 
 Grubun Türk üyesi Kerem, herkesten farklıydı. En gençleriydi, en çok gülenleriydi, en çabuk korkanlarıydı. Siber güvenlik mühendisiydi ama işten arta kalan zamanında eski haritaları karıştırmayı severdi. "Dijital dünyada yaşıyorum ama analog dünyaya aşığım," derdi. Bu yüzden Arşiv'deki en önemli keşif ona nasip oldu.
 
-Korkusu zayıflık değil, gücüydü. Başkaları bastırırdı; o cep feneri gibi yanında taşırdı. "Her şeyden korkuyorum," demişti Ren'e. "Uçak, asansör, çalan telefon, çalmayan. Bir şey daha çıkınca panik etmiyorum — sıraya giriyor." Gülmüştü. Gerçek: korkusunu tanıyan, onun esiri olmazdı. Herkes çekilince dayanan o oldu — cesur olduğu için değil; "bu mantığım" sanılan yerde "bu korkum" diyebildiği için.
+Korkusu, onun zayıflığı değil, gücüydü — kimse bunu fark etmese de. Diğerleri korkuyu bir düşman gibi görür, onu bastırır, yokmuş gibi davranırdı; bu yüzden korku onları arkadan yakalardı. Kerem ise korkusunu sürekli yanında taşırdı, bir cep feneri gibi. "Ben zaten her şeyden korkuyorum," demişti bir keresinde Ren'e. "Uçaktan, asansörden, telefonun çalmamasından, çalmasından. O yüzden bir şey daha çıkınca paniğe kapılmıyorum. Sıraya giriyor." Gülmüştü. Ama altında gerçek bir şey vardı: korkmaktan korkmayan biri, korkusunun esiri olmazdı. İşte bu yüzden, herkes çekildiğinde dayanan o oldu. Cesur olduğu için değil. Korkuyu o kadar iyi tanıdığı için, onun sesini En-Nakar'ın sesinden ayırt edebiliyordu. Ötekiler "bu benim mantıklı kararım" sanırken, Kerem "bu sadece korkum konuşuyor" diyebiliyordu. Ve bunu diyebilen biri, bir adım daha atabiliyordu.
 
 Kerem, 2024 yılında İstanbul'daki eski bir sahaf koleksiyonunda garip bir defter buldu. Defteri bulduğu gün Kapalıçarşı'da yağmur yağıyordu. Dükkanın adı **Kör Nokta** idi; raflar toz içindeydi, ışık sarı ve zayıftı. Sahaf, Kerem'in elindeki eski pusulayı görünce — Kerem'in dedesinden kalma bir şeydi, her zaman yanında taşırdı — gözlerini kırpıştırdı ve "Bu defter seni arıyormuş gibi duruyor," dedi. Fiyat söylemedi. "Al götür, okursan gel konuşuruz," dedi.
 
@@ -48,9 +48,11 @@ Ren'in cevabı kısaydı: "Aynı şey."
 
 O gece ikisi de uzun süre uyuyamadı. Ama aynı şeyi bilmek, yalnız olmadığını hissettirmeye yetiyordu.
 
-Ana veri sızıntılarını tarıyordu. Marta çeviri kalıplarını. Arjun: "dilsiz ada" — yedi kültürde aynı korku. Daniel: hastaların "iç ses" ortaklığı. Hepsi seziyordu: artık beden değil, bilgi ve dikkat.
+Brezilyalı Ana, adli bilişim uzmanı olarak veri sızıntılarını inceliyordu. Polonyalı Marta, eski metinlerdeki çevirilerde aynı kalıpları görüyordu. Hintli tarihçi Arjun, Babür arşivlerinde gizli ittifak izleri buluyordu. En büyük keşfi: 16. yüzyılda bir Hint tüccarın seyahatnamesinde geçen "denizin ortasında dilsiz ada" tanımı, Kuroshima'dan söz eden en eski Arapça kayıtlarla birebir örtüşüyordu. Bunu gruba sunduğunda kimse ne diyeceğini bilemedi. Arjun ekledi: "Bu ada tek bir kültürün hafızasında değil. En az yedi kültürde aynı korku var." Amerikalı Daniel ise hastalarının anlattığı "iç seslerin" ortak bir yapısı olduğunu fark etmişti. Hepsi, En-Nakar'ın artık fiziksel bir varlık olarak değil, bilgi ve dikkat üzerinden yayıldığını seziyordu.
 
-Antik Mühürcüler taş masadaydı. Arşiv ekrandaydı. Ortak olan şüpheydi — ve bazen yetmiyordu.
+Arşiv, antik Mühürcülerin tam tersi bir yapıydı. Onlar birbirini yüz yüze görmüştü, aynı kervansarayda, aynı taş masanın etrafında. Bu grup ise ekranlar aracılığıyla, farklı saat dilimlerinde, birbirinin yüzünü hiç görmeden çalışıyordu. Ortak olan yalnızca şüpheydi.
+
+Ve şüphe, zaman zaman yeterli değildi.
 
 Kerem bir keresinde Ren'e şöyle yazmıştı: "Seni ikna etmeye çalışmıyorum. Sadece aynı şeyi görüp görmediğini anlamak istiyorum." Ren'in cevabı kısaydı: "Görüyorum. Ama görmek, bilmek değil." Bu ayrım, grubun kurulmayan temeliydi. Kimse tam inanmıyordu. Ama kimse de ayrılmıyordu. Çünkü veriler, her geçen yıl biraz daha net bir şekil alıyordu.
 

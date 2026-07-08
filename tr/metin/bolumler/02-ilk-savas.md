@@ -10,7 +10,7 @@ Beş ayrı dil, beş ayrı isim. Ama hepsinin altında aynı şey yatıyordu. Hi
 
 Onun gerçekten ne olduğu hiçbir zaman kesin bilinmedi. Bazıları onu çok eski bir varlık sanıyordu. Bazıları, tufandan önce yaşamış ve insanlığın unuttuğu başka bir türün son kalıntısı olduğunu söylüyordu. Bazıları ise onun bir kişi değil, bir fikir olduğunu; beden değiştirerek çağlar boyunca hayatta kaldığını iddia ediyordu. Ama onu görenlerin anlattıkları birbirine benzerdi.
 
-Uzun boylu değildi. Dev gibi de değildi. Kanatları, boynuzları, pençeleri yoktu. İlk bakışta sıradan bir insana benziyordu. Fakat yanında uzun süre kalanların aklı değişirdi. Bir kral onu danışman yaparsa kardeşini öldürürdü. Bir komutan onunla bir gece konuşursa ordusunu çöle sürerdi. Bir rahip onun sesini duyarsa kendi tanrısının düşman olduğuna inanırdı. Bazen bir köylü, bir tek bakıştan sonra, komşusunun kuyusunu zehirlerdi — ve bunu "haklı" bulurdu.
+Uzun boylu değildi. Dev gibi de değildi. Kanatları, boynuzları, pençeleri yoktu. İlk bakışta sıradan bir insana benziyordu. Fakat yanında uzun süre kalanların aklı değişirdi. Bir kral onu danışman yaparsa kardeşini öldürürdü. Bir komutan onunla bir gece konuşursa ordusunu çöle sürerdi. Bir rahip onun sesini duyarsa kendi tanrısının düşman olduğuna inanırdı.
 
 İşte o krallardan biri.
 

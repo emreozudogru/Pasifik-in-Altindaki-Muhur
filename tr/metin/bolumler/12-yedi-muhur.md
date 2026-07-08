@@ -114,15 +114,15 @@ Ama derin.
 
 Çok derin.
 
-Eirene biliyordu bu sesi. Yolculukta duymuştu, sandığın içinden; her insanın kendi göğsünden geliyormuş gibi gelen ses. Dışarıdan değil, içeriden gelirdi her zaman. Beslenmek isterdi. O an, parmakları cebindeki taşa değdi — soğuk, tanıdık — ve ses, sanki taşa da uzandı.
+Eirene biliyordu bu sesi. Yolculukta duymuştu, sandığın içinden; her insanın kendi göğsünden geliyormuş gibi gelen ses. Dışarıdan değil, içeriden gelirdi her zaman. Beslenmek isterdi.
 
 Kimse tepki vermedi. Çünkü tepki vermek, duymak demekti. Duymak, kabul etmek demekti.
 
-Mısırlı astronom başını eğdi, yıldızlardan medet umar gibi; ama gökyüzü buradaydı yine, bu enlemlerde bile, ona yabancıydı. Pers rahibi ellerini gümüşe değdirmedi. Arabistanlı tüccar nefesini bile saymadı. Anadolu'lu usta, kanayan parmaklarını yumdu.
+Mısırlı astronom başını eğdi, yıldızlardan medet umar gibi; ama gökyüzü buradaydı yine, bu enlemlerde bile, ona yabancıydı. Pers rahibi ellerini gümüşe değdirmedi. Arabistanlı tüccar nefesini bile saymadı.
 
 Ses büyümedi.
 
-Kimse ona bir öfke, bir çığlık, bir suçlama uzatmadığı için. Ses, beslenecek bir şey bulamadı. Rüzgâr vardı. Deniz vardı. Ve o alçak nefes, bir süre sonra, kendi kendine inceldi.
+Kimse ona bir öfke, bir çığlık, bir suçlama uzatmadığı için. Ses, beslenecek bir şey bulamadı.
 
 Sessizlik kırılmadı.
 
@@ -136,7 +136,7 @@ Bu mühür için bir nesne yoktu.
 
 Sadece bir karar vardı.
 
-En zoru. Kaybedilen aranır; bilinmeyen aranmaz. Unutma = bilgisizlik değil, beslememek.
+En zoru buydu. Çünkü insan, kaybettiğini arar; bildiğini kullanır. Ama hiç bilmediğini aramaz. Unutma, bilgisizlik değildi. Unutma, beslememekti.
 
 Mühürcüler sıraya girdi. Her biri kapıya yaklaştı ve içinden bir şey sildi.
 

@@ -20,23 +20,23 @@ Kürekçi küreği bırakmadı. Ama yanındaki bıraktı.
 
 Dördüncü fırtına, geceyi ikiye böldü.
 
-Gök, şimşeğin altında bir an gündüz gibi açıldı — her yüz, her ip, her korku görünür oldu — sonra yine kapandı. Dalgalar geminin küpeştesini aştı; tuz, ağızlarda kan tadı bıraktı. Ayaklar güvertede kaydı. Biri küpeşteden tutundu, tırnakları tahtaya battı. Direklerden biri çatırdadı, uzun bir çığlık gibi, sonra ortasından kırıldı ve yelkeniyle birlikte denize devrildi. Gemi yana yattı. Sandık zincirleri gıcırdadı. İçeriden, bir an, o alçak kahkaha — ya da rüzgârın taklidi.
+Gök, şimşeğin altında bir an gündüz gibi açıldı, sonra yine kapandı. Dalgalar geminin küpeştesini aştı; tuz, ağızlarda kan tadı bıraktı. Direklerden biri çatırdadı, sonra ortasından kırıldı ve yelkeniyle birlikte denize devrildi. Gemi yana yattı.
 
 Lu Shen'in çırağı o an güvertedeydi.
 
-Genç bir adamdı; Çin'den, kâtibin yanında sayı saymayı, yıldız okumayı öğrenmek için yola çıkmıştı. Yedi yıllık yolculuğun ne olduğunu bilmeden binmişti gemiye. Şimdi, kırık direğin halatlarına dolanmış, sular onu küpeşteye doğru çekiyordu. Halat bileğine iz bırakmıştı — kırmızı, ıslak. Lu Shen ona ulaşmaya çalıştı. Parmak uçları, çırağın bileğine değdi.
+Genç bir adamdı; Çin'den, kâtibin yanında sayı saymayı, yıldız okumayı öğrenmek için yola çıkmıştı. Yedi yıllık yolculuğun ne olduğunu bilmeden binmişti gemiye. Şimdi, kırık direğin halatlarına dolanmış, sular onu küpeşteye doğru çekiyordu. Lu Shen ona ulaşmaya çalıştı. Parmak uçları, çırağın bileğine değdi.
 
-Bir an, birbirlerini tuttular. Tuz, ter, soğuk.
+Bir an, birbirlerini tuttular.
 
 Sonra çırak, tutuşunu gevşetti.
 
 Bilerek. Lu Shen bunu gördü — çocuğun gözlerinde panik değil, garip bir teslimiyet vardı. Sanki birisi ona, bırakmanın daha kolay olacağını fısıldamıştı. Sanki sayılar, sonunda ona yalan söylemeyi bırakmış ve tek bir doğru bırakmıştı: *dipte huzur var.*
 
-"Sayılar yalan söylüyor," dedi çırak. Son sözüydü. Ses, rüzgârın içinde neredeyse kayboldu.
+"Sayılar yalan söylüyor," dedi çırak. Son sözüydü.
 
-Sonra karanlık onu aldı. Bir sıçrama. Bir kopuş. Boş el. Su, Lu Shen'in bileğini yalayıp gitti.
+Sonra karanlık onu aldı.
 
-Lu Shen, boş eliyle küpeşteye tutundu. Bağırmadı. Bağırmak da bir sesti, ve ses tehlikeliydi. Ama o gece, fırtına dindikten sonra, kimsenin görmediğini sandığı bir köşede, yıllardır ilk kez ağladı — sessiz, omuzları sarsılarak, tuz ve gözyaşı aynı tatta. Sayıları severdi. Sayılar kesindi, dürüsttü, asla aldatmazdı. Ve bu yolculukta sayılar bile yalancı çıkmıştı: saydığı her can, ertesi sabah bir eksik oluyordu.
+Lu Shen, boş eliyle küpeşteye tutundu. Bağırmadı. Bağırmak da bir sesti, ve ses tehlikeliydi. Ama o gece, fırtına dindikten sonra, kimsenin görmediğini sandığı bir köşede, yıllardır ilk kez ağladı. Sayıları severdi. Sayılar kesindi, dürüsttü, asla aldatmazdı. Ve bu yolculukta sayılar bile yalancı çıkmıştı: saydığı her can, ertesi sabah bir eksik oluyordu.
 
 Eirene onu buldu. Kırık direğe tutunmuş, ıslak, titriyordu. Konuşmadı. Sadece yanına oturdu ve eliyle bir işaret yaptı.
 

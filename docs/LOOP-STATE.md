@@ -1,16 +1,16 @@
 # LOOP-STATE
-turn: 6
+turn: 0
 phase: 1
-phase_turns: 1
-next_chapters: [25, 26, 27, 8, 10]
-last_focus: "BÜYÜTME düzeltmesi: 02/05/07/12/13/16 açıldı (+~1.2k kelime); MASTER kısaltma yasağı"
-final_grounded: 4
-action_balance: 4
+phase_turns: 0
+next_chapters: [25, 26, 27]
+last_focus: "RESTORE: bolumler + metinler loop oncesi 9da3cea (~27.4k)"
+final_grounded: 3
+action_balance: 3
 prose_richness: 4
 length_ok: true
-words_before: 24309
-words_after: 25548
-delta: 1239
+words_before: 27437
+words_after: 27437
+delta: 0
 dna_ok: true
-last_commit: "pending"
-notes: "Sonraki turlar: net +kelime. Hâlâ ~27k hedefin altında — devam et büyüt."
+last_commit: "restore pending"
+notes: "Kısaltma turlari geri alindi. MASTER buyutme kuralli. Sonraki loop: sadece UZAT."

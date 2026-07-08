@@ -16,8 +16,6 @@ Nagasaki'deki sahra hastanesinden — yüzü olmayan adamın dünyaya karıştı
 
 Bunların hiçbiri kanıtlanamadı. Çünkü En-Nakar artık antik çağdaki gibi görünmüyordu. Beden değiştirmiyordu belki. Ama kimlik değiştiriyordu. Pasaportlar alıyor, diller öğreniyor, arşivlere giriyor, hastanelerde çalışıyor, yardım kuruluşlarına katılıyor, üniversite derslerine oturuyor, savaş bölgelerinde tercümanlık yapıyor, istihbarat örgütlerinin kenarında dolaşıyordu. İnsanlığı izliyordu. Öğreniyordu. Ve en önemlisi, acele etmiyordu. Çünkü iki bin yıl hapis yatan bir şey için yüz yıl kısa bir sabırdı.
 
-1980'lerde, bir sığınmacı kampında, "kimseye ait olmayan" bir doktor not düştü: hastalar gece aynı rüyayı görüyormuş — gri gözlü bir adam, "doğru olanı" fısıldıyormuş. Doktor notu arşivledi. Ertesi ay kamp dağıtıldı. Not kayboldu.
-
 1990'larda yeni bir alan keşfetti: dijital dünya.
 
 İlk işareti 1994'te, erken bir internet forumunda görüldü. Bir kullanıcı, "derin_ses" rumuzuyla, haftalarca tartışmalara katıldı. Kimse onu tanımıyordu. IP adresi her hafta değişiyordu. Ama yazdıkları bir desen izliyordu: önce bir korkuyu adlandırıyor, sonra basit bir çözüm öneriyor, sonra karşıt görüşü "düşman" ilan ediyordu. Altı ay içinde forum iki kampa bölündü. On iki ay sonra forum kapandı. "Derin_ses" son mesajında şunu yazmıştı: "Siz zaten kendi kendinizi bölüyordunuz. Ben sadece aynayı tuttum."

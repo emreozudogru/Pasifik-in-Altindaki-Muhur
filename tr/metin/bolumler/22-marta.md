@@ -28,11 +28,13 @@ Ya da onun kendi elinden.
 
 Geceleri uyuyamadı.
 
-Biliyordu: zihin bodrumunda, ışık tutulmayan raflarda, yasak cümleler durur. Metroda iten, geç kalan öğrenci, "yanlış" dil — bir kıvılcım. Düşünmüştü. Herkes düşünür; bodrumda tutar.
+Bir dilbilimci olarak biliyordu: insan, hiç düşünmediğini sandığı şeyleri de düşünür. Zihnin bodrumunda, hiç ışık tutmadığımız raflarda, kabul etmek istemediğimiz cümleler durur. Marta da bir insandı. O da, yorgun bir günün sonunda, metroda iten birine, geç kalan bir öğrenciye, kendi dilini doğru konuşmayan birine karşı, bir an için, bir kıvılcım gibi, o yasak cümlelerden birini düşünmemiş miydi hiç?
 
-Şimdi bodrum açılmıştı. En çirkin cümle, onun adıyla dışarıdaydı. Tanıyordu. Yabancı değillerdi. Söylemeyeceği, eyleme dökmeyeceği — ama orada olan — yankı.
+Düşünmüştü. Herkes düşünmüştü. Ama herkes onu bodrumda tutardı.
 
-Yalan uydurulmamıştı. Saklanan doğruydu. İnkâr edilemiyordu; bir parçası gerçekti.
+Şimdi biri, o bodrumun kapısını açmış, içerideki en çirkin cümleyi alıp Marta'nın adıyla dünyaya salmıştı. Ve Marta, dehşet içinde, o cümleleri tanıdığını fark etti. Yabancı değillerdi. Kendi karanlığının yankısıydılar — yalnızca, hiç söylemeyeceği, asla eyleme dökmeyeceği, ama orada, derinde, var olan bir yankı.
+
+En-Nakar yeni bir şey uydurmamıştı. Marta bunu sonradan anladı. O hep böyle çalışıyordu: yalan söylemiyordu. Senin en sakladığın doğruyu alıp, herkesin önüne koyuyordu. Ve sen, onu inkâr edemiyordun — çünkü bir parçası gerçekti.
 
 ---
 
@@ -46,14 +48,14 @@ Ama yapmadı.
 
 Çünkü daha derin bir şey fark etti: o hatayı kimse fark etmezdi. Sadece o fark ederdi. Ve eğer kendini temize çıkarmak için bu hatayı kanıt olarak gösterirse, dünyaya "bakın, ben daha iyi bir ırkçıyım, hatasız yazarım" demiş gibi olacaktı. Tuzak buydu. İçinden nasıl çıkarsa çıksın, o cümlelerin bir parçası olacaktı. Onları çürütmek için bile, onları tekrar etmesi gerekecekti.
 
-İşaret çoğaldıkça kapı genişler — şimdi etinde.
+İşaret çoğaldıkça kapı genişler. Marta bunu Kerem'in mesajından biliyordu. Şimdi etinde öğreniyordu.
 
-Gruba: "Belki biz yanlış okuduk." Bilgisayar kapandı.
+Gruba kısaca yazdı: "Belki biz yanlış okuduk." Sonra bilgisayarını kapattı.
 
-Teslimiyet gibi. Kendine: mühür de. Beslememek. Savaş değil, susmak. *Onu hapsetmek isteyen önce kendini susturur.*
+Bu bir teslimiyetti, evet. Ama aynı zamanda — Marta yalnızca kendine itiraf edebildi bunu — bir tür mühürdü de. Beslememeyi seçmişti. Savaşmayı değil, susmayı. Kaçmak gibi görünüyordu. Belki de öyleydi. Ama belki de, o çok eski cümlenin dediği şeydi: *onu hapsetmek isteyen önce kendini susturur.*
 
-Akademiyi bıraktı. Köy. Hiç yayımlamadı.
+Marta akademiyi bıraktı. Bir köye taşındı. Bir daha hiçbir şey yayımlamadı.
 
-Yıllar sonra isimsiz bir kâğıt: "Bir ses 'bu sensin' diyorsa, dur. Haklı olsa da itaat etmek zorunda değilsin."
+Yıllar sonra, adını hiç bilmediği bir araştırmacının dağıttığı küçük bir kâğıt eline geçti. Üzerinde beş kural vardı. İkincisinde şöyle yazıyordu: "Bir ses sana 'bu sensin' diyorsa, dur. Belki haklıdır. Ama haklı olması, ona itaat etmen gerektiği anlamına gelmez."
 
-Sakladı. Nefes aldı.
+Marta o kâğıdı sakladı. Ve ilk kez, uzun zamandır ilk kez, rahat bir nefes aldı.

@@ -4,9 +4,11 @@
 
 Ren hemen gruba yazdı. "Onu gördüm." İlk cevap Kerem'den geldi: "Emin misin?" Ren: "Hayır. Ama o beni gördü."
 
-Bundan sonra olaylar hızlandı — gürültüsüz. Buzul erimesi. Kimse zorlanmadı; herkes kendi ayağıyla çekildi. Hepsi haklıydı. Korkutucu olan buydu.
+Bundan sonra olaylar hızlı gelişti.
 
-Mesajlar seyreldi. Biri sustu, sonra bir başkası. "Ayrılıyorum" yok; cevap yok. Anne, kariyer, meslek — makul. Savunmasız noktaya dokunulmuştu. Tehdit gerekmiyordu; noktanın yerini bilmek yetiyordu.
+Ama hızlı derken, gürültülü değildi. Bir bomba gibi değil. Bir buzulun erimesi gibi. Sessiz, kaçınılmaz, parça parça. Hiçbiri aynı anda olmadı. Her biri tek tek, sırayla, sanki birileri listeyi yukarıdan aşağıya okuyormuş gibi. Ve Ren sonradan fark etti ki, çekilenlerin hiçbiri zorlanmamıştı. Hepsi kendi ayaklarıyla geri çekildi. Hepsi haklıydı. En korkutucu kısmı buydu.
+
+Ren grubun mesaj akışını günlerce izledi. Önce mesajlar seyrekleşti. Sonra biri sustu, sonra bir başkası. Kimse "ayrılıyorum" demedi; sadece bir gün cevap vermez oldular. Ren onları suçlayamadı. Çünkü her ayrılma, dışarıdan bakıldığında makul bir karardı. Bir anne çocuğunu koruyordu. Bir akademisyen kariyerini kurtarıyordu. Bir hekim mesleğini savunuyordu. Hiçbiri korkak değildi. Hepsi sadece, hayatlarının en savunmasız noktasında dokunulmuştu. Ve o noktaya dokunmak için kimsenin onları tehdit etmesine gerek yoktu — sadece o noktanın nerede olduğunu bilmek yeterliydi.
 
 ---
 
@@ -16,7 +18,7 @@ Ana'nın evi soyulduğunda kızı yalnızdı. Hırsızlar bilgisayarları almad�
 
 Ana o gece ağlamadı. Arşiv grubuna tek bir cümle yazdı: "Kızımın yatağının başucunda tanımadığım bir adamın notu var. Bunun için çocuğumu riske atamam." Grubu sessizce terk etti. Bilgisayarını biçimlendirdi. Eski notları yaktı. Ertesi hafta işinden ayrıldı ve kızıyla birlikte taşındı. Yeni adresini kimseye vermedi.
 
-Korkusu kızıydı. Duvar cümlesi onu görünür kılmıştı — tehditten çok hatırlatma. Ana ayrılırken utandığı şeyi de hissetti: rahatlama. Yük gitmişti. Korktuğu için değil; korkmaya izin verildiği için çekilmişti.
+En büyük korkusu, kızının başına bir şey gelmesiydi. En-Nakar bunu ona göstermişti. Göstermek — sadece bu. Bir tehdit bile değildi tam olarak; bir olasılığın hatırlatılmasıydı. Ana hayatı boyunca o korkuyu taşımıştı, her anne gibi. Yapılan tek şey, o korkuyu bir cümleyle görünür kılmaktı. Ama aynı zamanda — Ana bunu kendine bile itiraf etmekte zorlanıyordu — araştırmadan ayrıldığı için rahatlamıştı. Yük gitmişti. Artık her gece o defterlerin yanında uyumak zorunda değildi. O rahatlama, en çok utandığı şeydi. Çünkü ona dışarıdan dayatılmamıştı. İçinden gelmişti. Korktuğu için değil — korkmaya izin verildiği için çekilmişti.
 
 ---
 
