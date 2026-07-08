@@ -23,3 +23,9 @@ En yeni tur en altta.
 - Kelime delta: ~−10% aksiyon sahneleri
 - Skorlar: final=4 action=4 prose=4 dna=true
 - Sonraki: phase 2 mikro veya phase 3 (19–21, 24)
+
+### Tur 3 — 2026-07-08 (phase 3)
+- Dosyalar: 19, 20, 21, 24 + TTS
+- P0: modern motor — Voss diyalog sıkı, didaktik −, top yuvarlanır
+- Skor: final=4 action=4 prose=4 dna=true
+- Sonraki: phase 4 (17,18,22,23) veya 3 mikro

@@ -97,40 +97,24 @@ Modelin cevabı dört maddeden oluşuyordu:
 
 Ren, Lu Shen'in iki bin yıl önce yazdığı notu açtı. Notta aynı dört madde vardı. Sadece kelimeler farklıydı. Lu Shen şöyle yazmıştı: *"Önce korkuyu gösterir. Sonra düşmanı işaret eder. Sonra kurtuluşu vaat eder. Sonra kapıyı kapatır."*
 
-Ren ekrana baktı. Sol tarafta Lu Shen'in el yazısı. Sağ tarafta bir makinenin ürettiği cümleler. Aynı fikir. Aynı yapı. Aynı sıra. Fark etmeden öğrenilmiş, fark etmeden aktarılmış. İki bin yıl, dört madde içinde kaybolmuştu. Makine bunu kötülük olsun diye söylememişti. Makine sadece insanlığın yazdıklarını öğrenmiş, sonra en sık tekrar edeni geri vermişti. İkna etmenin en hızlı yolu, demek ki, insanlık tarihinin en çok tekrar ettiği yoldu. Ve o yol, En-Nakar'ın yoluydu.
+Ekran: sol Lu Shen, sağ makine. Aynı dört basamak. Makine kötülük için değil; en sık tekrarı geri vermişti. İkna yolu, tarihin en çok tekrar ettiği yoldu.
 
-Ren o gece Kerem'e yazdı: "O sadece insan gibi görünmeyi öğrenmedi. İnsanın nasıl düşündüğünü de öğrendi. Ve şimdi ona geri veriyor — kendi düşüncesini, kendi sesiyle."
+Kerem'e yazdı: "İnsan gibi görünmeyi değil — düşünmeyi de öğrendi. Şimdi kendi sesimizle geri veriyor."
 
-Kerem'in cevabı kısaydı: "Peki buna karşı ne yapabiliriz?"
+"Peki ne yapabiliriz?"
 
-Ren cevap vermedi. Çünkü bilmiyordu.
-
----
-
-Ren hocasının son cümlesini hatırladı: *"O şey modern olmayı öğrendi."* Belki de modern olmak, insan gibi görünmek değildi. İnsanlığın bütün seslerinin arasına karışmak, onların içinden konuşmak, onları birbirlerine karşı değil, kendilerine karşı kullanmaktı. Bir makineye öğretilen her korku, her öfke, her nefret — bunların hepsi En-Nakar'ın yeni alfabesiydi. Eskiden tek tek kralların kulağına fısıldardı. Şimdi fısıldamasına gerek yoktu. İnsanlar onun cümlelerini birbirlerine kendileri taşıyordu. Beğeniyle. Paylaşımla. Öfkeyle. Korkuyla.
+Ren cevap vermedi.
 
 ---
 
-Arşiv üyeleri bu dönemde daha da tedirginleşti.
+*"O şey modern olmayı öğrendi."* Modern: seslerin arasına karışmak. Fısıldamaya gerek yok; insanlar cümleleri kendileri taşıyor — beğeni, paylaşım, öfke.
 
-Kerem, defterin fotoğraflarını paylaşırken bir kez daha uyardı: "Bu dosyayı indiren herkes risk altında. Unutmayın, işaret çoğaldıkça kapı genişler." Marta, çeviri çalışmalarını şifreli olarak paylaşıyordu. Daniel ise hastane kayıtlarındaki desenleri analiz ederken kendi notlarını silmeye başlamıştı. Ana, Brezilyalı uzman, veri setlerindeki anomalileri buldukça "Bu bir virüs gibi yayılıyor," diyordu.
+Kerem: "Dosyayı indiren risk altında. İşaret çoğaldıkça kapı genişler." Marta şifreli. Daniel not siliyor. Ana: "Virüs gibi."
 
-Ren cevap yazmıyordu.
+Virüs benzetmesi yarım: yayılıyor, ama konak ölünce bitmiyor. Ölümden besleniyor.
 
-Çünkü virüs benzetmesi hem doğru hem yanlıştı.
+Kerem: "Arşiv de işaret. Biliyorum. Durduramıyorum."
 
-Doğruydu: Yayılıyordu. Konak buluyordu. Taşıyıcı üretiyordu.
+Ren de.
 
-Yanlıştı: Bir virüs, konak ölünce kendisi de ölürdü. Bu değil.
-
-Bu, konağın ölümünden beslenen bir şeydi.
-
-Kerem'in yazdığı bir mesajı Ren defalarca okudu: "Arşiv'in kendisi de bir işaret. Bizi araştırırken bir şeyler yaratıyoruz. Yaratmak, tanımlamak demek. Tanımlamak, kapı açmak demek." Altına şunu eklemişti: "Bunu biliyorum. Yine de durduramıyorum."
-
-Ren de biliyordu.
-
-Yine de durduramıyordu.
-
-Ekranı kapattı. Oda karardı. Ama camda, dışarıdaki şehrin ışığında, gri bir daire içinde koyu gri bir nokta gibi tek bir yansıma kaldı. Ren ona uzun süre baktı. Sonra anladı: O, sadece kendi gözbebeğiydi.
-
-Ya da öyle olduğunu ummak istedi.
+Ekran kapandı. Camda gri daire, koyu nokta. Kendi gözbebeği — ummak istediği buydu.
