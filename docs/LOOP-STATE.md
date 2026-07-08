@@ -1,19 +1,19 @@
 # LOOP-STATE
-turn: 0
+turn: 1
 phase: 6
-phase_turns: 0
-next_chapters: [13, 15, 16]
-last_focus: "MASTER: anlamlı büyütme; bütün-roman düşün; kapalı vignette; ara çağ; +%10 yön"
+phase_turns: 1
+next_chapters: [11, 13, 15, 16]
+last_focus: "Timed iter: kapalı vignette — 11 ateş sonrası, 13 keşiş, 15 Warren 1952, 16 Paris/IRC"
 final_grounded: 3
 action_balance: 3
 prose_richness: 4
 length_ok: true
 words_before: 27437
-words_after: 27437
-delta: 0
-target_delta: 0
+words_after: 28047
+delta: 610
+target_delta: 400
 chapter_count: 27
 new_chapters: []
 dna_ok: true
-last_commit: "0ba2c25 restore + 79e232d/+10 docs"
-notes: "Sonraki tur: tüm roman tarama → plan → kapalı ara-çağ veya sahne açma. Dolgu yok."
+last_commit: "pending"
+notes: "İterasyon süresi ölçümü yapıldı; interval önerisi kullanıcıya"

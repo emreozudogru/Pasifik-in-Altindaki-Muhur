@@ -52,9 +52,13 @@ Diğeri, bir kâğıttı. Üzerinde tek bir cümle, İngilizce yazılmıştı �
 
 *"Acı, insanın ortak dilidir."*
 
-Warren o kâğıdı ölene kadar sakladı. Kimseye göstermedi. Emekli olduğunda, raporlarını, günlüklerini, savaş anılarını yaktı — hepsini. Ama o kâğıdı yakmadı. Çünkü onu yakmak, ona dokunmak, onu düşünmek bile, o sesi geri çağırıyordu. En iyisi, onu bir çekmecede unutmaktı.
+Warren o kâğıdı ölene kadar sakladı. Kimseye göstermedi.
 
-Yıllar sonra, çok yıllar sonra, bir kadın o günlüklerin izini sürecekti. Adı Sato Ren olacaktı. Ve Warren'ın torunlarından biri, ona tek bir kâğıt verecekti — sararmış, kenarları yanık, üzerinde tek bir cümle.
+1952'de, Ohio'da küçük bir kasabada, bir akşam yemeğinde torunu — henüz on yaşında — sordu: "Büyükbaba, savaşta en korktuğun neydi?" Warren çatalını indirdi. Bir an, koğuştaki gri bakışı, şırıngayı, "Ellis" diyen sessiz dudağı hatırladı. Sonra gülümsedi, yalan söyledi: "Sivrisinekler." Masa güldü. Warren o gece çekmeceyi açtı, kâğıda baktı, kapattı. Ertesi sabah, kiliseye giden yolda, bir yabancı "Günaydın" dedi — sakin, tanıdık bir tonda. Warren cevap vermedi. Yabancıyı tanımıyordu. Yine de adımlarını hızlandırdı.
+
+Emekli olduğunda, raporlarını, günlüklerini, savaş anılarını yaktı — hepsini. Ama o kâğıdı yakmadı. Çünkü onu yakmak, ona dokunmak, onu düşünmek bile, o sesi geri çağırıyordu. En iyisi, onu bir çekmecede unutmaktı. Unuttu — ya da unuttuğunu sandı. Ölüm döşeğinde, hemşire elini tutarken, Warren bir kez fısıldadı: "Cevap verme." Hemşire "ne?" diye sordu. Warren gözlerini kapadı. Daha konuşmadı.
+
+Yıllar sonra, çok yıllar sonra, bir kadın o günlüklerin izini sürecekti. Adı Sato Ren olacaktı. Ve Warren'ın torunlarından biri — o masada sivrisinek yalanını duyan çocuk, artık yaşlı — ona tek bir kâğıt verecekti: sararmış, kenarları yanık, üzerinde tek bir cümle. "Bunu büyükbabam sakladı," diyecekti. "Nedenini bilmiyorum. Belki sen bilirsin."
 
 Ama o, daha çok sonra.
 

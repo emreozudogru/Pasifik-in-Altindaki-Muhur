@@ -85,3 +85,27 @@ Eirene bunu biliyordu.
 Bu yüzden taşa kazımıştı.
 
 Taş kalırdı.
+
+---
+
+Ateş söndükten sonra kimse hemen kalkmadı. Deniz hışırdıyordu. Uzakta, lav tünelinin ağzında, gümüş perdelerin arkasında bir şey nefes alıyordu — ya da rüzgâr öyle diyordu.
+
+Anadolu'lu usta ellerini açtı, baktı, kapattı. "Yarın kapıyı kapatacağız," dedi kimseye. "Sonra ne?"
+
+"Sonra gideceğiz," dedi Mısırlı. "Kimimiz. Kimimiz kalamayız."
+
+Lu Shen kâğıdı göğsüne bastırdı. İçinde yedi satır vardı; yedincisi *kan* diye yazılmıştı, oysa ateşin yanında *bedel* denmişti. Bir an, kalemi yeniden çıkarıp düzeltmeyi düşündü. Sonra vazgeçti. Sarayda öğrendiği buydu: kayda geçen, kalır. Gerçek, bazen kayıttan dışarı sızar.
+
+Eirene kıyıya indi. Ayakları ıslak kuma battı. Cebindeki taşı çıkardı — o köyde, kuru nehirden. Beş parmağını taşa bastırdı, bu kez kan yok, sadece baskı. İz bırakmadı. Bırakması da gerekmiyordu. Yarın eşiğe basacaktı.
+
+Döndüğünde ateş sönmüştü. Lu Shen hâlâ oturuyordu.
+
+"Yalan yazdın," dedi Eirene. Suçlama değildi. Tespit.
+
+"Evet," dedi Lu Shen. "Ama torunların okuyacağı yalan."
+
+"Benim torunum olmayacak."
+
+"Benim de." Sustu. "Yine de biri okuyacak."
+
+Eirene başını salladı. O gece daha konuşmadılar. Sabah kapı kapanacaktı. Ve yalan ile bedel, iki bin yıl yan yana duracaktı — biri kayıtlarda, biri taşta.

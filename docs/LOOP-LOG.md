@@ -51,3 +51,9 @@ En yeni tur en altta.
 - `git checkout 9da3cea -- tr/metin/bolumler/` + `metinler/`
 - Loop t1–t5 kısaltmaları geri alındı (~24.3k → ~27.4k)
 - MASTER büyütme kuralı korunuyor
+
+### Tur 1 (timed) — 2026-07-08
+- Bütün-roman: ara çağ/kısa bölüm boşlukları (11,13,15,16)
+- Plan: 4 kapalı vignette
+- Delta: +610 (hedef ≥400)
+- Süre: ~60s duvar saati (bu ortam, context hazır)
