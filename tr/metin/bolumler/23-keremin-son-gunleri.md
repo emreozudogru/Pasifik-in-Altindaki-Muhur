@@ -56,13 +56,13 @@ Son sesli notu, kaybolmasından bir gün önce kaydedilmişti.
 
 Ren onu haftalar sonra dinledi. Kerem'in sesi yorgundu, ama o eski sıcaklık hâlâ oradaydı.
 
-"Ren. Eğer bunu dinliyorsan, muhtemelen ben artık ulaşılabilir değilim. Panik yapma — ya da yap, ama sonra dur, nefes al, üçe kadar say. Hatırlıyor musun, bana öğrettiğin şey. Antik muhafızlar da öyle yapmış işte. Komik, değil mi? İki bin yıl, ve hâlâ aynı numara: dur ve nefes al.
+"Ren. Eğer bunu dinliyorsan, muhtemelen ben artık ulaşılabilir değilim. Panik yapma. Ya da yap, ama sonra dur, nefes al, üçe kadar say. Hatırlıyor musun, bana öğrettiğin şey. Antik muhafızlar da öyle yapmış. Gemide bir gece sandığa cevap vermemişler. Eirene omza el koymuş. Ben bunu bir dipnotta okudum, ya da rüyamda gördüm, bilmiyorum. Komik, değil mi? İki bin yıl, hâlâ aynı numara: dur ve nefes al. Cevap verme.
 
 Bak, sana bir şey söyleyecektim ama söylemeyeceğim. Çünkü söylersem, sen koşarsın. Ben de senin yerinde olsam koşardım. Onun istediği de bu zaten. O yüzden söylemiyorum. Kendin bulacaksın. Geç bulacaksın, ama doğru zamanda bulacaksın.
 
-Sadece şunu bil: yedinci mühür kan değildi. Yanlış çevirmişiz. Kan değil — bedel. Ve bedel..." Sesi bir an kesildi. "Bedel her zaman, onu en sevmediğin anda gelir. Hazır ol. Ama kahraman olma. Sakın kahraman olma."
+Sadece şunu bil: yedinci mühür kan değildi. Yanlış çevirmişiz. Kan değil, bedel. Ve bedel..." Sesi bir an kesildi. "Bedel her zaman, onu en sevmediğin anda gelir. Hazır ol. Ama kahraman olma. Sakın kahraman olma."
 
-Kayıt orada bitiyordu.
+Kayıt orada bitiyordu. Ren dinlerken çekmecedeki kâğıdı düşündü. Do not answer. Kerem bilmeden aynı kapıyı işaret etmişti.
 
 Ertesi gün havaalanı kayıtları, Kerem'in Bakü'ye uçtuğunu gösterdi. Bilet dijitaldi. Yüz tanıma geçmişti. Her şey tutarlıydı.
 

@@ -70,7 +70,9 @@ Yalnız Eirene, bunu bir kehanet gibi duymadı. Bir kehanette korku vardır; bil
 
 Kapı henüz kapanmamıştı.
 
-O gece, son kapanmadan önce, Mühürcüler dışarıda oturdu. Her biri farklı bir yönü seyretti. Mısır'ı. Persya'yı. Hindistan'ı. Çin'i. Ege'yi. Artık hiçbirine dönmeyeceklerdi — en azından büyük çoğunluğu. Bu yolculuk onları kendi evlerinden çok daha uzaklara taşımıştı. Ve şimdi, dünyanın ucunda, obsidyen bir odanın önünde oturuyorlardı.
+Yedinci ayın son haftasında, tünelde çalışan yerli bir genç (adı kayıtlara girmedi) obsidyen duvara kulağını dayadı. İçeriden bir ritim geldi. Kendi kalbi gibi. "Anne," sandı. "Beni çağırıyor." Elini duvara koydu. Duvar ılıktı. Ağzını açtı. Anadolu'lu usta, arkasından, taşla duvara bir kez vurdu. Sert. Ses kesti. Usta parmaklarıyla işaret etti: hayır. Konuşma. Genç sustu. O gece tünelden çıktı, kıyıya indi, denize bakan bir kulübenin penceresini tahta ile çaktı. Nedenini bilmiyordu. Elleri biliyordu. Sabah işe döndü. Kimseye bir şey demedi. Akşam yemeğinde annesi sordu: "Tünelde ne gördün?" Genç omuz silkti. "Taş." Yalan değildi. Eksikti. Annesi ısrar etmedi. Masada balık vardı, tuzlu. O gece yine panoyu kontrol etti. Çiviler yerindeydi. Yıllar sonra o kulübe yıkıldı; tahta panolar denize dağıldı. Alışkanlık kaldı: o koyda pencereler gece kapanırdı. Çocuklar "uğursuz rüzgâr" derdi. Rüzgâr, bazen, bir elin hatırasıydı.
+
+O gece, son kapanmadan önce, Mühürcüler dışarıda oturdu. Her biri farklı bir yönü seyretti. Mısır'ı. Persya'yı. Hindistan'ı. Çin'i. Ege'yi. Artık hiçbirine dönmeyeceklerdi, en azından büyük çoğunluğu. Bu yolculuk onları kendi evlerinden çok daha uzaklara taşımıştı. Ve şimdi, dünyanın ucunda, obsidyen bir odanın önünde oturuyorlardı.
 
 Sabah kapıyı kapatacaklardı.
 
@@ -80,4 +82,4 @@ Mühürlerin ne anlama geldiğini.
 
 Her birinin ne gerektirdiğini.
 
-Ve yedincisinin — en son mühürün — kimden ne isteyeceğini.
+Ve yedincisinin, en son mühürün, kimden ne isteyeceğini.

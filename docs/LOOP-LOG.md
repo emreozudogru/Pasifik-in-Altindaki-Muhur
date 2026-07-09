@@ -73,3 +73,9 @@ En yeni tur en altta.
 - words: 28481 -> 28839 (delta 358)
 - open_threads: warren closed; gemi-muhafiz open; kesish dancing
 - em dash yeni metinde yok
+
+### Tur 4 — 2026-07-09
+- Plan: cevap-verme dans (06/10/23); kisa bolum ac (03/08)
+- Dosyalar: 03,06,08,10,23 + TTS
+- words: 28881 -> 29234 (delta 353)
+- open: kuroshima-yerli-pano; gemi-muhafiz dancing
