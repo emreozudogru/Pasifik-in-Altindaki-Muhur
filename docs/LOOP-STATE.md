@@ -1,21 +1,21 @@
 # LOOP-STATE
-turn: 16
+turn: 17
 phase: 1
 phase_turns: 1
-next_chapters: [1, 9, 17, 20, 22]
-last_focus: "07 öğle muhafız; 08 huzur yutma; 11 şafak taş; 15 Warren liman; 19 arama sil"
+next_chapters: [2, 3, 13, 21, 24]
+last_focus: "01 kuyu/yol; 09 ikinci gece; 17 ölüm öncesi; 20 Voss isim yok; 22 Marta kâğıt/kül"
 final_grounded: 4
 action_balance: 4
 prose_richness: 4
 length_ok: true
-words_before: 34042
-words_after: 34450
-delta: 408
+words_before: 34450
+words_after: 34851
+delta: 401
 target_delta: 400
 chapter_count: 27
 new_chapters: []
 dna_ok: true
-last_commit: "f606e6c"
+last_commit: "pending-t17"
 open_threads:
   - id: kesish-pencere-15yy
     planted: "13"
@@ -26,22 +26,22 @@ open_threads:
     planted: "15"
     status: closed
     payoff_target: "15/18/20/21/23/24/25/26/27"
-    hook: "15 liman peşin"
+    hook: "20 peşin"
   - id: gemi-muhafiz-sus
     planted: "09"
     status: closed
     payoff_target: "05/06/07/08/09"
-    hook: "07/08 peşin"
+    hook: "09 peşin"
   - id: kuroshima-yerli-pano
     planted: "10"
     status: closed
-    payoff_target: "10/11/12"
-    hook: "11 pano peşin"
+    payoff_target: "09/10/12"
+    hook: "09 pano peşin"
   - id: arakawa-telefon-cevap
     planted: "17"
     status: closed
     payoff_target: "17/20/21/24"
-    hook: "telefon"
+    hook: "17 ölüm öncesi peşin"
   - id: irc-nefes-sil
     planted: "16"
     status: closed
@@ -81,7 +81,7 @@ open_threads:
     planted: "19"
     status: closed
     payoff_target: "19"
-    hook: "19 arama sil peşin"
+    hook: "forum"
   - id: cay-evi-kapi-24
     planted: "24"
     status: closed
@@ -102,4 +102,9 @@ open_threads:
     status: closed
     payoff_target: "26"
     hook: "kâğıt"
-notes: "t16: 07/08/11/15/19. Delta 408. Em/en dash yeni yok. max 5."
+  - id: marta-mektup-22
+    planted: "22"
+    status: closed
+    payoff_target: "22"
+    hook: "mektup kül; kâğıt rafta"
+notes: "t17: 01/09/17/20/22. Delta 401. Em/en dash yeni yok. max 5."

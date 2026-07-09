@@ -126,4 +126,10 @@ Metroda oturdu. Karşısındaki adam gazete okuyordu, ya da öyle görünüyordu
 
 Yatmadan önce Arakawa'nın sandığını düşündü. Açmadı. Açmak, sormak olurdu. Sormak, cevap isterdi. Cevap, o gece, Voss'un gülümsemesine benzerdi. Ren ışığı kapattı. Koridorda ayak sesi. Durdu. Geçti. Nefes. Bir, iki, üç. Uyudu, yarım.
 
+Sabah mesaj yoktu. İyi. Ren bilerek Voss adını aramadı. Aramak, tıklamaktı. Ofise gitti. Koridorda bir meslektaş "dün birini gördüm, seni soruyordu" dedi. Ren "kim?" demedi. Demek, kapı olurdu. Omuz silkti. "Yanlış kişi." Yalan değildi. Tam da değildi. Öğleye kadar ekran karanlık. *Do not answer* çekmecede. Çay soğuk. Yarım saniye, defterde, hâlâ. Voss kazanmadı. Ren de. Sadece, isim söylemekte bir saniye gecikti.
+
+Akşam metro. Gazete yok. Telefon kapalı. Evde perde. Çay demledi. İçmedi. Soğudu. Düzen.
+
+
+
 

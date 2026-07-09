@@ -108,6 +108,15 @@ Yola çıkmadan önce bir su tulumu doldurdu. Köyün kuyusundan. Kimse sormadı
 
 Üçüncü günde bir kervana rastladı. Tüccar sordu: "Nereye?" Eirene omuz silkti. "Uzağa." Tüccar güldü, sormadı. İyi bir tüccardı. Ya da tesadüf. Eirene su istedi, verdi. Konuşmadı. Taş cebinde kaldı. Adını kimse sormadı. Sormasalar iyiydi. İsim, o yolda, henüz erken geldi.
 
+Beşinci günde bir kuyu buldu. Su içti, taşını ıslatmadı. Islatmak, iz silmek olurdu. İz, henüz soruydu. Gece, yol kenarında yattı. İçinden ses, tüccarın sesiyle: "Adını söyle, yol kısılır." Eirene ağzını açmadı. Köpek ulumadı. Rüzgâr yoktu. Yine de saçları kımıldadı. Sabah kalktı, yürüdü. Köye dönmedi. Dönmek, cevap vermek gibiydi. Taş cebinde, soğuk, net. İlk mühür, yolda da işliyordu: susmak, bakmamak, isim koymamak.
+
+Altıncı günde bir çocuk yol kenarından el salladı. Eirene el sallamadı. Selam, isim isterdi. Yürüdü. Çocuk unuttu. İyi.
+
+Yedinci günde taş hâlâ soğuktu. Eirene bunu bir işaret sandı. İşaret, isim değildi. Yürüdü. Dünyanın ucu, henüz uzaktı. Yine de yön, tek: ileri. Geri yok.
+
+
+
+
 
 
 ---

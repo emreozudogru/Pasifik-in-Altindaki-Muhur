@@ -36,6 +36,12 @@ O hafta Arakawa bir gece sandığı açtı, kapattı. Parmak izine bakmadı uzun
 
 Aynı gün Arakawa e-posta taslağı açtı: "Ren, sandığı..." Sildi. Konu satırı boş kaldı. Boş, bazen, en temiz uyarıydı.
 
+Ölümünden bir gece önce Arakawa perdeyi aralamadı. Telefon çaldı. Bilinmeyen. Açmadı. Deftere baktı: *Cevap verme.* Üstü çizili değildi artık. Ren'e yazmadı. Yazmak, onu koştururdu. Koşmak, kapıydı. Sandığı dolaba koydu, kilitledi. Anahtar, cebinde. Sabah ölü bulundu. Anahtar hâlâ cebindeydi. Sandık yoktu. Kimse sormadı fazla. Ren sordu, içinden. Cevap gelmedi. İyi. Cevap, o dairede, çoktan gitmişti.
+
+Ren son e-postayı üç kez okudu, dördüncüde kapattı. Yanıt yazmadı. Yazmak, hocayı geri çağırmak gibiydi. Çağırmak, kapıydı.
+
+
+
 
 
 2006’da özel bir tekneyle adaya gizlice gitmeyi planladı. Gitmeden iki gün önce evinde ölü bulundu. Resmî kayıtlara göre kalp krizi. Kalbinde bir sorun olduğuna dair hiçbir geçmiş kayıt yoktu, ama yaş, yorgunluk ve yalnızlık her şeyi açıklayabilirdi; kimse fazla sormadı. Ama öğrencisi Sato Ren, hocasının ölümünden önce ona gönderdiği son e-postayı sakladı. Saat gecenin üçünü geçiyordu; gönderildikten birkaç saat sonra hesabın taslakları boşaltılmış, sandık ise dairesinde bulunamamıştı. E-postada tek cümle vardı: “O şey ölmedi; sadece modern olmayı öğrendi.”

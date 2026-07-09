@@ -100,4 +100,10 @@ Ve aşağıda, sandığın içinde, iki bin yıl sürecek bir bekleme sessizce b
 
 Mısırlı astronom kayalara tırmandı, geri indi. "Ada küçük," dedi. Eirene başını salladı. Küçük, iyiydi. Büyük yerler, daha çok isim isterdi.
 
+İkinci gece karada, Lu Shen kâğıda *ada* yazmayı düşündü. Yazmadı. Ada, isimdi. Yerine boş satır. Eirene çadırdan çıktı, muhafıza baktı. Balmumu yerinde. Sandık tırnak atmadı. Yerli çocuk, uzaktan, panoyu işaret etti, gitti. Usta panoya dokunmadı. Dokunmak, sormak olurdu. Sis sabaha kadar kaldı. Beş kişi, isimsiz, adanın kıyısında uyudu. Uyku yarım. Yeterli. Bekleme, sandığın içinde ve dışında birden işliyordu.
+
+Pers rahibi ateş yakmadı. "Ada ateş istemez," dedi kimseye. Kimse sormadı. Tuz, dilde. Yeterli.
+
+
+
 

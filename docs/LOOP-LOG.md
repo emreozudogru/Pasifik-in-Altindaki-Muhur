@@ -169,3 +169,11 @@ En yeni tur en altta.
 - open: hepsi closed peşin
 - DNA ok; tire yok; max 5
 - Sonraki: 01/09/17/20/22
+
+### Tur 17 — 2026-07-09
+- Plan: (1) 01 yol/kuyu (2) 09 kara ikinci gece (3) 17/20/22 modern cevap-verme kapalı
+- Dosyalar: 01, 09, 17, 20, 22 + TTS
+- words: 34450 -> 34851 (delta 401, target 400)
+- open: marta-mektup-22 closed
+- DNA ok; tire yok; max 5
+- Sonraki: 02/03/13/21/24
