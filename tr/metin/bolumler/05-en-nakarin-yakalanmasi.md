@@ -89,3 +89,9 @@ Yola çıkmadan önce, bir yardımcı sandığın yanına eğildi. Dudakları k�
 Ve sessizlik, o andan itibaren Mühürcüler'in tek silahı oldu.
 
 Astronomun kardeşi yolculuğun üçüncü günü konuşmaya başladı. İlk sözü "Neredeyim?" oldu. İkinci sözü "Ben ne yaptım?" oldu. Üçüncü sözü olmadı. Çünkü üçüncü günün gecesi, uyurken sessizce öldü. Kimse uyandıramadı.
+
+Gömmeden önce Eirene kardeşin gözkapaklarını kapattı. Astronom sordu: "Adını söyleyelim mi?" Eirene başını salladı. Hayır. İsim, mezar taşına da yazılmayacaktı. Toprağa verdiler, taş yok, yazı yok. Astronom bir gece ağladı, sessiz. Sandık uzaktaydı, yine de tırnak attı gibi geldi. Kimse yaklaşmadı. Ertesi sabah kervan yürüdü. Yardımcı, balmumu kulağında, en arkada. Omzunda Eirene'nin elinin izi hâlâ sıcaktı. Söylemedi. Söylemek, o vadide kalan adı geri çağırmak olurdu.
+
+O öğle, vadinin çıkışında, Lu Shen yere oturdu. Kâğıda bir satır yazdı, sildi: *yakalandı.* Yerine *taşındı* yazdı. Sonra onu da sildi. Boş kâğıt, o gün, en dürüst kayıttı. Eirene yanından geçti, durmadı. Selam yok. İkisi de biliyordu: konuşmak, sandığı beslerdi. Yürüdüler.
+
+

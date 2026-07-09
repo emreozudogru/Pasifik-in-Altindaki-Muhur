@@ -63,3 +63,9 @@ O geceden sonra, ağlamak serbest oldu.
 Yalnızca fısıltı yasaktı.
 
 Sabaha karşı, sandığın yanında nöbet tutan yaşlı bir muhafız (henüz sağır değildi, balmumu yeni takılmıştı) rüyasından sıçradı. Rüyada biri adını söylemişti. Kendi adını. "Cevap ver," demişti ses. "Bir kelime yeter." Muhafız elini sandığa uzattı. Tahta soğuktu. Parmakları titredi. Sonra Eirene'nin gece söylediğini hatırladı: suçlama yok, fısıltı yok. Ağlamak serbest. Konuşmak değil. Muhafız elini çekti. Ağzını açmadı. Gözlerinden yaş aktı, sessiz. Sandık tırnak atmadı. O sabah muhafız, kervanın en arkasında yürüdü. Kimseye rüyasını anlatmadı. Anlatmak, kapıyı aralamak olurdu. O gün su tulumunu iki kez kontrol etti. Elleri hâlâ titriyordu. Kimse sormadı. İyi ki sormadı.
+
+Öğleden sonra, kervan gölgede mola verdi. Yaşlı muhafız, Eirene'ye su uzattı. Eirene içti. Teşekkür etmedi. Teşekkür sesti. Muhafız oturdu, sandığa sırtını dönerek. "Rüyada adımı söyledi," demedi. Demek, rüyayı büyütürdü. Lu Shen uzaktan baktı, yazmadı. Matematikçinin bıraktığı kelime, cebinde, henüz açılmamıştı. O mola, isimsiz bir zaferdi: kimse sandığa isim fısıldamadı. Gölge uzadı. Yola devam.
+
+Akşam, Eirene yaşlı muhafıza balmumu bastırdı. Muhafız titredi, kabul etti. "Adımı unut," demedi kimse. Unutmak emredilmezdi; seçilirdi. Muhafız o gece rüya görmedi. Ya da gördü, hatırlamadı. Fark etmedi. Sandık sustu. Kervan uyudu, yarım.
+
+

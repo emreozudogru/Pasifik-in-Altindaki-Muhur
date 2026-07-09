@@ -1,42 +1,42 @@
 # LOOP-STATE
-turn: 9
+turn: 10
 phase: 1
 phase_turns: 1
-next_chapters: [5, 6, 15, 18, 22]
-last_focus: "12 pano bag; 04 yola cikis; 10 Lu Shen pano; 14 bomba gecesi pano; 26 kapi calma"
+next_chapters: [1, 7, 11, 19, 20]
+last_focus: "05 gömme/isim yok; 06 mola muhafiz; 15 Warren kilise; 18 Kerem taslak sil; 22 Marta firtina ortu"
 final_grounded: 4
 action_balance: 4
 prose_richness: 4
 length_ok: true
-words_before: 31037
-words_after: 31480
-delta: 443
+words_before: 31480
+words_after: 31920
+delta: 440
 target_delta: 400
 chapter_count: 27
 new_chapters: []
 dna_ok: true
-last_commit: "7ffd825"
+last_commit: "pending-t10"
 open_threads:
   - id: kesish-pencere-15yy
     planted: "13"
     status: dancing
     payoff_target: "14/17/22/25/27"
-    hook: "14 bomba gecesi pano dans"
+    hook: "22 firtina ortu dans"
   - id: warren-cevap-verme
     planted: "15"
     status: closed
-    payoff_target: "18/25/26/27"
-    hook: "Do not answer"
+    payoff_target: "15/18/25/26/27"
+    hook: "15 kilise+cekmece peşin"
   - id: gemi-muhafiz-sus
     planted: "09"
     status: dancing
     payoff_target: "05/06/07/08/09/11/23"
-    hook: "sandik sus"
+    hook: "05 yardimci + 06 mola dans"
   - id: kuroshima-yerli-pano
     planted: "10"
     status: closed
     payoff_target: "10/12"
-    hook: "12 kiyi pano bag; 10 Lu Shen not yazmadi"
+    hook: "pano bag"
   - id: arakawa-telefon-cevap
     planted: "17"
     status: closed
@@ -66,5 +66,10 @@ open_threads:
     planted: "26"
     status: closed
     payoff_target: "26"
-    hook: "kapi calma; Kim o demedi"
-notes: "t9: 04/10/12/14/26. kuroshima-pano CLOSED. Delta 443. Em/en dash yeni yok."
+    hook: "kapi calma"
+  - id: arsiv-isim-sil-18
+    planted: "18"
+    status: closed
+    payoff_target: "18"
+    hook: "Kerem Ada isim sil; Ana/Marta/Daniel"
+notes: "t10: 05/06/15/18/22. Delta 440. Em/en dash yeni yok. max 5 dosya."

@@ -113,3 +113,11 @@ En yeni tur en altta.
 - open: kuroshima-pano closed; kesish/gemi dancing; ren-kapi-26 closed
 - DNA ok; em/en dash yeni yok; max 5 dosya
 - Sonraki: 05/06/15/18/22
+
+### Tur 10 — 2026-07-09
+- Plan: (1) 05/06 muhafız-isim dans (2) 15 Warren kilise/çekmece (3) 18 Arşiv isim sil kapalı; 22 Marta fırtına örtü dans
+- Dosyalar: 05, 06, 15, 18, 22 + TTS
+- words: 31480 -> 31920 (delta 440, target 400)
+- open: gemi/kesish dancing; warren peşin; arsiv-isim-sil closed
+- DNA ok; em/en dash yeni yok; max 5
+- Sonraki: 01/07/11/19/20
