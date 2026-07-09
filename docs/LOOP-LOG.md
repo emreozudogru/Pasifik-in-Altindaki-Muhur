@@ -161,3 +161,11 @@ En yeni tur en altta.
 - open: bank-kagit-26 closed; diğerleri closed peşin
 - DNA ok; tire yok; max 5
 - Sonraki: 07/08/11/15/19
+
+### Tur 16 — 2026-07-09
+- Plan: (1) 07/08 muhafız-huzur (2) 11 şafak taş/pano (3) 15 Warren liman; 19 arama sil
+- Dosyalar: 07, 08, 11, 15, 19 + TTS
+- words: 34042 -> 34450 (delta 408, target 400)
+- open: hepsi closed peşin
+- DNA ok; tire yok; max 5
+- Sonraki: 01/09/17/20/22

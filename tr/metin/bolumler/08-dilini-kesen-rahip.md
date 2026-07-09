@@ -74,6 +74,12 @@ O gölge, sonraki gece, başka bir nöbetçinin rüyasına girdi. Rüyada rahip 
 
 Lu Shen "huzur"u kâğıda yazmayı düşündü, yasaklar listesine. Yazmadı. Liste de isim gibi işlerdi. Boş kâğıt, o öğle, yeterdi.
 
+Akşam, kervan suskun yürürken, bir kürekçi "huzur" demeye yeltendi, yuttu. Eirene duydu, dönmedi. Dönmek, kelimeyi büyütürdü. Nöbetçi balmumunu kontrol etti. Taze. Rahibin kayalığa gidişi, hâlâ omuzlarda bir gölge gibiydi; isimsiz. Lu Shen o gece uyumadı. Kâğıda bakmadı. Bakmak, liste yazmak isterdi. Liste yok. Sabah deniz daha yakındı. Tuz. Kimse dilini kesmedi. Kimse de mutlu olmadığını söylemedi. Söylemek, rahibin kapısına benziyordu. Sustular. Yeterli.
+
+Usta ipleri üçüncü kez yokladı. Gerek yoktu. Eller, gerek duymadan biliyordu.
+
+
+
 
 
 

@@ -143,3 +143,12 @@ Gece, Kerem aradı. Bir kez. Ren baktı. Açmadı. Sonra mesaj: "Sadece sesini d
 
 Sabah Ana yine yazdı: "Sildiğimizi sandığımız şey geri gelebilir." Ren: "Belki." Sonra: "Yine de tıklama." Ana "anladım" dedi. İki kadın, ekranlar arasında, isimsiz bir kuralı tuttu. Forum boş kaldı. Bir süre.
 
+O "bir süre" içinde Ren bir arama geçmişi sildi: *Kuroshima.* Silmek, unutmak değildi; beslememekti. Kerem yazdı: "Bir şey mi var?" Ren: "Yok." Yalan değildi. Tıklanmamış başlık, yok gibiydi. Ana forumda dolaşmadı. Marta "ada" kelimesini notlarından çıkardı. Daniel hasta dosyasına "varlık" yazmadı. Hepsi, bilmeden, aynı sabah aynı seçimi tuttu. Ekranlar soğudu. Kapı dar. Ren kahve demledi. İçmedi. Soğudu. Düzen, bu kadardı. Forum bir daha açılmadı. Ya da açıldı, isimsiz, tıklanmadan öldü.
+
+Ren o gece Voss adını aramadı. Aramak, tıklamaktı. Tıklamak, kapıydı. Ekran karanlık kaldı.
+
+Sabah trafik. Saat tiktak. Kapı dar. Yeterli sandı. Yeterli değildi belki. Ama tıklamadı.
+
+
+
+

@@ -86,4 +86,13 @@ Ertesi sabah, ölen muhafızın yerine genç biri nöbete geldi. Balmumu taze. E
 
 Lu Shen o sabah kâğıda baktı. Matematikçinin kelimesi: isim. Yanına bir çizgi çekti, sildi. "Bugün kimse adını söylemedi," diye not düşmek istedi. Yazmadı. Not, övünç olurdu. Övünç, besindi. Kâğıdı katladı. Deniz tuz getirdi. Eirene taşını avucunda tuttu, iz hâlâ orada, kuru kan. Kimse sormadı. İyi ki sormadı.
 
+Öğle molasında genç muhafız Eirene'ye su uzattı. Eirene içti. Teşekkür etmedi. Genç, sandığa bakmadan oturdu. "Annen," fısıltısı hâlâ kulaktaydı; balmumu bastırılmıştı. Anadolu'lu usta ipleri yokladı. Gevşek yok. İyi. Lu Shen denize baktı, kâğıdı açmadı. O öğle, kervanda kimse isim söylemedi. Fırtına uzaktaydı. Yine de tuz, dilde. Yola devam. Bedel, taşa basılmış, henüz görünmüyordu. Görünmemek, bazen, mührün parçasıydı.
+
+Pers rahibi ateş yakmadı. "Yok," dedi kimseye. Kimse sormadı. İyi.
+
+Eirene taşını cebine koydu. İz gizli. Gizli, iyi.
+
+
+
+
 

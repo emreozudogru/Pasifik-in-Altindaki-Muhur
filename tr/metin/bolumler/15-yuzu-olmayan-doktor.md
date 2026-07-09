@@ -73,3 +73,9 @@ Ama o, daha çok sonra.
 İnsanlık, savaştan yeni çıkmış, en kırılgan, en korkmuş, en açık halindeydi.
 
 Sofra kurulmuştu.
+
+Warren, o 1946 kapısından çıkmadan önce, bir kez daha koğuşa baktı. Boş yataklar. Gri bakış yoktu artık. Yine de elini cebine götürdü, kâğıdı yokladı. *Pain is the common language of man.* Cevap vermedi kimseye. Hemşire "doktor" dedi. Warren başını salladı. Dönmedi. Limana yürüdü. Gemi, duman, tuz. Bir yabancı "Günaydın" demedi o sabah. İyi. Warren adını sormadı. Sormak, kapı olurdu. Dünya açıktı. Sofra, her yerde, aynı anda kuruluyordu. Warren bilmiyordu. Elleri biliyordu: çekmece, bir gün, kapanacaktı.
+
+Gemi düdük çaldı. Warren bindi. Adını deftere yazdırırken elini titretti, yazdı, gitti. Yazmak zorunluydu. Cevap değildi.
+
+

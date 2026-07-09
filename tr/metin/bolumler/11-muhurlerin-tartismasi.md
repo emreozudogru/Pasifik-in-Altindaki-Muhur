@@ -120,4 +120,10 @@ Lu Shen, ateşin külünde, kâğıdı bir kez daha açtı. Yedinci satırda hâ
 
 Pers rahibi ateş yakmadı. "Bugün ateş yok," dedi. Mısırlı astronom gökyüzüne baktı, yıldız yok, sis. "Kuzey de yok," dedi. İkisi de güldü, kısa, sonra sustu. Gülmek serbestti. İsim değil. Kapı, o şafakta, hâlâ dışarıdaydı.
 
+Eirene kıyıya indi, taşını eşiğe götürmedi. Erken. Yarın. Taş cebinde kaldı, iz kuru. Yerli genç panoyu yokladı, çivi yerinde, balığa gitti. Konuşmadı. Lu Shen kâğıdı göğsüne bastırdı. *Kan* yazıyordu. Göğsü ağır. Yalan, somuttu. Bedel, taşta bekliyordu. İkisi de sabahı bekledi. Kapı kapanmadan önceki son sessizlik, bazen, en uzun mühürdü. Kimse adını söylemedi. İsim, o şafakta, hâlâ yasaktı.
+
+Astronom sisin içinde bir an durdu. "Yarın," dedi. Eirene başını salladı. Yarın, kapıya aitti. Bugün, sessizliğe.
+
+
+
 
