@@ -80,4 +80,10 @@ O anlayıştan bir gece önce, Kerem bir grup mesajı taslağı açtı: "Arkada�
 
 Ren aynı sabah defterine *ada* yazmadı. Yazmak, çoğaltmaktı. Boş satır bıraktı. Boş, bazen, en dürüst nottu.
 
+Aynı hafta Daniel bir seans notuna "ada" yazmayı düşündü, sildi. "İç ses" bıraktı. Marta çeviride "Kuroshima"yu "kıyı" yaptı yine. Ana logdan bir IP sildi, sormadı. Kerem taslağı bir daha açmadı. Ren defterdeki boş satıra bakmadı uzun. Bakmak, doldurmak isterdi. Doldurmak, isim. Grup sohbeti üç gün seyreldi. Kimse "neden" demedi. Sormak, kapı. Dördüncü gün Kerem "kahve?" yazdı. Ren "tamam" dedi. Ada yok. Yeterli. Arşiv, o hafta, isimsiz büyüdü. Büyümek, bazen, susmaktı.
+
+Ren kahve demledi. İçmedi. Soğudu. Düzen.
+
+
+
 

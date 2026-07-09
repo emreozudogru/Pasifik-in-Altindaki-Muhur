@@ -193,3 +193,11 @@ En yeni tur en altta.
 - open: email-1998 closed
 - DNA ok; tire yok; max 5
 - Sonraki: 06/07/10/18/26
+
+### Tur 20 — 2026-07-09
+- Plan: (1) 06/07 yol+fırtına (2) 10 şafak pano (3) 18/26 Arşiv sus + kütüphane kâğıt
+- Dosyalar: 06, 07, 10, 18, 26 + TTS
+- words: 35661 -> 36073 (delta 412, target 400)
+- open: peşin closed
+- DNA ok; tire yok; max 5
+- Sonraki: 08/09/11/15/23

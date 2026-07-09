@@ -96,4 +96,10 @@ Ren o gece son kâğıdı bir tren istasyonunun bankına bıraktı. İmza yok. B
 
 Sabah Ana yazdı: "Bir kâğıt buldum. Senin mi?" Ren: "Hayır." Yalan değildi. Sahipsizdi. Ana "uyguluyorum" dedi. Konu kapandı. Kapı dar.
 
+Öğleden sonra Ren bir kütüphaneye girdi, beş kuralı bir ansiklopedinin arasına bıraktı. İmza yok. Çıktı. Görevli sormadı. İyi. Sokakta rüzgâr. Telefon kapalı. Voss'un sesi yoktu; yine de "başka çaren yok" cümlesi, bir reklamda, benzer tonda. Ren okumadı uzun. Okumak, masaya oturmak olurdu. Evde perde. Çay demledi. İçmedi. Soğudu. Defterde *Cevap verme.* Tarih yok, yeni. Eski tarih yetmişti. Ren kahraman olmadı. Kâğıtlar, sahipsiz, dolaştı. Sofraya oturanlar bir saniye daha gecikti. İlk taş, ikinci taş. Mühür, yığılmadan işliyordu.
+
+Gece nefes. Bir, iki, üç. Uyudu, yarım. Perde kapalı.
+
+
+
 

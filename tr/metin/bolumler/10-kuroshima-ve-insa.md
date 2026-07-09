@@ -90,4 +90,10 @@ O gece Eirene tünelin ağzına indi. Lamba yok. Ay zayıf. İçeriden nefes. "B
 
 Lu Shen uzaktan izledi, yazmadı. Sabah kapı kapanacaktı. O gece kapanmış gibiydi zaten.
 
+Şafakta yerli genç panoyu yokladı. Çivi yerinde. Tünele girmedi. Girmek, nefes duymak olurdu. Eirene ve usta eşiği terk etti, konuşmadan. Lu Shen kâğıda *kapı* yazmadı. Yazmak, saymak. Saymak, kapıyı büyütmek. Mısırlı astronom kayalara tırmandı, indi. "Küçük ada," dedi yine. Eirene başını salladı. Küçük, iyi. Pers rahibi ateş yakmadı. "Yarın," dedi kimseye. Yarın, yedinci mühürdü. Bugün, ağızlar kapalı, panolar kapalı, kurşun yerinde. Ada, iki dilde, bekliyordu: taş ve tahta. İçeride nefes. Dışarıda cevap yok. Yeterli.
+
+Kapı, öğleye kadar, hâlâ dışarıdaydı. Ağızlar da.
+
+
+
 

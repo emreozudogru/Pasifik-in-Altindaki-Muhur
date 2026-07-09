@@ -1,42 +1,42 @@
 # LOOP-STATE
-turn: 19
+turn: 20
 phase: 1
 phase_turns: 1
-next_chapters: [6, 7, 10, 18, 26]
-last_focus: "04 köy yok; 05 sandık tırnak; 14 tüfek/pano; 16 1998 ban; 25 kırmızı nokta"
+next_chapters: [8, 9, 11, 15, 23]
+last_focus: "06 geçit; 07 fırtına; 10 şafak pano; 18 Arşiv sus; 26 kütüphane kâğıt"
 final_grounded: 4
 action_balance: 4
 prose_richness: 4
 length_ok: true
-words_before: 35255
-words_after: 35661
-delta: 406
+words_before: 35661
+words_after: 36073
+delta: 412
 target_delta: 400
 chapter_count: 27
 new_chapters: []
 dna_ok: true
-last_commit: "cffd4c8"
+last_commit: "pending-t20"
 open_threads:
   - id: kesish-pencere-15yy
     planted: "13"
     status: closed
     payoff_target: "13/14/25/27"
-    hook: "14/25 peşin"
+    hook: "bag"
   - id: warren-cevap-verme
     planted: "15"
     status: closed
     payoff_target: "15/18/20/21/23/24/25/26/27"
-    hook: "25 peşin"
+    hook: "26 peşin"
   - id: gemi-muhafiz-sus
     planted: "09"
     status: closed
     payoff_target: "05/06/07/08/09"
-    hook: "05 peşin"
+    hook: "06/07 peşin"
   - id: kuroshima-yerli-pano
     planted: "10"
     status: closed
-    payoff_target: "10/12/14"
-    hook: "14 peşin"
+    payoff_target: "10/12"
+    hook: "10 peşin"
   - id: arakawa-telefon-cevap
     planted: "17"
     status: closed
@@ -61,7 +61,7 @@ open_threads:
     planted: "16"
     status: closed
     payoff_target: "16"
-    hook: "ban; nefes sil"
+    hook: "ban"
   - id: tapinak-rahip-02
     planted: "02"
     status: closed
@@ -81,7 +81,7 @@ open_threads:
     planted: "18"
     status: closed
     payoff_target: "18"
-    hook: "isim sil"
+    hook: "18 peşin"
   - id: forum-tiklama-19
     planted: "19"
     status: closed
@@ -101,12 +101,12 @@ open_threads:
     planted: "14"
     status: closed
     payoff_target: "14"
-    hook: "tüfek peşin"
+    hook: "pano"
   - id: bank-kagit-26
     planted: "26"
     status: closed
     payoff_target: "26"
-    hook: "kâğıt"
+    hook: "kütüphane peşin"
   - id: marta-mektup-22
     planted: "22"
     status: closed
@@ -117,4 +117,4 @@ open_threads:
     status: closed
     payoff_target: "13"
     hook: "harita"
-notes: "t19: 04/05/14/16/25. Delta 406. Em/en dash yeni yok. max 5."
+notes: "t20: 06/07/10/18/26. Delta 412. Em/en dash yeni yok. max 5."

@@ -74,6 +74,12 @@ Pers rahibi o sabah dua etmedi. Dua, isim isterdi. Yürüdü. Yeterli.
 
 Eirene taşını sıktı. Soğuk. Net. Yola devam.
 
+Öğleden sonra kervan bir geçide girdi. Rüzgâr tuz getirdi, deniz henüz yoktu. Yaşlı muhafız sandığa sırtını döndü, yürüdü. "Adım," fısıltısı rüyadan kalmıştı; balmumu bastırılmıştı. Eirene su uzattı. İçti. Teşekkür yok. Lu Shen kâğıdı açmadı. Matematikçinin kelimesi cebinde, *isim*, henüz masaya konmamıştı. Konmak, dördüncü mühür olurdu; erken. Pers rahibi dua etmedi yine. Astronom suskun. Boş yer, tozda, hâlâ hissediliyordu. Kimse oturmadı oraya. Oturmak, isim koymak gibiydi. Geçit daraldı. Kervan sıkıştı, sustu. Sandık tırnak atmadı. İyi. Susmak, o geçitte, tek silahtı.
+
+Çıktılar. Gölge. Su. Yola devam. Taş soğuk. Net.
+
+
+
 
 
 

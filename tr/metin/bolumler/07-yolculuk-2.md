@@ -92,6 +92,12 @@ Pers rahibi ateş yakmadı. "Yok," dedi kimseye. Kimse sormadı. İyi.
 
 Eirene taşını cebine koydu. İz gizli. Gizli, iyi.
 
+Akşam fırtına uzaktan gürledi. Sandık sustu. Genç muhafız balmumunu yokladı. Yerinde. Eirene omzuna dokunmadı. Dokunmak, dünkü ölüyü çağırmak gibi gelirdi. Usta kurşun halkaları sıkılaştırdı, elleri kan. Kimse sormadı. Lu Shen denize baktı, *isim* kâğıdını açmadı. Açmak, fırtınaya yem atmak olurdu. Eirene taşı avucunda tuttu, iz gizli. "Bedel," demedi. Demek, En-Nakar'a cevap vermekti. Fırtına yaklaştı. Kervan küçüldü, isimsiz. Bir kürekçi ağladı, sessiz. Ağlamak serbestti. Fısıltı değil. Sabaha kadar sandık tırnak atmadı. Erken mühür, bir gece daha tuttu.
+
+Sabah deniz gri. Kimse isim söylemedi. İyi.
+
+
+
 
 
 
