@@ -71,6 +71,11 @@ En zor kural. En-Nakar'ın en sevdiği şey dikkattir. Onun hakkında konuşmak,
 
 Beş kuralı yazdıktan sonra Ren bir süre oturdu. Kalemi hâlâ elindeydi. Altıncı bir satır aklına geldi; listeye koymadı. Kendi defterinin iç kapağına, küçük harfle, İngilizce yazdı: *Do not answer.* Sonra Türkçesini: *Cevap verme.* Hastane koridorunda, Voss'un "başka çaren yok"u karşısında ağzını kapatan şey buydu. Daha eskiydi. Ohio'da bir çekmecede saklanmış bir kâğıttan, bir torunun elinden, bir gün kendisine gelecek bir cümleden. Henüz o kâğıdı almamıştı. Yine de cümle, listeden önce gelmişti. Defteri kapattı. Altıncı satır, beş kuralın gölgesi olarak kaldı: dağıtılmayan, isimsiz, kişisel.
 
+O gece kapı çalındı. Bir kez. Ren baktı. Gözetleme deliğinden koridor boştu. Yine de el kapı koluna gitti. Durdu. Warren'ın kâğıdı, Kerem'in videosu, Arakawa'nın açmadığı telefon: aynı işaret. Ren kolu bırakı. "Kim o?" demedi. Demek, cevap vermek olurdu. Koridor sustu. Sabah peçete altında bir kart yoktu. Hiçbir şey yoktu. Belki rüzgâr. Belki deneme. Ren perdeyi çekti. Beton manzara. Yeterli.
+
+Kahve demledi. İçmedi. Soğudu. Yine de demlemek, bir tür sekizinci mühürdü: yarım saniye, sonra karar. O sabah karar, kapıyı açmamaktı. Voss kazanmadı. Ren de kazanmadı. Sadece, sofraya oturmakta bir saniye gecikti.
+
+
 ---
 
 Ren bu beş kuralı En-Nakar'a karşı savaş olarak sunmadı. Çünkü isim kapıydı. Bunları insanın kendini koruması olarak sundu — bir varlığa karşı değil, kendi aceleciliğine, kendi öfkesine, kendi korkusuna karşı. En-Nakar'ın adı hiçbir yerde geçmiyordu. Hiçbir komplo, hiçbir canavar, hiçbir gizli düşman. Sadece sıradan, neredeyse sıkıcı bir öğüt listesi: yavaşla, sorgula, paylaşma, bedeli kabul et, besleme.

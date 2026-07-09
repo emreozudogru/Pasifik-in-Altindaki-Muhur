@@ -1,27 +1,27 @@
 # LOOP-STATE
-turn: 8
+turn: 9
 phase: 1
 phase_turns: 1
-next_chapters: [4, 10, 12, 14, 26]
-last_focus: "08 muhafiz rahip gölgesi; 03 usta gece; 13 panjur 14yy; 09 iskele/pano; 25/27 perde bag"
+next_chapters: [5, 6, 15, 18, 22]
+last_focus: "12 pano bag; 04 yola cikis; 10 Lu Shen pano; 14 bomba gecesi pano; 26 kapi calma"
 final_grounded: 4
 action_balance: 4
 prose_richness: 4
 length_ok: true
-words_before: 30600
-words_after: 31037
-delta: 437
+words_before: 31037
+words_after: 31480
+delta: 443
 target_delta: 400
 chapter_count: 27
 new_chapters: []
 dna_ok: true
-last_commit: "0cd8084"
+last_commit: "pending-t9"
 open_threads:
   - id: kesish-pencere-15yy
     planted: "13"
     status: dancing
     payoff_target: "14/17/22/25/27"
-    hook: "pencere; 13 panjur + 25/27 perde dans"
+    hook: "14 bomba gecesi pano dans"
   - id: warren-cevap-verme
     planted: "15"
     status: closed
@@ -31,12 +31,12 @@ open_threads:
     planted: "09"
     status: dancing
     payoff_target: "05/06/07/08/09/11/23"
-    hook: "08 rahip gölgesi dans; 09 iskele"
+    hook: "sandik sus"
   - id: kuroshima-yerli-pano
     planted: "10"
-    status: dancing
-    payoff_target: "09/11/12"
-    hook: "09 panolu kulube; 11 tünel"
+    status: closed
+    payoff_target: "10/12"
+    hook: "12 kiyi pano bag; 10 Lu Shen not yazmadi"
   - id: arakawa-telefon-cevap
     planted: "17"
     status: closed
@@ -60,6 +60,11 @@ open_threads:
   - id: panjur-14yy
     planted: "13"
     status: closed
-    payoff_target: "13->25/27 bag"
-    hook: "panjur; rüzgar yalanı; 25/27 perde"
-notes: "t8: 03/08/09/13/25/27. Delta 437. Em/en dash yeni metinde yok. pencere zinciri dans+kismi bag."
+    payoff_target: "13->25/27"
+    hook: "panjur"
+  - id: ren-kapi-26
+    planted: "26"
+    status: closed
+    payoff_target: "26"
+    hook: "kapi calma; Kim o demedi"
+notes: "t9: 04/10/12/14/26. kuroshima-pano CLOSED. Delta 443. Em/en dash yeni yok."

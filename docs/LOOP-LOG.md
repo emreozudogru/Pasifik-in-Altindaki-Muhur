@@ -105,3 +105,11 @@ En yeni tur en altta.
 - open: kesish/gemi/pano dancing; panjur-14yy closed (25/27 bag)
 - DNA ok; em/en dash yeni yok
 - Sonraki: 12 pano bag veya 04/10/26
+
+### Tur 9 — 2026-07-09
+- Plan: (1) 12/10 pano bağ (2) 04 yola çıkış yeni sahne (3) 14 bomba gecesi pano dans; 26 kapı çalma kapalı
+- Dosyalar: 04, 10, 12, 14, 26 + TTS
+- words: 31037 -> 31480 (delta 443, target 400)
+- open: kuroshima-pano closed; kesish/gemi dancing; ren-kapi-26 closed
+- DNA ok; em/en dash yeni yok; max 5 dosya
+- Sonraki: 05/06/15/18/22

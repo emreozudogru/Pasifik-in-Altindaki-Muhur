@@ -72,6 +72,8 @@ Kapı henüz kapanmamıştı.
 
 Yedinci ayın son haftasında, tünelde çalışan yerli bir genç (adı kayıtlara girmedi) obsidyen duvara kulağını dayadı. İçeriden bir ritim geldi. Kendi kalbi gibi. "Anne," sandı. "Beni çağırıyor." Elini duvara koydu. Duvar ılıktı. Ağzını açtı. Anadolu'lu usta, arkasından, taşla duvara bir kez vurdu. Sert. Ses kesti. Usta parmaklarıyla işaret etti: hayır. Konuşma. Genç sustu. O gece tünelden çıktı, kıyıya indi, denize bakan bir kulübenin penceresini tahta ile çaktı. Nedenini bilmiyordu. Elleri biliyordu. Sabah işe döndü. Kimseye bir şey demedi. Akşam yemeğinde annesi sordu: "Tünelde ne gördün?" Genç omuz silkti. "Taş." Yalan değildi. Eksikti. Annesi ısrar etmedi. Masada balık vardı, tuzlu. O gece yine panoyu kontrol etti. Çiviler yerindeydi. Yıllar sonra o kulübe yıkıldı; tahta panolar denize dağıldı. Alışkanlık kaldı: o koyda pencereler gece kapanırdı. Çocuklar "uğursuz rüzgâr" derdi. Rüzgâr, bazen, bir elin hatırasıydı.
 
+Aynı gece, genç panoyu çaktıktan sonra, Lu Shen kıyıya indi. Panoya baktı. Çiviler düzensizdi, acele. Kâğıdına bir not düşmek istedi: *yerli, pencere, sus.* Sonra yazmadı. Yazmak, kayda almak, kaydı okunur kılmaktı. Okunan şey, bir gün isim olurdu. Lu Shen kâğıdı katladı. Boş. Eirene arkadan geldi. "Gördün," dedi. Lu Shen başını salladı. "Görmedim," dedi. Yalan değildi. Tam da değildi. İkisi de gülümsemedi. Tuz, rüzgârda.
+
 O gece, son kapanmadan önce, Mühürcüler dışarıda oturdu. Her biri farklı bir yönü seyretti. Mısır'ı. Persya'yı. Hindistan'ı. Çin'i. Ege'yi. Artık hiçbirine dönmeyeceklerdi, en azından büyük çoğunluğu. Bu yolculuk onları kendi evlerinden çok daha uzaklara taşımıştı. Ve şimdi, dünyanın ucunda, obsidyen bir odanın önünde oturuyorlardı.
 
 Sabah kapıyı kapatacaklardı.
