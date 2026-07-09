@@ -89,3 +89,11 @@ En yeni tur en altta.
 - Plan: cevap-verme omurga 01/05/19/21/24; arakawa thread kapat
 - Dosyalar: 01,05,19,21,24 + TTS
 - words: 29682 -> 30023 (delta 341)
+
+### Tur 7 — 2026-07-09
+- Plan: (1) 02 kapalı: tapınak rahibi isim yazmaz (2) 07/11 dans: sessizlik+tünel nöbeti/pano (3) 16 kapalı 1981 telsiz; 23 Kerem telefon/pasaport
+- Dosyalar: 02, 07, 11, 16, 23 + TTS bolum_02/07/11/16/23
+- words: 30082 -> 30600 (delta 518, target 400)
+- open_threads: gemi-muhafiz + kuroshima-pano dancing; telsiz-1981 + tapinak-rahip closed
+- DNA ok; yeni metinde em/en dash yok
+- Sonraki: pencere bag (25/27) veya 08/13 ara cag

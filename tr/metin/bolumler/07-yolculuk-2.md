@@ -54,6 +54,8 @@ Lu Shen ağladı. Sessizce. Ve o gece, En-Nakar'ın sesi ilk kez biraz kısıld�
 
 Aylarca ses gelmedi. Bu, fırtınalardan daha çok korkuttu Mühürcüleri; çünkü konuştuğunda neyi kaybettiklerini biliyorlardı, sustuğunda bilemiyorlardı.
 
+O sessizlik aylarında, bir gece, dümenci Eirene'ye işaretle sordu: *Belki öldü?* Eirene başını salladı. Hayır. Ölen şey susmazdı böyle. Ölen şey kokardı, ya da unutulurdu. Bu susku, dinliyordu. Kürekçilerden biri rüyasında sandığın kapağını açtığını gördü; sabah küreği eline alamadı. Elleri titriyordu. Eirene ona su verdi, balmumu bastırdı, omzuna dokunmadı. O gece kimse sandığa yaklaşmadı. Yaklaşmak, bir tür soru sormak olurdu. Soru, cevap isterdi. Cevap, kapıydı.
+
 Sonra bir gece En-Nakar, sağır olmayan tek nöbetçiye döndü — yorgunluktan kulaklarındaki balmumunu çıkarmış genç bir muhafıza. Açıkça konuştu. Fısıltı değil; bir dostun sesiyle, sakin.
 
 "Annen seni bekliyor," dedi. "Eve dön. Bu zincirler senin değil. Bu yük senin değil. Bırak, git."

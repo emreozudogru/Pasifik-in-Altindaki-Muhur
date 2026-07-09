@@ -50,6 +50,8 @@ Ve sildi. Her şeyi. Yalnızca konu satırını bıraktı — boş bir gövdenin
 
 Belki de bu, onun taşıdığı küçük mühür payıydı.
 
+Silmeden önceki gece telefon çaldı. Bilinmeyen numara. Kerem baktı. Açmadı. Sesli mesaj yoktu. Bir dakika sonra yine. Yine bakmadı. Pasaportu masadaydı, açık, fotoğraf sayfası. Kerem kapağı kapattı. "Uçağa binmeyeceğim," dedi boş odaya. Kimse dinlemiyordu. Ya da dinliyordu. Fark etmezdi. O gece pencereyi aralamadı. İstanbul ışıkları uzakta, sarı. Kerem deftere bir satır yazdı, sildi: *Cevap verme.* İngilizce bilmiyordu; cümle yine de geldi, sanki başka bir çekmeceden. Sabah bulaşıkları yıkadı. Normal. Sonra videoyu kaydetti.
+
 ---
 
 Son sesli notu, kaybolmasından bir gün önce kaydedilmişti.

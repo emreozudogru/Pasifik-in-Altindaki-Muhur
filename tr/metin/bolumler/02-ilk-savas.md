@@ -38,6 +38,10 @@ En-Nakar’ın gücü buydu. O, ayna gibiydi. Ama aynaların aksine, insana en k
 
 İlk gerçek direniş sessizlikle başladı. Kılıçla, orduyla, tanrı buyruğuyla değil. Sessizlikle.
 
+O sessizlik bir gecede doğmadı. Bir tapınakta, adı unutulmuş bir şehirde, gece nöbetindeki genç bir rahip, taş duvara kulağını dayadı. İçeriden bir ses, kendi hocasının sesiyle sordu: "Adımı yaz. Kil tablete. Kurtulursun." Rahip tableti eline aldı. Kalemi ıslattı. Sonra durdu. Çünkü hocası, hayattayken, bir kez demişti: "İsim kapıdır. Kapıyı çizme." Rahip kalemi indirdi. Tableti kırdı. Parçaları avluya gömdü. Sabah hocası ölü bulundu; yabancının gölgesi çoktan gitmişti. Rahip o günden sonra isim söylemedi. Ne tanrının, ne yabancının, ne kendi korkusunun. Köy onu "dilsiz" sandı. Dilsiz değildi. Cevap vermiyordu. Yıllar sonra, başka bir hekim, başka bir taşla, aynı seçimi hatırlayacaktı. Ama o gece, tapınakta, mühür henüz yedi değildi. Tek bir ağızdı.
+
+
+
 Eirene, o kervansaraya vardığında hâlâ köydeki cesetlerin kokusunu taşıyordu. Parmakları cebindeki taşı sıkıyordu. Karşılaştığı ilk kişi, o köyden sağ çıkan kâtipti — tahtı ele geçiren, sonra her şeyini kaybeden adam. Şimdi bir kervansarayda, titreyerek oturuyordu. "O sadece doğruyu söyledi," diyordu kendi kendine. "Biz de zaten biliyorduk."
 
 Eirene adamın gözlerine baktı. Bir an, çok kısa bir an, orada gri bir yorgunluk gördü — köyde gülümseyen yüzdeki aynı yorgunluk. Sonra geçti. Adam yine sadece korkmuş, kırılmış bir insandı. Eirene anladı: o şey bir bedende durmuyordu. İnsandan insana, ağızdan kulağa, sudan zehire geçiyordu. Bir yüzü yoktu. Herkesin yüzü olabilirdi.

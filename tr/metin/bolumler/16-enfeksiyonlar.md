@@ -18,6 +18,8 @@ O yılın mayıs ayında, bir gece, Latin Mahallesi'nde barikatların arkasında
 
 1975’te Kamboçya sınırında adı bilinmeyen bir danışmanın, bir yerel milise “insanın temizlenebilir bir fikir olduğunu” anlattığı yazıldı. Bir tercüman, bu cümleyi defterine geçirdi, sonra defteri yaktı. "Yanlış dil," dedi kendine. "Yanlış yüzyıl." Yine de cümle aklında kaldı. Ölene kadar, her "temizlik" kelimesinde ürperdi — ve ürperince durdu. Durmak, onun küçük, isimsiz mührüydü. Hikâye orada bitti: defter kül, adam kayıp, ürperti kaldı.
 
+1981'de, Kuzey Denizi'nde bir balıkçı teknesinde, gece vardiyasında bir telsiz operatörü vardı. Adı logda silindi; kaptan "kazara" demişti. Operatör kulaklıkla frekans tarıyordu. Statik. Sonra, net, sakin bir ses: "Evine dön. Bu gemi senin değil. Adını söyle, rota açılır." Operatör elini mikrofon tuşuna götürdü. Bir saniye tuttu. Sonra bıraktı. Kulaklığı çıkardı. Kaptana demedi. Loga yazmadı. Sabah limana yanaştıklarında karaya çıktı, bir daha denize dönmedi. Yıllar sonra bir liman barında, sarhoş bir adam "o gece cevap vermeseydim" diye başladı, sonra sustu. Cümle yarım kaldı. Hikâye orada bitti: frekans boş, adam karada, mikrofon kapalı.
+
 Bunların hiçbiri kanıtlanamadı. Çünkü En-Nakar artık antik çağdaki gibi görünmüyordu. Beden değiştirmiyordu belki. Ama kimlik değiştiriyordu. Pasaportlar alıyor, diller öğreniyor, arşivlere giriyor, hastanelerde çalışıyor, yardım kuruluşlarına katılıyor, üniversite derslerine oturuyor, savaş bölgelerinde tercümanlık yapıyor, istihbarat örgütlerinin kenarında dolaşıyordu. İnsanlığı izliyordu. Öğreniyordu. Ve en önemlisi, acele etmiyordu. Çünkü iki bin yıl hapis yatan bir şey için yüz yıl kısa bir sabırdı.
 
 1990'larda yeni bir alan keşfetti: dijital dünya.
