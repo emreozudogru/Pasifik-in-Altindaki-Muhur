@@ -84,7 +84,7 @@ Eirene cevap vermedi. Cebindeki taşı geri aldı — taşın yüzeyinde artık 
 
 O gün vadiden ayrıldılar. Yedi yıl sürecek bir yolculuğun ilk adımıydı. Kimse o vadide ne olduğunu yazmadı. Kimse "orada bir şey vardı" demedi. Sadece "kervan kayboldu" dediler.
 
-Yola çıkmadan önce, bir yardımcı sandığın yanına eğildi. Dudakları kıpırdadı. Belki bir isim. Belki bir lanet. Eirene elini onun omzuna koydu, hekim eli, sıkı. Yardımcı sustu. "Söyleme," demedi Eirene yüksek sesle. Sadece baktı. Yardımcı balmumu istedi. Kulaklarına bastırdı. Lu Shen uzaktan izledi, kâğıdına bir şey yazmadı. Yazmak da isim koymaktı. O günden sonra sandığa isim fısıldanmadı. En azından bilinçli olarak. Rüyalar başka işti.
+Yola çıkmadan önce, bir yardımcı sandığın yanına eğildi. Dudakları kıpırdadı. Belki bir isim. Belki bir lanet. Eirene elini onun omzuna koydu, hekim eli, sıkı. Yardımcı sustu. "Söyleme," demedi Eirene yüksek sesle. Sadece baktı. Yardımcı balmumu istedi. Kulaklarına bastırdı. Lu Shen uzaktan izledi, kâğıdına bir şey yazmadı. Yazmak da isim koymaktı. O günden sonra sandığa isim fısıldanmadı. En azından bilinçli olarak. Rüyalar başka işti. Onları da yutmamaya çalışacaklardı.
 
 Ve sessizlik, o andan itibaren Mühürcüler'in tek silahı oldu.
 
