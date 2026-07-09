@@ -51,3 +51,5 @@ Kapı kapandı, ama sesini Ren duymadı. Şehir, sanki o gidince geri döndü; u
 Telefon titredi. Mesaj: *Düşündün mü?* Gönderen yok. Ren ekrana baktı. Parmakları klavyenin üzerinde asılı kaldı. Bir kelime yazabilirdi: Evet. Hayır. Anladım. Yazmadı. Mesajı sildi. Cihazı kapattı.
 
 Eve döndüğünde kaydı dinlediğinde sadece kendi nefesini duydu. Çay evinin sessizliğini, fincanın masaya konuşunu, kapının kapanışını. Ve kendi nefesini, gittikçe hızlanan, sonra yavaşlayan, sonra bir yerde, iki nefes arasında, bir saniyenin yarısında, duraksayan nefesini. Voss'un sesi yoktu. Silinen mesaj da yoktu. İyi.
+
+Gece, perdeyi aralamadı. Sokak lambası çizgi çizgi duvarda. Ren defterini açtı, *Do not answer* satırının yanına bir tarih yazdı. Çay evi gecesi. Sonra defteri kapattı. Uyudu. Rüyasında Voss yoktu. Sadece nefes, bir, iki, on.

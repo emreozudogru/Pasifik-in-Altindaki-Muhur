@@ -84,3 +84,8 @@ En yeni tur en altta.
 - Plan: pencere/cevap dans (17/22/12/20); 04 yola cikis sahnesi
 - Dosyalar: 04,12,17,20,22 + TTS
 - words: 29282 -> 29633 (delta 351)
+
+### Tur 6 — 2026-07-09
+- Plan: cevap-verme omurga 01/05/19/21/24; arakawa thread kapat
+- Dosyalar: 01,05,19,21,24 + TTS
+- words: 29682 -> 30023 (delta 341)

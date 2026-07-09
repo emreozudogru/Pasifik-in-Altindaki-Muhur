@@ -136,3 +136,5 @@ Ekranı kapattı. Oda karardı. Ama camda, dışarıdaki şehrin ışığında, 
 Ya da öyle olduğunu ummak istedi.
 
 Gece yarısı forumda yeni bir başlık açıldı: *Kuroshima. Gerçek mi?* Ren tıklamadı. Yorum yazmadı. Kerem'e "biri yazıyor" demedi. İşaret çoğalmasın diye. Sabah başlık silinmişti. Kim sildi, bilinmedi. Ren yine de tıklamadı. Tıklamamak da, o gece, bir tür cevap vermemekti.
+
+Öğleden sonra Ana yazdı: "Forumda bir şey vardı. Gördün mü?" Ren üç nokta yazdı, sildi. "Hayır," diye cevapladı. Yalan değildi. Tıklamamıştı. Ana "tamam" dedi. Konu kapandı. Küçük bir yalan, büyük bir kapıdan daha güvenliydi.
