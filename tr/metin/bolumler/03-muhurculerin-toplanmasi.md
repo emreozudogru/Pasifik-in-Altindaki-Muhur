@@ -30,4 +30,10 @@ O gece dağıldıktan sonra Eirene çadırın dışında oturdu. Taş cebindeydi
 
 Aynı gece, çadırın öbür ucunda, Anadolu'lu usta uyanık yattı. Elleri hâlâ taş tozundaydı. İçinden bir ses, kendi oğlunun sesiyle sordu: "Neden buradasın? Evine dön. Adını söyle, yol açılır." Usta kalktı, çadırın direğine dayandı. Ağzını araladı. Sonra Eirene'nin taşa bastırdığını hatırladı: bedel. İsim değil. Usta sustu. Sabaha kadar direğe yaslandı. Konuşmadı. Sabah kervan hareket ederken, Eirene ona baktı. Usta başını salladı. Anlaşılan bir şey yoktu. Sadece iki insan, aynı gece, aynı kapıyı kapatmıştı. Biri hekim. Biri taş ustası. İkisi de isimsiz bir seçim.
 
+Sabah tüccar develeri saydı, eksik buldu, sormadı. Eksik, o sabah, yola çıkmanın bedeliydi. Mısırlı astronom oğluna mektup yazmayı bıraktı. Yarım cümle: "Dönersem..." Sildi. Dönmek, söz vermekti. Söz, kapıydı. Kervan toz kaldırdı. Eirene en önde değildi. Usta ortada, elleri toz. Lu Shen en arkada, kâğıt boş. Kimse "vedalaşalım" demedi. Veda, isim isterdi. Güneş doğmadan gittiler. Köpek ulumadı. İyi.
+
+Arabistanlı tüccar, son deveye bakarken, "kâr" kelimesini yuttu. Kâr da bir isimdi, o sabah. Yutmak, küçük bir mühürdü. Kimse duymadı.
+
+
+
 

@@ -20,6 +20,12 @@ O yılın mayıs ayında, bir gece, Latin Mahallesi'nde barikatların arkasında
 
 1981'de, Kuzey Denizi'nde bir balıkçı teknesinde, gece vardiyasında bir telsiz operatörü vardı. Adı logda silindi; kaptan "kazara" demişti. Operatör kulaklıkla frekans tarıyordu. Statik. Sonra, net, sakin bir ses: "Evine dön. Bu gemi senin değil. Adını söyle, rota açılır." Operatör elini mikrofon tuşuna götürdü. Bir saniye tuttu. Sonra bıraktı. Kulaklığı çıkardı. Kaptana demedi. Loga yazmadı. Sabah limana yanaştıklarında karaya çıktı, bir daha denize dönmedi. Yıllar sonra bir liman barında, sarhoş bir adam "o gece cevap vermeseydim" diye başladı, sonra sustu. Cümle yarım kaldı. Hikâye orada bitti: frekans boş, adam karada, mikrofon kapalı.
 
+1986'da, Çernobil'den haftalar sonra, bir radyo operatörü Kiev yakınlarında frekans taradı. Statik. Sonra sakin bir ses: "Kaç. Adını söyle, rota açılır." Operatör elini tuşa götürdü. Bıraktı. Loga yazmadı. Kaptana demedi. Yıllar sonra bir belgeselde "o gece hiçbir şey duymadım" dedi. Yalan. Küçük, isimsiz, tutan bir yalan. Hikâye orada bitti: tuş kapalı, frekans boş, adam sustu.
+
+Operatör o günden sonra radyo işini bıraktı. Fırıncı oldu. Ekmek, somuttu. Somut, iyi. İsim sormayan müşteriler, o dükkânda, en sevdiği insanlardı.
+
+
+
 Bunların hiçbiri kanıtlanamadı. Çünkü En-Nakar artık antik çağdaki gibi görünmüyordu. Beden değiştirmiyordu belki. Ama kimlik değiştiriyordu. Pasaportlar alıyor, diller öğreniyor, arşivlere giriyor, hastanelerde çalışıyor, yardım kuruluşlarına katılıyor, üniversite derslerine oturuyor, savaş bölgelerinde tercümanlık yapıyor, istihbarat örgütlerinin kenarında dolaşıyordu. İnsanlığı izliyordu. Öğreniyordu. Ve en önemlisi, acele etmiyordu. Çünkü iki bin yıl hapis yatan bir şey için yüz yıl kısa bir sabırdı.
 
 1990'larda yeni bir alan keşfetti: dijital dünya.

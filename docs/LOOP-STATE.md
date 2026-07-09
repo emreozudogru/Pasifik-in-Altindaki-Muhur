@@ -1,37 +1,37 @@
 # LOOP-STATE
-turn: 12
+turn: 13
 phase: 1
 phase_turns: 1
-next_chapters: [2, 3, 13, 16, 23]
-last_focus: "08 huzur yasağı; 09 kara nöbet; 17 sandık/soru yok; 21 tren/otel isim; 24 kapı çalma"
+next_chapters: [4, 5, 14, 25, 27]
+last_focus: "02 beş ağız mühür; 03 yola çıkış; 13 Nagasaki tercüman; 16 1986 Çernobil; 23 Ren pasaport/video"
 final_grounded: 4
 action_balance: 4
 prose_richness: 4
 length_ok: true
-words_before: 32385
-words_after: 32821
-delta: 436
+words_before: 32821
+words_after: 33227
+delta: 406
 target_delta: 400
 chapter_count: 27
 new_chapters: []
 dna_ok: true
-last_commit: "7db6131"
+last_commit: "pending-t13"
 open_threads:
   - id: kesish-pencere-15yy
     planted: "13"
     status: dancing
-    payoff_target: "14/17/22/25/27"
-    hook: "17 perde peşin"
+    payoff_target: "13/14/17/22/25/27"
+    hook: "13 tercüman panjur dans"
   - id: warren-cevap-verme
     planted: "15"
     status: closed
-    payoff_target: "15/18/20/21/24/25/26/27"
-    hook: "21 kâğıt peşin"
+    payoff_target: "15/18/20/21/23/24/25/26/27"
+    hook: "23 Do not answer peşin"
   - id: gemi-muhafiz-sus
     planted: "09"
     status: closed
     payoff_target: "05/06/07/08/09"
-    hook: "08/09 kara nöbet bag; huzur yasak"
+    hook: "bag"
   - id: kuroshima-yerli-pano
     planted: "10"
     status: closed
@@ -41,7 +41,7 @@ open_threads:
     planted: "17"
     status: closed
     payoff_target: "17/20/21/24"
-    hook: "17 sandık+email sil peşin"
+    hook: "telefon"
   - id: irc-nefes-sil
     planted: "16"
     status: closed
@@ -52,6 +52,11 @@ open_threads:
     status: closed
     payoff_target: "16"
     hook: "mikrofon"
+  - id: cernobil-1986
+    planted: "16"
+    status: closed
+    payoff_target: "16"
+    hook: "tuş kapalı; fırıncı"
   - id: tapinak-rahip-02
     planted: "02"
     status: closed
@@ -66,7 +71,7 @@ open_threads:
     planted: "26"
     status: closed
     payoff_target: "26"
-    hook: "kapi calma"
+    hook: "kapi"
   - id: arsiv-isim-sil-18
     planted: "18"
     status: closed
@@ -81,5 +86,10 @@ open_threads:
     planted: "24"
     status: closed
     payoff_target: "24"
-    hook: "kapı çalma; Kim o demedi"
-notes: "t12: 08/09/17/21/24. gemi-muhafiz CLOSED. Delta 436. Em/en dash yeni yok. max 5."
+    hook: "kapi"
+  - id: nagasaki-tercuman-18yy
+    planted: "13"
+    status: closed
+    payoff_target: "13"
+    hook: "panjur; torun"
+notes: "t13: 02/03/13/16/23. Delta 406. Em/en dash yeni yok. max 5. cernobil+tercuman closed."

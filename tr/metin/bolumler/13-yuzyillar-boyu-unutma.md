@@ -39,6 +39,12 @@ On altıncı yüzyılda tüfekler geldi. Barut, ateş, gürültü. İnsan artık
 
 On sekizinci yüzyılda bir Hollandalı haritacı, bölgenin haritasını çıkarırken adayı fark etti. Notlarına "isimsiz kara kaya — güneybatı rüzgarından korunaklı" yazdı. Ertesi hafta notlar kayboldu. Haritacı adayı tekrar çizmeyi denedi ama kalemi her seferinde kırıldı. Üçüncü denemeden sonra vazgeçti. Günlüğüne yalnızca şunu ekledi: "Bazı yerler çizilmek istemiyor." Bunu bir batıl inanç olarak yazdı. Doğru olduğunu bilmiyordu.
 
+Aynı yıllarda, Nagasaki limanında bir tercüman Hollandalıya sordu: "O kayayı neden çizmediniz?" Hollandalı omuz silkti. "Kalem kırıldı." Tercüman güldü. Sonra, gece, evinde denize bakan panjuru kapattı. Nedenini bilmedi. Elleri bildi. Sabah karısına demedi. Karısı sormadı. Limanda isimler çoğalıyordu; o evde isim, bir gece, kapalı kaldı.
+
+Tercümanın torunu, yıllar sonra, aynı panjuru açmayı denedi. Rüzgâr tuz getirdi. Kapattı. "Uğursuz," dedi. Uğursuz değildi. Tanımaydı. İsimsiz.
+
+
+
 On dokuzuncu yüzyılda siyah gemiler Japonya'yı dünyaya açtı. Demir, buhar ve baskı geldi. Eski sınırlar çöktü, eski sessizlikler dağıldı. Haritalar yeniden çizildi, kıyılar ölçüldü, adalar sayıldı ve adlandırıldı. Ama Kuroshima, sayımların kıyısında, bir kâtibin kaleminden kayan bir leke gibi kaldı. Bazı yerler haritaya girer; bazı yerler haritadan saklanmayı sürdürür. Yine de adanın taşlarındaki beş parmak izi yerinde durdu — kül, kurşun halkalar ve unutulmuş fısıltılarla birlikte. İnce. Soluk. Bir kadın eli. İki bin yıldır basılı, hâlâ bir soru gibi.
 
 Yirminci yüzyılda imparatorluk yükseldi. İnsanlık daha hızlı, daha yüksek, daha yıkıcı oldu. Şehirler büyüdü, ordular çoğaldı, makineler gökyüzünü doldurdu. Ölçek değişti, hız değişti, yıkımın boyutu değişti. Ama mührü tutan şey, ölçekten değil, türden anlıyordu. Ve henüz o tür gelmemişti. İnsan hâlâ kendi ateşiyle yakıyordu dünyayı; başka bir ateşle değil. Ama hâlâ yeterince değil.

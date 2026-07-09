@@ -69,3 +69,9 @@ Kayıt orada bitiyordu. Ren dinlerken çekmecedeki kâğıdı düşündü. Do no
 Ertesi gün havaalanı kayıtları, Kerem'in Bakü'ye uçtuğunu gösterdi. Bilet dijitaldi. Yüz tanıma geçmişti. Her şey tutarlıydı.
 
 Pasaportu hâlâ evindeydi. Ve Kerem, hayatında bir kez bile uçağa binmemişti.
+
+Ren o cümleyi defterine yazdı, sildi. Yazmak, kanıt biriktirmekti. Kanıt, bazen kapı olurdu. Bunun yerine pasaport fotoğrafına baktı. Kerem gülümsüyordu, eski bir gülümseme. Ren çekmeceyi kapattı. Telefon çalmadı. İyi. O gece pencereyi aralamadı. İstanbul ışıkları uzakta. Kerem'in videosu hâlâ şifreli. Ren şifreyi çözdü, dinledi, durdurdu, tekrar dinlemedi. Bir kez yetmişti. Cevap vermemek, bazen, ikinci kez basmamaktı.
+
+Sabah Ana yazdı: "Kerem'ten haber?" Ren: "Yok." Yalan değildi. Video haber değildi; veda idi. Ana "tamam" dedi. Konu kapandı. Ren kahve demledi. İçmedi. Soğudu. Düzen, o sabah, bu kadardı.
+
+

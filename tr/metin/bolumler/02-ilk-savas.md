@@ -55,3 +55,9 @@ O gece taş masanın başında beş kişi buluştu. Mısırlı astronom, Pers at
 Eirene kaseyi ortaya koydu. “Bunu içerseniz,” dedi, “bir daha kolay konuşamazsınız. Çünkü suskunluk, onun dilinin tersidir.” Hepsi içti. O andan sonra söz tehlikeli hale geldi.
 
 Roma bunu bilmedi. Kartaca bunu bilmedi. Halklar bunu savaş, ticaret ve salgın sanıyordu. Ama imparatorlukların ardında, birbirinden nefret eden devletlerin bile ortak tuttuğu bir sır vardı. **Mühürcüler.** Ve o sır, çok uzaklara, dünyanın ucuna kadar uzanacaktı.
+
+Kaseleri boşaltan gece, kervansarayın avlusunda bir köpek uludu. Beş kişi masada kaldı. Kimse isim söylemedi. Lu Shen kâğıda *sessizlik* yazdı, sonra sildi. Yazmak da sesti, o gece. Eirene taşı masaya koydu. "Bunu unutmayın," demedi. Sadece bıraktı. Pers rahibi ateşe bakmadı; ateş yoktu. Matematikçi parmaklarıyla bir denklem çizdi, toza, sabah silinecek. Astronom kardeşini düşündü, söylemedi. Sabah yollar ayrıldı. Aynı yöne değil. Aynı yasağa. İsim yok. Cevap yok. Besleme yok. Küçük bir mühür, henüz yedi değildi. Beş ağızda.
+
+Kâtip, avluda, hâlâ titriyordu. Eirene ona bakmadı uzun. Bakmak, sormak olurdu. Adam suyu sonunda içti. Teşekkür etmedi. Teşekkür sesti. Gitti. Nereye, bilinmedi. İyi. Bilinmeyen, o sabah, bir tür korumaydı.
+
+

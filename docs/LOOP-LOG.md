@@ -137,3 +137,11 @@ En yeni tur en altta.
 - open: gemi-muhafiz closed; cay-evi-kapi-24 closed; kesish dancing
 - DNA ok; tire yok; max 5
 - Sonraki: 02/03/13/16/23
+
+### Tur 13 — 2026-07-09
+- Plan: (1) 02/03 antik masa+yola çıkış (2) 13 Nagasaki tercüman panjur (3) 16 1986 Çernobil kapalı; 23 Ren pasaport/video
+- Dosyalar: 02, 03, 13, 16, 23 + TTS
+- words: 32821 -> 33227 (delta 406, target 400)
+- open: kesish dancing; cernobil-1986 + nagasaki-tercuman closed
+- DNA ok; tire yok; max 5
+- Sonraki: 04/05/14/25/27
