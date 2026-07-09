@@ -40,6 +40,12 @@ Aynı gün Arakawa e-posta taslağı açtı: "Ren, sandığı..." Sildi. Konu sa
 
 Ren son e-postayı üç kez okudu, dördüncüde kapattı. Yanıt yazmadı. Yazmak, hocayı geri çağırmak gibiydi. Çağırmak, kapıydı.
 
+Cenaze sade oldu. Kimse "ada" demedi. Ren sandığı sormadı yüksek sesle. Sormak, koştururdu. Ofiste masa boş. Çekmece kilitli, anahtar yok. Ren not defterini almadı. Almak, miras ilan etmek olurdu. Miras, isim. Bir hafta e-postaya bakmadı. Baktığında tek cümle duruyordu: modern olmayı öğrendi. Ren sildi bildirimi, metni değil. Silmek, unutmak değildi; beslememekti. Perde, kendi dairesinde, kapalı. Komşu sormadı. İyi. Telefon çaldı. Bilinmeyen. Açmadı. *Cevap verme.* Hocanın çizgisi, artık kendi elindeydi. Kahraman olmadı. Sadece, kapıyı bir gün daha aralamadı.
+
+Ofiste ışık kapalı. Ren kilitledi. Anahtar cebinde. Sandık yok. Soru yok.
+
+
+
 
 
 

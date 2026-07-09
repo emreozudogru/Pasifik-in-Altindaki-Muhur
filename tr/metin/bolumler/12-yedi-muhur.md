@@ -262,6 +262,12 @@ Gemide Lu Shen kâğıdı açtı. Yedinci satır: *kan.* Kalemi tuttu. Düzeltme
 
 Mısırlı astronom güverte kenarında durdu, yıldız aradı. Sis. "Kuzey yok," dedi kimseye. Kimse cevap vermedi. İyi.
 
+Gece gemi sallandı. Beş kişi güvertede nöbet tutmadı; hepsi uyudu, yarım. Usta ellerini sardı, kan kurumuş. Lu Shen kâğıdı göğsünde, *kan* yazılı, düzeltmedi. Eirene taşını avucunda tuttu, iz gizli. Pers rahibi dua etmedi. Dua, isim. Ada geride, pano ve taş. İçeride bekleme. Dışarıda sis. Kimse "döndük mü" demedi. Dönmek, veda isterdi. Veda, isim. Sabah rüzgâr. Yön belirsiz. Yine de gittiler. Bedel, omuzlarda, isimsiz. Yedi mühür geride. Sekizinci, henüz yoktu. Sadece susmak, denizde de işliyordu.
+
+Sis kapandı. Ada kayboldu. Kimse el sallamadı. El sallamak, veda idi.
+
+
+
 
 
 

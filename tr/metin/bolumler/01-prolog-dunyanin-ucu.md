@@ -114,6 +114,12 @@ Altıncı günde bir çocuk yol kenarından el salladı. Eirene el sallamadı. S
 
 Yedinci günde taş hâlâ soğuktu. Eirene bunu bir işaret sandı. İşaret, isim değildi. Yürüdü. Dünyanın ucu, henüz uzaktı. Yine de yön, tek: ileri. Geri yok.
 
+Onuncu günde bir kervansaraya vardı. İçeride gri bir yorgunluk gördü, kısa, geçti. Taşını sıktı. Konuşmadı. Su istedi, içti, gitti. Kimse adını sormadı. Sormasalar iyiydi. Gece avluda yattı. Ses, kılıç taşıyıcısının tonunda: "Anlat. Kurtulursun." Eirene ağzını açmadı. Sabah kalktı. Köye dönmedi. Dönmek, kapıyı aralamaktı. Yola, başka bir yöne, devam. İlk mühür, henüz yedi değildi. Tek ağızdı. Tutuyordu.
+
+Taş cebinde. Soğuk. Net. İleri. Geri yok. Yeterli.
+
+
+
 
 
 

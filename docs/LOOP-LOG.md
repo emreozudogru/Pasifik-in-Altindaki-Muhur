@@ -209,3 +209,11 @@ En yeni tur en altta.
 - open: peşin closed
 - DNA ok; tire yok; max 5
 - Sonraki: 01/12/17/19/27
+
+### Tur 22 — 2026-07-09
+- Plan: (1) 01 kervansaray (2) 12 gemi gece (3) 17/19/27 modern+karanlık bedel
+- Dosyalar: 01, 12, 17, 19, 27 + TTS
+- words: 36475 -> 36875 (delta 400, target 400)
+- open: peşin closed
+- DNA ok (karanlık bedel); tire yok; max 5
+- Sonraki: 02/04/14/20/25

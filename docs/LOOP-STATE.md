@@ -1,47 +1,47 @@
 # LOOP-STATE
-turn: 21
+turn: 22
 phase: 1
 phase_turns: 1
-next_chapters: [1, 12, 17, 19, 27]
-last_focus: "08 rahip gölgesi; 09 üçüncü sabah; 11 öğle sus; 15 Warren gemi; 23 daire yok"
+next_chapters: [2, 4, 14, 20, 25]
+last_focus: "01 kervansaray; 12 gemi gece; 17 cenaze/e-posta; 19 forum belirme; 27 karanlık bedel peşin"
 final_grounded: 4
 action_balance: 4
 prose_richness: 4
 length_ok: true
-words_before: 36073
-words_after: 36475
-delta: 402
+words_before: 36475
+words_after: 36875
+delta: 400
 target_delta: 400
 chapter_count: 27
 new_chapters: []
 dna_ok: true
-last_commit: "69ffe56"
+last_commit: "pending-t22"
 open_threads:
   - id: kesish-pencere-15yy
     planted: "13"
     status: closed
     payoff_target: "13/14/25/27"
-    hook: "bag"
+    hook: "27 peşin"
   - id: warren-cevap-verme
     planted: "15"
     status: closed
     payoff_target: "15/18/20/21/23/24/25/26/27"
-    hook: "15 gemi peşin"
+    hook: "bag"
   - id: gemi-muhafiz-sus
     planted: "09"
     status: closed
-    payoff_target: "05/06/07/08/09"
-    hook: "08/09 peşin"
+    payoff_target: "05/06/07/08/09/12"
+    hook: "12 peşin"
   - id: kuroshima-yerli-pano
     planted: "10"
     status: closed
-    payoff_target: "09/10/11/12"
-    hook: "09/11 peşin"
+    payoff_target: "10/12"
+    hook: "pano"
   - id: arakawa-telefon-cevap
     planted: "17"
     status: closed
     payoff_target: "17/20/21/24"
-    hook: "telefon"
+    hook: "17 peşin"
   - id: irc-nefes-sil
     planted: "16"
     status: closed
@@ -86,7 +86,7 @@ open_threads:
     planted: "19"
     status: closed
     payoff_target: "19"
-    hook: "forum"
+    hook: "19 peşin"
   - id: cay-evi-kapi-24
     planted: "24"
     status: closed
@@ -117,4 +117,4 @@ open_threads:
     status: closed
     payoff_target: "13"
     hook: "harita"
-notes: "t21: 08/09/11/15/23. Delta 402. Em/en dash yeni yok. max 5."
+notes: "t22: 01/12/17/19/27. Delta 400. DNA dark cost peşin. Em/en dash yeni yok. max 5."

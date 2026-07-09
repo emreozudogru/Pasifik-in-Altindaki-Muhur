@@ -149,6 +149,12 @@ Ren o gece Voss adını aramadı. Aramak, tıklamaktı. Tıklamak, kapıydı. Ek
 
 Sabah trafik. Saat tiktak. Kapı dar. Yeterli sandı. Yeterli değildi belki. Ama tıklamadı.
 
+Öğleye doğru forumda yeni bir başlık belirdi, silindi, belirdi. Ren tıklamadı. Kerem "gördün mü" yazmadı. Ana yazdı: "Yine mi?" Ren: "Bakma." Ana "tamam" dedi. Marta notlarında "ada" yoktu. Daniel "iç ses" yazdı, "varlık" değil. Grup, isimsiz, aynı kuralı tuttu. Ren arama geçmişini bir kez daha sildi: *Kuroshima.* Ekran karanlık. Voss adı yok. Kahve demledi. İçmedi. Soğudu. Düzen. Kapı dar. Bir süre daha.
+
+Saat tiktak. Trafik. Tıklama yok. İyi.
+
+
+
 
 
 
