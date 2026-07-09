@@ -64,4 +64,4 @@ Sabaha karşı Lu Shen çadırın girişinde durdu. "Rahip mutluydu," dedi alça
 
 Eirene taşını çevirdi. "Mutluluk da yem olabilir. Susmak da. Fark, kimin sofrasına gittiğinde."
 
-Lu Shen cevap vermedi. Bir süre sandığa baktı, sonra gitti. Eirene kalktı, sandığın yanındaki nöbetçiye balmumu uzattı. Nöbetçi aldı, kulağına bastırdı, teşekkür etmedi. Teşekkür de sesti. O sabah kervan sessiz yürüdü. Deniz uzağa kaldı; yine de tuz, rüzgârda geliyordu.
+Lu Shen cevap vermedi. Bir süre sandığa baktı, sonra gitti. Eirene kalktı, sandığın yanındaki nöbetçiye balmumu uzattı. Nöbetçi aldı, kulağına bastırdı, teşekkür etmedi. Teşekkür de sesti. O sabah kervan sessiz yürüdü. Deniz uzağa kaldı; yine de tuz, rüzgârda geliyordu. Kimse isim söylemedi.
