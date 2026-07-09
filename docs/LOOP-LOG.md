@@ -121,3 +121,11 @@ En yeni tur en altta.
 - open: gemi/kesish dancing; warren peşin; arsiv-isim-sil closed
 - DNA ok; em/en dash yeni yok; max 5
 - Sonraki: 01/07/11/19/20
+
+### Tur 11 — 2026-07-09
+- Plan: (1) 01 yola çıkış/tulum (2) 07/11 muhafız+usta dans (3) 19/20 modern cevap-verme kapalı
+- Dosyalar: 01, 07, 11, 19, 20 + TTS
+- words: 31920 -> 32385 (delta 465, target 400)
+- open: gemi/kesish dancing; forum-tiklama-19 closed
+- DNA ok; tire yok; max 5
+- Sonraki: 08/09/17/21/24

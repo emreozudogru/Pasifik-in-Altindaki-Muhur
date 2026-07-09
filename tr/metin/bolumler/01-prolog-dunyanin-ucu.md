@@ -104,6 +104,12 @@ O gece, köyün dışında, kuru nehir yatağında oturdu. İçinden bir ses, k�
 
 O gün, dünyanın ucuna doğru ilk adım atıldı.
 
+Yola çıkmadan önce bir su tulumu doldurdu. Köyün kuyusundan. Kimse sormadı. Eirene sormadı da. Sormak, kalmak ister gibi görünürdü. Tulum omzunda, taş cebinde, sırtını köye döndü. Bir köpek uludu. Ses, adını fısıldamadı bu kez. Sadece uludu. Eirene durmadı. İlk adım, bazen, dönmemeyi seçmekti. Güneş henüz yoktu. Toz, ayakkabısına yapıştı. İyi. Yük, somuttu.
+
+Üçüncü günde bir kervana rastladı. Tüccar sordu: "Nereye?" Eirene omuz silkti. "Uzağa." Tüccar güldü, sormadı. İyi bir tüccardı. Ya da tesadüf. Eirene su istedi, verdi. Konuşmadı. Taş cebinde kaldı. Adını kimse sormadı. Sormasalar iyiydi. İsim, o yolda, henüz erken geldi.
+
+
+
 ---
 
 Bir bilge. Bir kılıç. Bir taş.

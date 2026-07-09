@@ -1,37 +1,37 @@
 # LOOP-STATE
-turn: 10
+turn: 11
 phase: 1
 phase_turns: 1
-next_chapters: [1, 7, 11, 19, 20]
-last_focus: "05 gömme/isim yok; 06 mola muhafiz; 15 Warren kilise; 18 Kerem taslak sil; 22 Marta firtina ortu"
+next_chapters: [8, 9, 17, 21, 24]
+last_focus: "01 tulum/kervan; 07 genç nöbet; 11 usta kurşun; 19 Kerem/Ana tıklama; 20 metro/çekmece"
 final_grounded: 4
 action_balance: 4
 prose_richness: 4
 length_ok: true
-words_before: 31480
-words_after: 31920
-delta: 440
+words_before: 31920
+words_after: 32385
+delta: 465
 target_delta: 400
 chapter_count: 27
 new_chapters: []
 dna_ok: true
-last_commit: "548d1f3"
+last_commit: "pending-t11"
 open_threads:
   - id: kesish-pencere-15yy
     planted: "13"
     status: dancing
     payoff_target: "14/17/22/25/27"
-    hook: "22 firtina ortu dans"
+    hook: "pencere zinciri"
   - id: warren-cevap-verme
     planted: "15"
     status: closed
-    payoff_target: "15/18/25/26/27"
-    hook: "15 kilise+cekmece peşin"
+    payoff_target: "15/18/20/25/26/27"
+    hook: "20 cekmece peşin"
   - id: gemi-muhafiz-sus
     planted: "09"
     status: dancing
     payoff_target: "05/06/07/08/09/11/23"
-    hook: "05 yardimci + 06 mola dans"
+    hook: "07 genç nöbet dans; erken mühür"
   - id: kuroshima-yerli-pano
     planted: "10"
     status: closed
@@ -41,7 +41,7 @@ open_threads:
     planted: "17"
     status: closed
     payoff_target: "20/21/24"
-    hook: "bilinmeyen numara"
+    hook: "20 acilmadi peşin"
   - id: irc-nefes-sil
     planted: "16"
     status: closed
@@ -71,5 +71,10 @@ open_threads:
     planted: "18"
     status: closed
     payoff_target: "18"
-    hook: "Kerem Ada isim sil; Ana/Marta/Daniel"
-notes: "t10: 05/06/15/18/22. Delta 440. Em/en dash yeni yok. max 5 dosya."
+    hook: "isim sil"
+  - id: forum-tiklama-19
+    planted: "19"
+    status: closed
+    payoff_target: "19"
+    hook: "Kuroshima baslik; Ana; Kerem arama"
+notes: "t11: 01/07/11/19/20. Delta 465. Em/en dash yeni yok. max 5."

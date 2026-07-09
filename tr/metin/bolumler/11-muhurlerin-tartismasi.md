@@ -115,3 +115,9 @@ Gece yarısından sonra, tünelin ağzında bir yerli genç nöbet tutuyordu. Ad
 Genç dudağını araladı. Bir hece hazırdı. Sonra Eirene, kıyıdan, sandalyesiz bir adımla geldi. Elini gencin omzuna koydu. Hekim eli. Sıkı. İşaret: hayır. Genç sustu. Lambayı indirdi. Eirene balmumu uzatmadı; ada toprağında balmumu yoktu. Sadece baktı. Genç anladı. O gece tünelin ağzında iki kişi oturdu, isimsiz. Sabaha karşı genç kalktı, kulübesine indi, denize bakan panoyu bir kez daha yokladı. Çivi yerindeydi. Annesine demedi. Karısına demedi. Mühür, henüz taşa basılmadan, ağızda ve tahtada birden işliyordu.
 
 Lu Shen, ateşin külünde, kâğıdı bir kez daha açtı. Yedinci satırda hâlâ *kan* yazıyordu. Kalemi tuttu. *Bedel* yazmayı düşündü. Rüzgâr kâğıdı kıpırdattı. Lu Shen kalemi indirdi. "Torunlar somut okur," diye fısıldadı kendi kendine. Fısıltı, o gece, yasağın eşiğindeydi. Kimse duymadı. Sabah kapı kapanacaktı. Yalan ile bedel, yan yana kalacaktı. Biri kayıtlarda. Biri taşta. Biri de, tünelin ağzında susturulmuş bir hecede.
+
+Şafakta Anadolu'lu usta tünele girdi, elinde kurşun. Kapı henüz kapanmamıştı. İçeriden nefes. Usta konuşmadı. Kurşunu eşiğe bıraktı, bir gece erken. "Yarın," dedi kimseye. Eirene duymadı. Lu Shen duydu, yazmadı. Usta çıktı, elleri kan. Denize baktı, pencerelere değil. Pano zaten kapalıydı. Ada, o sabah, iki dilde mühürleniyordu: taş ve tahta.
+
+Pers rahibi ateş yakmadı. "Bugün ateş yok," dedi. Mısırlı astronom gökyüzüne baktı, yıldız yok, sis. "Kuzey de yok," dedi. İkisi de güldü, kısa, sonra sustu. Gülmek serbestti. İsim değil. Kapı, o şafakta, hâlâ dışarıdaydı.
+
+

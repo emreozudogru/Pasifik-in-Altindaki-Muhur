@@ -81,3 +81,9 @@ Elini açtı. Beş parmak, ince, hekim eli. Bıçağın ağzıyla parmak ucunu h
 Bu, soruya verdiği tek cevaptı: *Bedeli ben ödeyeceğim. Ama hemen değil. Ve sen göremeyeceksin.* Çünkü bedel, En-Nakar'ın anladığı bir şey değildi. O, ödetmeyi bilirdi; ödemeyi bilmezdi. İşte mührün gerçek sırrı buradaydı, ve Eirene bunu kimseye söylemedi.
 
 O iz, yolculuğun geri kalanında kimse tarafından görülmedi. Ama taş, adaya ulaştı.
+
+Ertesi sabah, ölen muhafızın yerine genç biri nöbete geldi. Balmumu taze. Elleri titriyordu. Eirene omzuna dokunmadı; dünkü el, dünkü ölüye aitti. Sadece balmumu bastırdı, yavaş. Genç sordu işaretle: *Ben de mi?* Eirene başını salladı. Hayır. Soru, herkese aynı değildi. Genç anladı, ya da anlamadı. O gece sandık fısıldadı: "Annen." Genç ağzını açmadı. Ağladı, sessiz. Sandık sustu. Geç ödenen bedel dün geceydi; bu gece, erken vurulan bir mühür gibiydi. Küçük. İsimsiz. Tutuyordu.
+
+Lu Shen o sabah kâğıda baktı. Matematikçinin kelimesi: isim. Yanına bir çizgi çekti, sildi. "Bugün kimse adını söylemedi," diye not düşmek istedi. Yazmadı. Not, övünç olurdu. Övünç, besindi. Kâğıdı katladı. Deniz tuz getirdi. Eirene taşını avucunda tuttu, iz hâlâ orada, kuru kan. Kimse sormadı. İyi ki sormadı.
+
+
