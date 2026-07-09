@@ -60,4 +60,4 @@ Köyde, kiralık evin denize bakan penceresi vardı. İlk gece araladı. Rüzgâ
 
 Yıllar sonra, adını hiç bilmediği bir araştırmacının dağıttığı küçük bir kâğıt eline geçti. Üzerinde beş kural vardı. İkincisinde şöyle yazıyordu: "Bir ses sana 'bu sensin' diyorsa, dur. Belki haklıdır. Ama haklı olması, ona itaat etmen gerektiği anlamına gelmez."
 
-Marta o kâğıdı sakladı. Örtünün yanındaki rafta, tozun altında. Ve ilk kez, uzun zamandır ilk kez, rahat bir nefes aldı. Perdeyi açmadı. Açmaya gerek yoktu.
+Marta o kâğıdı sakladı. Örtünün yanındaki rafta, tozun altında. Ve ilk kez, uzun zamandır ilk kez, rahat bir nefes aldı. Perdeyi açmadı. Açmaya gerek yoktu. Sabah kahvesini karanlıkta içti. Dışarıda martı vardı. Sesini duydu, bakmadı. Bakmamak, o köyde, onun küçük zaferiydi.
