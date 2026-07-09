@@ -1,42 +1,42 @@
 # LOOP-STATE
-turn: 14
+turn: 15
 phase: 1
 phase_turns: 1
-next_chapters: [6, 10, 12, 18, 26]
-last_focus: "04 ateşsiz mola; 05 vadi dönüş; 14 balıkçı pano; 25 anne mesajı; 27 karanlık bedel yankı"
+next_chapters: [7, 8, 11, 15, 19]
+last_focus: "06 boş yer; 10 tünel nöbet; 12 gemi kan/bedel; 18 grup isim yok; 26 bank kâğıt"
 final_grounded: 4
 action_balance: 4
 prose_richness: 4
 length_ok: true
-words_before: 33227
-words_after: 33637
-delta: 410
+words_before: 33637
+words_after: 34042
+delta: 405
 target_delta: 400
 chapter_count: 27
 new_chapters: []
 dna_ok: true
-last_commit: "54c6006"
+last_commit: "pending-t15"
 open_threads:
   - id: kesish-pencere-15yy
     planted: "13"
     status: closed
     payoff_target: "14/25/27"
-    hook: "14 balıkçı pano bag; 25 perde; 27 Tokyo oda"
+    hook: "bag"
   - id: warren-cevap-verme
     planted: "15"
     status: closed
     payoff_target: "15/18/20/21/23/24/25/26/27"
-    hook: "25 Cevap verme peşin"
+    hook: "26 Cevap verme peşin"
   - id: gemi-muhafiz-sus
     planted: "09"
     status: closed
     payoff_target: "05/06/07/08/09"
-    hook: "bag"
+    hook: "06 peşin"
   - id: kuroshima-yerli-pano
     planted: "10"
     status: closed
-    payoff_target: "10/12/14"
-    hook: "14 pano peşin"
+    payoff_target: "10/12"
+    hook: "10/12 peşin"
   - id: arakawa-telefon-cevap
     planted: "17"
     status: closed
@@ -65,8 +65,8 @@ open_threads:
   - id: panjur-14yy
     planted: "13"
     status: closed
-    payoff_target: "13->14/25/27"
-    hook: "pano zinciri bag"
+    payoff_target: "13"
+    hook: "panjur"
   - id: ren-kapi-26
     planted: "26"
     status: closed
@@ -76,7 +76,7 @@ open_threads:
     planted: "18"
     status: closed
     payoff_target: "18"
-    hook: "isim sil"
+    hook: "18 grup peşin"
   - id: forum-tiklama-19
     planted: "19"
     status: closed
@@ -96,5 +96,10 @@ open_threads:
     planted: "14"
     status: closed
     payoff_target: "14"
-    hook: "duman; pano; torun"
-notes: "t14: 04/05/14/25/27. kesish CLOSED via 14/25/27. Delta 410. DNA dark cost ok. Em/en dash yeni yok. max 5."
+    hook: "pano"
+  - id: bank-kagit-26
+    planted: "26"
+    status: closed
+    payoff_target: "26"
+    hook: "sahipsiz kâğıt; Ana"
+notes: "t15: 06/10/12/18/26. Delta 405. open_threads çoğunluk closed. Em/en dash yeni yok. max 5."

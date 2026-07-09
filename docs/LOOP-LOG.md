@@ -153,3 +153,11 @@ En yeni tur en altta.
 - open: kesish-pencere closed (14/25/27 bag); balıkci-1945 closed
 - DNA ok (karanlık bedel peşin); tire yok; max 5
 - Sonraki: 06/10/12/18/26
+
+### Tur 15 — 2026-07-09
+- Plan: (1) 06/10 yol+tünel nöbet (2) 12 gemi kan/bedel (3) 18/26 Arşiv isim yok + bank kâğıt
+- Dosyalar: 06, 10, 12, 18, 26 + TTS
+- words: 33637 -> 34042 (delta 405, target 400)
+- open: bank-kagit-26 closed; diğerleri closed peşin
+- DNA ok; tire yok; max 5
+- Sonraki: 07/08/11/15/19

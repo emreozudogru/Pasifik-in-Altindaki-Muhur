@@ -75,3 +75,9 @@ Ve şüphe, zaman zaman yeterli değildi.
 Kerem bir keresinde Ren'e şöyle yazmıştı: "Seni ikna etmeye çalışmıyorum. Sadece aynı şeyi görüp görmediğini anlamak istiyorum." Ren'in cevabı kısaydı: "Görüyorum. Ama görmek, bilmek değil." Bu ayrım, grubun kurulmayan temeliydi. Kimse tam inanmıyordu. Ama kimse de ayrılmıyordu. Çünkü veriler, her geçen yıl biraz daha net bir şekil alıyordu.
 
 Ve şeklin neye benzediğini ilk gören Ren oldu. Yıllar sonra, ekranların çoğaldığı, sesin algoritmaya dönüştüğü bir çağda. O zaman anladı ki, izini sürdükleri şey artık bir adada, bir bedende, bir defterde değildi. Her yerdeydi. Ve onları da içine almıştı.
+
+O anlayıştan bir gece önce, Kerem bir grup mesajı taslağı açtı: "Arkadaşlar, ada gerçek." Sildi. Yerine: "İyi misiniz?" Yeterli. Ana "iyiyim" dedi. Marta "uyuyorum" dedi. Daniel yazmadı. Ren "görüyorum" yazmadı bu kez. Sadece emoji yok, metin yok, okundu bilgisi kapalı. Grup, o gece, isimsiz bir şekilde güçlendi: kimse adayı adlandırmadı. Kapı dar kaldı. Sabah Kerem kahve demledi, içmedi. Soğudu. Düzen, bu kadardı.
+
+Ren aynı sabah defterine *ada* yazmadı. Yazmak, çoğaltmaktı. Boş satır bıraktı. Boş, bazen, en dürüst nottu.
+
+

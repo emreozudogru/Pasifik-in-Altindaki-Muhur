@@ -258,4 +258,10 @@ Kıyıda, panolu kulübenin önünde, tünelde çalışan genç (adı hâlâ yok
 
 Beş gölge adadan ayrılırken genç balığa bakmadı. Bakmak, veda etmek olurdu. Veda, isim isterdi. Sis kapandı. Ada, dışarıdan, yine sıradan bir kara kayaydı. İçeride bekleme. Dışarıda pano. İkisi de sustu.
 
+Gemide Lu Shen kâğıdı açtı. Yedinci satır: *kan.* Kalemi tuttu. Düzeltmedi. Rüzgâr kâğıdı kıpırdattı. Eirene yanındaydı, bakmadı. Bakmak, yalanı çoğaltırdı. Ada sisin ardında küçüldü. Beş gölge, güvertede, farklı yönlere baktı. Kimse "ev" demedi. Ev, isimdi. Sandık yoktu artık; yerin altındaydı. Yine de herkes omuzunda bir ağırlık taşıyordu. Bedel, henüz bitmemişti. Sadece taşınmıştı.
+
+Mısırlı astronom güverte kenarında durdu, yıldız aradı. Sis. "Kuzey yok," dedi kimseye. Kimse cevap vermedi. İyi.
+
+
+
 

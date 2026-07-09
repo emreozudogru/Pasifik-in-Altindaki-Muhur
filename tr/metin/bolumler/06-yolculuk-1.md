@@ -68,4 +68,13 @@ Sabaha karşı, sandığın yanında nöbet tutan yaşlı bir muhafız (henüz s
 
 Akşam, Eirene yaşlı muhafıza balmumu bastırdı. Muhafız titredi, kabul etti. "Adımı unut," demedi kimse. Unutmak emredilmezdi; seçilirdi. Muhafız o gece rüya görmedi. Ya da gördü, hatırlamadı. Fark etmedi. Sandık sustu. Kervan uyudu, yarım.
 
+Gece yarısı matematikçinin cesedi denize verilmişti; yine de masada boş bir yer vardı. Kimse oturmadı. Eirene suyu o yere koymadı. Koymak, isim koymak gibiydi. Lu Shen cebindeki kâğıdı yokladı, açmadı. *İsim.* Yarın belki. Bu gece değil. Yaşlı muhafız sandığa sırtı dönük uyudu. Rüya gelmedi. Ya da geldi, isimsiz. Sabah kervan yürüdü. Boş yer, tozda kayboldu. İyi. Boşluk, bazen, en temiz kayıttı.
+
+Pers rahibi o sabah dua etmedi. Dua, isim isterdi. Yürüdü. Yeterli.
+
+Eirene taşını sıktı. Soğuk. Net. Yola devam.
+
+
+
+
 

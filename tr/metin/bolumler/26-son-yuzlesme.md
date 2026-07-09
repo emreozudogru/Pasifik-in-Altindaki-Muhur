@@ -91,3 +91,9 @@ Ama bazı insanlar daha az hızlı öfkelendi. Bazıları paylaşmadan önce oku
 Ve dünyanın görünmeyen bir yerinde, En-Nakar bunu hissetti. Çünkü onun açlığı azalmamıştı. Ama sofrasına oturanlar birkaç saniye gecikmeye başlamıştı.
 
 Bazen birkaç saniye, bir mührün ilk taşıdır.
+
+Ren o gece son kâğıdı bir tren istasyonunun bankına bıraktı. İmza yok. Başlık yok. Sadece beş kural, küçük punto. Bir adam aldı, okudu, cebine koydu. Ren izlemedi uzun. İzlemek, sahiplenmek olurdu. Sahiplenmek, isim. Metroya bindi. Telefon kapalı. Voss yazmadı. Yazmasa da dinliyordu belki. Ren bilmedi. Bilmemek, o gece, bir tür mühürdü. Evde perde kapalı. Çay soğuk. Yarım saniye, defterde, hâlâ duruyordu: *Cevap verme.* Yeterli sandı. Yeterli değildi belki. Ama sofraya oturmakta gecikenler çoğalmıştı. İlk taş, bu kadardı.
+
+Sabah Ana yazdı: "Bir kâğıt buldum. Senin mi?" Ren: "Hayır." Yalan değildi. Sahipsizdi. Ana "uyguluyorum" dedi. Konu kapandı. Kapı dar.
+
+

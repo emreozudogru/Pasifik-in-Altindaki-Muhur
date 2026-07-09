@@ -85,3 +85,9 @@ Mühürlerin ne anlama geldiğini.
 Her birinin ne gerektirdiğini.
 
 Ve yedincisinin, en son mühürün, kimden ne isteyeceğini.
+
+O gece Eirene tünelin ağzına indi. Lamba yok. Ay zayıf. İçeriden nefes. "Bedel," demedi yüksek sesle. Sadece taşı sıktı. Soğuk. Anadolu'lu usta arkadan geldi, konuşmadı. İkisi de eşiğe bakmadı uzun. Bakmak, sormak olurdu. Usta kurşun halkayı yokladı. Yerinde. Eirene balmumu uzatmadı; ada toprağında gerek yoktu belki. Gerek vardı: ağızlar. Sustular. Sabaha kadar nöbet, isimsiz. Kapı henüz kapanmamıştı. Yine de o gece, iki insan, kapıyı içeriden değil dışarıdan tuttu: cevap vermeyerek.
+
+Lu Shen uzaktan izledi, yazmadı. Sabah kapı kapanacaktı. O gece kapanmış gibiydi zaten.
+
+
