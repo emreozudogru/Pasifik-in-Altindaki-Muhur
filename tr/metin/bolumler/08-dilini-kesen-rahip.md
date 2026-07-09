@@ -65,3 +65,9 @@ Sabaha karşı Lu Shen çadırın girişinde durdu. "Rahip mutluydu," dedi alça
 Eirene taşını çevirdi. "Mutluluk da yem olabilir. Susmak da. Fark, kimin sofrasına gittiğinde."
 
 Lu Shen cevap vermedi. Bir süre sandığa baktı, sonra gitti. Eirene kalktı, sandığın yanındaki nöbetçiye balmumu uzattı. Nöbetçi aldı, kulağına bastırdı, teşekkür etmedi. Teşekkür de sesti. O sabah kervan sessiz yürüdü. Deniz uzağa kaldı; yine de tuz, rüzgârda geliyordu. Kimse isim söylemedi. İsim, o sabah, yasaktı.
+
+O öğleden sonra, kervan mola verdiğinde, genç bir muhafız (balmumu hâlâ kulağında) Eirene'ye yaklaştı. İşaretle sordu: *Rahip mutlu muydu?* Eirene bir an baktı. Sonra başını salladı. Evet. Muhafız elini boğazına götürdü, sonra indirdi. *Ben de...* Eirene elini onun bileğine koydu. Sıkı. Hayır. Muhafız titredi. İçinden ses, rahibin sesiyle, fısıldıyordu: "Gel. Huzur." Muhafız ağzını açmadı. Balmumunu bastırdı. O gece nöbette uyumadı. Sandığa bakmadı. Sabah Eirene ona su uzattı. İçti. Teşekkür etmedi. Teşekkür sesti. Yola çıktıklarında muhafız en arkada yürüdü. Kimseye sormadı. Sormak, kapıyı aralamak olurdu. Rahibin huzuru, kervanda bir gölge gibi kaldı; kimse ona isim koymadı.
+
+O gölge, sonraki gece, başka bir nöbetçinin rüyasına girdi. Rüyada rahip gülümsüyordu, dilsiz, ve eliyle "gel" diyordu. Nöbetçi uyandı, sandığa doğru üç adım attı. Sonra durdu. Eirene'nin balmumunu hatırladı. Geri döndü. Rüyayı anlatmadı. Anlatmak, rüyayı büyütürdü.
+
+

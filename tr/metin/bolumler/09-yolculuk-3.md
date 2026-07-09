@@ -90,6 +90,8 @@ O gece, kıyıya varmadan önceki son nöbette, genç bir muhafız sandığın y
 
 Gemi kıyıya yaklaştı.
 
+İskele yoktu. Kayalara demir attılar. Anadolu'lu usta ilk indi, eli kanayan, taş arıyordu. Yerli bir çocuk, uzaktan, panolu bir kulübeyi işaret etti. Konuşmadı. Usta anladı: burası da pencereleri kapatıyordu. Eirene çocuğa bakmadı uzun. Bakmak, sormak olurdu. Sandığı indirdiler. Kimse isim söylemedi. Sis, kayaların arasından tuz getirdi.
+
 Sis yeniden kapandı.
 
 Ve aşağıda, sandığın içinde, iki bin yıl sürecek bir bekleme sessizce başladı.

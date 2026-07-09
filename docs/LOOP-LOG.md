@@ -97,3 +97,11 @@ En yeni tur en altta.
 - open_threads: gemi-muhafiz + kuroshima-pano dancing; telsiz-1981 + tapinak-rahip closed
 - DNA ok; yeni metinde em/en dash yok
 - Sonraki: pencere bag (25/27) veya 08/13 ara cag
+
+### Tur 8 — 2026-07-09
+- Plan: (1) 08/03 kapalı: muhafız+usta cevap vermez (2) 13 panjur 14yy + 09 iskele/pano (3) 25/27 perde bağ
+- Dosyalar: 03, 08, 09, 13, 25, 27 + TTS
+- words: 30600 -> 31037 (delta 437, target 400)
+- open: kesish/gemi/pano dancing; panjur-14yy closed (25/27 bag)
+- DNA ok; em/en dash yeni yok
+- Sonraki: 12 pano bag veya 04/10/26

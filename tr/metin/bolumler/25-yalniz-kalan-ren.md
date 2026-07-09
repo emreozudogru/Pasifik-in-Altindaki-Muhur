@@ -106,6 +106,9 @@ Koridorun ucunda Voss yoktu. Her şeyi ayarlamıştı. Annesi o hafta taburcu ed
 
 Ayrılmadan önce, hastane formundaki bir satıra takıldı gözü. Annesinin doğum yeri: Kagoshima. Bunu hep biliyordu ama hiç düşünmemişti. Annesinin ailesi balıkçıydı; deniz kenarında, adı artık anılmayan bir köyden. Çocukken anneannesi ona deniz hakkında bir şey söylerdi. Bir kıyıya asla yaklaşma, demişti, sebebini söylemeden. Bir de: Gece pencereyi o tarafa açma. Ren bunu yaşlı bir kadının batıl korkusu sanmıştı. Şimdi, hastane formundaki Kagoshima satırının yanında, o iki cümle aynı tona oturdu. Pencere. Kıyı. Cevap verme. Aynı zincirin farklı halkaları.
 
+Otel odasına döndüğünde perdeyi çekti. Deniz manzarası yoktu; sadece beton ve bir klima borusu. Yine de çekti. Elleri, bilmediği bir alışkanlıkla, panjur arar gibi kenara gitti. Yoktu. Sadece kumaş. Ren oturdu. Anneannesinin cümlesi, on beşinci yüzyıl keşişinin örtüsü, balıkçı karısının panjuru, Morita'nın panosu: aynı hareket. Bakmamak. Cevap vermemek. Telefon masada, kapalı. Kimse aramadı. İyi. Ren uyumadı. Perde kapalı kaldı.
+
+
 Şimdi Voss'un sorusu kulağında çınlıyordu. *Arakawa'nın sandığı neden Kagoshima'dan çıktı?* Sandığı gönderen aile. Annesinin köyü. Kendi soyadı. Ren bağlantıyı kurdu ve mide bulantısı gibi bir şey hissetti. Hocası onu öğrenci olarak seçmemişti belki. Belki de o, daha doğmadan seçilmişti. İki bin yıl önce, bir taşa basılan bir parmakla.
 
 Ve Ren, bu düşünceye karşı bütün varlığıyla isyan etti.

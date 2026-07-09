@@ -28,3 +28,6 @@ O kelime, yıllar sonra Kerem’in eline geçecekti. Ve Kerem, o kelimenin ne ka
 
 O gece dağıldıktan sonra Eirene çadırın dışında oturdu. Taş cebindeydi. Uzakta bir köpek uludu. Bir an, içinden bir ses adını fısıldadı. Cevap vermedi. Sadece taşı sıktı. Soğuktu. Lu Shen uzaktan geçti, elinde kâğıt. Durmadı. Selam vermedi. Selam da sesti, o gece. Sabah kervan yollara düşecekti. Eirene cevapsız bir geceyi geride bırakmıştı. Bu da bir mühürdü: küçük, isimsiz, ve kendi. Yıllar sonra, başka bir kadın, başka bir koridorda, aynı seçimi yapacaktı.
 
+Aynı gece, çadırın öbür ucunda, Anadolu'lu usta uyanık yattı. Elleri hâlâ taş tozundaydı. İçinden bir ses, kendi oğlunun sesiyle sordu: "Neden buradasın? Evine dön. Adını söyle, yol açılır." Usta kalktı, çadırın direğine dayandı. Ağzını araladı. Sonra Eirene'nin taşa bastırdığını hatırladı: bedel. İsim değil. Usta sustu. Sabaha kadar direğe yaslandı. Konuşmadı. Sabah kervan hareket ederken, Eirene ona baktı. Usta başını salladı. Anlaşılan bir şey yoktu. Sadece iki insan, aynı gece, aynı kapıyı kapatmıştı. Biri hekim. Biri taş ustası. İkisi de isimsiz bir seçim.
+
+

@@ -22,6 +22,9 @@ Annesi öldü. Kalp, ikinci kez durdu ve bu kez geri dönmedi. Ren cenazeye gitm
 
 Oda loştu. Pencere perdesi, denize bakan otel manzarasını kesiyordu. Ren perdesi aralamadı. Anneannesinin cümlesi, Morita evindeki pano, on beşinci yüzyıl keşişinin örtüsü, gemideki muhafızın kapalı ağzı: aynı hareket, farklı yüzyıl. Bakmamak. Cevap vermemek. Çekmecede Warren'ın kâğıdı duruyordu. *Do not answer.* Hastane koridorunda zaten cevap vermemişti. Şimdi de vermedi. Telefonu kapalı tuttu. Kimseye yazmadı. Dışarıda bir siren geçti. Ren pencereden bakmadı.
 
+Sabah, perdenin aralığından gri bir çizgi süzüldü. Ren aralamadı. Kahve demledi, içmedi. Soğudu. Yine de demlemek, bir tür düzen tutmaktı. Defterde *Cevap verme* satırı duruyordu. Yanına tarih yazmadı. Tarih, iz bırakırdı. İz, bazen kapı olurdu. O sabah kapı, içeriye doğru kapalı kaldı.
+
+
 O gece Ren, Kerem'in dosyasındaki iki parmak izini son kez yan yana koydu. Eirene'ninki. Kendininki. Bu kez örtüştüler. Tam tamına. İki bin yıllık soru, nihayet aynı eli buldu. Ama Ren bunu bir zafer gibi hissetmedi. Bir kapanış gibi hissetti. Bedel ödenmişti — ve ödendiğinde, geriye sevinecek kimse kalmamıştı.
 
 Ren bu cümleyi masasının çekmecesinde sakladı. Kerem’in şifreli dosyasından çıkardığı notların yanına. Arakawa’nın son e-postasının çıktısının altına. Ve boş bir kâğıdın üzerine sadece şunu yazdı: **Sekizinci mühür: dikkat.** Sonra ışığı kapattı. Dışarıda Tokyo parlıyordu. Milyonlarca ekran, milyonlarca ses, milyonlarca korku, milyonlarca arzu. Ve bir yerlerde, çok eski bir şey hâlâ dinliyordu.

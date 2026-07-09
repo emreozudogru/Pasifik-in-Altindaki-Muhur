@@ -1,27 +1,27 @@
 # LOOP-STATE
-turn: 7
+turn: 8
 phase: 1
 phase_turns: 1
-next_chapters: [8, 13, 14, 25, 27]
-last_focus: "Yeni sahneler: 02 tapinak rahibi; 07 sessizlik aylari; 11 tünel nöbeti+pano; 16 1981 telsiz; 23 Kerem telefon/pasaport"
+next_chapters: [4, 10, 12, 14, 26]
+last_focus: "08 muhafiz rahip gölgesi; 03 usta gece; 13 panjur 14yy; 09 iskele/pano; 25/27 perde bag"
 final_grounded: 4
 action_balance: 4
 prose_richness: 4
 length_ok: true
-words_before: 30082
-words_after: 30600
-delta: 518
+words_before: 30600
+words_after: 31037
+delta: 437
 target_delta: 400
 chapter_count: 27
 new_chapters: []
 dna_ok: true
-last_commit: "7e7be37"
+last_commit: "pending-t8"
 open_threads:
   - id: kesish-pencere-15yy
     planted: "13"
     status: dancing
     payoff_target: "14/17/22/25/27"
-    hook: "pencere"
+    hook: "pencere; 13 panjur + 25/27 perde dans"
   - id: warren-cevap-verme
     planted: "15"
     status: closed
@@ -30,17 +30,17 @@ open_threads:
   - id: gemi-muhafiz-sus
     planted: "09"
     status: dancing
-    payoff_target: "05/06/07/09/11/23"
-    hook: "sandik isim yok; 07/11/23 dans"
+    payoff_target: "05/06/07/08/09/11/23"
+    hook: "08 rahip gölgesi dans; 09 iskele"
   - id: kuroshima-yerli-pano
     planted: "10"
     status: dancing
-    payoff_target: "11/12"
-    hook: "pano; 11 tünel nöbeti dans"
+    payoff_target: "09/11/12"
+    hook: "09 panolu kulube; 11 tünel"
   - id: arakawa-telefon-cevap
     planted: "17"
     status: closed
-    payoff_target: "20/21/24 Ren acmiyor"
+    payoff_target: "20/21/24"
     hook: "bilinmeyen numara"
   - id: irc-nefes-sil
     planted: "16"
@@ -51,10 +51,15 @@ open_threads:
     planted: "16"
     status: closed
     payoff_target: "16"
-    hook: "mikrofon kapali; cevap verme"
+    hook: "mikrofon"
   - id: tapinak-rahip-02
     planted: "02"
     status: closed
-    payoff_target: "02->01/03 Eirene yansimasi"
-    hook: "isim kapidir; tableti kir"
-notes: "t7: kapali vignette + dans (11 pano/muhafiz, 23 telefon). Em/en dash yeni metinde yok. Delta 518 >= 400."
+    payoff_target: "02"
+    hook: "isim kapidir"
+  - id: panjur-14yy
+    planted: "13"
+    status: closed
+    payoff_target: "13->25/27 bag"
+    hook: "panjur; rüzgar yalanı; 25/27 perde"
+notes: "t8: 03/08/09/13/25/27. Delta 437. Em/en dash yeni metinde yok. pencere zinciri dans+kismi bag."
