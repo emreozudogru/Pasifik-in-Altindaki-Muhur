@@ -79,3 +79,8 @@ En yeni tur en altta.
 - Dosyalar: 03,06,08,10,23 + TTS
 - words: 28881 -> 29234 (delta 353)
 - open: kuroshima-yerli-pano; gemi-muhafiz dancing
+
+### Tur 5 — 2026-07-09
+- Plan: pencere/cevap dans (17/22/12/20); 04 yola cikis sahnesi
+- Dosyalar: 04,12,17,20,22 + TTS
+- words: 29282 -> 29633 (delta 351)

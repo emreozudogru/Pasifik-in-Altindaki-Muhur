@@ -1,27 +1,27 @@
 # LOOP-STATE
-turn: 4
-phase: 5
+turn: 5
+phase: 4
 phase_turns: 1
-next_chapters: [3, 6, 8, 10, 23]
-last_focus: "Dans cevap-verme zinciri: 06 muhafiz, 10 yerli pano, 23 Kerem bag; 03/08 ek"
+next_chapters: [4, 12, 17, 20, 22]
+last_focus: "Cevap-verme/pencere dans: Arakawa telefon, Marta ortu, yerli 12, Voss arama, yola cikis"
 final_grounded: 4
 action_balance: 4
 prose_richness: 4
 length_ok: true
-words_before: 28881
-words_after: 29259
-delta: 378
+words_before: 29282
+words_after: 29633
+delta: 351
 target_delta: 400
 chapter_count: 27
 new_chapters: []
 dna_ok: true
-last_commit: "c57735b+t4b"
+last_commit: pending
 open_threads:
   - id: kesish-pencere-15yy
     planted: "13"
     status: dancing
-    payoff_target: "14/25/27 + 10 koy panosu"
-    hook: "pencere"
+    payoff_target: "14/25/27 + 17 Arakawa perde + 22 Marta ortu"
+    hook: "pencere/perde"
   - id: warren-cevap-verme
     planted: "15"
     status: closed
@@ -30,16 +30,21 @@ open_threads:
   - id: gemi-muhafiz-sus
     planted: "09"
     status: dancing
-    payoff_target: "06 oncesi norbet; 09; 23 Kerem dipnot"
-    hook: "sandik, cevap yok"
+    payoff_target: "06/09/23"
+    hook: "sandik"
   - id: kuroshima-yerli-pano
     planted: "10"
+    status: dancing
+    payoff_target: "12 sessizlik muhuru sahnesi"
+    hook: "pano, koy"
+  - id: arakawa-telefon-cevap
+    planted: "17"
     status: open
-    payoff_target: "13-14 pencere zinciri"
-    hook: "obsidyen, pano, koy"
+    payoff_target: "20 Ren acmiyor; 25 Cevap verme"
+    hook: "bilinmeyen numara, acma"
   - id: irc-nefes-sil
     planted: "16"
     status: closed
     payoff_target: "16"
     hook: "nefes"
-notes: "Cevap verme zinciri dans ediyor. Delta kontrol."
+notes: "Tur 5 pencere/cevap zinciri genisledi."

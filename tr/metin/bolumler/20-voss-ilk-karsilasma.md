@@ -116,6 +116,8 @@ Eli titriyordu, ama yüzü sakindi. Bu bir tehditti, evet. Ama tehditten daha k�
 
 Adımlarını hızlandırdı.
 
+Telefon yine titredi. Aynı bilinmeyen. Ren baktı. Açmadı. Mesaj zaten gelmişti; ikinci bir cevap istemiyordu. Cebine koydu. Warren'ın kâğıdı, evde, çekmecede duruyordu. *Do not answer.* Bu da ondan.
+
 Arkasına bakmadı.
 
-Çünkü bakmak, görülmek demekti. Ve artık görülmüştü.
+Bakmak, görülmek demekti. Ve artık görülmüştü. Yine de cevap vermemişti. Küçük bir fark. O gece için yeterli.

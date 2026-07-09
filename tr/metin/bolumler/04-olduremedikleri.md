@@ -65,3 +65,5 @@ Kimse cevap veremedi.
 İlk bedel, daha yola çıkmadan istenmişti.
 
 Ve onu ödemeye karar verdiler.
+
+Karar gecesi, masanın etrafında kimse alkışlamadı. Mısırlı astronom oğluna mektup yazdı, sonra yırttı. Pers rahibi ateşe baktı, dua etmedi. Lu Shen kâğıda bir satır yazdı: *Gidenler dönmeyebilir.* Satırı sildi. Eirene taşını masaya koydu. "Bunu götüreceğim," dedi. "Ağırlığı unutmayalım." Kimse taşın ne olduğunu sormadı. Sormak, cevap istemekti. Cevap, o gece, henüz erken geldi. Yola çıkmadan önce, her biri kendi adını bir kez fısıldadı, kendi kendine, sonra sustu. Adı sandığa söylemediler. Eirene taşını cebine koydu. "Bedeli unutursak," dedi, "o unutmaz." Kimse gülmedi. Sabah yola çıktılar. Geri dönenler az olacaktı.
