@@ -72,4 +72,10 @@ Daireden çıkmadan önce telefonu çaldı. Polis değil. Bilinmeyen. Ren baktı
 
 Gece otelde anahtar kartı bozuldu. Resepsiyon sordu: "İsim?" Ren oda numarasını söyledi. Yeterli. İsim, kartta zaten vardı; söylemek, çoğaltmaktı. Kart yenilendi. Ren teşekkür etmedi. Teşekkür de sesti, o gece.
 
+Otel odasında perdeyi çekti. Bilgisayar açmadı. Açmak, taslağı yeniden okumak olurdu. Okumak, koştururdu. Koşmak, kapıydı. Telefon kapalı. Kerem'in boş konu satırı aklında: *karşılaştırma.* Ren deftere yazmadı. Yazmak, eşleşmeyi çağırmak gibiydi. Uyudu, yarım. Sabah Ana yazdı: "Neredesin?" Ren: "Yolda." Yeterli. İsim yok. Şehir yok. Kapı dar. Yağmur dinmişti. Ren yürüdü. Bakmadı arkasına. Bakmak, görülmekti. Görülmüştü zaten. Cevap vermemişti. Küçük fark. O sabah için yeterli.
+
+İstasyonda bir ilan: kayıp kişi. Yüz, Kerem değildi. Ren okumadı uzun. Okumak, aramak olurdu.
+
+
+
 

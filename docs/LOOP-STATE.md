@@ -1,47 +1,47 @@
 # LOOP-STATE
-turn: 17
+turn: 18
 phase: 1
 phase_turns: 1
-next_chapters: [2, 3, 13, 21, 24]
-last_focus: "01 kuyu/yol; 09 ikinci gece; 17 ölüm öncesi; 20 Voss isim yok; 22 Marta kâğıt/kül"
+next_chapters: [4, 5, 14, 16, 25]
+last_focus: "02 beş ağız dağılma; 03 mola taş; 13 harita boşluk; 21 otel/yolda; 24 çay evi kaçınma"
 final_grounded: 4
 action_balance: 4
 prose_richness: 4
 length_ok: true
-words_before: 34450
-words_after: 34851
-delta: 401
+words_before: 34851
+words_after: 35255
+delta: 404
 target_delta: 400
 chapter_count: 27
 new_chapters: []
 dna_ok: true
-last_commit: "58b87ad"
+last_commit: "pending-t18"
 open_threads:
   - id: kesish-pencere-15yy
     planted: "13"
     status: closed
-    payoff_target: "14/25/27"
-    hook: "bag"
+    payoff_target: "13/14/25/27"
+    hook: "13 öğretmen/çocuk peşin"
   - id: warren-cevap-verme
     planted: "15"
     status: closed
     payoff_target: "15/18/20/21/23/24/25/26/27"
-    hook: "20 peşin"
+    hook: "21/24 peşin"
   - id: gemi-muhafiz-sus
     planted: "09"
     status: closed
     payoff_target: "05/06/07/08/09"
-    hook: "09 peşin"
+    hook: "bag"
   - id: kuroshima-yerli-pano
     planted: "10"
     status: closed
-    payoff_target: "09/10/12"
-    hook: "09 pano peşin"
+    payoff_target: "10/12"
+    hook: "pano"
   - id: arakawa-telefon-cevap
     planted: "17"
     status: closed
     payoff_target: "17/20/21/24"
-    hook: "17 ölüm öncesi peşin"
+    hook: "telefon"
   - id: irc-nefes-sil
     planted: "16"
     status: closed
@@ -86,7 +86,7 @@ open_threads:
     planted: "24"
     status: closed
     payoff_target: "24"
-    hook: "kapi"
+    hook: "24 kaçınma peşin"
   - id: nagasaki-tercuman-18yy
     planted: "13"
     status: closed
@@ -106,5 +106,10 @@ open_threads:
     planted: "22"
     status: closed
     payoff_target: "22"
-    hook: "mektup kül; kâğıt rafta"
-notes: "t17: 01/09/17/20/22. Delta 401. Em/en dash yeni yok. max 5."
+    hook: "mektup"
+  - id: harita-ogretmen-13
+    planted: "13"
+    status: closed
+    payoff_target: "13"
+    hook: "Kuroshima yok; pencere"
+notes: "t18: 02/03/13/21/24. Delta 404. Em/en dash yeni yok. max 5."

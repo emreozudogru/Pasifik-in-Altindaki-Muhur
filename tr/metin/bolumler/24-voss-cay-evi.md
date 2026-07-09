@@ -58,4 +58,13 @@ Gece, perdeyi aralamadı. Sokak lambası çizgi çizgi duvarda. Ren defterini a�
 
 Akşam yine çay demledi. İçmedi. Soğudu. Telefon kapalı. Mesaj yok. Voss'un fincanı, zihninde, hâlâ dolu. Ren yıkamadı o hayali. Yıkamak da bir tür cevap olurdu.
 
+Ertesi gün çay evinin önünden geçmedi. Geçmek, masaya dönmek olurdu. Metroya bindi. Karşısında kimse gazete okumuyordu. İyi. Telefon kapalı. Mesaj yok. Ren cebinde Warren'ın cümlesini yokladı, kâğıt evde. Yine de cümle, avuçta gibiydi: *Do not answer.* Öğleye doğru bir reklam panosunda gri bir gülümseme sandı. Bakmadı uzun. Bakmak, selam olurdu. Selam, isim. İndi. Yürüdü. Kahve demledi. İçmedi. Soğudu. Voss fincanı, zihinde, hâlâ dolu. Ren yıkamadı. Yıkamadı. İkinci kez. Mühür, tekrarda da işliyordu.
+
+Akşam defteri açmadı. Tarih yetmişti. Perde kapalı. Nefes. Bir, iki, üç. Uyudu, yarım.
+
+Voss yazmadı. Yazmasa da dinliyordu belki. Ren bilmedi. Bilmemek, mühürdü.
+
+
+
+
 

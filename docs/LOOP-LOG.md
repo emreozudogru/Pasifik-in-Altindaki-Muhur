@@ -177,3 +177,11 @@ En yeni tur en altta.
 - open: marta-mektup-22 closed
 - DNA ok; tire yok; max 5
 - Sonraki: 02/03/13/21/24
+
+### Tur 18 — 2026-07-09
+- Plan: (1) 02/03 antik dağılma+mola (2) 13 harita/öğretmen kapalı (3) 21/24 modern cevap-verme
+- Dosyalar: 02, 03, 13, 21, 24 + TTS
+- words: 34851 -> 35255 (delta 404, target 400)
+- open: harita-ogretmen-13 closed
+- DNA ok; tire yok; max 5
+- Sonraki: 04/05/14/16/25

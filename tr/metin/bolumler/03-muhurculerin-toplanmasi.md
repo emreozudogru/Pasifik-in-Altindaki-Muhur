@@ -34,6 +34,12 @@ Sabah tüccar develeri saydı, eksik buldu, sormadı. Eksik, o sabah, yola çık
 
 Arabistanlı tüccar, son deveye bakarken, "kâr" kelimesini yuttu. Kâr da bir isimdi, o sabah. Yutmak, küçük bir mühürdü. Kimse duymadı.
 
+İlk mola yerinde Eirene taşı çıkardı, herkese göstermedi. Göstermek, ders vermek olurdu. Ders, isim isterdi. Usta yanına oturdu, konuşmadı. İki el, tozda, aynı soğuk. Lu Shen kâğıdı açtı, *bedel* yazmayı düşündü, yazmadı. Erken. Kervan gölgede dinlendi. Kimse "neden buradayız" demedi. Soru, kapıydı. Gölge uzadı. Yola devam. Develer eksik, kâr yutulmuş, mektup silinmiş. Bedel, daha yola çıkmadan, işliyordu.
+
+Tüccar deve sayısını bir daha kontrol etti. Eksik. Sormadı. Eksik, yoldaştı artık.
+
+
+
 
 
 

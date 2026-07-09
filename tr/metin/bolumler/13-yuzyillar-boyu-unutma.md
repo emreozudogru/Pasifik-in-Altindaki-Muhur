@@ -52,3 +52,9 @@ Yirminci yüzyılda imparatorluk yükseldi. İnsanlık daha hızlı, daha yükse
 Ve mühür hâlâ oradaydı. Zayıflamıştı. Ama kırılmamıştı. Çünkü En-Nakar'ın söylediği gün henüz gelmemişti. İnsan kendi güneşini yere indirmemişti. Henüz.
 
 Ama o gün yaklaşıyordu. Ve mühür, beklenmedik bir şekilde, ilk kez dışarıdan değil içeriden çatlayacaktı.
+
+O çatlamadan bir kuşak önce, kıyıda bir öğretmen çocuklara harita gösterdi. Kuroshima yoktu. Bir çocuk sordu: "O siyah nokta neden yok?" Öğretmen omuz silkti. "Rüzgâr uğursuz." Yalan değildi. Tam da değildi. Çocuk gece pencereyi o tarafa açmadı. Annesi sormadı. Alışkanlık, isimsiz, tuttu. Öğretmen defterine ada adını yazmadı. Yazmak, saymak olurdu. Saymak, kapı. Harita boş kaldı. Mühür, o boşlukta, bir gün daha dayandı.
+
+Çocuk büyüdü, denize bakmadan balık tuttu. "Uğursuz," demedi. Demek, ninni olurdu. Sustu.
+
+

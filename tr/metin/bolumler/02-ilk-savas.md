@@ -60,4 +60,13 @@ Kaseleri boşaltan gece, kervansarayın avlusunda bir köpek uludu. Beş kişi m
 
 Kâtip, avluda, hâlâ titriyordu. Eirene ona bakmadı uzun. Bakmak, sormak olurdu. Adam suyu sonunda içti. Teşekkür etmedi. Teşekkür sesti. Gitti. Nereye, bilinmedi. İyi. Bilinmeyen, o sabah, bir tür korumaydı.
 
+Öğleye doğru beş kişi yeniden buluşmadı. Gerek yoktu. Aynı yasağı taşımak, masaya oturmaktan daha sağlamdı. Eirene doğuya baktı. Lu Shen batıya. Matematikçi denklemi tozda bırakmıştı; çoban duvar örmüştü belki. Fikir, duvarda değil, ağızlarda susuyordu. Pers rahibi bir tapınağa girdi, ateşe bakmadı, çıktı. Astronom kardeşinin adını bir kez daha yuttu. O gün imparatorluklar savaştı. Mühürcüler, isimsiz, yürüdü. Küçük mühür, beş ağızda, henüz yedi değildi. Yine de tutuyordu.
+
+Gece, ayrı yollarda, beş kişi aynı rüyayı görmedi. İyi. Ortak rüya, ortak isim isterdi.
+
+Sabah toz. Eirene yürüdü. Taş cebinde. Soğuk. Net. Yeterli.
+
+
+
+
 
