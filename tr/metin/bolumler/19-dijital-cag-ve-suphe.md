@@ -134,3 +134,5 @@ Yine de durduramıyordu.
 Ekranı kapattı. Oda karardı. Ama camda, dışarıdaki şehrin ışığında, gri bir daire içinde koyu gri bir nokta gibi tek bir yansıma kaldı. Ren ona uzun süre baktı. Sonra anladı: O, sadece kendi gözbebeğiydi.
 
 Ya da öyle olduğunu ummak istedi.
+
+Gece yarısı forumda yeni bir başlık açıldı: *Kuroshima. Gerçek mi?* Ren tıklamadı. Yorum yazmadı. Kerem'e "biri yazıyor" demedi. İşaret çoğalmasın diye. Sabah başlık silinmişti. Kim sildi, bilinmedi. Ren yine de tıklamadı. Tıklamamak da, o gece, bir tür cevap vermemekti.
