@@ -120,4 +120,4 @@ Telefon yine titredi. Aynı bilinmeyen. Ren baktı. Açmadı. Mesaj zaten gelmi�
 
 Arkasına bakmadı.
 
-Bakmak, görülmek demekti. Ve artık görülmüştü. Yine de cevap vermemişti. Küçük bir fark. O gece için yeterli.
+Bakmak, görülmek demekti. Ve artık görülmüştü. Yine de cevap vermemişti. Küçük bir fark. O gece için yeterli. Metroya binmeden önce bir kez daha telefonuna baktı. Ekran karanlıktı. İyi.
