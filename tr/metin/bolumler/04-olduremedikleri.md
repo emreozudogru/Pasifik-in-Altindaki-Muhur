@@ -76,6 +76,15 @@ Pers rahibi, kervanın ortasında, ateş çubuğunu yere bıraktı. "Burada ate�
 
 Çocuk, kervansarayda, ekmeği yedi. Astronomun adını bilmedi. Bilmemek, o sabah, bir lütuftu.
 
+İkinci günün sabahında kervan bir köye uğramadı. Uğramak, isim sormak olurdu. Suyu dereden aldılar. Eirene taşını ıslatmadı. Islatmak, iz silmek. Usta derede ellerini yıkadı, konuşmadı. Lu Shen kâğıda *köy* yazmadı. Yazmak, haritaya nokta koymaktı. Nokta, kapı. Matematikçi yoktu artık; denklem taşta, duvarda. Fikir, ağızlarda susuyordu. Öğleye doğru bir çoban selam verdi. Kimse selam almadı. Selam, isim isterdi. Çoban omuz silkti, gitti. Kervan tozda kayboldu. İyi. Görünmemek, o gün, bir tür mühürdü.
+
+Akşam yine ateş yok. Soğuk. Eirene su dağıttı. Konuşmadı. Yeterli.
+
+Lu Shen kâğıdı katladı. Boş. Cebinde. Yarın belki. Bu gece değil. Uyudular, yarım. Toz. Yola devam.
+
+
+
+
 
 
 

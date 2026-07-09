@@ -143,4 +143,10 @@ Aynı sabah, kıyıdaki bir balıkçı dumanı gördü, tekneye binmedi. Karıs�
 
 Balıkçının torunu, yıllar sonra, aynı panoyu boyadı. "Rüzgâr," dedi. Rüzgâr değildi. Aynı elin gölgesiydi.
 
+Balıkçılar adaya çıktıklarında Morita'nın tüfeğini buldular, cesedi değil. Tüfeği denize attılar. Atmak, sormak değildi; uzaklaştırmaktı. Kapıdaki cümleyi kimse yüksek sesle okumadı. Okumak, çoğaltmaktı. Bir ihtiyar fısıldadı, sustu. Pano örtülü evler, o koyda, bir hafta daha sıkı çakıldı. "Rüzgâr," dediler. Rüzgâr değildi. Mühür kırılmıştı; alışkanlık henüz kırılmamıştı. Alışkanlık, bazen, kırık mühürden daha uzun yaşardı. Duman dağıldı. İz taşta. Üçüncü el, henüz gelmemişti.
+
+İhtiyar o gece denize bakmadı. Pano yerinde. Çivi. "Rüzgâr," dedi yastığa. Yastık duymadı. İyi.
+
+
+
 

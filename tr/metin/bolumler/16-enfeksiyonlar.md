@@ -38,4 +38,11 @@ En-Nakar bu yeni dünyayı hızla öğrendi. Burada fısıldamak için bir yüze
 
 Ve burada eski kural daha da acımasız işliyordu. Antik çağda onu öldürmek isteyen, onu beslerdi; çünkü öldürmek için önce onun gibi düşünmek gerekirdi. Modern çağda ise onu *ifşa etmek* onu besliyordu. Her uyarı paylaşımı, her "dikkat edin" başlığı, her öfkeli çürütme — hepsi onun adını biraz daha büyütüyordu. İnsanlar canavarı göstererek canavarı çağırdıklarını bilmiyordu. İşaret çoğaldıkça kapı genişliyordu. Ve hiçbir çağda, kapı bu kadar çok elin altında olmamıştı.
 
+
+
+1998'de, bir e-posta listesinde "derin_ses" rumuzuna benzer bir hesap belirdi. Yönetici, IRC gecesini hatırladı. Hesabı banladı. Logu okumadı. Okumak, deseni yeniden kurmaktı. Liste sakinleşti. Yönetici bir sabah kendi taslağındaki "onlar"ı sildi. Nefes. Bir, iki, üç. Küçük kapanış. Kimse bilmedi. En-Nakar başka bir sunucuda zaten oturuyordu. Yine de o silme, bir saniye gecikmeydi. Saniye, mühür tohumuydu.
+
+Yönetici kahvesini soğuk içti. Ekran mavi. Bot yok. Liste boş. Bir süre.
+
+
 1999'da Tokyo'da bir akademisyen eski bir sandıkla karşılaştığında, En-Nakar çoktan hazırdı.

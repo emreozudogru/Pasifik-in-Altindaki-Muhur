@@ -1,42 +1,42 @@
 # LOOP-STATE
-turn: 18
+turn: 19
 phase: 1
 phase_turns: 1
-next_chapters: [4, 5, 14, 16, 25]
-last_focus: "02 beş ağız dağılma; 03 mola taş; 13 harita boşluk; 21 otel/yolda; 24 çay evi kaçınma"
+next_chapters: [6, 7, 10, 18, 26]
+last_focus: "04 köy yok; 05 sandık tırnak; 14 tüfek/pano; 16 1998 ban; 25 kırmızı nokta"
 final_grounded: 4
 action_balance: 4
 prose_richness: 4
 length_ok: true
-words_before: 34851
-words_after: 35255
-delta: 404
+words_before: 35255
+words_after: 35661
+delta: 406
 target_delta: 400
 chapter_count: 27
 new_chapters: []
 dna_ok: true
-last_commit: "9cacbab"
+last_commit: "pending-t19"
 open_threads:
   - id: kesish-pencere-15yy
     planted: "13"
     status: closed
     payoff_target: "13/14/25/27"
-    hook: "13 öğretmen/çocuk peşin"
+    hook: "14/25 peşin"
   - id: warren-cevap-verme
     planted: "15"
     status: closed
     payoff_target: "15/18/20/21/23/24/25/26/27"
-    hook: "21/24 peşin"
+    hook: "25 peşin"
   - id: gemi-muhafiz-sus
     planted: "09"
     status: closed
     payoff_target: "05/06/07/08/09"
-    hook: "bag"
+    hook: "05 peşin"
   - id: kuroshima-yerli-pano
     planted: "10"
     status: closed
-    payoff_target: "10/12"
-    hook: "pano"
+    payoff_target: "10/12/14"
+    hook: "14 peşin"
   - id: arakawa-telefon-cevap
     planted: "17"
     status: closed
@@ -57,6 +57,11 @@ open_threads:
     status: closed
     payoff_target: "16"
     hook: "tuş"
+  - id: email-1998
+    planted: "16"
+    status: closed
+    payoff_target: "16"
+    hook: "ban; nefes sil"
   - id: tapinak-rahip-02
     planted: "02"
     status: closed
@@ -86,7 +91,7 @@ open_threads:
     planted: "24"
     status: closed
     payoff_target: "24"
-    hook: "24 kaçınma peşin"
+    hook: "kapi"
   - id: nagasaki-tercuman-18yy
     planted: "13"
     status: closed
@@ -96,7 +101,7 @@ open_threads:
     planted: "14"
     status: closed
     payoff_target: "14"
-    hook: "pano"
+    hook: "tüfek peşin"
   - id: bank-kagit-26
     planted: "26"
     status: closed
@@ -111,5 +116,5 @@ open_threads:
     planted: "13"
     status: closed
     payoff_target: "13"
-    hook: "Kuroshima yok; pencere"
-notes: "t18: 02/03/13/21/24. Delta 404. Em/en dash yeni yok. max 5."
+    hook: "harita"
+notes: "t19: 04/05/14/16/25. Delta 406. Em/en dash yeni yok. max 5."

@@ -145,3 +145,12 @@ Otel odasında perdeyi çekti. Telefon kapalı. Anne mesajı okunmamış: "İyiy
 
 Annesinin mesajı hâlâ okunmamıştı. Okumak, cevap istemek gibiydi. Bıraktı. Kırmızı nokta. Küçük bir panjur.
 
+Öğleye doğru hastaneyi aramadı. Aramak, kapıya koşmak olurdu. Voss'un sorusu kulağında: Kagoshima, sandık, soy. Ren deftere yazmadı. Yazmak, kaderi imzalamak gibiydi. Kahve soğuk. Perde kapalı. Ekranda iki iz, boşluk. Boşluğu kapatmaya çalışmadı. Kapatmak, bedeli peşin ödemek isterdi; henüz değildi. Annesi nefes alıyordu. İyi. Ve korkutucu. Ren kahraman olmadı. Sadece, kırmızı noktaya tıklamadı. Tıklamamak, o öğle, sekizinci mührün provaasıydı. Yarım saniye. Yeterli sandı. Yeterli değildi belki. Ama kapı, bir öğle daha, dar kaldı.
+
+Akşam anne mesajı hâlâ kırmızı. Ren sildi bildirimi, mesajı değil. Silmek, okumak değildi. Bıraktı. Uyudu, yarım.
+
+Perde kapalı. İki iz, boşluk. Boşluk durdu. Ren de.
+
+
+
+

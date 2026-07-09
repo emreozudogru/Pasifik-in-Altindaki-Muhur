@@ -98,6 +98,12 @@ Vadinin sırtında Eirene bir kez döndü. Geriye baktı. Mezar yoktu. İyi. Mez
 
 Lu Shen boş kâğıdı yırtmadı. Yırtmak da iz bırakırdı. Katladı, cebine koydu. Ağırlığı yoktu. Yine de taşıdı.
 
+Üçüncü günün gecesi sandık tırnak attı. Yardımcı balmumunu bastırdı. Eirene omzuna dokunmadı; dünkü el, dünkü ölüye aitti. Sadece baktı. Yardımcı sustu. Astronom "kardeşim" demedi yine. Demek, mezar açmak olurdu. Lu Shen boş kâğıdı yokladı, açmadı. Açmak, *yakalandı* yazmak isterdi. Yazmadı. Kervan uyudu, yarım. Sabah vadi geride, isimsiz. Sandık ağır. İçeride bir şey dinliyordu. Dışarıda kimse cevap vermedi. Küçük zafer. İsimsiz. Tutuyordu.
+
+Yardımcı sabah balmumunu yeniledi. Teşekkür yok. Teşekkür sesti. Yürüdüler.
+
+
+
 
 
 

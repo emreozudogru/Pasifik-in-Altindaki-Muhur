@@ -185,3 +185,11 @@ En yeni tur en altta.
 - open: harita-ogretmen-13 closed
 - DNA ok; tire yok; max 5
 - Sonraki: 04/05/14/16/25
+
+### Tur 19 — 2026-07-09
+- Plan: (1) 04/05 yol+sandık (2) 14 tüfek/pano bağ (3) 16 1998 ban; 25 kırmızı nokta
+- Dosyalar: 04, 05, 14, 16, 25 + TTS
+- words: 35255 -> 35661 (delta 406, target 400)
+- open: email-1998 closed
+- DNA ok; tire yok; max 5
+- Sonraki: 06/07/10/18/26
