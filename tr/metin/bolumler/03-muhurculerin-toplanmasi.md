@@ -26,5 +26,5 @@ Eirene, toplantılarda en az konuşan kişiydi. Ama en çok dinleyen oydu. Parma
 
 O kelime, yıllar sonra Kerem’in eline geçecekti. Ve Kerem, o kelimenin ne kadar ağır olduğunu anlayacaktı. Mühürcüler, En-Nakar’ı yok etmeye çalışırken kendi karanlıklarını da gördüler. Bir Mısırlı rahip, En-Nakar’ın parçalandığı gece kendi oğlunu kıskandığını fark etti. Bir Pers muhafızı, yangından sonra tapınağın hazinesini düşündüğünü itiraf etti. Hepsi, o şeyin onları “daha iyi” yapmadığını, sadece daha dürüst yaptığını anladı. Ve dürüst olmak, en tehlikeli şeydi. Çünkü dürüst bir insan, kendi karanlığını inkâr edemezdi.
 
-O gece dağıldıktan sonra Eirene çadırın dışında oturdu. Taş cebindeydi. Uzakta bir köpek uludu. Bir an, içinden bir ses adını fısıldadı. Cevap vermedi. Sadece taşı sıktı. Soğuktu. Sabah kervan yollara düşecekti. O, cevapsız bir geceyi geride bırakmıştı. Bu da bir mühürdu: küçük, isimsiz, ve kendi.
+O gece dağıldıktan sonra Eirene çadırın dışında oturdu. Taş cebindeydi. Uzakta bir köpek uludu. Bir an, içinden bir ses adını fısıldadı. Cevap vermedi. Sadece taşı sıktı. Soğuktu. Lu Shen uzaktan geçti, elinde kâğıt. Durmadı. Selam vermedi. Selam da sesti, o gece. Sabah kervan yollara düşecekti. Eirene cevapsız bir geceyi geride bırakmıştı. Bu da bir mühürdü: küçük, isimsiz, ve kendi. Yıllar sonra, başka bir kadın, başka bir koridorda, aynı seçimi yapacaktı.
 
