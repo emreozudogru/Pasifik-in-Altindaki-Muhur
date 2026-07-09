@@ -67,3 +67,9 @@ Ve Kerem'in bilgisayarında, silinmemiş bir taslak vardı. Konu satırı: "Eire
 Dosyanın boş olması Ren'i rahatsız etti. Kerem hiçbir şeyi yarım bırakmazdı. Bir şey bulmuştu, ve ya silmek zorunda kalmıştı, ya da bulduğu şey öyle bir şeydi ki yazmaya cesaret edememişti. Konu satırı duruyordu çünkü Kerem onu bir uyarı gibi bırakmıştı. *Karşılaştırma.* Eirene'nin iki bin yıllık parmak izini, Kerem neyle karşılaştırıyordu? İstanbul defterindeki izle mi? Yoksa daha yeni bir şeyle mi? Ren o gece soruyu fazla uzun düşünmedi. Düşünseydi, cevabın ne kadar yakın olduğunu o an anlardı. Ama bazı cevaplar, insan hazır olmadan gelmez.
 
 Daireden çıkmadan önce telefonu çaldı. Polis değil. Bilinmeyen. Ren baktı. Açmadı. Sesli mesaj bırakılmadı. Koridorda bir an durdu. Arakawa da açmamıştı. Warren da yazmıştı: Do not answer. Kerem'in videosu da demişti: Cevap verme. Ren kapıyı kilitledi. Merdivenden indi. Dışarıda yağmur. Taksi çağırdı, adını sürücüye söylemedi. "İstasyon," dedi. Yeterli. Yağmur camda çizgi çizdi. Ren silmedi. Bıraktı. Sürücü ayna üzerinden sordu: "Nereden geliyorsunuz?" Ren camdan dışarı baktı. "Uzaktan." Sürücü gülümsedi, sormadı. İyi bir sürücüydü. Ya da tesadüf.
+
+İstasyonda tren beklerken telefon yine titredi. Aynı bilinmeyen. Ren cebine koydu, açmadı. Peron spekeri bir anons yaptı, dil belirsiz. Ren dinlemedi. Dinlemek, cevap vermek gibiydi o gece. Trene bindi. Karşısındaki kadın ekrana bakıyordu, Ren bakmadı. İstasyon geçti. Yağmur camda. Kerem'in dairesi geride, pasaport çekmecede, taslak boş. Ren elini cebindeki kâğıda götürdü. Warren. *Do not answer.* Yeterli. İndi. Yürüdü. Adını kimse sormadı. Sormasalar iyiydi.
+
+Gece otelde anahtar kartı bozuldu. Resepsiyon sordu: "İsim?" Ren oda numarasını söyledi. Yeterli. İsim, kartta zaten vardı; söylemek, çoğaltmaktı. Kart yenilendi. Ren teşekkür etmedi. Teşekkür de sesti, o gece.
+
+

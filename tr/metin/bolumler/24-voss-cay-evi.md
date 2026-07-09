@@ -53,3 +53,9 @@ Telefon titredi. Mesaj: *Düşündün mü?* Gönderen yok. Ren ekrana baktı. Pa
 Eve döndüğünde kaydı dinlediğinde sadece kendi nefesini duydu. Çay evinin sessizliğini, fincanın masaya konuşunu, kapının kapanışını. Ve kendi nefesini, gittikçe hızlanan, sonra yavaşlayan, sonra bir yerde, iki nefes arasında, bir saniyenin yarısında, duraksayan nefesini. Voss'un sesi yoktu. Silinen mesaj da yoktu. İyi.
 
 Gece, perdeyi aralamadı. Sokak lambası çizgi çizgi duvarda. Ren defterini açtı, *Do not answer* satırının yanına bir tarih yazdı. Çay evi gecesi. Sonra defteri kapattı. Uyudu. Rüyasında Voss yoktu. Sadece nefes, bir, iki, on. Sabah çay demledi. İçmedi. Soğudu. Yine de demlemek, bir tür düzen tutmaktı.
+
+Öğleye doğru kapı çalındı. Bir kez. Ren baktı. Gözetleme deliği boş. "Kim o?" demedi. Demek, Voss'un masasına oturmak olurdu. Koridor sustu. Kart yok. Çiçek yok. Belki rüzgâr. Belki deneme. Ren perdeyi çekti. Beton. Defteri açmadı. *Do not answer* zaten yazılıydı. Tarih yetmişti. O öğle yemek yemedi. Açlık, somuttu. Somut, iyi. Voss kazanmadı. Ren de. Sadece, kapıyı açmakta bir saniye gecikti. Yarım saniye. Sekizinci mührün tohumu, bazen, bu kadar küçüktü.
+
+Akşam yine çay demledi. İçmedi. Soğudu. Telefon kapalı. Mesaj yok. Voss'un fincanı, zihninde, hâlâ dolu. Ren yıkamadı o hayali. Yıkamak da bir tür cevap olurdu.
+
+

@@ -95,3 +95,9 @@ Gemi kıyıya yaklaştı.
 Sis yeniden kapandı.
 
 Ve aşağıda, sandığın içinde, iki bin yıl sürecek bir bekleme sessizce başladı.
+
+İlk gece karada, muhafız panolu kulübenin önünde nöbet tuttu. Balmumu hâlâ kulağında. İçeriden ses gelmedi. Dışarıdan rüzgâr. Genç yerli, uzaktan, bir lamba getirdi, bıraktı, gitti. Konuşmadı. Muhafız teşekkür etmedi. Teşekkür sesti. Eirene çadırda taşını tuttu. Ada toprağı, ayakkabısında. Yabancı. Yine de tanıdık: pencereler kapalı, ağızlar kapalı, isim yok. Sabah sis. Sandık tırnak atmadı. Bekleme, o sabah, başlamıştı bile.
+
+Mısırlı astronom kayalara tırmandı, geri indi. "Ada küçük," dedi. Eirene başını salladı. Küçük, iyiydi. Büyük yerler, daha çok isim isterdi.
+
+

@@ -1,37 +1,37 @@
 # LOOP-STATE
-turn: 11
+turn: 12
 phase: 1
 phase_turns: 1
-next_chapters: [8, 9, 17, 21, 24]
-last_focus: "01 tulum/kervan; 07 genç nöbet; 11 usta kurşun; 19 Kerem/Ana tıklama; 20 metro/çekmece"
+next_chapters: [2, 3, 13, 16, 23]
+last_focus: "08 huzur yasağı; 09 kara nöbet; 17 sandık/soru yok; 21 tren/otel isim; 24 kapı çalma"
 final_grounded: 4
 action_balance: 4
 prose_richness: 4
 length_ok: true
-words_before: 31920
-words_after: 32385
-delta: 465
+words_before: 32385
+words_after: 32821
+delta: 436
 target_delta: 400
 chapter_count: 27
 new_chapters: []
 dna_ok: true
-last_commit: "e667aea"
+last_commit: "pending-t12"
 open_threads:
   - id: kesish-pencere-15yy
     planted: "13"
     status: dancing
     payoff_target: "14/17/22/25/27"
-    hook: "pencere zinciri"
+    hook: "17 perde peşin"
   - id: warren-cevap-verme
     planted: "15"
     status: closed
-    payoff_target: "15/18/20/25/26/27"
-    hook: "20 cekmece peşin"
+    payoff_target: "15/18/20/21/24/25/26/27"
+    hook: "21 kâğıt peşin"
   - id: gemi-muhafiz-sus
     planted: "09"
-    status: dancing
-    payoff_target: "05/06/07/08/09/11/23"
-    hook: "07 genç nöbet dans; erken mühür"
+    status: closed
+    payoff_target: "05/06/07/08/09"
+    hook: "08/09 kara nöbet bag; huzur yasak"
   - id: kuroshima-yerli-pano
     planted: "10"
     status: closed
@@ -40,8 +40,8 @@ open_threads:
   - id: arakawa-telefon-cevap
     planted: "17"
     status: closed
-    payoff_target: "20/21/24"
-    hook: "20 acilmadi peşin"
+    payoff_target: "17/20/21/24"
+    hook: "17 sandık+email sil peşin"
   - id: irc-nefes-sil
     planted: "16"
     status: closed
@@ -76,5 +76,10 @@ open_threads:
     planted: "19"
     status: closed
     payoff_target: "19"
-    hook: "Kuroshima baslik; Ana; Kerem arama"
-notes: "t11: 01/07/11/19/20. Delta 465. Em/en dash yeni yok. max 5."
+    hook: "forum"
+  - id: cay-evi-kapi-24
+    planted: "24"
+    status: closed
+    payoff_target: "24"
+    hook: "kapı çalma; Kim o demedi"
+notes: "t12: 08/09/17/21/24. gemi-muhafiz CLOSED. Delta 436. Em/en dash yeni yok. max 5."

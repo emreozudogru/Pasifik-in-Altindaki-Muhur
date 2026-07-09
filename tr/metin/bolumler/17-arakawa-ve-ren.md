@@ -32,4 +32,10 @@ Aynı hafta, Arakawa'nın dairesinde, denize bakan pencere perdesi hep kapalıyd
 
 Ertesi akşam Ren, ofiste, Arakawa'nın masasına bir soru notu bırakmıştı: "Sandıkta parmak izi var. Kimin?" Arakawa notu okudu, cevap yazmadı. Notu çekmecesine koydu. Ren bir hafta bekledi. Soru boşa düştü. Ren sormayı bıraktı. Yıllar sonra, hastane koridorunda, o susuşun aynı aileden geldiğini anlayacaktı.
 
+O hafta Arakawa bir gece sandığı açtı, kapattı. Parmak izine bakmadı uzun. Bakmak, sormak olurdu. Sormak, cevap isterdi. Cevap, o dairede, henüz erken geldi. Perde kapalı kaldı. Komşu bir daha sormadı. İyi. Arakawa deftere yazdı: *Ren sormasın. Ben de cevap vermeyeyim.* Üstünü çizmedi bu kez. Çizmek, silmek, bazen iz bırakırdı. Sabah ofiste Ren'e baktı, selam vermedi. Selam da sesti, o sabah. Ren anladı, ya da anlamadı. Sormadı.
+
+Aynı gün Arakawa e-posta taslağı açtı: "Ren, sandığı..." Sildi. Konu satırı boş kaldı. Boş, bazen, en temiz uyarıydı.
+
+
+
 2006’da özel bir tekneyle adaya gizlice gitmeyi planladı. Gitmeden iki gün önce evinde ölü bulundu. Resmî kayıtlara göre kalp krizi. Kalbinde bir sorun olduğuna dair hiçbir geçmiş kayıt yoktu, ama yaş, yorgunluk ve yalnızlık her şeyi açıklayabilirdi; kimse fazla sormadı. Ama öğrencisi Sato Ren, hocasının ölümünden önce ona gönderdiği son e-postayı sakladı. Saat gecenin üçünü geçiyordu; gönderildikten birkaç saat sonra hesabın taslakları boşaltılmış, sandık ise dairesinde bulunamamıştı. E-postada tek cümle vardı: “O şey ölmedi; sadece modern olmayı öğrendi.”

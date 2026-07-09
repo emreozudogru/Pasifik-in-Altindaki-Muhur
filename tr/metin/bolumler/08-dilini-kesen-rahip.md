@@ -70,4 +70,10 @@ O öğleden sonra, kervan mola verdiğinde, genç bir muhafız (balmumu hâlâ k
 
 O gölge, sonraki gece, başka bir nöbetçinin rüyasına girdi. Rüyada rahip gülümsüyordu, dilsiz, ve eliyle "gel" diyordu. Nöbetçi uyandı, sandığa doğru üç adım attı. Sonra durdu. Eirene'nin balmumunu hatırladı. Geri döndü. Rüyayı anlatmadı. Anlatmak, rüyayı büyütürdü.
 
+Şafakta Eirene o nöbetçinin yanına oturdu. Su uzattı. İçti. "Rahip," demedi. İsim yok. Sadece baktı. Nöbetçi balmumunu sıkı tuttu. O gün kervan yürürken, Anadolu'lu usta sandığın iplerini iki kez kontrol etti. Elleri kan. Kimse sormadı. İyi. Rahibin gölgesi öğlene kadar inceldi. Akşama kalmadı. Ya da kaldı, isimsiz. Fark etmedi. Yola devam. Deniz tuz getirdi. Kimse dilini kesmedi. Kimse de "huzur" demedi. O kelime, o günden sonra, kervanda yasaktı.
+
+Lu Shen "huzur"u kâğıda yazmayı düşündü, yasaklar listesine. Yazmadı. Liste de isim gibi işlerdi. Boş kâğıt, o öğle, yeterdi.
+
+
+
 

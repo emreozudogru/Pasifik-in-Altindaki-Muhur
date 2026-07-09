@@ -129,3 +129,11 @@ En yeni tur en altta.
 - open: gemi/kesish dancing; forum-tiklama-19 closed
 - DNA ok; tire yok; max 5
 - Sonraki: 08/09/17/21/24
+
+### Tur 12 — 2026-07-09
+- Plan: (1) 08/09 muhafız-huzur/kara nöbet bağ (2) 17 Arakawa sandık/soru yok (3) 21/24 modern isim-cevap kapalı
+- Dosyalar: 08, 09, 17, 21, 24 + TTS
+- words: 32385 -> 32821 (delta 436, target 400)
+- open: gemi-muhafiz closed; cay-evi-kapi-24 closed; kesish dancing
+- DNA ok; tire yok; max 5
+- Sonraki: 02/03/13/16/23
