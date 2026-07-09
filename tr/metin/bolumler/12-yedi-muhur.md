@@ -128,7 +128,7 @@ Sessizlik kırılmadı.
 
 Mühür tuttu.
 
-Sessizlik bozulmadan önce, tünelin ağzında duran yerli genç (pano çakan) ellerini kulaklarına götürdü. İçeride bir şey nefes alıyordu. Genç ağız açmadı. Eirene ona baktı, başını salladı. Genç kıyıya indi, kulübenin panosunu bir kez daha yokladı. Çivi yerindeydi. O gece de konuşmadı. Mühür, taşta ve tahtada birden işliyordu.
+Sessizlik bozulmadan önce, tünelin ağzında duran yerli genç (pano çakan) ellerini kulaklarına götürdü. İçeride bir şey nefes alıyordu. Genç ağız açmadı. Eirene ona baktı, başını salladı. Genç kıyıya indi, kulübenin panosunu bir kez daha yokladı. Çivi yerindeydi. O gece de konuşmadı. Karısına da demedi. Mühür, taşta ve tahtada birden işliyordu. Sabah balık kokusu, tünelden daha ağır geldi.
 
 ---
 
