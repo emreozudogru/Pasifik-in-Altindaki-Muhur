@@ -201,3 +201,11 @@ En yeni tur en altta.
 - open: peşin closed
 - DNA ok; tire yok; max 5
 - Sonraki: 08/09/11/15/23
+
+### Tur 21 — 2026-07-09
+- Plan: (1) 08/09 rahip+kara (2) 11 öğle sus (3) 15 Warren gemi; 23 Ren daire yok
+- Dosyalar: 08, 09, 11, 15, 23 + TTS
+- words: 36073 -> 36475 (delta 402, target 400)
+- open: peşin closed
+- DNA ok; tire yok; max 5
+- Sonraki: 01/12/17/19/27

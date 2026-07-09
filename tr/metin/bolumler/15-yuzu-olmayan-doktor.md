@@ -78,4 +78,7 @@ Warren, o 1946 kapısından çıkmadan önce, bir kez daha koğuşa baktı. Boş
 
 Gemi düdük çaldı. Warren bindi. Adını deftere yazdırırken elini titretti, yazdı, gitti. Yazmak zorunluydu. Cevap değildi.
 
+Gemi açık denize çıkınca Warren küpeşteye dayandı. Gri yoktu. Yine de el cebinde kâğıttaydı. Bir yolcu "Nagasaki'den misiniz?" diye sordu. Warren başını salladı, evet, sustu. Sormadı geri. Sormak, anlatmak isterdi. Anlatmak, sofra kurmaktı. Kamara yatağında kâğıdı çıkardı, okudu, koydu. *Pain is the common language of man.* Alt satır yoktu henüz. Torunu, bir gün, *Do not answer* ekleyecekti; ya da Warren, bir gece, soluk. O 1946 gecesinde Warren sadece baktı. Cevap vermedi. Dünya, her iskelede, aynı sofrayı kuruyordu. Warren bilmiyordu. Çekmece, Ohio'da, henüz yoktu. Yine de el, kapanmayı biliyordu.
+
+
 

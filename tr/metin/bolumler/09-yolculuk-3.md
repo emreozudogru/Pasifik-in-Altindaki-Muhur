@@ -104,6 +104,9 @@ Mısırlı astronom kayalara tırmandı, geri indi. "Ada küçük," dedi. Eirene
 
 Pers rahibi ateş yakmadı. "Ada ateş istemez," dedi kimseye. Kimse sormadı. Tuz, dilde. Yeterli.
 
+Üçüncü sabah karada Eirene sandığın yanına oturdu. Açmadı. Açmak, isim istemekti. Muhafız balmumu tazeledi. Yerli genç balık getirdi, bıraktı, gitti. Teşekkür yok. Teşekkür sesti. Lu Shen boş satıra baktı, *ada* yazmadı. Usta kayalarda taş aradı, tünel için. Konuşmadı. Astronom "küçük" dedi bir kez daha, sustu. Sis kalktı, kısa. Ada göründü, kara, sıradan. İçeride bekleme. Dışarıda pano. İkisi de işliyordu. Eirene taşını sıktı. Yarın mühürler. Bugün, ağızlar kapalı. Yeterli.
+
+
 
 
 

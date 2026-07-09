@@ -1,21 +1,21 @@
 # LOOP-STATE
-turn: 20
+turn: 21
 phase: 1
 phase_turns: 1
-next_chapters: [8, 9, 11, 15, 23]
-last_focus: "06 geçit; 07 fırtına; 10 şafak pano; 18 Arşiv sus; 26 kütüphane kâğıt"
+next_chapters: [1, 12, 17, 19, 27]
+last_focus: "08 rahip gölgesi; 09 üçüncü sabah; 11 öğle sus; 15 Warren gemi; 23 daire yok"
 final_grounded: 4
 action_balance: 4
 prose_richness: 4
 length_ok: true
-words_before: 35661
-words_after: 36073
-delta: 412
+words_before: 36073
+words_after: 36475
+delta: 402
 target_delta: 400
 chapter_count: 27
 new_chapters: []
 dna_ok: true
-last_commit: "2d8eb8c"
+last_commit: "pending-t21"
 open_threads:
   - id: kesish-pencere-15yy
     planted: "13"
@@ -26,17 +26,17 @@ open_threads:
     planted: "15"
     status: closed
     payoff_target: "15/18/20/21/23/24/25/26/27"
-    hook: "26 peşin"
+    hook: "15 gemi peşin"
   - id: gemi-muhafiz-sus
     planted: "09"
     status: closed
     payoff_target: "05/06/07/08/09"
-    hook: "06/07 peşin"
+    hook: "08/09 peşin"
   - id: kuroshima-yerli-pano
     planted: "10"
     status: closed
-    payoff_target: "10/12"
-    hook: "10 peşin"
+    payoff_target: "09/10/11/12"
+    hook: "09/11 peşin"
   - id: arakawa-telefon-cevap
     planted: "17"
     status: closed
@@ -81,7 +81,7 @@ open_threads:
     planted: "18"
     status: closed
     payoff_target: "18"
-    hook: "18 peşin"
+    hook: "isim sil"
   - id: forum-tiklama-19
     planted: "19"
     status: closed
@@ -106,7 +106,7 @@ open_threads:
     planted: "26"
     status: closed
     payoff_target: "26"
-    hook: "kütüphane peşin"
+    hook: "kâğıt"
   - id: marta-mektup-22
     planted: "22"
     status: closed
@@ -117,4 +117,4 @@ open_threads:
     status: closed
     payoff_target: "13"
     hook: "harita"
-notes: "t20: 06/07/10/18/26. Delta 412. Em/en dash yeni yok. max 5."
+notes: "t21: 08/09/11/15/23. Delta 402. Em/en dash yeni yok. max 5."

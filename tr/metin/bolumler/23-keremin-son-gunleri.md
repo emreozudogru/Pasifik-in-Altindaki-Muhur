@@ -74,4 +74,10 @@ Ren o cümleyi defterine yazdı, sildi. Yazmak, kanıt biriktirmekti. Kanıt, ba
 
 Sabah Ana yazdı: "Kerem'ten haber?" Ren: "Yok." Yalan değildi. Video haber değildi; veda idi. Ana "tamam" dedi. Konu kapandı. Ren kahve demledi. İçmedi. Soğudu. Düzen, o sabah, bu kadardı.
 
+Öğleye doğru Ren Kerem'in dairesine girmedi. Girmek, pasaportu yeniden görmek olurdu. Pasaport, evde, gülümseme. Video, bir kez dinlenmiş, yeter. Ana "polis?" yazdı. Ren: "Yok." Yalan değildi. Polis, tutarlı hikâyeyi severdi; Ren sevmiyordu. Marta yazmadı. Daniel yazmadı. Grup seyreldi. Ren deftere *Bakü* yazmadı. Yazmak, yalanı çoğaltmaktı. Pencere kapalı. İstanbul tuz getirdi, uzak. Kerem'in son cümlesi: kahraman olma. Ren olmadı. Sadece, ikinci kez basmadı. Cevap vermemek, o öğle, bu kadardı. Kahve soğuk. Düzen, soğukta da işliyordu.
+
+Telefon kapalı. Mesaj yok. İyi.
+
+
+
 

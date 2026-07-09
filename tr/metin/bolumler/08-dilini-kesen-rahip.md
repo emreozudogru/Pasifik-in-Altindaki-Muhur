@@ -78,6 +78,12 @@ Akşam, kervan suskun yürürken, bir kürekçi "huzur" demeye yeltendi, yuttu. 
 
 Usta ipleri üçüncü kez yokladı. Gerek yoktu. Eller, gerek duymadan biliyordu.
 
+O gece kervan sessiz uyudu. Rahibin kayalığa gidişi, omuzlarda incelmiş bir gölgeydi; isimsiz. Nöbetçi balmumunu bastırdı, sandığa bakmadı. Bakmak, "gel" rüyasını çağırmak olurdu. Eirene su tulumunu doldurdu, konuşmadı. Lu Shen "huzur"u kâğıda yazmadı yine. Liste yok. Sabah denize daha yakındılar. Tuz, dilde. Bir kürekçi mırıldandı, yuttu. Yutmak, mühürdü. Kimse dilini kesmedi. Kimse de mutlu olmadığını ilan etmedi. İlan, kapı. Sustular. Yola devam. Rahibin sorusu, iki bin yıl sonra bir çay evinde yeniden sorulacaktı; o sabah henüz sorulmuyordu. Sadece taş, cebinde, soğuk.
+
+Yola devam. İpler yerinde. İsim yok. Yeterli.
+
+
+
 
 
 

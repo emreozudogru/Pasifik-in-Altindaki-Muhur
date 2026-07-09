@@ -124,6 +124,9 @@ Eirene kıyıya indi, taşını eşiğe götürmedi. Erken. Yarın. Taş cebinde
 
 Astronom sisin içinde bir an durdu. "Yarın," dedi. Eirene başını salladı. Yarın, kapıya aitti. Bugün, sessizliğe.
 
+Öğleye doğru ateş sönük kaldı. Pers rahibi çubuk uzatmadı. Lu Shen kâğıdı açtı, yedinci satır: *kan.* Kalemi indirdi. Eirene taşını masaya koymadı. Koymak, yarını öne çekmek olurdu. Usta kurşunu eşiğe bırakmıştı, erken; hâlâ oradaydı. Yerli genç tünel ağzına gelmedi. Gelmemek, cevap vermemekti. Mısırlı astronom sisin içinde kayboldu, kısa, döndü. "Yarın," tekrarlamadı. Tekrar, isim gibi işlerdi. Ada tuz getirdi. Beş gölge, isimsiz, kapıdan bir gece uzakta. Yalan ile bedel, yan yana, henüz taşa basılmamış. Susmak, o öğle, en uzun oydı.
+
+
 
 
 
