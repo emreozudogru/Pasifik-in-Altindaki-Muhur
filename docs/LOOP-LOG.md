@@ -145,3 +145,11 @@ En yeni tur en altta.
 - open: kesish dancing; cernobil-1986 + nagasaki-tercuman closed
 - DNA ok; tire yok; max 5
 - Sonraki: 04/05/14/25/27
+
+### Tur 14 — 2026-07-09
+- Plan: (1) 04/05 yola+vadi (2) 14 balıkçı pano bağ (3) 25 anne/perde; 27 karanlık bedel yankı
+- Dosyalar: 04, 05, 14, 25, 27 + TTS
+- words: 33227 -> 33637 (delta 410, target 400)
+- open: kesish-pencere closed (14/25/27 bag); balıkci-1945 closed
+- DNA ok (karanlık bedel peşin); tire yok; max 5
+- Sonraki: 06/10/12/18/26

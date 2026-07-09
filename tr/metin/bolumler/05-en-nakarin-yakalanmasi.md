@@ -94,4 +94,10 @@ Gömmeden önce Eirene kardeşin gözkapaklarını kapattı. Astronom sordu: "Ad
 
 O öğle, vadinin çıkışında, Lu Shen yere oturdu. Kâğıda bir satır yazdı, sildi: *yakalandı.* Yerine *taşındı* yazdı. Sonra onu da sildi. Boş kâğıt, o gün, en dürüst kayıttı. Eirene yanından geçti, durmadı. Selam yok. İkisi de biliyordu: konuşmak, sandığı beslerdi. Yürüdüler.
 
+Vadinin sırtında Eirene bir kez döndü. Geriye baktı. Mezar yoktu. İyi. Mezar, isim isterdi. Astronom yanında yürüyordu, gözleri kuru. "Kardeşim," demedi. Demek, geri çağırmak olurdu. Yardımcı balmumunu sıkı tuttu. Sandık omuzlarda, ağır. İçeriden tıkırtı. Kimse cevap vermedi. Tıkırtı kesildi. Ya da dinledi. Fark etmedi. Kervan tozda kayboldu. Vadi, arkada, isimsiz kaldı.
+
+Lu Shen boş kâğıdı yırtmadı. Yırtmak da iz bırakırdı. Katladı, cebine koydu. Ağırlığı yoktu. Yine de taşıdı.
+
+
+
 

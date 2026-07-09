@@ -72,4 +72,10 @@ Yola çıkmadan önceki son saatte, Mısırlı astronom bir çocuğun elini tutt
 
 Pers rahibi, kervanın ortasında, ateş çubuğunu yere bıraktı. "Burada ateş yok," dedi kimseye. Lu Shen duydu, yazmadı. Hintli matematikçi denklem taşını cebine koydu, sonra çıkardı, yere bıraktı. Taş yol kenarında kaldı. Bir çoban buldu, anlamadı, duvar ördü. Denklem kayboldu. Fikir kaldı: besleme. Kervan ilerledi. Eirene en önde değildi. En arkada da. Ortada, taş cebinde, isimsiz.
 
+İlk günün akşamı mola yerinde kimse ateş yakmadı. Pers rahibi çubuğu yere bırakmıştı; kimse kaldırmadı. Soğuk geldi. İyi. Sıcak, sohbet isterdi. Sohbet, isim. Lu Shen kâğıdı açtı, kapattı. Boş. Astronom kardeşine mektup yazmadı. Yazmak, dönme sözü gibiydi. Eirene su dağıttı, konuşmadı. Usta ellerini yıkadı, kan gitti, toz kaldı. O gece sandık yoktu henüz. Yine de herkes sandığı düşünüyordu. Düşünmek serbestti. Söylemek değil. Sabah kalktılar. Toz. Yola devam.
+
+Çocuk, kervansarayda, ekmeği yedi. Astronomun adını bilmedi. Bilmemek, o sabah, bir lütuftu.
+
+
+
 

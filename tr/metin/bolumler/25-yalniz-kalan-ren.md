@@ -140,3 +140,8 @@ Kerem'in "karşılaştırma dosyası"nın neden boş olduğunu şimdi anlıyordu
 Ren henüz değildi. Bunu, izlerin arasındaki o ince boşluktan anladı. Henüz tam ödememişti. Annesi hâlâ nefes alıyordu. Demek bedel henüz tamamlanmamıştı.
 
 Bu düşünce onu korkuttu. Çünkü ne anlama geldiğini biliyordu.
+
+Otel odasında perdeyi çekti. Telefon kapalı. Anne mesajı okunmamış: "İyiyim. Merak etme." Ren cevap yazmadı. Yazmak, o gece, bedeli ertelemek gibi geldi. Ya da hızlandırmak. Bilmedi. Deftere baktı. *Cevap verme.* Warren. Kerem. Arakawa. Aynı satır, farklı el. Ren ışığı kapattı. Uyumadı. Parmak izi ekranda yanık kaldı, iki boşluk. Boşluk, henüz ödenmemiş bir soruydu. Sabah kahve demledi. İçmedi. Soğudu. Düzen, bu kadardı. Kahraman olmadı. Sadece, kapıyı bir gün daha aralamadı.
+
+Annesinin mesajı hâlâ okunmamıştı. Okumak, cevap istemek gibiydi. Bıraktı. Kırmızı nokta. Küçük bir panjur.
+

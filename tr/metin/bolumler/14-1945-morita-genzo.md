@@ -138,3 +138,9 @@ Anlamı şuydu:
 Kapının yanındaki taşta, beş parmak izi hâlâ duruyordu. Ama bu kez, onu görenler oldu. Parmak izinin hemen altında, yeni bir iz daha vardı. Daha derin. Daha acele. Morita'nın parmak izi. Sanki düşerken taşa tutunmuştu. Beş parmak, kayanın içine bastırılmış; tırnaklar taşı tırmalamış, ama taş vermemiş. Son anında bir şeye tutunmak istemişti — kapıya değil, taşa; karanlığa değil, dünyaya.
 
 İki iz, iki bin yıl arayla, aynı taşa basılmıştı. İlkini, korkunun tedavi edilemeyeceğini bilen bir kadın bırakmıştı — bir soru gibi. İkincisini, o sorunun cevabını hiç duymamış, onun torununun torununun torunu bırakmıştı — bir çığlık gibi. İki el birbirine o kadar benziyordu ki, sonradan onları inceleyen kimse ikisinin aynı soydan olabileceğini düşündü. Kimse bunu kanıtlayamadı. Ama bir gün, çok sonra, biri aynı izi üçüncü kez arayacaktı.
+
+Aynı sabah, kıyıdaki bir balıkçı dumanı gördü, tekneye binmedi. Karısı sordu: "Neden?" Balıkçı omuz silkti. "Rüzgâr." Yalan değildi. Tam da değildi. Evde denize bakan pano örtülüydü. Hideko'nun komşusu, yıllar önce, aynı panoyu çakmıştı. Balıkçı panoyu yokladı. Çiviler yerinde. O gün denize açılmadı. Ertesi gün de. Üçüncü gün açıldı, ama adaya yaklaşmadı. Kural yoktu artık; dede ölmüştü, Morita yoktu. Yine de el, dümeni kıyıya çevirdi. Bakmamak. Cevap vermemek. Küçük, isimsiz, tutan bir seçim. Duman dağıldı. İz taşta kaldı.
+
+Balıkçının torunu, yıllar sonra, aynı panoyu boyadı. "Rüzgâr," dedi. Rüzgâr değildi. Aynı elin gölgesiydi.
+
+
