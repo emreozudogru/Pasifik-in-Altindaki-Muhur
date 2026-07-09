@@ -98,7 +98,7 @@ Bu taşı kimseye göstermeyecekti. Bu taşı bir silah gibi kullanmayacaktı. S
 
 Taşı cebine koydu.
 
-O gece, köyün dışında, kuru nehir yatağında oturdu. İçinden bir ses, kılıç taşıyıcısının sesine benzer, adını fısıldadı. "Gel. Anlat. Adını koy." Eirene ağzını açmadı. Taşı sıktı. Soğuk, net. Rüzgâr yoktu. Yine de saçları kımıldadı. Ses ısrar etti: "Söyle. Kurtulursun." Eirene bilirdi: söylemek kurtuluş değildi. Söylemek, kapıydı. Sabaha kadar orada kaldı. Konuşmadı. Gözyaşı da dökmedi; o gece gözyaşı bile fazla gürültü gibi geldi. İlk mühür, belki de buydu: cevap vermemek. Henüz isim yoktu. Yine de kapı aralanmadı.
+O gece, köyün dışında, kuru nehir yatağında oturdu. İçinden bir ses, kılıç taşıyıcısının sesine benzer, adını fısıldadı. "Gel. Anlat. Adını koy." Eirene ağzını açmadı. Taşı sıktı. Soğuk, net. Rüzgâr yoktu. Yine de saçları kımıldadı. Ses ısrar etti: "Söyle. Kurtulursun." Eirene bilirdi: söylemek kurtuluş değildi. Söylemek, kapıydı. Sabaha kadar orada kaldı. Konuşmadı. Gözyaşı da dökmedi; o gece gözyaşı bile fazla gürültü gibi geldi. İlk mühür, belki de buydu: cevap vermemek. Henüz isim yoktu. Yine de kapı aralanmadı. Şafak griydi. Eirene ayağa kalktı, taş cebinde, köye dönmedi. Yola, başka bir yöne gitti.
 
 İki bin yıl sürecek bir planın ilk hamlesiydi bu. Ama Eirene bunu bir plan olarak görmedi. Sadece bir başlangıç olarak gördü. Ve başlangıçların en tehlikeli yanı, ne kadar küçük göründükleridir.
 
